@@ -2,10 +2,9 @@
 
 ![image](https://i.imgur.com/YkpXfRH.png)
 
-I was motiviated to to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a course to freshmen, I realized that a lot of questions are being asked every year.
+I was motiviated to to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a summer course to freshmen, I realized that a lot of questions are being repeatedly asked every year; it dawned on me that it would be really nice if answers to all such questions and more information about the computer engineering department at Cairo university are all available in one site.
 
-> Beware, this effort is entirely controlled by us students. No professors are involved and this is not official in any sense.
-
+You can check the documentation at [https://cmp-docs.netlify.app](https://cmp-docs.netlify.app)
 
 **Thereby, the following are the motivations of this website:**
 
@@ -17,6 +16,8 @@ whether or not to choose computer engineering
 ✦ Realize the fact, that we are all one family; and that we are all ready to help one another no matter how far we are from each other.
 
 ## 🚆 Navigating the Website
+
+> Beware, this effort is entirely controlled by us students. No professors are involved and this is not official in any sense.
 
 It should be self-evident from the side bar; however, here is a small guide:
 
@@ -65,4 +66,4 @@ Once you're done. Simply submit a PR; it would be nice if you start proposing th
 - Lists are not rendered properly in markdown. So far, manual bullets have been used.
 - Likewise, Latex is not supported in markdown.
 
-## Thank you 💗
+<h1 align="center"> Thank you 💗 </h1>

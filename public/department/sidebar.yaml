@@ -36,6 +36,14 @@ sections:
             label_ar: اختيار لابتوب
             icon: MdLaptop
             link: "General/Recently/Laptop.md"
+          - label: Self Learning Resources
+            label_ar: مصادر للتعلم الذاتي
+            icon: MdExtension
+            link: "General/Recently/Learn.md"
+          - label: Represenative & Teams
+            label_ar: المندوب والتيمز
+            icon: MdGroup
+            link: "General/Recently/Representative.md"
           - label: Communication Channels
             label_ar: وسائل الاتصال
             icon: MdMapsUgc
@@ -44,10 +52,6 @@ sections:
             label_ar: الدرايف
             icon: MdAddToDrive
             link: "General/Recently/GDrive.md"
-          - label: Represenative & Teams
-            label_ar: المندوب والتيمز
-            icon: MdGroup
-            link: "General/Recently/Representative.md"
       - label: Courses & Past Material
         label_ar: الكورسات و ماتيريالز سابقة
         icon: MdMenuBook

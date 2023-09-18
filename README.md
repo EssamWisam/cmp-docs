@@ -1,8 +1,10 @@
 # 🧁 CMP Docs
 
-![image](https://i.imgur.com/f0Jqvs1.jpg)
+![image](https://i.imgur.com/YkpXfRH.png)
 
-As computer engineering students at Cairo University we thought it would be valuable to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! 
+I was motiviated to to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a course to freshmen, I realized that a lot of questions are being asked every year.
+
+> Beware, this effort is entirely controlled by us students. No professors are involved and this is not official in any sense.
 
 
 **Thereby, the following are the motivations of this website:**
@@ -26,19 +28,41 @@ It should be self-evident from the side bar; however, here is a small guide:
 
 **Important Note I**: The website is build to be updated continually; thus, checking it frequently for updates or changes is key.
 
-**Important Note II**: The website is built with Arabic in mind. However, with this being initially written in English it may take some time until the Arabic versions of all pages are available. Collaboration here would be really helpful.
+**Important Note II**: The website is built with Arabic in mind. However, with this being initially written in English it may take some time until the Arabic versions of all pages are available. Collaboration here would be really helpful here.
 
 
 ## 🪂 We are all Contributors!
 
 Despite being initiated by one student, the represenative of the senior class, Essam W. The website is built with collaboration in mind. In particular, as a student part of the department, you are welcome to change any part of the content found within the website with zero web development coding prerequisites. 
 
-✦ Modifying any existing page takes only modifying its corresponding markdown or json file. The page is represented by json only if contains a grid; otherwise, it's markdown. This all gets transpiled to html and css under the hood.
+✦ Modifying any existing page takes only modifying its corresponding markdown or json file. A page in the documentation is represented by json (which supports markdown in strings) only if contains a grid; otherwise, it's pure markdown. This all gets transpiled to html and css under the hood.
 
 ✦ You can even modify the sidebar to include more sections and pages and guess what! The side bar is a single yaml file.
 
-**Hint I:** it takes approximately 2, 3 minutes to learn the structure of each of json and yaml respectively and another 5 minutes for markdown. These are textual formats any experienced developer is used to. 
+**Hint I:** it takes approximately 2, 3 minutes to learn the structure of each of json and yaml respectively and another 5 minutes for markdown. These are textual formats any experienced developer should be used to. 
 
 **Hint II:** All files correpsonding to the website can be found inside "public/department". They follow the same hierarchy as the sidebar.
 
+To run for the first time, install `Node.js` then type at the terminal
+```
+npm install
+```
+Now you can test any changes you perform by running
+```
+npm start
+```
+
 Once you're done. Simply submit a PR; it would be nice if you start proposing the PR as an issue if it's a big change.
+
+#### Collaboration Notes
+
+- Only write facts that you certainly sure of; otherwise, discuss in an issue first and demonstrate uncertianty in the text. Including sources or references or examples or natural deductions is required.
+
+- Using gifs or emojis is highly recommended.
+
+#### Known Issues
+
+- Lists are not rendered properly in markdown. So far, manual bullets have been used.
+- Likewise, Latex is not supported in markdown.
+
+## Thank you 💗

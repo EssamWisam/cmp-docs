@@ -1,0 +1,39 @@
+
+/* Style for the itemcircles container */
+.wrapped-circles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+  }
+  
+  /* Style for the grid circles */
+  .course-circle {
+    text-align: center !important;
+    margin: 20px;
+    margin-bottom: 6px !important;
+    cursor: pointer;
+  }
+  
+  #p {
+    text-align: center !important;
+    padding: 0.5rem 0rem !important;
+    max-width: 150px;
+  }
+  
+  .course-circle img {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4); 
+    margin: 3px;
+  }
+  
+  .course-circle p {
+    margin-top: 3px;
+  }
+  
+  .course-circle img:hover {
+    outline: 2px solid #00C2CB;
+  }
+  

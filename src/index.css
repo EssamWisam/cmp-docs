@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+  overflow: hidden;
+}
+body {
+  background-color: #1f1f1f ;
+}
+
+img[alt=image] { 
+  border-radius: 3%;
+  display: block;
+  margin: 0.5rem auto;
+  width: 100%
+}
+
+img[alt=image50] { 
+  border-radius: 3%;
+  display: block;
+  margin: 1rem auto;
+  width: 80%
+}
+
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  margin: 0.8rem 0.8rem 0rem 0rem;
+}
+
+p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  padding: 1rem 0rem;
+  font-size: 0.9rem;
+}
+
+p::selection, h1::selection, h2::selection, h3::selection, 
+h4::selection, h5::selection, h6::selection, 
+strong::selection, em::selection { 
+  background: #00C2CB;
+   color: #fcfcfc; 
+  }
+
+
+
+  table {
+    border-collapse: collapse;
+    border: 2px solid var(--primary-color) ; /* Set the border color to red */
+    margin-bottom: 2rem;
+}
+
+th, td {
+    border: 1px solid var(--primary-color) ; /* Set the border color for table cells to black */
+    padding: 8px;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+

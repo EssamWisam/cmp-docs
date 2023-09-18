@@ -1,0 +1,50 @@
+// changes internal styles of some components hence the name.
+
+:root {
+    --primary-color: #f1f1f1;
+    --inverse-color: #1d1d1d;
+  }
+  
+  // sidebar
+  .ps-menu-label {
+    color: var(--primary-color) !important;
+  }
+  
+  .ps-menu-icon {
+    color: var(--primary-color) !important;
+  }
+  
+  .title {
+    color: var(--primary-color) !important;
+  }
+  
+
+  .css-fuizeu >.ps-menu-button {
+    padding-left: 50px !important;
+  }
+
+  .css-rzvyvk  {
+    border-right-style: none !important;
+  }
+
+  .css-f23bpa.ps-rtl {
+    border-left-style: none !important;
+
+  }
+
+  // modal
+  .pure-modal {
+    border-radius: 3%;
+  }
+
+  .panel-heading {
+    color: var(--primary-color)  !important;
+    background-color: var(--inverse-color)  !important;
+    text-align: center;
+    border-bottom: 1px solid var(--primary-color)  !important;
+  }
+
+  .panel-body {
+    color: var(--primary-color)  !important;
+    background-color: var(--inverse-color)  !important;
+  }

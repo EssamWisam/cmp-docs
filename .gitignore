@@ -33,10 +33,7 @@ npm-debug.log
 # Built files
 build/
 dist/
-*.css.map
-*.js.map
-*.html
-*.css
+
 
 # Environment files
 .env.local
@@ -64,10 +61,7 @@ npm-debug.log
 # Built files
 build/
 dist/
-*.css.map
-*.js.map
-*.html
-*.css
+
 
 # Environment files
 .env.local

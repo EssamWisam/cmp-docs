@@ -20,7 +20,6 @@
     "react-redux": "^8.1.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^4.0.3",
-    "redux": "^4.2.1",
     "remark-gfm": "^3.0.1",
     "web-vitals": "^0.2.4"
   },
@@ -51,6 +50,7 @@
     ]
   },
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "gh-pages": "^6.0.0"
   }
 }

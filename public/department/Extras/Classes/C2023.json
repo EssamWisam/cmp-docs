@@ -1,0 +1,432 @@
+[
+    {
+      "title": "🧑🏻‍🎓 CMP23 Class 👩🏻‍🎓 ",
+      "description": "Enter our computer engineering class, where students exhibit an exceptional level of expertise. They handle computers and technology with remarkable ease, crafting remarkable innovations effortlessly.",
+      "markdown_title": "Student Info",
+      "items": [
+        {
+          "title": "📃 Class Roster",
+          "description": "Members of the class are as follows",
+            "items": [
+                {
+                "name": "Ahmed Ayman Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Ihab Yosry",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Gamal Abdelsamea",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Hamdy Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Khaled Mahmoud",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Sayed Abdullah",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Emad Eldin",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Mohamed Ibrahim",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Mohamed Abdelhamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Mahmoud ElGhareeb",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Mahmoud Hafez",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Mahmoud Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ahmed Walid Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Osama Magdy Ayed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Esraa Gamal Saad",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Esraa Amr Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Andrew Boshra Bishay",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Iten Emad Eldin",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ayman Mohamed Reda",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Passant Abdelaziem",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Peter Micheal Azmy",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Bishoy Atef Tadros",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Gasser Ashraf Fayez",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Hazem Khaled Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Hazem Mahmoud Abdo",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Hossam Mohamed Saeed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Hussein Mostafa Hussein",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Donia Abdelfattah Abdelkareem",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Radwa Ahmed Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Raghad Khaled Abdelhay",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Robert Monier Isaac",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Rawaa Ahmed Saed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Reem Emad Ramadan",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ziad Hassan Abdelmaksoud",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ziad Atef Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Tarek Yasser Ismail",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Taher Mohamed Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Abdelrahman Gamal Sayed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Abdelraouf Hossam Abdelrahman",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Abdullah Adel Abdullah",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Abdullah Mahmoud Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Abeer Hussein Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Essam Wisam Fouad",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ammar Mohamed Sobhy",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Omar Ahmed Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Omar Abdelfattah Hamad",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Omar Mohamed Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Omar Mohamed Abdelfattah",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Ghiath Omar Saleh",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Kareem Taha Abdelsabour",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Michael Aziz Fahim",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Ahmed Fathy",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Akram Abdelfattah",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Khaled Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Saad Fathy",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Salama Abdelsamea",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mohamed Nabawee Hamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mahmoud ElSayed Mahmoud",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mahmoud Amr Nabil",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mahmoud Mohamed Abdelati",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Maryam Ashraf Malak",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Maryem Salah Metwally",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mariem Mohamed Zein",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mariam Nasser Rashad",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mostafa Ahmed Sabry",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mostafa Magdy Abdelrahman",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mostafa Mohamed Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mostafa Mahmoud Kamal",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mostafa Wael Kamal",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Menna Allah Ahmed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Mina Emad Fakhry",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Nadin Ayman Mesbah",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Nada ElSayed Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Nour ElDin Mostafa",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Noran Hany Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Hala Hamdy Abdelhady",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Waeam Bassem Hosny",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Yahia Zakaria Mohamed",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Yousef Ahmed Anwar",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Yousef Gamal Reda",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Yousef Atef Tawfik",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Yousef Atef Abdelhaleem",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                },
+                {
+                "name": "Youssef Mostafa Elmahdy",
+                "image": "",
+                "markdown": "This is one fantastic CMP Student. This may be later updated with more relevant info such as contact information."
+                }
+            ]
+          }
+          
+      ]
+    }
+  ]
+  

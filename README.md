@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# 🧁 CMP Docs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://i.imgur.com/f0Jqvs1.jpg)
 
-## Available Scripts
+As computer engineering students at Cairo University we thought it would be valuable to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! 
 
-In the project directory, you can run:
 
-### `npm start`
+**Thereby, the following are the motivations of this website:**
 
-Runs the app in the development mode.\
-Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
+✦ Provide prospective students all the information they need to make an informed decision regarding 
+whether or not to choose computer engineering
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+✦ Guide students that have just entered the department on how to cope and get ready for what's next. Some sections of the website will be even useful to graduate students!
 
-### `npm test`
+✦ Realize the fact, that we are all one family; and that we are all ready to help one another no matter how far we are from each other.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🚆 Navigating the Website
 
-### `npm run build`
+It should be self-evident from the side bar; however, here is a small guide:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| Student Type         | Consideration                                   |
+|----------------------|-------------------------------------------------|
+| Prospective Students | Review the "Before Joining" section in the sidebar. If you have any unanswered questions, please create a GitHub issue. |
+| Recent Students      | Consider the "Recently Joined" section.         |
+| All Other Students   | Consider all mentioned sections and feel free to collaborate! |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Important Note I**: The website is build to be updated continually; thus, checking it frequently for updates or changes is key.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Important Note II**: The website is built with Arabic in mind. However, with this being initially written in English it may take some time until the Arabic versions of all pages are available. Collaboration here would be really helpful.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🪂 We are all Contributors!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Despite being initiated by one student, the represenative of the senior class, Essam W. The website is built with collaboration in mind. In particular, as a student part of the department, you are welcome to change any part of the content found within the website with zero web development coding prerequisites. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+✦ Modifying any existing page takes only modifying its corresponding markdown or json file. The page is represented by json only if contains a grid; otherwise, it's markdown. This all gets transpiled to html and css under the hood.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+✦ You can even modify the sidebar to include more sections and pages and guess what! The side bar is a single yaml file.
 
-## Learn More
+**Hint I:** it takes approximately 2, 3 minutes to learn the structure of each of json and yaml respectively and another 5 minutes for markdown. These are textual formats any experienced developer is used to. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Hint II:** All files correpsonding to the website can be found inside "public/department". They follow the same hierarchy as the sidebar.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Once you're done. Simply submit a PR; it would be nice if you start proposing the PR as an issue if it's a big change.

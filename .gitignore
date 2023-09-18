@@ -52,3 +52,34 @@ dist/
 *.njsproj
 *.sln
 *.sw?
+
+
+# Dependency directories
+node_modules/
+yarn-error.log
+npm-debug.log
+.pnp/
+.pnp.js
+
+# Built files
+build/
+dist/
+*.css.map
+*.js.map
+*.html
+*.css
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

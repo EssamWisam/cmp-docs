@@ -1,3 +1,0 @@
-# 💪🏻 Self-learning Resources
-
-Resources students for students to learn more about the field as they start...

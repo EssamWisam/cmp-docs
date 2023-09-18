@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # misc
 .DS_Store
 .env.local
@@ -31,7 +28,6 @@ npm-debug.log
 .pnp.js
 
 # Built files
-build/
 dist/
 
 
@@ -59,7 +55,6 @@ npm-debug.log
 .pnp.js
 
 # Built files
-build/
 dist/
 
 

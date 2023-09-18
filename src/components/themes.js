@@ -7,7 +7,7 @@ export const themes = {
       },
       menu: {
         menuContent: '#fbfcfd',
-        icon: '#57bfc9',
+        icon: '#1d1d1d',
         hover: {
           backgroundColor: '#81D2D6',
           color: '#44596e',
@@ -25,7 +25,7 @@ export const themes = {
       },
       menu: {
         menuContent: '#1d1d1d',
-        icon: '#57bfc9',
+        icon: '#fcfcfc',
         hover: {
           backgroundColor: '#00C2CB55',
           color: '#fcfcfc !important',

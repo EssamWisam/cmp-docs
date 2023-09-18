@@ -33,7 +33,7 @@ It should be self-evident from the side bar; however, here is a small guide:
 
 ## 🪂 We are all Contributors!
 
-Despite being initiated by one student, the represenative of the senior class, Essam W. The website is built with collaboration in mind. In particular, as a student part of the department, you are welcome to change any part of the content found within the website with zero web development coding prerequisites. 
+The website is built with collaboration in mind. In particular, as a student part of the department, you are welcome to change any part of the content found within the website with zero web development coding prerequisites. 
 
 ✦ Modifying any existing page takes only modifying its corresponding markdown or json file. A page in the documentation is represented by json (which supports markdown in strings) only if contains a grid; otherwise, it's pure markdown. This all gets transpiled to html and css under the hood.
 

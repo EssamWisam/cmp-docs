@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+// yaml interaction
+import yaml from 'js-yaml';
 import MenuIcon from '@mui/icons-material/Menu';
 // sidebar and grid
 import { Sidebar } from 'react-pro-sidebar';
@@ -32,7 +34,7 @@ const Home = () => {
           saveSet(setMarkdown, 'markdown', data);
         }
         else {
-          saveSet(setJsonData, 'jsonData', JSON.parse(data))
+          saveSet(setJsonData, 'jsonData', yaml.load(data))
           saveSet(setIsGridPage, 'isGridPage', true)
         }
       })

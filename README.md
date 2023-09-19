@@ -2,7 +2,7 @@
 
 ![image](https://i.imgur.com/YkpXfRH.png)
 
-I was motiviated to to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a summer course to freshmen, I realized that a lot of questions are being repeatedly asked every year; it dawned on me that it would be really nice if answers to all such questions and more information about the computer engineering department at Cairo university are all available in one site.
+I was motiviated to to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated form the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a summer course to freshmen, I realized that a lot of questions are being repeatedly asked every year; it dawned on me that it would be really nice if answers to all such questions and more information about the computer engineering department at Cairo university were all available in one site.
 
 You can check the documentation at [https://cmp-docs.netlify.app](https://cmp-docs.netlify.app)
 
@@ -36,15 +36,15 @@ It should be self-evident from the side bar; however, here is a small guide:
 
 The website is built with collaboration in mind. In particular, as a student part of the department, you are welcome to change any part of the content found within the website with zero web development coding prerequisites. 
 
-✦ Modifying any existing page takes only modifying its corresponding markdown or json file. A page in the documentation is represented by json (which supports markdown in strings) only if contains a grid; otherwise, it's pure markdown. This all gets transpiled to html and css under the hood.
+✦ Modifying any existing page takes only modifying its corresponding markdown or yaml file. A page in the documentation is represented by yaml (which also supports markdown in strings) only if it contains a grid of icons; otherwise, it's pure markdown. This all gets transpiled to html and css under the hood.
 
-✦ You can even modify the sidebar to include more sections and pages and guess what! The side bar is a single yaml file.
+✦ You can even modify the sidebar to include new sections and pages and guess what! The side bar is a single yaml file.
 
-**Hint I:** it takes approximately 2, 3 minutes to learn the structure of each of json and yaml respectively and another 5 minutes for markdown. These are textual formats any experienced developer should be used to. 
+**Hint I:** It should only take you 10 minutes to get the hang of markdown or yaml syntax, assuming the unlikely coincidence that you don't know about them.
 
 **Hint II:** All files correpsonding to the website can be found inside "public/department". They follow the same hierarchy as the sidebar.
 
-To run for the first time, install `Node.js` then type at the terminal
+To run for the first time, install [Node.js](https://nodejs.org/en/download) then type at the terminal
 ```
 npm install
 ```
@@ -57,13 +57,14 @@ Once you're done. Simply submit a PR; it would be nice if you start proposing th
 
 #### Collaboration Notes
 
-- Only write facts that you certainly sure of; otherwise, discuss in an issue first and demonstrate uncertianty in the text. Including sources or references or examples or natural deductions is required.
+- Please only write facts that you certainly sure of; if it's controversial please discuss in an issue first. It's best to either naturally deduce your argument or use references rather than just stating facts as if they were universal truisims.
 
-- Using gifs or emojis is highly recommended.
+- Using gifs or emojis is highly recommended to keep the site lively
 
 #### Known Issues
 
 - Lists are not rendered properly in markdown. So far, manual bullets have been used.
 - Likewise, Latex is not supported in markdown.
+- HTML isn't supported in markdown. This severely limits the amount of colors that can be used...
 
 <h1 align="center"> Thank you 💗 </h1>

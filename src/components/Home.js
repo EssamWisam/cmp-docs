@@ -28,7 +28,10 @@ const Home = () => {
     fetch(currentMarkdown)
       .then((response) => response.text())
       .then((data) => {
-        // if current file is markdown (ends with .md)
+        if(data.startsWith("<!DOCTYPE html>")){
+          // throw an error
+          throw "could not load.."
+        }
         if (currentMarkdown.endsWith('.md')) {
           saveSet(setIsGridPage, 'isGridPage', false)
           saveSet(setMarkdown, 'markdown', data);
@@ -39,6 +42,8 @@ const Home = () => {
         }
       })
       .catch((error) => {
+        saveSet(setIsGridPage, 'isGridPage', false)
+        saveSet(setMarkdown, 'markdown', (rtl) ? "هذه الصفحة غير موجودة بعد":"Page doesn't exist yet...");
         console.error('Error fetching or parsing the page file', error);
       });
   }, [currentMarkdown]);
@@ -59,7 +64,7 @@ const Home = () => {
           color: themes[theme].sidebar.color,
         }}
       >
-      <SidebarGenerator theme={theme} setTheme={setTheme} rtl={rtl} setRtl={setRtl} setCurrentMarkdown={setCurrentMarkdown}>
+      <SidebarGenerator theme={theme} setTheme={setTheme} rtl={rtl} setRtl={setRtl} setCurrentMarkdown={setCurrentMarkdown} currentMarkdown={currentMarkdown} isGridPage={isGridPage}>
       </SidebarGenerator>
       </Sidebar>
 

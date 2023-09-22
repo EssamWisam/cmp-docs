@@ -139,7 +139,9 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
       }
     }
 
-      useEffect(()=>{handle_page_lang_change(rtl, currentMarkdown)}, [rtl])
+      useEffect(()=>{handle_page_lang_change(rtl, currentMarkdown)}, 
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      [rtl])
 
     // Helper function to create a MenuItem
     const createMenuItem = (label, label_ar, icon, link, rtl) => {

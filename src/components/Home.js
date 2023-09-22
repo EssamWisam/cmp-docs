@@ -30,7 +30,7 @@ const Home = () => {
       .then((data) => {
         if(data.startsWith("<!DOCTYPE html>")){
           // throw an error
-          throw "could not load.."
+          throw new Error("could not load..")
         }
         if (currentMarkdown.endsWith('.md')) {
           saveSet(setIsGridPage, 'isGridPage', false)
@@ -46,6 +46,7 @@ const Home = () => {
         saveSet(setMarkdown, 'markdown', (rtl) ? "هذه الصفحة غير موجودة بعد":"Page doesn't exist yet...");
         console.error('Error fetching or parsing the page file', error);
       });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentMarkdown]);
 
   const [hoverStatus, setHoverStatus] = useState(false)

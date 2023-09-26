@@ -3,7 +3,7 @@
     There are eight broad categories under which courses fall and these
     are Programming, Software Engineering, Artificial Intelligence, Embedded &
     Digital, Security & Networks, Math, Communication Engineering, Other
-    Engineering, General Courses. 
+    Engineering, General Courses.
 
      We will go through each of these below to illustrate the included courses. The superscript denotes the year this course is taught to mainstream students and more information can be found by clicking on the course.
   markdown_title: Course Info
@@ -30,7 +30,7 @@
       description: The essence of this set of courses is to expose you to various
         software engineering fields. This includes classic web, desktop and
         mobile development as well game development and graphics and even low
-        level development such as the development of programming languauges or
+        level development such as the development of programming languages or
         operating systems.
       items:
         - name: Databases²
@@ -65,7 +65,7 @@
         - name: Natural Language Processing⁴
           image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
           markdown: This is some specific content about Natural Language Processing.
-        - name: Theoritical Machine Learning⁴
+        - name: Theoretical Machine Learning⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
           markdown: This is some specific content about Machine Learning.
         - name: Machine Intelligence⁴
@@ -110,7 +110,7 @@
           markdown: This is some specific content
     - title: 🌐 Security & Networks
       description: The essence of this set of courses is to introduce you to computer
-        networks, how the internet and wirless works and cyber security
+        networks, how the internet and wireless works and cyber security
       items:
         - name: Cryptography³
           image: https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg
@@ -118,11 +118,11 @@
         - name: Computer Networks⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
           markdown: This is some specific content
-        - name: Wirless Networks⁴
+        - name: Wireless Networks⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
           markdown: This is some specific content
     - title: 🧮 Mathematics
-      description: Mathematics courses mostly occur as prerequites for other courses.
+      description: Mathematics courses mostly occur as prerequisites for other courses.
       items:
         - name: Algebra & Multivariable Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
@@ -141,7 +141,7 @@
           markdown: This is some specific content
     - title: 📡 Communication Engineering
       description: Mostly for shift career opportunities. Kidding, these are mostly
-        prerequires for the hardware courses or just useful courses.
+        prerequisites for the hardware courses or just useful courses.
       items:
         - name: Electrical Circuits¹
           image: https://circuits-elec.com/cdn/shop/files/a9g_grande.jpg?v=1685013700

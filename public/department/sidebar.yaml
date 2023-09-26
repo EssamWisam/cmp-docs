@@ -4,7 +4,7 @@ sections:
       label: General Info
       label_ar: معلومات عامة
     menu:
-      - label: Before Joining 
+      - label: Before Joining
         label_ar: قبل دخول القسم
         icon: MdAutoAwesome
         items:
@@ -25,7 +25,7 @@ sections:
             icon: MdAutoFixHigh
             link: "General/Before/Perks.md"
           - label: FAQ
-            label_ar:  اسئلة متداولة
+            label_ar:  أسئلة متداولة
             icon: MdHelpOutline
             link: "General/Before/FAQ.md"
       - label: Recently Joined
@@ -33,19 +33,19 @@ sections:
         icon: MdEmojiEmotions
         items:
           - label: Choosing a Laptop
-            label_ar: اختيار لابتوب
+            label_ar: اختيار لاب توب
             icon: MdLaptop
             link: "General/Recently/Laptop.md"
           - label: Self Learning Resources
             label_ar: مصادر للتعلم الذاتي
             icon: MdExtension
             link: "General/Recently/Learn.md"
-          - label: Represenative & Teams
+          - label: Representative & Teams
             label_ar: المندوب والتيمز
             icon: MdGroup
             link: "General/Recently/Representative.md"
           - label: Communication Channels
-            label_ar: وسائل الاتصال
+            label_ar: وسائل الإتصال
             icon: MdMapsUgc
             link: "General/Recently/Channels.md"
           - label: Google Drive

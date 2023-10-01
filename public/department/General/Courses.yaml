@@ -204,7 +204,7 @@
         - name: Marketing³
           image: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/marketing.png
           markdown: This is some specific content
-        - name: Business & Strategic Management²
+        - name: Business & Strategic Management³
           image: https://m.economictimes.com/thumb/height-450,width-600,imgsize-2927581,msid-57162865/six-steps-to-running-a-successful-business.jpg
           markdown: This is some specific content
         - name: Law and Consultation⁴

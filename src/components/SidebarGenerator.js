@@ -10,7 +10,7 @@ import { Menu, MenuItem, SubMenu, menuClasses} from 'react-pro-sidebar';
 // themes and hex to rgba converter
 import {themes, hexToRgba, saveSet, init} from './themes';
 
-function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown}) {
+function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isGridPage, currentMarkdown}) {
     const [parsedData, setParsedData] = useState(null);
     const [language, setLanguage] = useState(init('language', 'عربي'))
 
@@ -102,12 +102,57 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown}) {
         }
       };
   
+      function handle_page_lang_change(rtl, currentMarkdown){
+        const isMarkdown = currentMarkdown.endsWith('.md')
+        const ending = (!isMarkdown) ? ".yaml" : ".md"
+        const ending_ar = (!isMarkdown) ? "_ar.yaml" : "_ar.md"
+        if (rtl){
+          if (!currentMarkdown.includes("_ar")){
+            
+            const new_link = currentMarkdown.split(ending)[0] + "_ar" + ending
+            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
+          }
+          else {
+            
+            const new_link = currentMarkdown.split(ending_ar)[0] + "_ar" + ending
+            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)      
+          }
+        }
+        else{
+          if (currentMarkdown.includes("_ar")){
+            
+            const new_link = currentMarkdown.split(ending_ar)[0] + ending
+            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
+          }
+          else {
+            const new_link = currentMarkdown.split(ending)[0] + ending
+            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
+          }
+      }
+    }
+
+      useEffect(()=>{handle_page_lang_change(rtl, currentMarkdown)}, 
+      // eslint-disable-next-line react-hooks/exhaustive-deps
+      [rtl])
+
     // Helper function to create a MenuItem
     const createMenuItem = (label, label_ar, icon, link, rtl) => {
       // Dynamically access the MaterialDesign component based on the icon variable
       const IconComponent = MaterialDesign[icon];
+      //const link_ar = link.split(((isGridPage) ? ".yaml" : ".md"))[0] + "_ar" + ((isGridPage) ? ".yaml" : ".md")
+      //const link_to_add = (rtl) ? link_ar : link
+
+      // h
       return (
-        <MenuItem onClick={()=>saveSet(setCurrentMarkdown, "currentMarkdown", "../department/"+link)} icon={<IconComponent size={20} />}>{(rtl)?label_ar:label}</MenuItem>
+        <MenuItem onClick={()=>{handle_page_lang_change(rtl,  "../department/"+link)}} icon={<IconComponent size={20} />}>{(rtl)?label_ar:label}</MenuItem>
       );
     };
   

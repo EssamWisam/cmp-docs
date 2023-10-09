@@ -1,16 +1,15 @@
-# 🤝🏻 Related Departments Arabic
+# 🤝🏻 العلاقة مع الاقسام التانية
 
-In this article, we will highlight the differences between computer engineering and other engineering departments such as communication and electronics engineering, biomedical engineering and even computer science as a different major. In all cases, as should be implicitly guessed, we consider the departments under the curricula used to teach them here, at Cairo university.
+في المقال ده سنسلط الضوء على الاختلافات بين هندسة الكمبيوتر والأقسام الهندسية التانية زي هندسة الاتصالات والإلكترونيات والهندسة الطبية وحتى علوم الكمبيوتر كتخصص مختلف. وفي كل الحالات، زي ما تتوقع، فإننا بنتكلم عن المناهج المستخدمة في التدريس هنا، في جامعة القاهرة.
 
-## 💻 Computer Science
+## 💻علوم الحاسب الآلي
 
-Ultimately precise points of comparison should go here...
+نقط المقارنة الجوهرية هتتكتب هنا ...
 
-## 📡 Communication & Electronics Engineering
+## 📡 هندسة الاتصالات والإلكترونيات
 
-Ultimately precise points of comparison should go here...
+نقط المقارنة الجوهرية هتتكتب هنا ...
 
 
-## 🧬 Biomedical Engineering
-
-Ultimately precise points of comparison should go here...
+## 🧬 الهندسة الطبية
+نقط المقارنة الجوهرية هتتكتب هنا ...

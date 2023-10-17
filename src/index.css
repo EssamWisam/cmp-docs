@@ -6,6 +6,31 @@
 }
 
 
+li {
+  list-style: none;
+  font-size: 20px;
+}
+
+ul li p::before  {
+  content:"✦";
+  font-size:1rem;
+  vertical-align:middle;
+  line-height:20px;
+  padding-right:0.6rem
+}
+
+ul {
+  list-style-type: disc; /* You can use other values like 'circle' or 'square' */
+  margin-left: 20px; /* Adjust the margin to control the space between the bullet and the content */
+  padding-left: 0; /* Reset the default padding */
+}
+
+li {
+  margin: 5px 0; /* Adjust the margin to control the space between list items */
+}
+
+
+
 * {
   margin: 0;
   padding: 0;

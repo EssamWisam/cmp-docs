@@ -5,11 +5,23 @@
   --siteFont: "Montserrat";
 }
 
+
 * {
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
+
+
+b, strong {
+  color: #8ffffF;
+}
+
+a {
+  color:  #00C2CB;
+  text-decoration: none;
+}
+
 body {
   background-color: #1f1f1f ;
   font-family:  var(--siteFont)
@@ -33,10 +45,12 @@ img[alt=image50] {
 h1 {
   font-size: 2.2rem;
   margin-bottom: 1.5rem;
+
 }
 
 h2 {
   margin: 0.8rem 0.8rem 0rem 0rem;
+  color: #8ffffF;
 }
 
 p {
@@ -44,6 +58,8 @@ p {
   text-justify: inter-word !important;
   padding: 1rem 0rem;
   font-size: 1rem;
+  line-height: 1.8;
+
 }
 
 p::selection, h1::selection, h2::selection, h3::selection, 

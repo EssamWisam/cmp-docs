@@ -67,20 +67,18 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
       useEffect(() => {
         document.documentElement.style.setProperty("--siteFont", font);
 
-      }, []);
+      }, [font]);
   
       const handleRTLChange = (e) => {
         if (language === 'English'){
           saveSet(setLanguage, 'language', 'عربي')
           saveSet(setRtl, 'rtl', false)
           saveSet(setFont, 'font', 'Montserrat')
-          document.documentElement.style.setProperty("--siteFont", "Montserrat");
         }
         else {
           saveSet(setLanguage, 'language', 'English')
           saveSet(setRtl, 'rtl', true)
           saveSet(setFont, 'font', 'Tajawal')
-          document.documentElement.style.setProperty("--siteFont", "Tajawal");
         }
       };
     

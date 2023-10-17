@@ -18,7 +18,7 @@ It turns out that thanks to the internet, you can work as a team on a project fr
 
 **V. Salaries are more than good**
 
-For the most part, rookie salaries even as a fresh grad are not part of the equation for computer engineering and computer science majors. The rationale being that programs developed by these individuals often mean a lot for a business in terms of their financial growth and there is a lot of demand on them. Here in Egypt, a classic starting salary for a job with humble requirements and that seeks graduates from this particular university may be as high as 16K a month.
+For the most part, rookie salaries even as a fresh grad are not part of the equation for computer engineering and computer science majors. The rationale being that programs developed by these individuals often mean a lot for a business in terms of their financial growth and there is a lot of demand on them. Here in Egypt, a classic starting salary for a job with humble requirements and that seeks graduates from this particular university may be as high as 16K a month or even more as reported in 2023.
 
 **VI. Gives you self-sufficiency in the business world**
 
@@ -28,6 +28,6 @@ Business people need you. They will often seek a lot of investment just to hire 
 
 If you like competing then you will find much of that in this department. Competitions can help open up opportunities for you and often involve networking and reward benefits. Writing problem solving algorithms and machine learning are two main areas that involve a lot of competitions.
 
-**VIII. You are just 80 people**
+**VIII. You are a small number of people**
 
 Everyone gets to know everyone else and perhaps also work with them. Such a network is often much stronger than those formed in other departments with much more people.

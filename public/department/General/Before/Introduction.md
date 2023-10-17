@@ -6,7 +6,7 @@ The purpose of this section of cmp-docs is to make you aware of all that you nee
 
 ## 🎟 Tour Details
 
-Here we will start by giving you an introduction to computer engineering, taking into account what you already know from the preparatory year. We will then continue by diving into the different fields that you could be working after graduating from the department followed by how our department (computer engineering) is different from other engineering departments with respect to the content covered and the fields. Lastly, we will mention the major benefits of being a computer engineer and top off with a set of frequently asked questions and their answers; a section that can be welcomely expanded by your own questions once you make an issue for them on the Github repository.
+Here we will start by giving you an introduction to computer engineering, taking into account what you already know from the preparatory year. We will then continue by diving into the different fields that you could be working after graduating from the department followed by how our department (computer engineering) is different from other engineering departments with respect to the content covered and the fields. Lastly, we will mention the major benefits of being a computer engineer and top off with a set of frequently asked questions and their answers; a section that can be welcomely expanded by your own questions once you make an issue for them on the [Github repository](https://github.com/EssamWisam/cmp-docs/issues).
 
 ## 🛥 From Engineering to Computer Engineering
 

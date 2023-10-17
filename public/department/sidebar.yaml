@@ -4,7 +4,7 @@ sections:
       label: General Info
       label_ar: معلومات عامة
     menu:
-      - label: Before Joining 
+      - label: Before Joining
         label_ar: قبل دخول القسم
         icon: MdAutoAwesome
         items:
@@ -25,7 +25,7 @@ sections:
             icon: MdAutoFixHigh
             link: "General/Before/Perks.md"
           - label: FAQ
-            label_ar:  اسئلة متداولة
+            label_ar:  أسئلة متداولة
             icon: MdHelpOutline
             link: "General/Before/FAQ.md"
       - label: Recently Joined
@@ -33,19 +33,19 @@ sections:
         icon: MdEmojiEmotions
         items:
           - label: Choosing a Laptop
-            label_ar: اختيار لابتوب
+            label_ar: اختيار لاب توب
             icon: MdLaptop
             link: "General/Recently/Laptop.md"
           - label: Self Learning Resources
             label_ar: مصادر للتعلم الذاتي
             icon: MdExtension
             link: "General/Recently/Learn.md"
-          - label: Represenative & Teams
+          - label: Representative & Teams
             label_ar: المندوب والتيمز
             icon: MdGroup
             link: "General/Recently/Representative.md"
           - label: Communication Channels
-            label_ar: وسائل الاتصال
+            label_ar: وسائل الإتصال
             icon: MdMapsUgc
             link: "General/Recently/Channels.md"
           - label: Google Drive
@@ -55,7 +55,7 @@ sections:
       - label: Courses & Past Material
         label_ar: الكورسات و ماتيريالز سابقة
         icon: MdMenuBook
-        link: "General/Courses.json"
+        link: "General/Courses.yaml"
   - title:
       label: Extras
       label_ar: للتطلع
@@ -67,27 +67,27 @@ sections:
           - label: Class 2027
             label_ar: دفعة ٢٧
             icon: MdAdjust
-            link: "Extras/Classes/C2027.json"
+            link: "Extras/Classes/C2027.yaml"
           - label: Class 2026
             label_ar: دفعة ٢٦
             icon: MdAdjust
-            link: "Extras/Classes/C2026.json"
+            link: "Extras/Classes/C2026.yaml"
           - label: Class 2025
             label_ar: دفعة ٢٥
             icon: MdAdjust
-            link: "Extras/Classes/C2025.json"
+            link: "Extras/Classes/C2025.yaml"
           - label: Class 2024
             label_ar: دفعة ٢٤
             icon: MdAdjust
-            link: "Extras/Classes/C2024.json"
+            link: "Extras/Classes/C2024.yaml"
           - label: Class 2023
             label_ar: دفعة ٢٣
             icon: MdAdjust
-            link: "Extras/Classes/C2023.json"
+            link: "Extras/Classes/C2023.yaml"
           - label: Class 2022
             label_ar: دفعة ٢٢
             icon: MdAdjust
-            link: "Extras/Classes/C2022.json"
+            link: "Extras/Classes/C2022.yaml"
       - label: Graduation Projects
         label_ar: مشاريع التخرج
         icon: MdTipsAndUpdates
@@ -95,19 +95,19 @@ sections:
           - label: Class 2023
             label_ar: دفعة ٢٣
             icon: MdAdjust
-            link: "Extras/GPs/G2023.json"
+            link: "Extras/GPs/G2023.yaml"
           - label: Class 2022
             label_ar: دفعة ٢٢
             icon: MdAdjust
-            link: "Extras/GPs/G2022.json"
+            link: "Extras/GPs/G2022.yaml"
           - label: Class 2021
             label_ar: دفعة ٢١
             icon: MdAdjust
-            link: "Extras/GPs/G2021.json"
+            link: "Extras/GPs/G2021.yaml"
       - label: Summer Courses
         label_ar: تدريبات صيفية
         icon: MdGolfCourse
-        link: "Extras/SummerCourses.json"
+        link: "Extras/SummerCourses.yaml"
       - label: About
         label_ar: حول الصفحة
         icon: MdInfo

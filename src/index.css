@@ -59,7 +59,8 @@ strong::selection, em::selection {
 
 th, td {
     border: 1px solid var(--primary-color) ; /* Set the border color for table cells to black */
-    padding: 8px;
+    padding: 20px;
+    text-align: justify;
 }
 
 ::-webkit-scrollbar {

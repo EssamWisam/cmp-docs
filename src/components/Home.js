@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+// yaml interaction
+import yaml from 'js-yaml';
 import MenuIcon from '@mui/icons-material/Menu';
 // sidebar and grid
 import { Sidebar } from 'react-pro-sidebar';
@@ -26,19 +28,25 @@ const Home = () => {
     fetch(currentMarkdown)
       .then((response) => response.text())
       .then((data) => {
-        // if current file is markdown (ends with .md)
+        if(data.startsWith("<!DOCTYPE html>")){
+          // throw an error
+          throw new Error("could not load..")
+        }
         if (currentMarkdown.endsWith('.md')) {
           saveSet(setIsGridPage, 'isGridPage', false)
           saveSet(setMarkdown, 'markdown', data);
         }
         else {
-          saveSet(setJsonData, 'jsonData', JSON.parse(data))
+          saveSet(setJsonData, 'jsonData', yaml.load(data))
           saveSet(setIsGridPage, 'isGridPage', true)
         }
       })
       .catch((error) => {
+        saveSet(setIsGridPage, 'isGridPage', false)
+        saveSet(setMarkdown, 'markdown', (rtl) ? "هذه الصفحة غير موجودة بعد":"Page doesn't exist yet...");
         console.error('Error fetching or parsing the page file', error);
       });
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [currentMarkdown]);
 
   const [hoverStatus, setHoverStatus] = useState(false)
@@ -57,7 +65,7 @@ const Home = () => {
           color: themes[theme].sidebar.color,
         }}
       >
-      <SidebarGenerator theme={theme} setTheme={setTheme} rtl={rtl} setRtl={setRtl} setCurrentMarkdown={setCurrentMarkdown}>
+      <SidebarGenerator theme={theme} setTheme={setTheme} rtl={rtl} setRtl={setRtl} setCurrentMarkdown={setCurrentMarkdown} currentMarkdown={currentMarkdown} isGridPage={isGridPage}>
       </SidebarGenerator>
       </Sidebar>
 

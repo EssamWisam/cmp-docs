@@ -6,6 +6,7 @@
 }
 
 
+
 li {
   list-style: none;
   font-size: 20px;
@@ -16,12 +17,16 @@ ul li p::before  {
   font-size:1rem;
   vertical-align:middle;
   line-height:20px;
-  padding-right:0.6rem
+  padding:0.6rem
+}
+
+ul li p {
+  margin-inline-end: 8rem !important;
 }
 
 ul {
   list-style-type: disc; /* You can use other values like 'circle' or 'square' */
-  margin-left: 20px; /* Adjust the margin to control the space between the bullet and the content */
+  margin-inline-start: 15px; /* Adjust the margin to control the space between the bullet and the content */
   padding-left: 0; /* Reset the default padding */
 }
 
@@ -82,6 +87,7 @@ p {
   text-align: justify !important;
   text-justify: inter-word !important;
   padding: 1rem 0rem;
+  margin-inline-end:3rem;
   font-size: 1rem;
   line-height: 1.8;
 
@@ -108,7 +114,16 @@ th, td {
     text-align: justify;
 }
 
+th {
+  color: #8ffffF;
+
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
 
+h3 {
+  color: #8ffffF;
+
+}

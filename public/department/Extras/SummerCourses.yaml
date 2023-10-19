@@ -15,7 +15,7 @@
         - name: Web  Development
           image: https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png
           markdown: "### Instructors: 
-                    \n Essam Wisam (6 Lecs.), Mohamed Fathy (Assistant), Omar Farid (~3 Lecs.), Abdullah Adel (~1 Lec.), Basma Elhoseny (~1 Lec.)    \n
+                    \n Essam Wisam (6 Lecs.), Mohamed Fathy (Assistant), Omar Farid (~3 Lecs.), Abdullah Adel (1 Lec.), Basma Elhoseny (~1 Lec.)    \n
                     ### Course Content: 
                     \n In this course, students delve into advanced HTML, advanced CSS, advanced JS, TypeScript
                     React.js, React Native for the front-end and Node.js, Express.jl, MongoDB, Authentication and Authorization for the back-end.

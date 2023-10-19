@@ -31,17 +31,17 @@
         - name: إدارة قواعد البيانات²
           image: https://miro.medium.com/v2/resize:fit:1400/1*h-sjq8DsN-vZjcXr5-HC9Q.jpeg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: نظم التشغيل²
+          image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: هندسة البرمجيات³
           image: https://kinsta.com/wp-content/uploads/2021/01/adminer-1-1024x512.png
-          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: نظم قواعد بيانات متقدم⁴
-          image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: الرسم واتصال الانسان بالحاسب³
           image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23170714/Masters-in-Game-Development.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: نظم التشغيل²
-          image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
+        - name: نظم قواعد بيانات متقدم⁴
+          image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: اللغات والمترجمات⁴
           image: https://cdn.siasat.com/wp-content/uploads/2022/11/avqebe.jpg
@@ -55,14 +55,14 @@
         - name: التعرف علي الأنماط وتشغيل الصور³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: معالجة اللغة الطبيعية⁴
-          image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
-          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: تعلم الآلة⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: ذكـاء الآلـة⁴
           image: https://img.pikbest.com/png-images/qiantu/red-helicopter-cartoon-illustration_2608969.png!sw800
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: معالجة اللغة الطبيعية⁴
+          image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: تشغيل صور الأقمار الصناعية والاستشعار عن بعد⁴
           image: https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc320bd72c8dff981f27_634fd7a0d519102536f56469_6320785ed40274f7631b761c_what-is-computer-vision.png
@@ -70,12 +70,13 @@
         - name: الروبوتات الإدراكية⁴
           image: https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-10/smiling-robot-robotics-social-robot.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: البيانات ذات الحجم الكبير والبرمجة السحابية⁴
-          image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
-          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: علم البيانات⁴
           image: https://rss.org.uk/RSS/media/Training-and-events/Events/2023/bigstock-Magnifying-Glass-On-Charts-Gra-461636883.jpg?ext=.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: البيانات ذات الحجم الكبير والبرمجة السحابية⁴
+          image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+
     - title: 🤖 الكورسات المدمجة والرقمية (الأجهزة)
       description: بعد كل حاجة،انك تبقي فاهم في الأجهزة هو ال بيميز مهندس الكمبيوتر عن مهندس البرمجيات، ولا ايه؟
       items:
@@ -88,6 +89,9 @@
         - name: نظم المشغلات الدقيقة²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: 	نظم الحاسبات المدمجة³
+          image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: نظم المشغلات الدقيقة متقدم²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
@@ -97,9 +101,7 @@
         - name: التصميم الرقمي والمنطقي بمساعدة الحاسب³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: 	نظم الحاسبات المدمجة³
-          image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
-          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+
     - title: 🌐 الأمن والشبكات
       description: جوهر المجموعة ديه من الكورسات هو تعريفك بشبكات الكمبيوتر، وازاي الإنترنت واللاسلكي بيشتغلوا والأمن السيبراني.
       items:
@@ -154,14 +156,14 @@
         - name: الإشارات والنظم²
           image: https://www.allaboutcircuits.com/uploads/articles/3.1_AC_and_DC_Signals_Image1_.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-        - name: 	هندسة التحكــم³
-          image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
-          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: هندسة الاتصالات التناظرية³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
         - name: اتصالات رقمية³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: 	هندسة التحكــم³
+          image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
     - title: 🤷 هندسة أخرى
       description: المفروض كل المهندسين يعرفوا يدمجوا شغلهم كويس مع بعض. بهزر الايموجي هو الحقيقة.

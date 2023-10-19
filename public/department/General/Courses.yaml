@@ -107,6 +107,22 @@
                     ### Material: 
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1TEwNwc2yXU1EoytXQG7iKZZxMFpVVTMc) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
+        - name: Operating Systems²
+          image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
+          markdown: "### Instructor: 
+                    \n Dr. Mona Farouk  \n
+                    ### Potential Prerequisites:
+                    \n Data Structures and Algorithms \n
+                    ### Course Content: 
+                    \n In this course, students learn about operating system fundamentals and functionalities in detail (management, scheduling, concurrency, synchronization and deadlocks).
+                    They also cover various memory management organizations and algorithms, management of IO devices such as the hard disk and file system implementations.
+                    \n
+                    ### Project: 
+                    \n Students work on a project where they build process scheduling and memory managements systems that employ all relevant algorithms covered in the course.    \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1io3Ee6M3SwsU-DAxP_r190-w5j5JX3rx) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
         - name: Software Engineering³
           image: https://kinsta.com/wp-content/uploads/2021/01/adminer-1-1024x512.png
@@ -128,24 +144,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1sjCOY1Dv-ekBvT4tGmfUfoNbuQ7bRXVB) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
-        - name: Advanced Databases⁴
-          image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
-          markdown: "### Instructor: 
-                    \n Dr. Michael Nawar  \n
-                    ### Potential Prerequisites:
-                    \n Programming Techniques, Databases, and possibly, Design and Analysis of Algorithms \n
-                    ### Course Content: 
-                    \n This is an advanced course that covers database implementations on the hard disk, 
-                    optimizing access with indexing, low-level query processing implementations, heuristic and dynamic programming based query optimization,
-                    data mining techniques such as Apriori and K-means, scheduling DB transactions and addressing conflicts, locking and concurrency control,
-                    parallel and distributed DBs and queries, NoSQL databases and MapReduce.
-                    \n
-                    ### Project: 
-                    \n Students work on a project where they perform various database-level and query-optimizations on an existing database in SQL and NoSQL.    \n
-                    ### Material: 
-                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1erPcm7fkZH2UDmfC94uvMwyi70xGCZgD) and other nice material can be found in 2023 class Google drive. 
-                    You may also find useful links in Google drives found in the 'Recently Joined' section.
-                    "  
         - name: Computer Graphics³
           image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23170714/Masters-in-Game-Development.jpg
           markdown: "### Instructor: 
@@ -163,20 +161,22 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1VWj5NPWay3Mkyz9Gcs_utNvwuyrHrRn8) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-        - name: Operating Systems²
-          image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
+        - name: Advanced Databases⁴
+          image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
           markdown: "### Instructor: 
-                    \n Dr. Mona Farouk  \n
+                    \n Dr. Michael Nawar  \n
                     ### Potential Prerequisites:
-                    \n Data Structures and Algorithms \n
+                    \n Programming Techniques, Databases, and possibly, Design and Analysis of Algorithms \n
                     ### Course Content: 
-                    \n In this course, students learn about operating system fundamentals and functionalities in detail (management, scheduling, concurrency, synchronization and deadlocks).
-                    They also cover various memory management organizations and algorithms, management of IO devices such as the hard disk and file system implementations.
+                    \n This is an advanced course that covers database implementations on the hard disk, 
+                    optimizing access with indexing, low-level query processing implementations, heuristic and dynamic programming based query optimization,
+                    data mining techniques such as Apriori and K-means, scheduling DB transactions and addressing conflicts, locking and concurrency control,
+                    parallel and distributed DBs and queries, NoSQL databases and MapReduce.
                     \n
                     ### Project: 
-                    \n Students work on a project where they build process scheduling and memory managements systems that employ all relevant algorithms covered in the course.    \n
+                    \n Students work on a project where they perform various database-level and query-optimizations on an existing database in SQL and NoSQL.    \n
                     ### Material: 
-                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1io3Ee6M3SwsU-DAxP_r190-w5j5JX3rx) and other nice material can be found in 2023 class Google drive. 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1erPcm7fkZH2UDmfC94uvMwyi70xGCZgD) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Compilers & Languages⁴
@@ -244,24 +244,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/17bVWLgGaxeKCLjwTc9gj_wEe7aIyN8Ni) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-        - name: Natural Language Processing⁴
-          image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
-          markdown: "### Instructor: 
-                    \n Dr. Sandra Wahid   \n
-                    ### Potential Prerequisites:
-                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
-                    ### Course Content: 
-                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalizationa and segmenting). 
-                    It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
-                    classical and deep approaches to word classification (e.g, RNNs, Logistic Regression and Naive Bayes), classical and deep approaches to sequence labelling (e.g., RNNS, CRFs and HMMs), sequence-to-sequence mapping via deep attention models,
-                    question-answering and syntactic parsing. The course puts considerable emphasis on the underlying mathematics of different models.
-                    \n
-                    ### Project: 
-                    \n Students get to work on a team project as a class competition to build classical and deep models for one of the common NLP tasks. For instance, multi-label sentiment classification of COVID tweets. \n
-                    ### Material: 
-                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1X33xPzSvmrBqCTcMou_zzHF0aVj9sfxT) and other nice material can be found in 2023 class Google drive. 
-                    You may also find useful links in Google drives found in the 'Recently Joined' section.
-                    "  
         - name: Theoretical Machine Learning⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
           markdown: "### Instructor: 
@@ -305,6 +287,24 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1gtjRdepY1NDqt37-NZD9YtoYmX7ar9W0) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
+        - name: Natural Language Processing⁴
+          image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
+          markdown: "### Instructor: 
+                    \n Dr. Sandra Wahid   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalizationa and segmenting). 
+                    It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
+                    classical and deep approaches to word classification (e.g, RNNs, Logistic Regression and Naive Bayes), classical and deep approaches to sequence labelling (e.g., RNNS, CRFs and HMMs), sequence-to-sequence mapping via deep attention models,
+                    question-answering and syntactic parsing. The course puts considerable emphasis on the underlying mathematics of different models.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project as a class competition to build classical and deep models for one of the common NLP tasks. For instance, multi-label sentiment classification of COVID tweets. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1X33xPzSvmrBqCTcMou_zzHF0aVj9sfxT) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Satellite Imaging⁴
           image: https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc320bd72c8dff981f27_634fd7a0d519102536f56469_6320785ed40274f7631b761c_what-is-computer-vision.png
           markdown: "### Instructor: 
@@ -344,24 +344,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/16OI4U3MThCY65IFyh-UMIynwJWrRKSL0) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-        - name: Big Data Analytics⁴
-          image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
-          markdown: "### Instructor: 
-                    \n Dr. Lydia Wahid   \n
-                    ### Potential Prerequisites:
-                    \n Programming Techniques, Probability & Statistics \n
-                    ### Course Content: 
-                    \n In this course, students learn the fundamentals of big data, and how they can use the MapReduce framework to implement
-                    processing techniques that operate on them, the course also covers big data frameworks such as Hadoop and Spark and how they implement distributed computing. 
-                    The course also covers implementations of classical machine learning models such as KNN, Naive Bayes, K-Means and Apriori on big data. The course tops off with a set of
-                    lectures on cloud computing, data warehouses, big data storage strategies and technologies.
-                    \n
-                    ### Project: 
-                    \n Students get to work on a team project where they utilize a big data framework to implement a data science pipeline that solves a real-world problem. \n
-                    ### Material: 
-                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
-                    You may also find useful links in Google drives found in the 'Recently Joined' section.
-                    "  
         - name: Data Science⁴
           image: https://rss.org.uk/RSS/media/Training-and-events/Events/2023/bigstock-Magnifying-Glass-On-Charts-Gra-461636883.jpg?ext=.jpg
           markdown: "### Instructor: 
@@ -380,6 +362,25 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1fRXO_axlPOqj1E-_ibi_oSxATFOqFOfc) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
+        - name: Big Data Analytics⁴
+          image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
+          markdown: "### Instructor: 
+                    \n Dr. Lydia Wahid   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students learn the fundamentals of big data, and how they can use the MapReduce framework to implement
+                    processing techniques that operate on them, the course also covers big data frameworks such as Hadoop and Spark and how they implement distributed computing. 
+                    The course also covers implementations of classical machine learning models such as KNN, Naive Bayes, K-Means and Apriori on big data. The course tops off with a set of
+                    lectures on cloud computing, data warehouses, big data storage strategies and technologies.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they utilize a big data framework to implement a data science pipeline that solves a real-world problem. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
+
     - title: 🤖 Embedded and Digital Courses (Hardware)
       description: Afterall, knowledge of hardware is really what sets computer
         engineers apart from software engineers, right?
@@ -440,6 +441,20 @@
                     ### Material: 
                     \n Material goes here...
                     "  
+        - name: Embedded Systems³
+          image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Computer Architecture³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
           markdown: "### Instructor: 
@@ -456,20 +471,6 @@
                     "  
         - name: Very Large Scale Integration³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
-          markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
-                    ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
-                    ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
-                    ### Project: 
-                    \n Information regarding the course project's goes here...  \n
-                    ### Material: 
-                    \n Material goes here...
-                    "  
-        - name: Embedded Systems³
-          image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
           markdown: "### Instructor: 
                     \n Professor name goes here...    \n
                     ### Potential Prerequisites:
@@ -703,20 +704,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-        - name: Control Engineering³
-          image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
-          markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
-                    ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
-                    ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
-                    ### Project: 
-                    \n Information regarding the course project's goes here...  \n
-                    ### Material: 
-                    \n Material goes here...
-                    "  
         - name: Analog Communication³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
           markdown: "### Instructor: 
@@ -733,6 +720,20 @@
                     "  
         - name: Digital Communication³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
+        - name: Control Engineering³
+          image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
           markdown: "### Instructor: 
                     \n Professor name goes here...    \n
                     ### Potential Prerequisites:

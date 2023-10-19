@@ -20,7 +20,7 @@ It should be self-evident from the side bar; however, here is a small guide:
 
 | Student Type         | Consideration                                   |
 |----------------------|-------------------------------------------------|
-| Prospective Students | Review the "Before Joining" section in the sidebar. If you have any unanswered questions, please create a GitHub issue. |
+| Prospective Students | Review the "Before Joining" section in the sidebar. If you have any unanswered questions, please create a [GitHub issue](https://github.com/EssamWisam/cmp-docs/issues/new) to ask it. |
 | Recent Students      | Consider the "Recently Joined" section.         |
 | All Other Students   | Consider all mentioned sections and feel free to collaborate! |
 

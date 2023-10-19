@@ -1,0 +1,10 @@
+- title: مشاريع تخرج دفعة 2022 🔥
+  description: مستعد تكتشف سيليكون فالي في مصر؟ مشاريع تخرج الدفعة دي حاجة محصلتش من ايام الفراعنة.
+  markdown_title:  معلومات عن المشروع
+  items:
+    - title: 📃 قائمة المشاريع
+      description:  مشاريع تخرج الدفعة دي كالآتي 
+      items:
+        - name: مثال لمشروع
+          image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png
+          markdown: تفاصيل عن المشروع

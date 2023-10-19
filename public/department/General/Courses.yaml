@@ -16,16 +16,71 @@
       items:
         - name: Programming Techniques¹
           image: https://miro.medium.com/v2/resize:fit:1400/1*oFfl-1UKLtd8XOswpwgriA.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Magda Fayek  \n
+                    ### Potential Prerequisites:
+                    \n Programming Basics (Prep. Year) \n
+                    ### Course Content: 
+                    \n The course aims to refresh your programming skills from the prep year and introduce you to object-oriented
+                    programming using C++. After the course you will have familiarity with major OOP concepts such as classes, objects,
+                    inheritance, polymorphism and more. Concepts learnt in this course also generalize to other programming languages that
+                    support the object-oriented paradigm. \n
+                    ### Project: 
+                    \n Students are exposed to a team-based project where they apply OOP using C++. Examples for the project include
+                    Snake & Ladders game, Paint, Logic Gates. \n
+                    ### Material: 
+                    \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
+                    "
         - name: Data Structures & Algorithms¹
           image: https://media.licdn.com/dms/image/C4E0DAQHkF5kYkT0t7Q/learning-public-crop_288_512/0/1567118207311?e=2147483647&v=beta&t=2G1mGsg0G6nnky1NFwy67M7myDLV1kAcDb7KXF2VssI
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Magda Fayek  \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques \n
+                    ### Course Content: 
+                    \n The course aims to introduce students to more advanced programming concepts which include data structures such as bag, stack, queue, binary trees, hash tables and graphs and 
+                    various sorting, searching and recursive algorithms and time complexity analysis.  \n
+                    ### Project: 
+                    \n Students are exposed to a team-based project where they employ data structures and algorithms in the implementation. For example, a restaurant simulation tool. \n
+                    ### Material: 
+                    \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
+                    "   
         - name: Design & Analysis of Algorithms²
           image: https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/image-217.png
-          markdown: This is some specific content
-        - name: Advanced Programming²
+          markdown: "### Instructor: 
+                    \n Dr. Ahmed Hamdy  \n
+                    ### Potential Prerequisites:
+                    \n Design & Analysis of Algorithms \n
+                    ### Course Content: 
+                    \n This is an advanced course that exposes students to various advanced hashing and tree data structures, 
+                    recurrences for time complexity analysis and complexity classes for decision problems, 
+                    advanced algorithmic paradigs such as greedy algorithms and dynamic programming,
+                    various advanced graph algorithms that cover traversal, minimum spanning trees, single and all pair shortest path problems, flow networks, etc.,
+                    and finally some advanced string matching methods.       \n
+                    ### Project: 
+                    \n Students are not exposed to a project in this course but there is a constant flow of nontrivial competition assignments
+                    where students apply what they have learnt. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1LDKSDEnjYSkAxQ8L4B_la61YpPloEzxF) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "   
+        - name: Advanced Programming Techniques²
           image: https://cdn.dribbble.com/users/5485/screenshots/2187027/programming.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Michael Nawar  \n
+                    ### Potential Prerequisites:
+                    \n Data Structures & Algorithms (weak dependency) \n
+                    ### Course Content: 
+                    \n This course is divided into two segments. In the first, students are exposed to the concepts of parallel programming via multi-threading using PThreads and OpenMP and multi-processing via message passing.
+                    In the second segment, students prepare presentations to teach the rest of the class advanced programming concepts such as design patterns, functional programming, network programming, software testing, etc. as well as
+                    advanced programming frameworks and tools such as React, React Native, Flutter, NoSQL DBs, etc. Both segments are part of the final exam.
+                    \n
+                    ### Project: 
+                    \n Students work on a team-based project where the implement a web search engine using Java. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1gnTvnC_LVsVybTVeqThOtU39TDtLYSdM) for parallel programming from 2023 class are available. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "   
     - title: 👩🏻‍💻 Software Engineering Courses
       description: The essence of this set of courses is to expose you to various
         software engineering fields. This includes classic web, desktop and
@@ -35,22 +90,113 @@
       items:
         - name: Databases²
           image: https://miro.medium.com/v2/resize:fit:1400/1*h-sjq8DsN-vZjcXr5-HC9Q.jpeg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Lydia Wahid  \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, \n
+                    Web development (project) \n
+                    ### Course Content: 
+                    \n This is an introductory course on databases where students learn about database fundamentals which include
+                    database design via ER diagrams and their mapping to relational databases, 
+                    operating on databases via SQL and its correspondence to relational algebras, optimizing database structures via
+                    normalization and optimizing queries via heuristics. The course tops off with an introduction to NoSQL databases with
+                    an emphasis on MongoDB and when they should be used.
+                    \n
+                    ### Project: 
+                    \n Students work on a team-based project where they build a dynamic website that uses a meaningful nontrivial database for the backend.   \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1TEwNwc2yXU1EoytXQG7iKZZxMFpVVTMc) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "   
         - name: Software Engineering³
           image: https://kinsta.com/wp-content/uploads/2021/01/adminer-1-1024x512.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Ahmed Kaseb  \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques and possibly, Web Development (project) \n
+                    ### Course Content: 
+                    \n The goals of this course are two fold, (i) to introduce student to various software engineering concepts and (ii)
+                    to let students participate in a large-scale team-based project that simulates an ideal practical software engineering workflow in its execution.
+                    Among the concepts that students are introduced to are, agile development and how it compares to waterfall,  Scrum, software execution models, software
+                    description models, software architectures, cloud-based software, etc.
+                    \n
+                    ### Project: 
+                    \n Students work on a large-scale project where they implement front-end, back-end, cross-platform and mobile interfaces and logic for a 
+                    popular existing website with an open API (e.g., Tumblr, Reddit, SoundCloud, etc.) This experience is constrained to take place while maintaining ideal
+                    software engineering practices used in the industry.   \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1sjCOY1Dv-ekBvT4tGmfUfoNbuQ7bRXVB) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "   
         - name: Advanced Databases⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Michael Nawar  \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Databases, and possibly, Design and Analysis of Algorithms \n
+                    ### Course Content: 
+                    \n This is an advanced course that covers database implementations on the hard disk, 
+                    optimizing access with indexing, low-level query processing implementations, heuristic and dynamic programming based query optimization,
+                    data mining techniques such as Apriori and K-means, scheduling DB transactions and addressing conflicts, locking and concurrency control,
+                    parallel and distributed DBs and queries, NoSQL databases and MapReduce.
+                    \n
+                    ### Project: 
+                    \n Students work on a project where they perform various database-level and query-optimizations on an existing database in SQL and NoSQL.    \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1erPcm7fkZH2UDmfC94uvMwyi70xGCZgD) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Computer Graphics³
           image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23170714/Masters-in-Game-Development.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Ahmed Kaseb  \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques \n
+                    ### Course Content: 
+                    \n In this course, students are exposed to computer graphics fundamentals, 2D and 3D transformations, arbitrary rotations,
+                    orthographic and perspective projections, rasterization of straightlines and triangles, hidden surface elimination, lighting and
+                    ray tracing.
+                    \n
+                    ### Project: 
+                    \n Students work on a project where they build a meaningful 3D game while employing the techniques they learnt in the course.    \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1VWj5NPWay3Mkyz9Gcs_utNvwuyrHrRn8) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Operating Systems²
           image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Mona Farouk  \n
+                    ### Potential Prerequisites:
+                    \n Data Structures and Algorithms \n
+                    ### Course Content: 
+                    \n In this course, students learn about operating system fundamentals and functionalities in detail (management, scheduling, concurrency, synchronization and deadlocks).
+                    They also cover various memory management organizations and algorithms, management of IO devices such as the hard disk and file system implementations.
+                    \n
+                    ### Project: 
+                    \n Students work on a project where they build process scheduling and memory managements systems that employ all relevant algorithms covered in the course.    \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1io3Ee6M3SwsU-DAxP_r190-w5j5JX3rx) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Compilers & Languages⁴
           image: https://cdn.siasat.com/wp-content/uploads/2022/11/avqebe.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Dr. Mona Farouk   \n
+                    ### Potential Prerequisites:
+                    \n Data Structures and Algorithms \n
+                    ### Course Content: 
+                    \n This is an advanced course where students delve into the specification and implementation of each stage in the pipeline of a compiler.
+                    It starts with an introduction on compilers and language translators and then considers the lexical analysis, syntax analysis, semantic analysis,
+                    code generation and code optimization phases of the compiler.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they implement a programming language of their choice or design. 
+                    The language must meet a reasonable minimal set of features to ensure proper understanding of the course.  \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1Kn4ciLaaalRhikK_v4LHk5BFYuebVNwZ) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
     - title: 🧠 Artificial Intelligence
       description: Although AI is just one field of computer science, it's extremely
         broad and the department tries to give it fair coverage. Beware however,
@@ -58,155 +204,691 @@
       items:
         - name: Image Processing³
           image: https://www.coreldraw.com/static/cdgs/product_content/cdgs/seo/gaussian-blur-lg.jpg
-          markdown: This is some specific content about Image Processing.
+          markdown: "### Instructor: 
+                    \n Dr. Mayada Hadhoud   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Algebra & Multivariable Calculus \n
+                    ### Course Content: 
+                    \n In this course, students delve into the basics of image processing and various techniques used in that field. 
+                    This includes the fourier transform and convolution and their uses in filtering, smoothing, edge detection, etc. 
+                    Image transformations such as thresholding, histogram equalization and gamma correction. As well as, morpholical image processing
+                    and its use in hole filling and boundary extraction, image segmentation techniques and shape identification with 
+                    hough transforms, techniques for texture analysis, image feature extraction, Harris corner detection and scale-invariant feature
+                    transforms. The course tops off with an introduction to computer vision and CNNs.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they implement their own image processing or computer vision idea which must satisfy
+                       basic conditions regarding complexity to ensure adequate use of algorithms and techniques taught in the course.    \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/18v3b9FRYLAJiNqD3IyQQG7qtWSuN7eYU) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Pattern Recognition³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
-          markdown: This is some specific content about Pattern Recognition.
+          markdown: "### Instructor: 
+                    \n Dr. AbdelMonem Bayoumi   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students are introduced to artificial intelligence, machine learning and deep learning. The course covers the main types of learning and then proceeds by
+                    delving into various machine learning algorithms, down to their mathematical implementation and derivations such as: minimum distance classifiers, K-NN, 
+                    Bayes classification rule (includes Naive bayes, Linear and Quadratic Discriminant Analysis), Histogram and Kernel density estimation, feature selection methods and PCA,
+                    Adaptive boosting, Gaussian Mixture Models, Decision Trees and Random Forests. The course then proceeds by diving into neural networks where it covers the perceptron and other
+                    basic single-neuron models then proceeds with deep neural networks and backpropagation (mathematically) with a view on different activation functions, loss functions, optimization techniques and
+                    other deep learning concepts.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project as a class competition to build a classifier that operates on unstructed data. 
+                    For example, detecting whether an image of handwritten text was written by a male or a female. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/17bVWLgGaxeKCLjwTc9gj_wEe7aIyN8Ni) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Natural Language Processing⁴
           image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
-          markdown: This is some specific content about Natural Language Processing.
+          markdown: "### Instructor: 
+                    \n Dr. Sandra Wahid   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalizationa and segmenting). 
+                    It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
+                    classical and deep approaches to word classification (e.g, RNNs, Logistic Regression and Naive Bayes), classical and deep approaches to sequence labelling (e.g., RNNS, CRFs and HMMs), sequence-to-sequence mapping via deep attention models,
+                    question-answering and syntactic parsing. The course puts considerable emphasis on the underlying mathematics of different models.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project as a class competition to build classical and deep models for one of the common NLP tasks. For instance, multi-label sentiment classification of COVID tweets. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1X33xPzSvmrBqCTcMou_zzHF0aVj9sfxT) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Theoretical Machine Learning⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
-          markdown: This is some specific content about Machine Learning.
+          markdown: "### Instructor: 
+                    \n Dr. Dina ElReedy   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Algebra & Multivariable Calculus \n
+                    ### Course Content: 
+                    \n This is an advanced course where students learn about machine learning from a pure theoretical perspective with emphasis on why and how
+                    machine learning models work, where concepts such as growth functions, dichotomies and VC dimensions are covered and various bounds for the 
+                    Hoeffding's inequality are derived. Other machine learning processes such as overfitting, regularization,
+                     the bias-variance trade-off, validation are also covered from a theoretical analytical perspective. The course also covers a number of machine learning 
+                     algorithms with considerable emphasis on the underlying mathematics and relation to other theoretical concepts such as perceptron, linear and polynomial regression,
+                      logistic regression, Adaboost and most notably SVMs. The course also discusses, empirical risk minimization, a generalized theoretical view of machine learning.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where the build a machine learning model to solve a real world task where 
+                    extensive analysis of models and results using the topics covered in the course is a necessary requirement. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1uQ9iiadmIY-hg2DnjQaYfE3xNHgMdWrN) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Machine Intelligence⁴
           image: https://img.pikbest.com/png-images/qiantu/red-helicopter-cartoon-illustration_2608969.png!sw800
-          markdown: This is some specific content about Machine Intelligence.
+          markdown: "### Instructor: 
+                    \n Dr. Dina ElReedy   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students get exposed to classical AI and reinforcement learning. This comprises the agent program view of AI
+                    and a wide variety of search algorithms that implement goal-based instances of it, which include BFS, DFS, DFS variations, UCS, Best-first search,
+                    A* and heuristics. The course also covers a wide variety of local and advarserial search algorithms. In the second part of the course, students 
+                    learn about MDPs, Bellman equation, value and policity iteration which set the stage for passive and active reinforcement learning algorithms such as
+                    direct utility estimation, temporal difference learning, Q-learning, SARSA, deep Q-learning and more. The course tops of with a lecture on Bayesian networks 
+                    and probabilistic reasoning.
+                    \n
+                    ### Project: 
+                    \n Student do not get to work on a team project but there is a constant flow of nontrivial assignments that require implementing various techniques and algorithms introduction in the lecture.
+                    As a collaborative exercise, students team up to summarize and present a relevant research paper that extends one of the algorithms or techniques covered in the course.
+                      \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1gtjRdepY1NDqt37-NZD9YtoYmX7ar9W0) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Satellite Imaging⁴
           image: https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc320bd72c8dff981f27_634fd7a0d519102536f56469_6320785ed40274f7631b761c_what-is-computer-vision.png
-          markdown: This is some specific content about Satellite Imaging.
+          markdown: "### Instructor: 
+                    \n Dr. Sandra Wahid   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    ### Course Content: 
+                    \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satallite imagery.
+                    This includes radiometric and geometric correction of images (e.g., haze removal, mapping functions with polynomial regression), PCA for image compression and pan sharpening,
+                    classical pixel classification techniques such as maximum likelihood and parallelepiped classifiers, other classical unsupervised learning techniques such as K-Means and ISOData, 
+                    and deep learning techniques such as convolutional neural networks (CNNs) and how they can be used for semantic segmentationw with the U-net. The course tops off by covering a variety
+                    of classical change detection algorithms and generate adversial networks.
+
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project as a class competition to build a classifier that operates on image data. 
+                    For example, detecting whether an image involve a flood or not and coloring the flooded pixels. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1nk9Eiiumm96K17212PdXzekxS97FRcHF) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Cognitive Robotics⁴
           image: https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-10/smiling-robot-robotics-social-robot.png
-          markdown: This is some specific content about Cognitive Robotics.
+          markdown: "### Instructor: 
+                    \n Dr. AbdelMonem Bayoumi   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    ### Course Content: 
+                    \n This is an advanced course where students delve into various probabilistic techniques that enable state
+                    estimation of a dynamical system in an environment given a prior belief, sensor and action model. The techniques covered include different methods for estimating action models and sensor models,
+                    Bayes filter, Kalman filter and its variants (UKF, EKF), 
+                    discrete Bayes filter, particle filter, mapping with known poses and simultaneous localization and mapping (EKF SLAM, grid-based FastSLAM, FastSLAM + Scan Matching, FastSLAM 2.0).
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they implement mapping with known poses and then simultaneous localization and mapping in a simulation environment using ROS.  \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/16OI4U3MThCY65IFyh-UMIynwJWrRKSL0) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Big Data Analytics⁴
           image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
-          markdown: This is some specific content about Big Data.
+          markdown: "### Instructor: 
+                    \n Dr. Lydia Wahid   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students learn the fundamentals of big data, and how they can use the MapReduce framework to implement
+                    processing techniques that operate on them, the course also covers big data frameworks such as Hadoop and Spark and how they implement distributed computing. 
+                    The course also covers implementations of classical machine learning models such as KNN, Naive Bayes, K-Means and Apriori on big data. The course tops off with a set of
+                    lectures on cloud computing, data warehouses, big data storage strategies and technologies.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they utilize a big data framework to implement a data science pipeline that solves a real-world problem. \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
         - name: Data Science⁴
           image: https://rss.org.uk/RSS/media/Training-and-events/Events/2023/bigstock-Magnifying-Glass-On-Charts-Gra-461636883.jpg?ext=.jpg
-          markdown: This is some specific content about Data Science.
+          markdown: "### Instructor: 
+                    \n Dr. Dina ElReedy   \n
+                    ### Potential Prerequisites:
+                    \n Programming Techniques, Probability & Statistics \n
+                    ### Course Content: 
+                    \n In this course, students learn about the data science pipeline, descriptive statistics, data collection and sampling, 
+                    data cleaning techniques and imputation, exploratory data analytics techniques, and a deep dive on hypothesis testing in a
+                    variety of practical settings. The course tops off with a lecture on data visualization and communicating results.
+                    \n
+                    ### Project: 
+                    \n Students get to work on a team project where they implement the complete data science cycle to solve a real-world problem where they use descriptive,
+                    exploratory and inferential analysis techniques learned during the course and effectively communicate their findings through a presentation.  \n
+                    ### Material: 
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1fRXO_axlPOqj1E-_ibi_oSxATFOqFOfc) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    "  
     - title: 🤖 Embedded and Digital Courses (Hardware)
       description: Afterall, knowledge of hardware is really what sets computer
         engineers apart from software engineers, right?
       items:
         - name: Logic Design I¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-08-pcb-3d/
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Logic Design II¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-07-disposition/
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Microprocessor I²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Microprocessor II²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Computer Architecture³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Very Large Scale Integration³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Embedded Systems³
           image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
     - title: 🌐 Security & Networks
       description: The essence of this set of courses is to introduce you to computer
         networks, how the internet and wireless works and cyber security
       items:
         - name: Cryptography³
           image: https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Computer Networks⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Wireless Networks⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.
       items:
         - name: Algebra & Multivariable Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Numerical Analysis¹
           image: https://i.stack.imgur.com/BJqLU.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Probability & Stats²
           image: https://editor.analyticsvidhya.com/uploads/74661theory-of-probability_stats116.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Discrete Math²
           image: https://hips.hearstapps.com/hmg-prod/images/2plus2-1596824542.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Number Theory³
           image: https://www.researchgate.net/publication/346026529/figure/fig7/AS:959987803234307@1605890336753/Comparison-between-mathematical-results-and-test-data-of-modulus-of-elastic.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
     - title: 📡 Communication Engineering
       description: Mostly for shift career opportunities. Kidding, these are mostly
         prerequisites for the hardware courses or just useful courses.
       items:
         - name: Electrical Circuits¹
           image: https://circuits-elec.com/cdn/shop/files/a9g_grande.jpg?v=1685013700
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Electronic Circuits¹
           image: https://www.hallmarknameplate.com/wp-content/uploads/2016/07/circuit-board-1.jpeg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Electromagnetism & Modern Physics¹
           image: https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/Maldacena/electric_field.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Electrodynamics¹
           image: https://images.newscientist.com/wp-content/uploads/2020/08/26150002/electromagnetsim-fyckc9_web.jpg?width=1200
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Analog Electronics²
           image: https://www.eleccircuit.com/wp-content/uploads/2013/10/The-amplifier-circuits-can-set-input-and-output-ratio.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Digital Electronics²
           image: https://images.easytechjunkie.com/different-sized-transistors.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Signals and Systems²
           image: https://www.allaboutcircuits.com/uploads/articles/3.1_AC_and_DC_Signals_Image1_.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Control Engineering³
           image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Analog Communication³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Digital Communication³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
     - title: 🤷 Other Engineering
       description: Afterall, all engineers should be able to integrate well together.
         Kidding it's just the emoji.
       items:
         - name: Civil Engineering¹
           image: https://www.build-review.com/wp-content/uploads/2021/02/civil-engineering-company.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Mechanical Engineering¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeQ3K510sXwvYAbrCcTHUYGCGahLABo0FNA&usqp=CAU
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Electrical Engineering²
           image: https://engineering-jobs.theiet.org/getasset/85bead92-2e44-4692-b579-3ddf03a9a84b/
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
     - title: 💹 General Courses
       description: More or less equivalent to having business be your minor.
       items:
         - name: Presentation Skills¹
           image: https://www.perkins.org/wp-content/uploads/2022/05/Presenter-scaled.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Technical Writing¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIAuRBXb9N67WkYiUkJGq4_DC2otJC523xA&usqp=CAU
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Project Management²
           image: https://wac-cdn.atlassian.com/dam/jcr:36609480-f4e6-4e66-8691-2dae9e918db5/project-management-social-sharing-image.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Economics²
           image: https://www.cheggindia.com/wp-content/uploads/2021/02/Why-is-Economics-important_-Scope-of-Economics.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Marketing³
           image: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/marketing.png
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Business & Strategic Management³
           image: https://m.economictimes.com/thumb/height-450,width-600,imgsize-2927581,msid-57162865/six-steps-to-running-a-successful-business.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  
         - name: Law and Consultation⁴
           image: https://cdn.britannica.com/51/190451-050-0E9B50F5/soundblock-Wood-scales-books-stack-background-leather.jpg
-          markdown: This is some specific content
+          markdown: "### Instructor: 
+                    \n Professor name goes here...    \n
+                    ### Potential Prerequisites:
+                    \n Probable prerequisites go here... \n
+                    ### Course Content: 
+                    \n The content of the course is described here...
+                    \n
+                    ### Project: 
+                    \n Information regarding the course project's goes here...  \n
+                    ### Material: 
+                    \n Material goes here...
+                    "  

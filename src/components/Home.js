@@ -78,7 +78,7 @@ const Home = () => {
           </div>
         </div>
         <article style={{padding: '1.5rem', overflow: 'scroll', height: "calc(100% - 100px)"}}>
-        <div class="pyro" style={{display:(isGridPage && (jsonData[0].markdown_title === "Student Info") && hoverStatus)?'block':'none'}}>
+        <div class="pyro" style={{display:(isGridPage && (jsonData[0].markdown_title === "Student Info" || jsonData[0].markdown_title === "معلومات عن الطالب") && hoverStatus)?'block':'none'}}>
           <div class="before"></div>
           <div class="after"></div>
         </div>

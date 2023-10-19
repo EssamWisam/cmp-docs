@@ -44,7 +44,7 @@ li {
 
 
 b, strong {
-  color: #8ffffF;
+  color: #00C2CB;
 }
 
 a {
@@ -80,14 +80,13 @@ h1 {
 
 h2 {
   margin: 0.8rem 0.8rem 0rem 0rem;
-  color: #8ffffF;
+  color: #00C2CB;
 }
 
 p {
   text-align: justify !important;
   text-justify: inter-word !important;
   padding: 1rem 0rem;
-  margin-inline-end:3rem;
   font-size: 1rem;
   line-height: 1.8;
 
@@ -115,7 +114,7 @@ th, td {
 }
 
 th {
-  color: #8ffffF;
+  color: #00C2CB;
 
 }
 
@@ -124,6 +123,6 @@ th {
 }
 
 h3 {
-  color: #8ffffF;
+  color: #00C2CB;
 
 }

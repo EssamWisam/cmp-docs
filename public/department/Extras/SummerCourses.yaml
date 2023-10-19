@@ -14,13 +14,50 @@
       items:
         - name: Web  Development
           image: https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png
-          markdown: Info about the course...
+          markdown: "### Instructors: 
+                    \n Essam Wisam (6 Lecs.), Mohamed Fathy (Assistant), Omar Farid (~3 Lecs.), Abdullah Adel (1 Lec.), Basma Elhoseny (~1 Lec.)    \n
+                    ### Course Content: 
+                    \n In this course, students delve into advanced HTML, advanced CSS, advanced JS, TypeScript
+                    React.js, React Native for the front-end and Node.js, Express.jl, MongoDB, Authentication and Authorization for the back-end.
+                    \n
+                    ### Project: 
+                    \n Students got to work on three real-life projects for the front-end (Personal Resume, Resume Generator Website, Dynamic Mobile Menu App) 
+                    and a back-end project as an extension for the Resume Generator website. Each session was associated with a task that required the application of concepts learned..  \n
+                    ### Material: 
+                    \n Details regarding the curriculum and links to the material will be provided here."
+                    
         - name: Embedded Systems
           image: https://predictabledesigns.com/wp-content/uploads/2022/07/Arduino-featured-image.jpg
-          markdown: Info about the course...
+          markdown: "### Instructors: 
+                    \n List instructors here...   \n
+                    ### Course Content: 
+                    \n List course content here...
+                    \n
+                    ### Project: 
+                    \n List the projects students get to work on here  \n
+                    ### Material: 
+                    \n Details regarding the curriculum and links to the material will be provided here."
+
         - name: Linux & Scripting
           image: https://beebom.com/wp-content/uploads/2023/04/best-linux-distros-you-should-use.png?w=730&h=487&crop=1&quality=75
-          markdown: Info about the course...
+          markdown: "### Instructors: 
+                    \n List instructors here...   \n
+                    ### Course Content: 
+                    \n List course content here...
+                    \n
+                    ### Project: 
+                    \n List the projects students get to work on here  \n
+                    ### Material: 
+                    \n Details regarding the curriculum and links to the material will be provided here."
+
         - name: Cyber Security
           image: https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png
-          markdown: Info about the course...
+          markdown: "### Instructors: 
+                    \n List instructors here...   \n
+                    ### Course Content: 
+                    \n List course content here...
+                    \n
+                    ### Project: 
+                    \n List the projects students get to work on here  \n
+                    ### Material: 
+                    \n Details regarding the curriculum and links to the material will be provided here."

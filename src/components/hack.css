@@ -47,4 +47,21 @@
   .panel-body {
     color: var(--primary-color)  !important;
     background-color: var(--inverse-color)  !important;
+    overflow: auto;
+    
   }
+
+
+
+  .pure-modal .panel-body, .pure-modal .panel-footer, .pure-modal .panel-title {
+    word-break: normal !important;
+}
+
+.panel {
+  margin: 2rem !important;
+}
+
+.pure-modal .close {
+  right: 40px !important;
+  top: 40px !important;
+}

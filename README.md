@@ -18,9 +18,10 @@ whether or not to choose computer engineering
 
 ✦ Realize the fact, that we are all one family; and that we are all ready to help one another no matter how far we are from each other.
 
-## 🚆 Navigating the Website
-
 > Beware, this effort is entirely controlled by us students. No professors are involved and this is not official in any sense.
+
+
+## 🚆 Navigating the Website
 
 It should be self-evident from the side bar; however, here is a small guide:
 
@@ -66,7 +67,7 @@ Once you're done. Simply submit a PR; it would be nice if you start proposing th
 
 #### Known Issues
 
-- List do not render natually
+- Lists do not render natually
 - HTML and Latex are not yet supported
 
 <h1 align="center"> Thank you 💗 </h1>

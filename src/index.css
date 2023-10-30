@@ -1,14 +1,60 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@400;500;600;700&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
 /* base styles */
+:root {
+  --siteFont: "Montserrat";
+}
+
+
+
+li {
+  list-style: none;
+  font-size: 20px;
+}
+
+ul li p::before  {
+  content:"✦";
+  font-size:1rem;
+  vertical-align:middle;
+  line-height:20px;
+  padding:0.6rem
+}
+
+ul li p {
+  margin-inline-end: 8rem !important;
+}
+
+ul {
+  list-style-type: disc; /* You can use other values like 'circle' or 'square' */
+  margin-inline-start: 15px; /* Adjust the margin to control the space between the bullet and the content */
+  padding-left: 0; /* Reset the default padding */
+}
+
+li {
+  margin: 5px 0; /* Adjust the margin to control the space between list items */
+}
+
+
+
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins";
   overflow: hidden;
 }
+
+
+b, strong {
+  color: #00C2CB;
+}
+
+a {
+  color:  #00C2CB;
+  text-decoration: none;
+}
+
 body {
   background-color: #1f1f1f ;
+  font-family:  var(--siteFont)
 }
 
 img[alt=image] { 
@@ -29,17 +75,21 @@ img[alt=image50] {
 h1 {
   font-size: 2.2rem;
   margin-bottom: 1.5rem;
+
 }
 
 h2 {
   margin: 0.8rem 0.8rem 0rem 0rem;
+  color: #00C2CB;
 }
 
 p {
   text-align: justify !important;
   text-justify: inter-word !important;
   padding: 1rem 0rem;
-  font-size: 0.9rem;
+  font-size: 1rem;
+  line-height: 1.8;
+
 }
 
 p::selection, h1::selection, h2::selection, h3::selection, 
@@ -63,7 +113,16 @@ th, td {
     text-align: justify;
 }
 
+th {
+  color: #00C2CB;
+
+}
+
 ::-webkit-scrollbar {
     display: none;
 }
 
+h3 {
+  color: #00C2CB;
+
+}

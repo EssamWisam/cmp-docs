@@ -1,26 +1,25 @@
-- title: 📔 Summer Courses for 2023
+- title: 📔 الكورسات الصيفية لسنة 2023
   description: >-
-    This year and for the first time, freshmen and sophomore students
-    were able to enroll in extracurricular courses in the summer to enrich their
-    knowledge in fields that they are interested in. 
+    في السنة دي وللمرة الأولى، بقي ممكن للطلبة من السنة الأولى والثانية التسجيل في كورسات صيفية لإثراء معرفتهم في المجالات اللي مهتمين بيها.
+
      ![image50](https://i.gifer.com/3AyY.gif) 
-  markdown_title: Course Info
+  markdown_title: معلومات
   items:
-    - title: 📂 Courses Offered
-      description: The courses that were made available were Web Development, Embedded
-        Systems, Linux & Scripting, Cyber Security. The course were taught by
-        seniors and graduates from the department and counted as an official
-        form of training.
+    - title: 📂 الكورسات المتوفرة
+      description: 
+      
+        الكورسات اللي تم توفيرها هي تطوير الويب، النظم المدمجة،
+        لينكس والسكربتنج ، الأمن السيبراني. يقوم طلبة الصف الرابع و الخريجين بتدريس الكورسات و يشرف اساتذة القسم علي البرنامج.        
       items:
-        - name: Web  Development
+        - name: تطوير الويب
           image: https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png
-          markdown: Info about the course...
-        - name: Embedded Systems
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: النظم المدمجة
           image: https://predictabledesigns.com/wp-content/uploads/2022/07/Arduino-featured-image.jpg
-          markdown: Info about the course...
-        - name: Linux & Scripting
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: لينكس والسكربتنج
           image: https://beebom.com/wp-content/uploads/2023/04/best-linux-distros-you-should-use.png?w=730&h=487&crop=1&quality=75
-          markdown: Info about the course...
-        - name: Cyber Security
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+        - name: الأمن السيبراني
           image: https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png
-          markdown: Info about the course...
+          markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.

@@ -1,6 +1,9 @@
 # 🧁 CMP Docs
 
-![image](https://i.imgur.com/YkpXfRH.png)
+
+https://github.com/EssamWisam/cmp-docs/assets/49572294/5958c03d-2b18-4ee5-bfb3-395d72c2b946
+
+
 
 I was motivated to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated from the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a summer course to freshmen, I realized that a lot of questions are being repeatedly asked every year; it dawned on me that it would be really nice if answers to all such questions and more information about the computer engineering department at Cairo university were all available in one site.
 
@@ -67,8 +70,7 @@ Once you're done. Simply submit a PR; it would be nice if you start proposing th
 
 #### Known Issues
 
-- Lists are not rendered properly in markdown. So far, manual bullets have been used.
-- Likewise, Latex is not supported in markdown.
-- HTML isn't supported in markdown. This severely limits the amount of colors that can be used...
+- List do not render natually
+- HTML and Latex are not yet supported
 
 <h1 align="center"> Thank you 💗 </h1>

@@ -13,6 +13,7 @@ import {themes, hexToRgba, saveSet, init} from './themes';
 function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isGridPage, currentMarkdown}) {
     const [parsedData, setParsedData] = useState(null);
     const [language, setLanguage] = useState(init('language', 'عربي'))
+    const [font, setFont] = useState(init('font', document.documentElement.style.getPropertyValue("--siteFont")))
 
     useEffect(() => {
       // Fetch the YAML file using a relative path
@@ -62,15 +63,22 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
         fontWeight: open ? 600 : undefined,
       }),
     };
+
+      useEffect(() => {
+        document.documentElement.style.setProperty("--siteFont", font);
+
+      }, [font]);
   
       const handleRTLChange = (e) => {
         if (language === 'English'){
           saveSet(setLanguage, 'language', 'عربي')
           saveSet(setRtl, 'rtl', false)
+          saveSet(setFont, 'font', 'Montserrat')
         }
         else {
           saveSet(setLanguage, 'language', 'English')
           saveSet(setRtl, 'rtl', true)
+          saveSet(setFont, 'font', 'Tajawal')
         }
       };
     

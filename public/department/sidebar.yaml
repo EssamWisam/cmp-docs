@@ -29,7 +29,7 @@ sections:
             icon: MdHelpOutline
             link: "General/Before/FAQ.md"
       - label: Recently Joined
-        label_ar: دخلت القسم
+        label_ar: منضم حديثاً
         icon: MdEmojiEmotions
         items:
           - label: Choosing a Laptop

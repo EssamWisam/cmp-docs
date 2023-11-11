@@ -11,13 +11,13 @@ Set a budget range, filter out all laptops that don't fit your range or aren't i
 Laptops generally fall under three broad types: thin and light, gaming, and workstation laptops.
 
 ### Thin and Lights
-This type of laptop sacrifices performance and sometimes upgradability for the sake of being the most portable. You usually will have to pay more for similar specs to other types while receiving lower performance. Pick this if your commute is long and your back/shoulders are weak, and you don't really care about performance.
+This type of laptop sacrifices performance and sometimes upgradability for the sake of being the most portable with the smallest chargers and longest battery life. You usually will have to pay more for similar specs to other types while receiving lower performance due to inferior cooling or power budget.
 
 ### Gaming 
-Performance at the cost of everything else. These are heavy and hot, but they sure (usually) run fast. Be prepared to carry around a heavy power brick if you intend on doing more than one hour of work unplugged.
+Performance at the cost of everything else. These are heavy and hot, but they sure (usually) run fast. They also don't last long, be prepared to carry around a heavy power brick if you intend on doing more than one hour of work unplugged. You also pay a price premium for the GPU. So make sure you're going to use it before settling on one.
 
 ### Workstations
-Even bulkier than gaming laptops, these laptops are usually bought used as they provide good-ish performance for cheap. They usually have higher end but older parts.
+Sometimes even bulkier than gaming laptops, these laptops are usually bought used as they provide good-ish performance for cheap. They usually have higher end but older parts. Since they are usually bought used, they can hide nasty surprises. Make sure to test them well before buying.
 
 ## Laptop parts
 This section dissuses the main parts that you should compare laptops over.

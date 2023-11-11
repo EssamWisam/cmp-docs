@@ -54,6 +54,8 @@ If your budget is tight and the laptop comes with only one stick, you can later 
 
 Note that some laptops (mostly thin and light ones or budget ones) come with soldered ram, *YOU WILL NOT BE ABLE TO UPGRADE*, so make sure to overprovision.
 
+You'll be running a lot of things that are ram hungry for projects and labs, so the bare minimum you should aim for is 8GB (terrible idea by the way), 16GB+ is strongly preferred if possible. 
+
 ### Screen
 #### Resolution
 Displays contents from the laptop. You'll be staring at this for hours every day. It's advised to at least aim for 1920x1080 for the resolution. You can live with lower resolutions, but they won't be super pleasant.

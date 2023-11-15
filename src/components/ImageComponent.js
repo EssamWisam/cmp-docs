@@ -1,14 +1,14 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 
 const ImageComponent = ({ imageUrl, placeholderUrl, alt }) => {
   const [isValid, setIsValid] = useState(false);
 
-  const checkImage = async () => {
+  // Define checkImage as a useCallback to memoize it
+  const checkImage = useCallback(async () => {
     if(imageUrl === "")
       return;
     try {
       const response = await fetch(imageUrl);
-      console.log(response)
       if (response.ok) {
         setIsValid(true);
       } else {
@@ -17,12 +17,12 @@ const ImageComponent = ({ imageUrl, placeholderUrl, alt }) => {
     } catch (error) {
       setIsValid(false);
     }
-  };
+  }, [imageUrl]); // Add imageUrl as a dependency for useCallback
 
   // Trigger the image check when the component mounts
-  React.useEffect(() => {
+  useEffect(() => {
     checkImage();
-  }, [imageUrl, checkImage]);
+  }, [checkImage]); // Add checkImage as a dependency for useEffect
 
   return (
     <img

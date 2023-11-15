@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 
-const ImageComponent = ({ imageUrl, placeholderUrl }) => {
+const ImageComponent = ({ imageUrl, placeholderUrl, alt }) => {
   const [isValid, setIsValid] = useState(false);
 
   const checkImage = async () => {
-    if(imageUrl == "")
+    if(imageUrl === "")
       return;
     try {
       const response = await fetch(imageUrl);
@@ -22,12 +22,12 @@ const ImageComponent = ({ imageUrl, placeholderUrl }) => {
   // Trigger the image check when the component mounts
   React.useEffect(() => {
     checkImage();
-  }, [imageUrl]);
+  }, [imageUrl, checkImage]);
 
   return (
     <img
       src={isValid ? imageUrl : placeholderUrl}
-      alt="Image"
+      alt={alt}
       style={{ maxWidth: '100%', height: 'auto' }}
     />
   );

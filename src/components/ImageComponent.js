@@ -1,12 +1,14 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const ImageComponent = ({ imageUrl, placeholderUrl, alt }) => {
+const ImageComponent = ({ imageUrl, placeholderUrl, alt, currentMarkdown }) => {
   const [isValid, setIsValid] = useState(false);
 
   // Define checkImage as a useCallback to memoize it
   const checkImage = useCallback(async () => {
-    if(imageUrl === "")
-      return;
+    if(imageUrl === "") {
+    setIsValid(false); 
+    return;
+    }
     try {
       const response = await fetch(imageUrl);
       if (response.ok) {

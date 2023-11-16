@@ -14,12 +14,16 @@
         - name: تطوير الويب
           image: https://www.elegantthemes.com/blog/wp-content/uploads/2018/12/top11.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+          type: Non-Person
         - name: النظم المدمجة
           image: https://predictabledesigns.com/wp-content/uploads/2022/07/Arduino-featured-image.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+          type: Non-Person
         - name: لينكس والسكربتنج
           image: https://beebom.com/wp-content/uploads/2023/04/best-linux-distros-you-should-use.png?w=730&h=487&crop=1&quality=75
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+          type: Non-Person
         - name: الأمن السيبراني
           image: https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
+          type: Non-Person

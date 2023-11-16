@@ -8,3 +8,4 @@
         - name: مثال لطالب
           image: ""
           markdown:  معلومات عن الطالب 
+          type: Person

@@ -10,3 +10,4 @@
         - name: Example Student
           image: ""
           markdown: Example info about student...
+          type: Person

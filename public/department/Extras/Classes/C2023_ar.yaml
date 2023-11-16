@@ -8,262 +8,345 @@
         - name: أحمد أيمن أحمد
           image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-824107216).
+          type: Person
         - name: أحمد إيهاب يسري
           image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ihab-54b1a1195).
+          type: Person
         - name: أحمد جمال عبدالسميع
           image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-gamal01).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image (if exists).
         - name: أحمد حمدي محمد
           image: ""
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: أحمد خالد محمود
           image: "https://media.licdn.com/dms/image/C5603AQEs20ih7CUsEA/profile-displayphoto-shrink_400_400/0/1644320883018?e=1704326400&v=beta&t=fACU75z1eYxzR2VZ-guMHZhhQDOqBcxl7ZFP9HjnFSE"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-khaled-a53363193).
+          type: Person
         - name: أحمد سيد عبدالله
           image: "https://media.licdn.com/dms/image/D4D03AQEJT3N8s0-9Qg/profile-displayphoto-shrink_400_400/0/1673017070008?e=1704326400&v=beta&t=DJ5BV4-UrdmqHFT7iq7cM9Dt35bVv1yJqLfG2ugOw5k"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-sayed-82a5961b5).
+          type: Person
         - name: أحمد عماد الدين
           image: "https://media.licdn.com/dms/image/D4D03AQFpU8PuX8PRMw/profile-displayphoto-shrink_400_400/0/1695410035396?e=1704326400&v=beta&t=X_OLjOGuCDeOgygyoXuzwcdSh6vES3Do7FodKdy4Hqs"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-emad-b8aa371a4).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image (if exists).
         - name: أحمد محمد إبراهيم
           image: ""
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: أحمد محمد عبدالحميد
           image: "https://media.licdn.com/dms/image/C4D03AQHLLSv9qeMKew/profile-displayphoto-shrink_400_400/0/1604095016872?e=1704326400&v=beta&t=8iguiPEreAwZ7NUzXGlODX8u9cBNap9ws3lgkJ8fMEI"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed--mohamed).
+          type: Person
         - name: أحمد محمود الغريب
           image: "https://media.licdn.com/dms/image/C4E03AQH2DJsvo1VLXA/profile-displayphoto-shrink_400_400/0/1646243328517?e=1704326400&v=beta&t=8XAhNibZzLsn3Q3azCYsaoK-AWoyQiCvZ9A9bmcuuvU"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ghareeb-b762391b2/).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image (if exists).
         - name: أحمد محمود حافظ
           image: ""
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: أحمد محمود محمد
           image: "https://media.licdn.com/dms/image/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_400_400/0/1686027677056?e=1704326400&v=beta&t=2BEk3zXgGx6G-5YWGkTSHeQBXu6Ayvn3EQV2avsehgc"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-mahmoud-970378205).
+          type: Person
         - name: أحمد وليد أحمد
           image: "https://media.licdn.com/dms/image/C4D03AQEGbpWkEG8zpA/profile-displayphoto-shrink_400_400/0/1660919667357?e=1704326400&v=beta&t=0oVogFJ8mk91VhUL-TjjGmHynJXTsJ1cemh2XByvbtE"
           markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-waleed-a9b7371a4).
+          type: Person
         - name: أسامة مجدي عايد
           image: "https://media.licdn.com/dms/image/C5603AQEBtSyPDYBj7w/profile-displayphoto-shrink_400_400/0/1585956113196?e=1704326400&v=beta&t=CVPsRRqGR4xu9gFxpLxy7knvgNwa1OcwP2lUVULIjJs"
           markdown: يمكنك معرفة المزيد عن أسامة والتواصل معه من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/osamamagdy174).
+          type: Person
         - name: إسراء جمال سعد
           image: "https://media.licdn.com/dms/image/C4D03AQFNckPr5tZDQw/profile-displayphoto-shrink_400_400/0/1601730147928?e=1704326400&v=beta&t=sUHKOwSkK5JABiuEk2aEcvcrmtnnEQH4IbLke-_fhg4"
           markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/esraa-gamal-9a048418b).
+          type: Person
         # TODO: Make sure that this is a valid LinkedIn link (gives a 404).
         - name: إسراء عمرو محمد
           image: ""
           markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/esraa-amr-mohamed-754bb2184).
+          type: Person
         - name: أندرو بشرى بشاي
           image: "https://media.licdn.com/dms/image/D4D03AQHAHPTAkchyGQ/profile-displayphoto-shrink_400_400/0/1673364405225?e=1704326400&v=beta&t=4PJvjZhEjHsblZveYzP6emVt8VecCMSnhPYdaFGlYm8"
           markdown: يمكنك معرفة المزيد عن أندرو والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/andrew-boshra).
+          type: Person
         - name: ايتن عماد الدين
           image: "https://media.licdn.com/dms/image/C4D03AQEjj0T4Q1-gIQ/profile-displayphoto-shrink_400_400/0/1603962266599?e=1704326400&v=beta&t=tq2lMNUjO_LicQZAmDatnQcM8JqXAoE_MEx8lMmjo4g"
           markdown: يمكنك معرفة المزيد عن ايتن والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/iten-elhak).
+          type: Person
         - name: أيمن محمد رضا
           image: "https://media.licdn.com/dms/image/C5603AQEiietYKdIPaQ/profile-displayphoto-shrink_400_400/0/1609794272081?e=1704326400&v=beta&t=7YPPljaODRWmXgg__HvVIvPeoD2iRvzwVu1pt_0iwWI"
           markdown: يمكنك معرفة المزيد عن أيمن والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ayman-reda-b845b0203).
+          type: Person
         - name: بسنت عبد العظيم
           image: "https://media.licdn.com/dms/image/C4D03AQGFlpr61OICNw/profile-displayphoto-shrink_400_400/0/1596550374494?e=1704326400&v=beta&t=tLw6I46DAsjFv44SB5wlzXpgn02RNKQf1YlAIIe8TuI"
           markdown: يمكنك معرفة المزيد عن بسنت والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/passant-abdelgalil).
+          type: Person
         # ? Peter's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask him if he minds?
         - name: بيتر ميشيل عزمي
           image: "" #"https://media.licdn.com/dms/image/C4D03AQFwhPNFn4stJA/profile-displayphoto-shrink_400_400/0/1598957621750?e=1704326400&v=beta&t=R1YmPSFPwoCP0Kr1vX5sD7nRNutHakcUZkacyXsfotI"
           markdown: يمكنك معرفة المزيد عن بيتر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/peterayad).
+          type: Person
         - name: بيشوي عاطف تادروس
           image: "https://media.licdn.com/dms/image/D4D03AQFpthmsxWvGMg/profile-displayphoto-shrink_400_400/0/1664438142501?e=1704326400&v=beta&t=sN0OxDVLRcfJcvPiZBLFBf7IQOfXdVmo0kXzvL1Jn0I"
           markdown: يمكنك معرفة المزيد عن بيشوي والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/bishoy-atef-36a0891b0).
+          type: Person
         - name: جاسر أشرف فايز
           image: "https://media.licdn.com/dms/image/D4D03AQHV1YlOyyQuow/profile-displayphoto-shrink_400_400/0/1692004195777?e=1704326400&v=beta&t=O5JafiPp5ggLqmx7aNYC5FrnmD8ytLZO0IQfgRWikXQ"
           markdown: يمكنك معرفة المزيد عن جاسر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/gaser-ashraf).
+          type: Person
         - name: حازم خالد أحمد
           image: "https://media.licdn.com/dms/image/C4D03AQFXkvVd8-0Yzw/profile-displayphoto-shrink_400_400/0/1652433618148?e=1704326400&v=beta&t=pytCkK67e6dgsfJjFSH0a9sRCgbaWOSLFncU-T65Sso"
           markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hazemkak).
+          type: Person
         - name: حازم محمود عبدو
           image: "https://media.licdn.com/dms/image/C4D03AQF8SYZ8prpSOA/profile-displayphoto-shrink_400_400/0/1629852951858?e=1704326400&v=beta&t=_2Brq1ur8CzmjluI936t5Vii1WaU1sfYWvl2KFRItkU"
           markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hazemabdo).
+          type: Person
         - name: حسام محمد سعيد
           image: "https://media.licdn.com/dms/image/C5603AQFtkL3lOFjQIQ/profile-displayphoto-shrink_400_400/0/1645619987299?e=1704326400&v=beta&t=q6dn3siUZNng5KjV2SlTy94xWp9tKg9AAvdYSM81FZg"
           markdown: يمكنك معرفة المزيد عن حسام والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hossam-saeed-1abab91b3/).
+          type: Person
         - name: حسين مصطفى حسين
           image: "https://media.licdn.com/dms/image/D4D35AQEI-BNjsZ6qCQ/profile-framedphoto-shrink_400_400/0/1692960564268?e=1700125200&v=beta&t=k4Yzhv1bJDJwr4W5rxX_WzLMCGDMPawIYLibo7mHoAA"
           markdown: يمكنك معرفة المزيد عن حسين والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hussien-awad-b6343a21a).
+          type: Person
         - name: دنيا عبد الفتاح عبد الكريم
           image: "https://media.licdn.com/dms/image/D4D03AQGn-M19AG0UAw/profile-displayphoto-shrink_400_400/0/1690498447937?e=1704326400&v=beta&t=MaiUiDWfdE4rTVAaFp12XvnwXqjGG3cO4tBxNVyEIYw"
           markdown: يمكنك معرفة المزيد عن دنيا والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/donya-esawi-858719191).
+          type: Person
         - name: رضوى أحمد محمد
           image: "https://media.licdn.com/dms/image/D4D03AQFXXyXnvPHKoQ/profile-displayphoto-shrink_400_400/0/1698533633786?e=1705536000&v=beta&t=EEesq26j5z58D0Nny6jJM4J7qgK1H0DDwgSsckPK-qw"
           markdown: يمكنك معرفة المزيد عن رضوى والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/radwa-a-kamel-%F0%9F%87%B5%F0%9F%87%B8-3998091b4/).
+          type: Person
         - name: رغد خالد عبدالحي
           image: "https://media.licdn.com/dms/image/C4D03AQEuA0ESaQBAkQ/profile-displayphoto-shrink_400_400/0/1635107510628?e=1704326400&v=beta&t=MvGwupZqSYkKoy8Wgy7-eGB0POfDlLYXe7_OaNIcMDw"
           markdown: يمكنك معرفة المزيد عن رغد والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/raghad-khaled).
+          type: Person
         - name: روبرت منير إسحاق
           image: "https://media.licdn.com/dms/image/C4D03AQEMDhSGse667A/profile-displayphoto-shrink_400_400/0/1652906642163?e=1704326400&v=beta&t=2Cvf4NCoIfxdnTxR-693gK2Vy_IjAo5DhnfFz15ymJg"
           markdown: يمكنك معرفة المزيد عن روبرت والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/robert-mounir-027b051a0).
+          type: Person
         - name: روعة أحمد سعيد
           image: ""
           markdown: يمكنك معرفة المزيد عن روعة والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/rawaa-ahmed-1233201a2/).
+          type: Person
         - name: ريم عماد رمضان
           image: ""
           markdown: يمكنك معرفة المزيد عن ريم والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/reem-attallah-4484b9190).
+          type: Person
         - name: زياد حسن عبد المقصود
           image: "https://media.licdn.com/dms/image/C4D03AQFNRhDVwTc2-g/profile-displayphoto-shrink_400_400/0/1643158584957?e=1704326400&v=beta&t=8vhwT4GsIw98OYERBCrUad3lVZ4B6nyspkyQjM8WUnk"
           markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ziyadhassan500/).
+          type: Person
         - name: زياد عاطف أحمد
           image: "https://media.licdn.com/dms/image/C4E03AQGhGKqTqX4cWQ/profile-displayphoto-shrink_400_400/0/1611579600682?e=1704326400&v=beta&t=t3_cow3ck28OCRZp4Ezzk_GwJxxncoscAbkupbyVvf0"
           markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ziadatef/).
+          type: Person
         - name: طارق ياسر إسماعيل
           image: "https://media.licdn.com/dms/image/D4D35AQHpiyNGP-0oyA/profile-framedphoto-shrink_400_400/0/1697564684940?e=1700686800&v=beta&t=4coq0KBL-2neOGEFymkIKOM-JNI653zwx0qwpDZKUR8"
           markdown: يمكنك معرفة المزيد عن طارق والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/tarek-ismail-263a031b4).
+          type: Person
         - name: طاهر محمد أحمد
           image: "https://media.licdn.com/dms/image/D4D03AQG3AfGvJlPkkA/profile-displayphoto-shrink_400_400/0/1677891000798?e=1704326400&v=beta&t=jfPBeem1IQEPpTLv75EdEaJRY2jEg0W2QkEqehv_i5A"
           markdown: يمكنك معرفة المزيد عن طاهر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/taher-mohamed-a0802b123).
+          type: Person
         - name: عبدالرحمن جمال سعيد
           image: "https://media.licdn.com/dms/image/D4E03AQH_dE3V3GK1aQ/profile-displayphoto-shrink_400_400/0/1632146337642?e=1704326400&v=beta&t=AulgTzjIuuwN27_y9jkesRMm9z-8siiNfIvr2haNdss"
           markdown: يمكنك معرفة المزيد عن عبدالرحمن والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdelrahmanjamal).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image (if exists).
         - name: عبدالرؤوف حسام عبدالرحمن
           image: ""
           markdown: يمكنك معرفة المزيد عن عبدالرؤوف والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: عبدالله عادل عبدالله
           image: "https://media.licdn.com/dms/image/C4D03AQHiOk_htDswZg/profile-displayphoto-shrink_400_400/0/1595386679001?e=1704326400&v=beta&t=8TgYTzF7h_pCPD6m7U7e2lbS0aVPV384lk5lyDY0H3Y"
           markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdullahadel41).
+          type: Person
         - name: عبدالله محمود محمد
           image: "https://media.licdn.com/dms/image/D4D03AQHq2LDUta4zkQ/profile-displayphoto-shrink_400_400/0/1693238064159?e=1704326400&v=beta&t=Qia0vE-ug5p8wknOJMjDWBUdmarsHBB1z9QHPRBV0Yg"
           markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdalla-mahmoud-8581a7183).
+          type: Person
         - name: عبير حسين محمد
           image: "https://media.licdn.com/dms/image/C4D03AQFr7w4kqMN6cg/profile-displayphoto-shrink_400_400/0/1662467980677?e=1704326400&v=beta&t=pPaTL4_75WLg8oyQ6Zx4HM95U4ow2Xgw5Ig7UJxBCEg"
           markdown: يمكنك معرفة المزيد عن عبير والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/abeer-hussein-295827192).
+          type: Person
         - name: عصام وسام فؤاد
           image: "https://media.licdn.com/dms/image/D4D03AQHghoZGKdeqxQ/profile-displayphoto-shrink_400_400/0/1696902204853?e=1704326400&v=beta&t=Z9dL0RtGaauG3l7TBzkOycG-qxCG9nTBZ74CLV12s6I"
           markdown: يمكنك معرفة المزيد عن عصام والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/essamwisam).
+          type: Person
         - name: عمار محمد صبحي
           image: "https://media.licdn.com/dms/image/D4D03AQFPy2eHJ1f0gA/profile-displayphoto-shrink_400_400/0/1699357738359?e=1705536000&v=beta&t=BIG9SeCr08KhktfASYeShooGE_5uOqkXK10eVFFcDpM"
           markdown: يمكنك معرفة المزيد عن عمار والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ammar21).
+          type: Person
         - name: عمر أحمد محمد
           image: "https://media.licdn.com/dms/image/C4D03AQGE60YhODBXuQ/profile-displayphoto-shrink_400_400/0/1660916209753?e=1704326400&v=beta&t=zCWEz9cGQpKc5B5EJAH6uY3QSgBWE_LOTXJxB-DQQe8"
           markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-ahmed-9a8427169).
+          type: Person
         - name: عمر عبدالفتاح حماد
           image: "https://media.licdn.com/dms/image/C4E03AQFEEpkvsbnrMw/profile-displayphoto-shrink_400_400/0/1630720582052?e=1704326400&v=beta&t=xzkKcCrzODcdGhCv3RMcGVgj3hPTA_z7_NXdXDLV418"
           markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-abd-el-fattah-5898a921b/).
+          type: Person
         - name: عمر محمد أحمد
           image: "https://media.licdn.com/dms/image/D4D03AQGi-eH4TEA1Fg/profile-displayphoto-shrink_400_400/0/1692961991260?e=1704326400&v=beta&t=a6CSzMEYEjeSgS14ErmYRknvxJTgT8U2lQVDG4SEL1g"
           markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-mohamed-a829951a1).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image if exists.
         - name: عمر محمد عبدالفتاح
           image: ""
           markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: غياث عمر صالح
           image: "https://media.licdn.com/dms/image/D4D03AQG56yx4sQ4qag/profile-displayphoto-shrink_400_400/0/1668243515824?e=1704326400&v=beta&t=2QR7ZTVHdN5zwdCmhkxkw-bnNipFV1DtSyIa1uKpoTs"
           markdown: يمكنك معرفة المزيد عن غياث والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ghieath).
+          type: Person
         - name: كريم طه عبدالصبور
           image: ""
           markdown: يمكنك معرفة المزيد عن كريم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/karim-taha-6927711b8).
+          type: Person
         - name: مايكل عزيز فهيم
           image: "https://media.licdn.com/dms/image/C4D03AQEKfngJsGis_w/profile-displayphoto-shrink_400_400/0/1657065295135?e=1704326400&v=beta&t=UdQJI3WXorq5fZm-MzelIyGiLGAMtyodP9a6fUQdE34"
           markdown: يمكنك معرفة المزيد عن مايكل والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/michael-daud-5a00491aa).
+          type: Person
         - name: محمد أحمد فتحي
           image: "https://media.licdn.com/dms/image/D4D03AQGU9MuGEu-88A/profile-displayphoto-shrink_400_400/0/1673366890670?e=1704326400&v=beta&t=LrxZvMVLisy6aim7bmuy7pydVD8-T75QtvW9QLSzwU8"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mhmdfathy/).
+          type: Person
         - name: محمد أكرم عبد الفتاح
           image: "https://media.licdn.com/dms/image/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_400_400/0/1593717417490?e=1704326400&v=beta&t=KdXbb8i2zVvGwrBoP5PhZpnAP3PRvXuMAMw17R7-300"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-akram99/).
+          type: Person
         - name: محمد خالد محمد
           image: "https://media.licdn.com/dms/image/D4D03AQFzDXrboEoHKg/profile-displayphoto-shrink_400_400/0/1691311179965?e=1704326400&v=beta&t=o6eaQ7yVN25FYskClCLk0apRdt7oHm4FzFLfo0AzZUA"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-52425419b/).
+          type: Person
         - name: محمد سعد فتحي
           image: "https://media.licdn.com/dms/image/C4D03AQE4mkabj-KhQg/profile-displayphoto-shrink_400_400/0/1657805923686?e=1704326400&v=beta&t=rhZe-lpt5eaVuE5ywmXqkpEkTnusCzBlWdSZc9PBxVg"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-saad-03b47b218/).
+          type: Person
         - name: محمد سلامة عبد السميع
           image: "https://media.licdn.com/dms/image/C4D03AQGgS7u30OIU0Q/profile-displayphoto-shrink_400_400/0/1633114955012?e=1704326400&v=beta&t=FgUCbQ3ifCxiR7zWzCGSHvZ6NLVzHMP64JM_Lm2nsB8"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-salama-045aa3190/).
+          type: Person
         - name: محمد نبوي حامد
           image: "https://media.licdn.com/dms/image/C4D03AQHi-8IabNt4kQ/profile-displayphoto-shrink_400_400/0/1604271652356?e=1704326400&v=beta&t=pz5jldDB02VmokdUpMCu1n8KaQHUfQ2Q-4EGFyt-95Q"
           markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamednghareeb).
+          type: Person
         - name: محمود السيد محمود
           image: "https://media.licdn.com/dms/image/D4D35AQHT27rxEqjhzg/profile-framedphoto-shrink_400_400/0/1694534418436?e=1700686800&v=beta&t=iZQKMIqsoUQUp-wRfSHiXy-alhsOE7YYK0w01FFhPYI"
           markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mahmoud-raouf-13395a1a2/).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image if exists.
         - name: محمود عمرو نبيل
           image: ""
           markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image if exists.
         - name: محمود محمد عبد العاطي
           image: ""
           markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: مريم أشرف ملاك
           image: "https://media.licdn.com/dms/image/C4D03AQFIQJR8eZFZaQ/profile-displayphoto-shrink_400_400/0/1652108761782?e=1704326400&v=beta&t=pIOi_M_81xXUwHpZyNNqtm-X4KFtxTnecfj3ZS2TfMM"
           markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/mariam-ashraf-b688ab1b2/).
+          type: Person
         - name: مريم صلاح متولي
           image: "https://media.licdn.com/dms/image/D4D03AQGRa02PtX_lOQ/profile-displayphoto-shrink_400_400/0/1693905059516?e=1704326400&v=beta&t=YCP28zR9wQ73ky9ZKPw9g4IneAC5l-CYJCXk0Z-LWdI"
           markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/maryem-salah-6704b0205/).
+          type: Person
         # ? Mariem's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask her if she minds?
         - name: مريم محمد زين
           image: ""#"https://media.licdn.com/dms/image/D4D35AQHa29fbcpWqIA/profile-framedphoto-shrink_400_400/0/1692272509188?e=1699282800&v=beta&t=acCx-Q8bjAA1XyagDzCaIV9b6FkCun_JSvdkMGIs4C0"
           markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/mariem-muhammed-1009801b1/).
+          type: Person
         # ? Marim's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask her if she minds?
         - name: مريم ناصر رشاد
           image: ""#"https://media.licdn.com/dms/image/D4D03AQEcV2AL97eqnA/profile-displayphoto-shrink_400_400/0/1689167639776?e=1704326400&v=beta&t=UPAMF3CCe6ZHfMTiA4kyJW_3ZVBUJpZaJeudSKEGm8E"
           markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/marim-naser-32b85a203/).
+          type: Person
         - name: مصطفى أحمد صبري
           image: "https://media.licdn.com/dms/image/D4D03AQGMBg5QC_-ddg/profile-displayphoto-shrink_400_400/0/1699197496527?e=1705536000&v=beta&t=z6aKVDFeb3bNhIsA-3hE02AfqH-SnGKF7uEBXO7yCtI"
           markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-ahmed-68531520b/).
+          type: Person
         - name: مصطفى مجدي عبد الرحمن
           image: "https://media.licdn.com/dms/image/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_400_400/0/1692777992068?e=1704326400&v=beta&t=3WIzto64xj6b8hdBjpPse_B3nK0eYF3B2vNBVOMZo2g"
           markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-magdi-1200121b9/).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image if exists.
         - name: مصطفى محمد أحمد
           image: ""
           markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: مصطفى محمود كمال
           image: "https://media.licdn.com/dms/image/C4D03AQEU-CQ0MC6k7g/profile-displayphoto-shrink_400_400/0/1656957981142?e=1704326400&v=beta&t=V1Jj1gptwXLjcJkSk8klD-dWunnwr7FsXHp0GqgwkQ8"
           markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-m-kamal-b015691b1/).
+          type: Person
         - name: مصطفى وائل كمال
           image: "https://media.licdn.com/dms/image/C5603AQFppgsFA3A9qg/profile-displayphoto-shrink_400_400/0/1599037872995?e=1704326400&v=beta&t=iq68ApIZr9jZj33B9ONKdzpcVitY5NLftNQvdzl2iWI"
           markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-wael/).
+          type: Person
         - name: منة الله أحمد
           image: ""
           markdown: يمكنك معرفة المزيد عن منى الله والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/menna-allah-ahmed-391bb31a3/).
+          type: Person
         - name: مينا عماد فخري
           image: "https://media.licdn.com/dms/image/C4E03AQG9kGtOCCN6dA/profile-displayphoto-shrink_400_400/0/1609278075685?e=1704326400&v=beta&t=FeWGaC_stv9oke5mTG7rP04xbiQDqK6mCznWTQbkE28"
           markdown: يمكنك معرفة المزيد عن مينا والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mina-emad-4b8712202/).
+          type: Person
         - name: نادين أيمن مصباح
           image: "https://media.licdn.com/dms/image/D4D03AQEvLtTFSMMO3g/profile-displayphoto-shrink_400_400/0/1687428188725?e=1704326400&v=beta&t=uhx9_TqB82W5p4KCNaSfCk6RqFcA5-rrCsipsg6r_8I"
           markdown: يمكنك معرفة المزيد عن ندين والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/nadeen-ayman-3a64aa205/).
+          type: Person
         - name: ندى السيد محمود
           image: "https://media.licdn.com/dms/image/D4D03AQERxMeaF25qNQ/profile-displayphoto-shrink_400_400/0/1686733817018?e=1704326400&v=beta&t=emfSqSNUNpOOoDDs7Hsha3-AtfjcXAF73FjmYMo2b1c"
           markdown: يمكنك معرفة المزيد عن ندى والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/nada-elsayed-384583193/).
+          type: Person
         - name: نور الدين مصطفى
           image: "https://media.licdn.com/dms/image/D4D03AQF-4srWUEhy-w/profile-displayphoto-shrink_400_400/0/1671705363250?e=1704326400&v=beta&t=bzqsDhfOKxjHg_puj29K_Erg1lIvnEnACA2CmJvb1RE"
           markdown: يمكنك معرفة المزيد عن نور والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/nour-aldin-02b9b41b7/).
+          type: Person
         - name: نوران هاني محمد
           image: ""
           markdown: يمكنك معرفة المزيد عن نوران والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/noran-hany-a69103215/).
+          type: Person
         - name: هالة حمدي عبدالهادي
           image: ""
           markdown: يمكنك معرفة المزيد عن هالة والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/hala-hamdy-6665a91b0/).
+          type: Person
         - name: وئام باسم حسني
           image: "https://media.licdn.com/dms/image/D4D03AQGHQs435W1VGA/profile-displayphoto-shrink_400_400/0/1671982925014?e=1704326400&v=beta&t=i6-5twLKGfW59xPNepO44PDQAHZ3NNVQcGoLrLNY5GA"
           markdown: يمكنك معرفة المزيد عن وئام والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/weaam-bassem/).
+          type: Person
         - name: يحيى زكريا محمد
           image: "https://media.licdn.com/dms/image/D4D03AQF4NciCfajM1A/profile-displayphoto-shrink_400_400/0/1697923512093?e=1704326400&v=beta&t=zo9HUOe-OkKY6ySGO_wbZW6Y-5xY337L_jXVm68l-ps"
           markdown: يمكنك معرفة المزيد عن يحيى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yahia-zakaria-9a75581b0/).
+          type: Person
         - name: يوسف أحمد أنور
           image: "https://media.licdn.com/dms/image/D5603AQFbH5BfKT9sqQ/profile-displayphoto-shrink_400_400/0/1673303558766?e=1704326400&v=beta&t=egBsPpE9jmyMPmAbdY-nYpwpQcCq8o9BSAkap2Sx0CU"
           markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousef-ahmed-6a66b2192/).
+          type: Person
         - name: يوسف جمال رضا
           image: "https://media.licdn.com/dms/image/C4D03AQHjn-W2kc3Ppg/profile-displayphoto-shrink_400_400/0/1654362561644?e=1704326400&v=beta&t=ZodCkBoe_09C5qOD-BSPu8YZVwMFZNlon1B-EGWFSaQ"
           markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousef-gamal-225573188/).
+          type: Person
         - name: يوسف عاطف توفيق
           image: "https://media.licdn.com/dms/image/D4D03AQEQfFqJVtQxig/profile-displayphoto-shrink_400_400/0/1683004775680?e=1704326400&v=beta&t=1gHp8MaRLhH8NlzUfSYJSfKc6omW0UFmh1-F_d16-qA"
           markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousefatef/).
+          type: Person
         # TODO: Add missing LinkedIn Profile & Image if exists.
         - name: يوسف عاطف عبدالحليم
           image: ""
           markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
+          type: Person
         - name: يوسف مصطفى المهدي
           image: "https://media.licdn.com/dms/image/D4D03AQFNMZvsGgfq8w/profile-displayphoto-shrink_400_400/0/1684532494135?e=1704326400&v=beta&t=_MH_NJclVt23RLK4WR8hT_WBdbwK3_Aew0TZfWM6vAU"
           markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousefelmahdy/).
+          type: Person

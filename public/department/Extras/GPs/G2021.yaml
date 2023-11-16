@@ -9,3 +9,4 @@
         - name: Example Project
           image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/768px-Google_Chrome_icon_%28February_2022%29.svg.png
           markdown: Example info about project...
+          type: Non-Person

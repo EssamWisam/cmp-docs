@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useCallback } from 'react';
 
-const ImageComponent = ({ imageUrl, placeholderUrl, alt, currentMarkdown }) => {
+const ImageComponent = ({ imageUrl, placeholderUrl, alt}) => {
   const [isValid, setIsValid] = useState(false);
 
   // Define checkImage as a useCallback to memoize it

@@ -85,7 +85,7 @@ const Home = () => {
         {(!isGridPage)?
         <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} />
         :
-        <GridGenerator jsonData={jsonData} setHoverStatus={setHoverStatus} />
+        <GridGenerator jsonData={jsonData} setHoverStatus={setHoverStatus} currentMarkdown={currentMarkdown}/>
         }
         </article>
       </main>

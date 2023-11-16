@@ -119,15 +119,15 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
             
             const new_link = currentMarkdown.split(ending)[0] + "_ar" + ending
             saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            // console.log("currentMarkdown", currentMarkdown)
-            // console.log("new_link:", new_link)        
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
           }
           else {
             
             const new_link = currentMarkdown.split(ending_ar)[0] + "_ar" + ending
             saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            // console.log("currentMarkdown", currentMarkdown)
-            // console.log("new_link:", new_link)      
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)      
           }
         }
         else{
@@ -135,14 +135,14 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
             
             const new_link = currentMarkdown.split(ending_ar)[0] + ending
             saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            // console.log("currentMarkdown", currentMarkdown)
-            // console.log("new_link:", new_link)        
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
           }
           else {
             const new_link = currentMarkdown.split(ending)[0] + ending
             saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            // console.log("currentMarkdown", currentMarkdown)
-            // console.log("new_link:", new_link)        
+            console.log("currentMarkdown", currentMarkdown)
+            console.log("new_link:", new_link)        
           }
       }
     }

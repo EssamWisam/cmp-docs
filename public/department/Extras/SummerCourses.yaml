@@ -26,7 +26,6 @@
                     ### Material: 
                     \n Details regarding the curriculum and links to the material will be provided here."
                     
-          type: Non-Person
         - name: Embedded Systems
           image: https://predictabledesigns.com/wp-content/uploads/2022/07/Arduino-featured-image.jpg
           markdown: "### Instructors: 
@@ -39,7 +38,6 @@
                     ### Material: 
                     \n Details regarding the curriculum and links to the material will be provided here."
 
-          type: Non-Person
         - name: Linux & Scripting
           image: https://beebom.com/wp-content/uploads/2023/04/best-linux-distros-you-should-use.png?w=730&h=487&crop=1&quality=75
           markdown: "### Instructors: 
@@ -52,7 +50,6 @@
                     ### Material: 
                     \n Details regarding the curriculum and links to the material will be provided here."
 
-          type: Non-Person
         - name: Cyber Security
           image: https://vpnoverview.com/wp-content/uploads/what-is-a-hacker-what-is-hacking-featured-800x400.png
           markdown: "### Instructors: 
@@ -64,4 +61,3 @@
                     \n List the projects students get to work on here  \n
                     ### Material: 
                     \n Details regarding the curriculum and links to the material will be provided here."
-          type: Non-Person

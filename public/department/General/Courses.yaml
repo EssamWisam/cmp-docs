@@ -31,7 +31,6 @@
                     ### Material: 
                     \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
                     "
-          type: Course
         - name: Data Structures & Algorithms¹
           image: https://media.licdn.com/dms/image/C4E0DAQHkF5kYkT0t7Q/learning-public-crop_288_512/0/1567118207311?e=2147483647&v=beta&t=2G1mGsg0G6nnky1NFwy67M7myDLV1kAcDb7KXF2VssI
           markdown: "### Instructor: 
@@ -46,7 +45,6 @@
                     ### Material: 
                     \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
                     "   
-          type: Course
         - name: Design & Analysis of Algorithms²
           image: https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/image-217.png
           markdown: "### Instructor: 
@@ -66,7 +64,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1LDKSDEnjYSkAxQ8L4B_la61YpPloEzxF) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
-          type: Course
         - name: Advanced Programming Techniques²
           image: https://cdn.dribbble.com/users/5485/screenshots/2187027/programming.png
           markdown: "### Instructor: 
@@ -84,7 +81,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1gnTvnC_LVsVybTVeqThOtU39TDtLYSdM) for parallel programming from 2023 class are available. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
-          type: Course
     - title: 👩🏻‍💻 Software Engineering Courses
       description: The essence of this set of courses is to expose you to various
         software engineering fields. This includes classic web, desktop and
@@ -112,7 +108,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1TEwNwc2yXU1EoytXQG7iKZZxMFpVVTMc) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Operating Systems²
           image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
           markdown: "### Instructor: 
@@ -129,7 +124,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1io3Ee6M3SwsU-DAxP_r190-w5j5JX3rx) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
-          type: Course
         - name: Software Engineering³
           image: https://kinsta.com/wp-content/uploads/2021/01/adminer-1-1024x512.png
           markdown: "### Instructor: 
@@ -150,7 +144,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1sjCOY1Dv-ekBvT4tGmfUfoNbuQ7bRXVB) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "   
-          type: Course
         - name: Computer Graphics³
           image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23170714/Masters-in-Game-Development.jpg
           markdown: "### Instructor: 
@@ -168,7 +161,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1VWj5NPWay3Mkyz9Gcs_utNvwuyrHrRn8) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Advanced Databases⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
           markdown: "### Instructor: 
@@ -187,7 +179,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1erPcm7fkZH2UDmfC94uvMwyi70xGCZgD) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Compilers & Languages⁴
           image: https://cdn.siasat.com/wp-content/uploads/2022/11/avqebe.jpg
           markdown: "### Instructor: 
@@ -206,7 +197,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1Kn4ciLaaalRhikK_v4LHk5BFYuebVNwZ) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
     - title: 🧠 Artificial Intelligence
       description: Although AI is just one field of computer science, it's extremely
         broad and the department tries to give it fair coverage. Beware however,
@@ -233,7 +223,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/18v3b9FRYLAJiNqD3IyQQG7qtWSuN7eYU) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Pattern Recognition³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
           markdown: "### Instructor: 
@@ -255,7 +244,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/17bVWLgGaxeKCLjwTc9gj_wEe7aIyN8Ni) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Theoretical Machine Learning⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
           markdown: "### Instructor: 
@@ -277,7 +265,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1uQ9iiadmIY-hg2DnjQaYfE3xNHgMdWrN) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Machine Intelligence⁴
           image: https://img.pikbest.com/png-images/qiantu/red-helicopter-cartoon-illustration_2608969.png!sw800
           markdown: "### Instructor: 
@@ -300,7 +287,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1gtjRdepY1NDqt37-NZD9YtoYmX7ar9W0) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Natural Language Processing⁴
           image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
           markdown: "### Instructor: 
@@ -319,7 +305,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1X33xPzSvmrBqCTcMou_zzHF0aVj9sfxT) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Satellite Imaging⁴
           image: https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc320bd72c8dff981f27_634fd7a0d519102536f56469_6320785ed40274f7631b761c_what-is-computer-vision.png
           markdown: "### Instructor: 
@@ -341,7 +326,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1nk9Eiiumm96K17212PdXzekxS97FRcHF) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Cognitive Robotics⁴
           image: https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-10/smiling-robot-robotics-social-robot.png
           markdown: "### Instructor: 
@@ -360,7 +344,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/16OI4U3MThCY65IFyh-UMIynwJWrRKSL0) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Data Science⁴
           image: https://rss.org.uk/RSS/media/Training-and-events/Events/2023/bigstock-Magnifying-Glass-On-Charts-Gra-461636883.jpg?ext=.jpg
           markdown: "### Instructor: 
@@ -379,7 +362,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1fRXO_axlPOqj1E-_ibi_oSxATFOqFOfc) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
         - name: Big Data Analytics⁴
           image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
           markdown: "### Instructor: 
@@ -398,7 +380,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-          type: Course
 
     - title: 🤖 Embedded and Digital Courses (Hardware)
       description: Afterall, knowledge of hardware is really what sets computer
@@ -418,7 +399,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Logic Design II¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-07-disposition/
           markdown: "### Instructor: 
@@ -433,7 +413,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Microprocessor I²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
           markdown: "### Instructor: 
@@ -448,7 +427,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Microprocessor II²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
           markdown: "### Instructor: 
@@ -463,7 +441,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Embedded Systems³
           image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
           markdown: "### Instructor: 
@@ -478,7 +455,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Computer Architecture³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
           markdown: "### Instructor: 
@@ -493,7 +469,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Very Large Scale Integration³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
           markdown: "### Instructor: 
@@ -508,7 +483,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
     - title: 🌐 Security & Networks
       description: The essence of this set of courses is to introduce you to computer
         networks, how the internet and wireless works and cyber security
@@ -527,7 +501,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Computer Networks⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
           markdown: "### Instructor: 
@@ -542,7 +515,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Wireless Networks⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
           markdown: "### Instructor: 
@@ -557,7 +529,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.
       items:
@@ -575,7 +546,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Numerical Analysis¹
           image: https://i.stack.imgur.com/BJqLU.png
           markdown: "### Instructor: 
@@ -590,7 +560,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Probability & Stats²
           image: https://editor.analyticsvidhya.com/uploads/74661theory-of-probability_stats116.jpg
           markdown: "### Instructor: 
@@ -605,7 +574,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Discrete Math²
           image: https://hips.hearstapps.com/hmg-prod/images/2plus2-1596824542.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
           markdown: "### Instructor: 
@@ -620,7 +588,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Number Theory³
           image: https://www.researchgate.net/publication/346026529/figure/fig7/AS:959987803234307@1605890336753/Comparison-between-mathematical-results-and-test-data-of-modulus-of-elastic.png
           markdown: "### Instructor: 
@@ -635,7 +602,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
     - title: 📡 Communication Engineering
       description: Mostly for shift career opportunities. Kidding, these are mostly
         prerequisites for the hardware courses or just useful courses.
@@ -654,7 +620,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Electronic Circuits¹
           image: https://www.hallmarknameplate.com/wp-content/uploads/2016/07/circuit-board-1.jpeg
           markdown: "### Instructor: 
@@ -669,7 +634,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Electromagnetism & Modern Physics¹
           image: https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/Maldacena/electric_field.png
           markdown: "### Instructor: 
@@ -684,7 +648,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Electrodynamics¹
           image: https://images.newscientist.com/wp-content/uploads/2020/08/26150002/electromagnetsim-fyckc9_web.jpg?width=1200
           markdown: "### Instructor: 
@@ -699,7 +662,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Analog Electronics²
           image: https://www.eleccircuit.com/wp-content/uploads/2013/10/The-amplifier-circuits-can-set-input-and-output-ratio.jpg
           markdown: "### Instructor: 
@@ -714,7 +676,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Digital Electronics²
           image: https://images.easytechjunkie.com/different-sized-transistors.jpg
           markdown: "### Instructor: 
@@ -729,7 +690,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Signals and Systems²
           image: https://www.allaboutcircuits.com/uploads/articles/3.1_AC_and_DC_Signals_Image1_.jpg
           markdown: "### Instructor: 
@@ -744,7 +704,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Analog Communication³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
           markdown: "### Instructor: 
@@ -759,7 +718,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Digital Communication³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
           markdown: "### Instructor: 
@@ -774,7 +732,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Control Engineering³
           image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
           markdown: "### Instructor: 
@@ -789,7 +746,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
     - title: 🤷 Other Engineering
       description: Afterall, all engineers should be able to integrate well together.
         Kidding it's just the emoji.
@@ -808,7 +764,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Mechanical Engineering¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeQ3K510sXwvYAbrCcTHUYGCGahLABo0FNA&usqp=CAU
           markdown: "### Instructor: 
@@ -823,7 +778,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Electrical Engineering²
           image: https://engineering-jobs.theiet.org/getasset/85bead92-2e44-4692-b579-3ddf03a9a84b/
           markdown: "### Instructor: 
@@ -838,7 +792,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
     - title: 💹 General Courses
       description: More or less equivalent to having business be your minor.
       items:
@@ -856,7 +809,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Technical Writing¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIAuRBXb9N67WkYiUkJGq4_DC2otJC523xA&usqp=CAU
           markdown: "### Instructor: 
@@ -871,7 +823,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Project Management²
           image: https://wac-cdn.atlassian.com/dam/jcr:36609480-f4e6-4e66-8691-2dae9e918db5/project-management-social-sharing-image.png
           markdown: "### Instructor: 
@@ -886,7 +837,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Economics²
           image: https://www.cheggindia.com/wp-content/uploads/2021/02/Why-is-Economics-important_-Scope-of-Economics.png
           markdown: "### Instructor: 
@@ -901,7 +851,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Marketing³
           image: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/marketing.png
           markdown: "### Instructor: 
@@ -916,7 +865,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Business & Strategic Management³
           image: https://m.economictimes.com/thumb/height-450,width-600,imgsize-2927581,msid-57162865/six-steps-to-running-a-successful-business.jpg
           markdown: "### Instructor: 
@@ -931,7 +879,6 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course
         - name: Law and Consultation⁴
           image: https://cdn.britannica.com/51/190451-050-0E9B50F5/soundblock-Wood-scales-books-stack-background-leather.jpg
           markdown: "### Instructor: 
@@ -946,4 +893,3 @@
                     ### Material: 
                     \n Material goes here...
                     "  
-          type: Course

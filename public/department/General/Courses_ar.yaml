@@ -14,19 +14,15 @@
         - name: أساليب البرمجـة¹
           image: https://miro.medium.com/v2/resize:fit:1400/1*oFfl-1UKLtd8XOswpwgriA.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: هياكل البيانات والخوارزمات¹
           image: https://media.licdn.com/dms/image/C4E0DAQHkF5kYkT0t7Q/learning-public-crop_288_512/0/1567118207311?e=2147483647&v=beta&t=2G1mGsg0G6nnky1NFwy67M7myDLV1kAcDb7KXF2VssI
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: تصميم وتحليل الخوارزمات²
           image: https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/image-217.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: أدوات البرمجة المتقدمة²
           image: https://cdn.dribbble.com/users/5485/screenshots/2187027/programming.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 👩🏻‍💻 كورسات هندسة البرمجيات
       description: هدف مجموعة الكورسات ال هنا انها تعرفك علي المجالات المختلفة الموجودة في هندسة البرمجيات أو الsoftware يعني. 
         و ده بيضم تطوير الويب و برامج الdesktop و برامج الموبايل 
@@ -35,66 +31,51 @@
         - name: إدارة قواعد البيانات²
           image: https://miro.medium.com/v2/resize:fit:1400/1*h-sjq8DsN-vZjcXr5-HC9Q.jpeg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: نظم التشغيل²
           image: https://thefanatic.net/wp-content/uploads/2023/06/What-is-Linux-and-what-are-its-advantages.webp.webp
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: هندسة البرمجيات³
           image: https://kinsta.com/wp-content/uploads/2021/01/adminer-1-1024x512.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: الرسم واتصال الانسان بالحاسب³
           image: https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/11/23170714/Masters-in-Game-Development.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: نظم قواعد بيانات متقدم⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15493/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: اللغات والمترجمات⁴
           image: https://cdn.siasat.com/wp-content/uploads/2022/11/avqebe.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 🧠 الذكاء الاصطناعي
       description: مع ان الذكاء الاصطناعي مجال واحد من علوم الكمبيوتر, إلا إنه مجال واسع جدا و القسم بيحاول يغطيه بعدالة. خلي بالك ان معظمهم كورسات لسنين تالتة و رابعة.
       items:
         - name: معالجة الصورة³
           image: https://www.coreldraw.com/static/cdgs/product_content/cdgs/seo/gaussian-blur-lg.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: التعرف علي الأنماط وتشغيل الصور³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: تعلم الآلة⁴
           image: https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1298255/retina_1708x683_cover-0323-MachineLearning_Dan_Newsletter-b21703f41d807514083e297955e1b46d.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: ذكـاء الآلـة⁴
           image: https://img.pikbest.com/png-images/qiantu/red-helicopter-cartoon-illustration_2608969.png!sw800
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: معالجة اللغة الطبيعية⁴
           image: https://static.vecteezy.com/system/resources/previews/022/227/365/original/openai-chatgpt-logo-icon-free-png.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: تشغيل صور الأقمار الصناعية والاستشعار عن بعد⁴
           image: https://uploads-ssl.webflow.com/614c82ed388d53640613982e/635bcc320bd72c8dff981f27_634fd7a0d519102536f56469_6320785ed40274f7631b761c_what-is-computer-vision.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: الروبوتات الإدراكية⁴
           image: https://builtin.com/cdn-cgi/image/f=auto,quality=80,width=752,height=435/https://builtin.com/sites/www.builtin.com/files/styles/byline_image/public/2022-10/smiling-robot-robotics-social-robot.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: علم البيانات⁴
           image: https://rss.org.uk/RSS/media/Training-and-events/Events/2023/bigstock-Magnifying-Glass-On-Charts-Gra-461636883.jpg?ext=.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: البيانات ذات الحجم الكبير والبرمجة السحابية⁴
           image: https://www.interviewbit.com/blog/wp-content/uploads/2021/06/Big-Data-1024x1004.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
 
     - title: 🤖 الكورسات المدمجة والرقمية (الأجهزة)
       description: بعد كل حاجة،انك تبقي فاهم في الأجهزة هو ال بيميز مهندس الكمبيوتر عن مهندس البرمجيات، ولا ايه؟
@@ -102,31 +83,24 @@
         - name: تصميم منطقى¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-08-pcb-3d/
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: تصميم منطقى متقدم¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-07-disposition/
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: نظم المشغلات الدقيقة²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	نظم الحاسبات المدمجة³
           image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: نظم المشغلات الدقيقة متقدم²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: بنيـة الحاسبات³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: التصميم الرقمي والمنطقي بمساعدة الحاسب³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
 
     - title: 🌐 الأمن والشبكات
       description: جوهر المجموعة ديه من الكورسات هو تعريفك بشبكات الكمبيوتر، وازاي الإنترنت واللاسلكي بيشتغلوا والأمن السيبراني.
@@ -134,124 +108,96 @@
         - name: التشغير وتأمين نظم وشبكات الحاسبات³
           image: https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	شبكات الحاسبات⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: شبكات الحاسبات اللاسلكية والجوالة⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 🧮 الرياضيات
       description: معظم كورسات الرياضيات بتبقي متطلبات أساسية لكورسات تانية.
       items:
         - name: الجبر الخطى والتكامل متعدد المتغيرات¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: التحليل العددى¹
           image: https://i.stack.imgur.com/BJqLU.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: الاحتمالات والإحصاء²
           image: https://editor.analyticsvidhya.com/uploads/74661theory-of-probability_stats116.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	الرياضيات الرقمية²
           image: https://hips.hearstapps.com/hmg-prod/images/2plus2-1596824542.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	مقدمة في نظرية الأعداد³
           image: https://www.researchgate.net/publication/346026529/figure/fig7/AS:959987803234307@1605890336753/Comparison-between-mathematical-results-and-test-data-of-modulus-of-elastic.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 📡 هندسة اتصالات
       description: غالبا علشان لو حد عايز يغير شغلانته. بعيد عن النكت, معظم الكورسات ديه مفيدة لمواد الهاردوير و كورسات مفيدة عامة. 
       items:
         - name: 	دوائر كهربية¹
           image: https://circuits-elec.com/cdn/shop/files/a9g_grande.jpg?v=1685013700
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: دوائر إلكترونية¹
           image: https://www.hallmarknameplate.com/wp-content/uploads/2016/07/circuit-board-1.jpeg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: مقدمة في الفيزيقا الحديثة والمجالات الكهرومغناطيسية¹
           image: https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/Maldacena/electric_field.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: الديناميكا الكهرومغناطيسية¹
           image: https://images.newscientist.com/wp-content/uploads/2020/08/26150002/electromagnetsim-fyckc9_web.jpg?width=1200
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: دوائر إلكترونية تناظرية²
           image: https://www.eleccircuit.com/wp-content/uploads/2013/10/The-amplifier-circuits-can-set-input-and-output-ratio.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: دوائر كهربية رقمية²
           image: https://images.easytechjunkie.com/different-sized-transistors.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: الإشارات والنظم²
           image: https://www.allaboutcircuits.com/uploads/articles/3.1_AC_and_DC_Signals_Image1_.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: هندسة الاتصالات التناظرية³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: اتصالات رقمية³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	هندسة التحكــم³
           image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 🤷 هندسة أخرى
       description: المفروض كل المهندسين يعرفوا يدمجوا شغلهم كويس مع بعض. بهزر الايموجي هو الحقيقة.
       items:
         - name: 	هندسة مدنية¹
           image: https://www.build-review.com/wp-content/uploads/2021/02/civil-engineering-company.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: هندسة ميكانيكية¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeQ3K510sXwvYAbrCcTHUYGCGahLABo0FNA&usqp=CAU
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: هندسة القوى والآلات الكهربية²
           image: https://engineering-jobs.theiet.org/getasset/85bead92-2e44-4692-b579-3ddf03a9a84b/
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
     - title: 💹 الكورسات العامة
       description: من الأخر كأنك بتاخد بيزينس كتخصص ثانوي.
       items:
         - name: 	مھارات العرض والتواصل¹
           image: https://www.perkins.org/wp-content/uploads/2022/05/Presenter-scaled.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: كتابة التقارير الفنية¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIAuRBXb9N67WkYiUkJGq4_DC2otJC523xA&usqp=CAU
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	إدارة المشروعات²
           image: https://wac-cdn.atlassian.com/dam/jcr:36609480-f4e6-4e66-8691-2dae9e918db5/project-management-social-sharing-image.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: 	اقتصاد تكنولوجيا المعلومات²
           image: https://www.cheggindia.com/wp-content/uploads/2021/02/Why-is-Economics-important_-Scope-of-Economics.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: أساليب التسويق والبيع³
           image: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/marketing.png
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: إدارة الأعمال والإدارة الاستراتيجية³
           image: https://m.economictimes.com/thumb/height-450,width-600,imgsize-2927581,msid-57162865/six-steps-to-running-a-successful-business.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course
         - name: القانون والمناقصات واستشارات المهنة⁴
           image: https://cdn.britannica.com/51/190451-050-0E9B50F5/soundblock-Wood-scales-books-stack-background-leather.jpg
           markdown: لم يتم ترجمة هذا الجزء بعد، يمكنك التحويل للنسخة الانجليزية.
-          type: Course

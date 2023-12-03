@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from 'react';
+import { useHistory } from "react-router-dom";
+import { useParams } from "react-router-dom";
 // yaml interaction
 import yaml from 'js-yaml';
 // switch
@@ -14,6 +16,8 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
     const [parsedData, setParsedData] = useState(null);
     const [language, setLanguage] = useState(init('language', 'عربي'))
     const [font, setFont] = useState(init('font', document.documentElement.style.getPropertyValue("--siteFont")))
+    const history = useHistory();
+    const { id } = useParams();
 
     useEffect(() => {
       // Fetch the YAML file using a relative path
@@ -84,10 +88,10 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
     
       useEffect(() => {
         const root = document.documentElement;
-        root.style.setProperty('--primary-color', localStorage.getItem('primary') || '#fcfcfc');
+        root.style.setProperty('--primary-color', localStorage.getItem('primary') || '#f1f1f1');
         root.style.setProperty('--inverse-color', localStorage.getItem('inverse') || '#1d1d1d');
-          document.body.style.backgroundColor = localStorage.getItem('background') ||'#1e1e1e';
-          document.body.style.color = localStorage.getItem('color') ||'#fcfcfc !important';
+          document.body.style.backgroundColor = localStorage.getItem('background') ||'#202020';
+          document.body.style.color = localStorage.getItem('color') ||'#f1f1f1 !important';
       }
       , [])
 
@@ -97,70 +101,50 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
         if (theme==='dark'){
           saveSet(setTheme, 'theme', 'light')
           root.style.setProperty('--primary-color', '#1d1d1d'); localStorage.setItem("primary", '#1d1d1d');
-          root.style.setProperty('--inverse-color', '#fcfcfc'); localStorage.setItem("inverse", '#fcfcfc');
+          root.style.setProperty('--inverse-color', '#f1f1f1'); localStorage.setItem("inverse", '#f1f1f1');
           document.body.style.backgroundColor = '#ffffff';      localStorage.setItem("background", '#ffffff');
           document.body.style.color = '#1d1d1d !important';     localStorage.setItem("color", '#1d1d1d !important');
         }
         else{
           saveSet(setTheme, 'theme', 'dark')
-          root.style.setProperty('--primary-color', '#fcfcfc'); localStorage.setItem("primary", '#fcfcfc');
+          root.style.setProperty('--primary-color', '#f1f1f1'); localStorage.setItem("primary", '#f1f1f1');
           root.style.setProperty('--inverse-color', '#1d1d1d'); localStorage.setItem("inverse", '#1d1d1d');
-          document.body.style.backgroundColor = '#1e1e1e';      localStorage.setItem("background", '#1e1e1e');
-          document.body.style.color = '#fcfcfc !important';     localStorage.setItem("color", '#fcfcfc !important');
+          document.body.style.backgroundColor = '#202020';      localStorage.setItem("background", '#202020');
+          document.body.style.color = '#f1f1f1 !important';     localStorage.setItem("color", '#f1f1f1 !important');
         }
       };
   
-      function handle_page_lang_change(rtl, currentMarkdown){
-        const isMarkdown = currentMarkdown.endsWith('.md')
-        const ending = (!isMarkdown) ? ".yaml" : ".md"
-        const ending_ar = (!isMarkdown) ? "_ar.yaml" : "_ar.md"
-        if (rtl){
-          if (!currentMarkdown.includes("_ar")){
-            
-            const new_link = currentMarkdown.split(ending)[0] + "_ar" + ending
-            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            console.log("currentMarkdown", currentMarkdown)
-            console.log("new_link:", new_link)        
-          }
-          else {
-            
-            const new_link = currentMarkdown.split(ending_ar)[0] + "_ar" + ending
-            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            console.log("currentMarkdown", currentMarkdown)
-            console.log("new_link:", new_link)      
-          }
+      useEffect(()=>{
+        if(rtl && !id.includes('_ar'))
+        {
+          let ar_id = id.replace('_m', '_ar_m').replace('_y', '_ar_y');
+          history.push(ar_id)
         }
-        else{
-          if (currentMarkdown.includes("_ar")){
-            
-            const new_link = currentMarkdown.split(ending_ar)[0] + ending
-            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            console.log("currentMarkdown", currentMarkdown)
-            console.log("new_link:", new_link)        
-          }
-          else {
-            const new_link = currentMarkdown.split(ending)[0] + ending
-            saveSet(setCurrentMarkdown, "currentMarkdown", new_link)
-            console.log("currentMarkdown", currentMarkdown)
-            console.log("new_link:", new_link)        
-          }
-      }
-    }
-
-      useEffect(()=>{handle_page_lang_change(rtl, currentMarkdown)}, 
-      // eslint-disable-next-line react-hooks/exhaustive-deps
+        if(!rtl && id.includes('_ar')) {
+          let en_id = id.replace('_ar_m', '_m').replace('_ar_y', '_y');
+          history.push(en_id)
+        }
+      }, 
+       //eslint-disable-next-line react-hooks/exhaustive-deps 
       [rtl])
 
+    
     // Helper function to create a MenuItem
     const createMenuItem = (label, label_ar, icon, link, rtl) => {
-      // Dynamically access the MaterialDesign component based on the icon variable
+      // Dynamically access the MaterialDesign component based on the icon variable handle_page_lang_change(rtl,  "../department/"+link)
       const IconComponent = MaterialDesign[icon];
-      //const link_ar = link.split(((isGridPage) ? ".yaml" : ".md"))[0] + "_ar" + ((isGridPage) ? ".yaml" : ".md")
-      //const link_to_add = (rtl) ? link_ar : link
-
-      // h
+      // link no md
+      function get_link(link) {
+      let new_link = link;
+      if (rtl){
+        new_link = new_link.replace(/\.md$/, '_ar.md');
+        new_link = new_link.replace(/\.yaml$/, '_ar.yaml');
+      }
+      new_link = new_link.replace(/\.md$/, '_m').replace(/\.yaml$/, '_y').replace(/\//g, '-').toLowerCase();
+      return new_link;
+    }
       return (
-        <MenuItem onClick={()=>{handle_page_lang_change(rtl,  "../department/"+link)}} icon={<IconComponent size={20} />}>{(rtl)?label_ar:label}</MenuItem>
+          <MenuItem onClick={()=>{history.push(get_link(link))}} icon={<IconComponent size={20} />}>{(rtl)?label_ar:label}</MenuItem>
       );
     };
   

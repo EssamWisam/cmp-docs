@@ -29,6 +29,19 @@
     box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.4); 
     margin: 3px;
   }
+
+  @media (max-width: 768px) {
+    .course-circle img {
+      width: 100px !important;
+      height: 100px !important;
+    }
+    #p {
+      font-size: 0.8rem !important;
+      max-width: 100px !important;
+    }
+  }
+
+
   
   .course-circle p {
     margin-top: 3px;

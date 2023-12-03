@@ -13,6 +13,8 @@ import remarkGfm from 'remark-gfm'
 import {themes, hexToRgba, saveSet, init} from './themes';
 // css
 import './hack.css';          // modifies some internal styles
+// navigation
+import { useParams } from "react-router-dom";
 
 const Home = () => {
   const [toggled, setToggled] = useState(init('toggled', false));
@@ -21,8 +23,19 @@ const Home = () => {
   const [theme, setTheme] = useState(init('theme', 'dark'));
   const [markdown, setMarkdown] = useState(init('markdown', `Just loading...`));
   const [jsonData, setJsonData] = useState(init('jsonData', {}))
-  const [currentMarkdown, setCurrentMarkdown] = useState(init('currentMarkdown', './department/Extras/About.md'));
+  const { id } = useParams();
+  const [currentMarkdown, setCurrentMarkdown] = useState(init('currentMarkdown', `./department/extras/about.md`));
   const [isGridPage, setIsGridPage] = useState(init('isGridPage', false));
+  // when the page loads, setCurrentMarkdown
+  useEffect(()=> {
+    if(id!==undefined) {
+    const file = id.replace(/_m/g, '.md').replace(/_y/g, '.yaml').replace(/-/g, '/');
+    setCurrentMarkdown(`./department/${file}`);
+    }
+    else {
+      setCurrentMarkdown(`./department/extras/about.md`);
+    }
+  },[id]);
 
   useEffect(() => {
     fetch(currentMarkdown)

@@ -54,7 +54,7 @@
                     ### Course Content: 
                     \n This is an advanced course that exposes students to various advanced hashing and tree data structures, 
                     recurrences for time complexity analysis and complexity classes for decision problems, 
-                    advanced algorithmic paradigs such as greedy algorithms and dynamic programming,
+                    advanced algorithmic paradigms such as greedy algorithms and dynamic programming,
                     various advanced graph algorithms that cover traversal, minimum spanning trees, single and all pair shortest path problems, flow networks, etc.,
                     and finally some advanced string matching methods.       \n
                     ### Project: 
@@ -152,7 +152,7 @@
                     \n Programming Techniques \n
                     ### Course Content: 
                     \n In this course, students are exposed to computer graphics fundamentals, 2D and 3D transformations, arbitrary rotations,
-                    orthographic and perspective projections, rasterization of straightlines and triangles, hidden surface elimination, lighting and
+                    orthographic and perspective projections, rasterization of straight lines and triangles, hidden surface elimination, lighting and
                     ray tracing.
                     \n
                     ### Project: 
@@ -207,11 +207,11 @@
           markdown: "### Instructor: 
                     \n Dr. Mayada Hadhoud   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariable Calculus \n
+                    \n Programming Techniques, Algebra & Multivariate Calculus \n
                     ### Course Content: 
                     \n In this course, students delve into the basics of image processing and various techniques used in that field. 
                     This includes the fourier transform and convolution and their uses in filtering, smoothing, edge detection, etc. 
-                    Image transformations such as thresholding, histogram equalization and gamma correction. As well as, morpholical image processing
+                    Image transformations such as thresholding, histogram equalization and gamma correction. As well as, morphological image processing
                     and its use in hole filling and boundary extraction, image segmentation techniques and shape identification with 
                     hough transforms, techniques for texture analysis, image feature extraction, Harris corner detection and scale-invariant feature
                     transforms. The course tops off with an introduction to computer vision and CNNs.
@@ -228,17 +228,17 @@
           markdown: "### Instructor: 
                     \n Dr. AbdelMonem Bayoumi   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Algebra & Multivariate Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n In this course, students are introduced to artificial intelligence, machine learning and deep learning. The course covers the main types of learning and then proceeds by
                     delving into various machine learning algorithms, down to their mathematical implementation and derivations such as: minimum distance classifiers, K-NN, 
                     Bayes classification rule (includes Naive bayes, Linear and Quadratic Discriminant Analysis), Histogram and Kernel density estimation, feature selection methods and PCA,
                     Adaptive boosting, Gaussian Mixture Models, Decision Trees and Random Forests. The course then proceeds by diving into neural networks where it covers the perceptron and other
-                    basic single-neuron models then proceeds with deep neural networks and backpropagation (mathematically) with a view on different activation functions, loss functions, optimization techniques and
+                    basic single-neuron models then proceeds with deep neural networks and back-propagation (mathematically) with a view on different activation functions, loss functions, optimization techniques and
                     other deep learning concepts.
                     \n
                     ### Project: 
-                    \n Students get to work on a team project as a class competition to build a classifier that operates on unstructed data. 
+                    \n Students get to work on a team project as a class competition to build a classifier that operates on unstructured data. 
                     For example, detecting whether an image of handwritten text was written by a male or a female. \n
                     ### Material: 
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/17bVWLgGaxeKCLjwTc9gj_wEe7aIyN8Ni) and other nice material can be found in 2023 class Google drive. 
@@ -249,7 +249,7 @@
           markdown: "### Instructor: 
                     \n Dr. Dina ElReedy   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariable Calculus \n
+                    \n Programming Techniques, Algebra & Multivariate Calculus \n
                     ### Course Content: 
                     \n This is an advanced course where students learn about machine learning from a pure theoretical perspective with emphasis on why and how
                     machine learning models work, where concepts such as growth functions, dichotomies and VC dimensions are covered and various bounds for the 
@@ -274,8 +274,8 @@
                     ### Course Content: 
                     \n In this course, students get exposed to classical AI and reinforcement learning. This comprises the agent program view of AI
                     and a wide variety of search algorithms that implement goal-based instances of it, which include BFS, DFS, DFS variations, UCS, Best-first search,
-                    A* and heuristics. The course also covers a wide variety of local and advarserial search algorithms. In the second part of the course, students 
-                    learn about MDPs, Bellman equation, value and policity iteration which set the stage for passive and active reinforcement learning algorithms such as
+                    A* and heuristics. The course also covers a wide variety of local and adversarial search algorithms. In the second part of the course, students 
+                    learn about MDPs, Bellman equation, value and policy iteration which set the stage for passive and active reinforcement learning algorithms such as
                     direct utility estimation, temporal difference learning, Q-learning, SARSA, deep Q-learning and more. The course tops of with a lecture on Bayesian networks 
                     and probabilistic reasoning.
                     \n
@@ -292,9 +292,9 @@
           markdown: "### Instructor: 
                     \n Dr. Sandra Wahid   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariate Calculus, Probability & Statistics \n
                     ### Course Content: 
-                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalizationa and segmenting). 
+                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalization and segmenting). 
                     It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
                     classical and deep approaches to word classification (e.g, RNNs, Logistic Regression and Naive Bayes), classical and deep approaches to sequence labelling (e.g., RNNS, CRFs and HMMs), sequence-to-sequence mapping via deep attention models,
                     question-answering and syntactic parsing. The course puts considerable emphasis on the underlying mathematics of different models.
@@ -310,13 +310,13 @@
           markdown: "### Instructor: 
                     \n Dr. Sandra Wahid   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariate Calculus, Probability & Statistics \n
                     ### Course Content: 
-                    \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satallite imagery.
+                    \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satellite imagery.
                     This includes radiometric and geometric correction of images (e.g., haze removal, mapping functions with polynomial regression), PCA for image compression and pan sharpening,
                     classical pixel classification techniques such as maximum likelihood and parallelepiped classifiers, other classical unsupervised learning techniques such as K-Means and ISOData, 
-                    and deep learning techniques such as convolutional neural networks (CNNs) and how they can be used for semantic segmentationw with the U-net. The course tops off by covering a variety
-                    of classical change detection algorithms and generate adversial networks.
+                    and deep learning techniques such as convolutional neural networks (CNNs) and how they can be used for semantic segmentation with the U-net. The course tops off by covering a variety
+                    of classical change detection algorithms and generate adversarial networks.
 
                     \n
                     ### Project: 
@@ -331,7 +331,7 @@
           markdown: "### Instructor: 
                     \n Dr. AbdelMonem Bayoumi   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Algebra & Multivariate Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n This is an advanced course where students delve into various probabilistic techniques that enable state
                     estimation of a dynamical system in an environment given a prior belief, sensor and action model. The techniques covered include different methods for estimating action models and sensor models,
@@ -382,7 +382,7 @@
                     "  
 
     - title: 🤖 Embedded and Digital Courses (Hardware)
-      description: Afterall, knowledge of hardware is really what sets computer
+      description: After all, knowledge of hardware is really what sets computer
         engineers apart from software engineers, right?
       items:
         - name: Logic Design I¹
@@ -532,7 +532,7 @@
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.
       items:
-        - name: Algebra & Multivariable Calculus¹
+        - name: Algebra & Multivariate Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
           markdown: "### Instructor: 
                     \n Professor name goes here...    \n
@@ -747,7 +747,7 @@
                     \n Material goes here...
                     "  
     - title: 🤷 Other Engineering
-      description: Afterall, all engineers should be able to integrate well together.
+      description: After all, all engineers should be able to integrate well together.
         Kidding it's just the emoji.
       items:
         - name: Civil Engineering¹

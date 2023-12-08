@@ -6,4 +6,19 @@
 
 وفي نفس الوقت، الفولدر لكل مادة ممكن يبقي ليه أشكال كتيرة. و اللينك ده [مثال](https://drive.google.com/drive/u/1/folders/1xX7i8WfnxVCHv1sH6U5smRfJek846hgB) لشكل ممكن يبقي عليه فولدر مادة. خلي بالك من الprogress document. مش المفروض حد يحتاج يسأل "أخدنا إيه في محاضرة أ؟"
 
-هتتم إضافة اللينكات لدرايفز السنين الفاتت هنا بعدين.
+الجدول ده فيه لينكس لدرايفز لشوية من السنين الفاتت و السنين الحالية:
+
+| سنة التخرج | الرئيسية | الرصيد (EECE) |
+|------|-----------|--------|
+| ٢٠٢٥ | [حسب٢٥](https://drive.google.com/drive/folders/1vriiFydZc0TPZDiy6mPbiwfUa9do59NK?usp=drive_link) | ... |
+| ٢٠٢٤ | [حسب٢٤](https://drive.google.com/drive/folders/1af_FFXZXqsSr6W3hgQHJvxFxW6c5PGC2?usp=drive_link) | [ECCE24](https://drive.google.com/drive/folders/10bGZq6unDsOwnOZsDfZw2E6zNMigFAJf?usp=drive_link) |
+| ٢٠٢٣ | [حسب٢٣](https://drive.google.com/drive/folders/1hqmuFtbxwzDCaCEgrzEk3apL2C5150PE?usp=drive_link) | [EECE23](https://drive.google.com/drive/folders/1-uM2-QpS-ZFN189rV4y_SfZ6atqUJMBi?usp=drive_link) |
+| ٢٠٢٢ | [حسب٢٢](https://drive.google.com/drive/folders/18T1HAAbDZLy2mLo5TgSCr-9uLgI1YNE1?usp=drive_link) | [EECE22](https://drive.google.com/drive/folders/117rCUXcS55at0w_u2odtLue8ClQ9EHqg?usp=drive_link) |
+| ٢٠٢١ | [حسب٢١](https://drive.google.com/drive/folders/0B1QLZwSOOq9yVk1vTjd0UWNkdTA?resourcekey=0-BPKPmBA-TO-GR-YItvsC8Q&usp=drive_link) | ... |
+| ٢٠٢٠ | [حسب٢٠](https://drive.google.com/drive/folders/0B0MGBvXlNde8a1RkRElidXA4bEE?resourcekey=0-yuQra9Eh96IpX9h3w1GssQ&usp=drive_link) | ... |
+| ٢٠١٩ | [حسب١٩](https://drive.google.com/drive/folders/1Ln-jZqZdYOBZ_fzEfxc46p1GsizyBuSq?usp=drive_link) | ... |
+| ٢٠١٨ | [حسب١٨](https://drive.google.com/drive/folders/0B-TtiNV0XQ4iRW1lVVRrTkV2SVE?resourcekey=0-O1Exj6yKmRa3iVs9KU_0dg&usp=drive_link) | ... |
+| ٢٠١٧ | [حسب١٧](https://drive.google.com/drive/folders/0B-TtiNV0XQ4iUm5NZzNLNG1URFk?resourcekey=0-qcTLAi-CqmhmdKzn0PLEHA&usp=drive_link) | ... |
+| ٢٠١٦ | [حسب١٦](https://drive.google.com/drive/folders/18uj_9sGkuU90gwnJQVXqKsGMnMAC-Bgb?usp=drive_link) | ... |
+
+هتتم إضافة باقي اللينكات لدرايفز السنين الفاتت هنا بعدين.

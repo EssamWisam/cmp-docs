@@ -17,7 +17,7 @@ The rest of this article will be devoted to explaining what each of these is abo
 
 One definition for software engineering is "the process of developing, testing and deploying computer applications to solve real-world problems by adhering to a set of engineering principles and best practices". Thus, it is about:
 
-### Development
+### 🛠️ Development
 Developing software is another way for saying writing code. Any software you interact with such as websites, mobile apps, computer programs corresponds to a text file containing code that make the software look, behave and function in the way that it does. Even your operating system (e.g., Windows) corresponds to text files with code.
 
 Different programming languages are suitable for different types of software:
@@ -36,11 +36,11 @@ Different programming languages are suitable for different types of software:
 
 Thus, front-end web developers will have reasonable expertise in HTML, CSS, JS and back-end developers will have expertise in one or more of JavaScript, Python, Ruby, etc. Although JavaScript is all over the map, it is not always the best choice and there are variations on it (frameworks) for each different platform.
 
-### Testing
+### 🧪 Testing
 As the definition suggests, the next type of software engineering job is testing. Before software (of any of the types above) is rolled out to production (e.g., before the website goes live), extensive testing has to take place. Testers write code (test scripts) that automatically tests the software and report the results to software developers. Note that software developers also write small tests, but the serious work is carried out by software testers. Quality Assurance of QA is a broader concept that includes software testing.
 ![image](https://i.gifer.com/66Uj.gif)
 
-### Deployment
+### 🚀 Deployment
 Deployment is the process of taking software from a development environment to a production environment (rolling out to production). When developers build a software (e.g., website), it is only available on the computers where it was coded. Deployment is how it gets to the end users. The DevOps field involves deployment which is a big topic, and other automation activities.
 
 **You will cover about 10 courses in software engineering, 4 of which will be around programming and computer science fundamentals.**
@@ -49,7 +49,7 @@ Deployment is the process of taking software from a development environment to a
 
 One well-established definition of AI is that it is "The ability of a computer to perform tasks commonly associated with intelligent beings." On the other hand, machine learning is one branch of AI where computer programs that learn from data are developed. Some programs, such as search algorithms, that can help a robot solve a maze, are called artificial intelligence but not machine learning because the program did not learn anything from data.
 
-### Machine Learning
+### 🤖 Machine Learning
 Machine learning is about having some data and then using it to learn something interesting. The following table shows examples of data available and what can be learned from it.
 
 | Example Dataset   | What Can be Learnt     |
@@ -69,7 +69,7 @@ Machine and deep learning libraries allow developers to focus on experimentation
 
 ![image50](https://i.redd.it/tscfed1aulw51.jpg)
 
-### Deep Learning
+### 🧠 Deep Learning
 A branch of machine learning that uses deep neural networks which are just a specific form for the mathematical model. It is deep because the function is highly composite (function inside function inside function...) and it can be represented graphically by a network. Deep learning is much better than other machine learning approaches when the data is unstructured (e.g., images, videos, audio, text and not just an Excel table), which have more staggering application.
 
 **You will cover about 9 courses in AI & Machine Learning. About 3-4 will involve deep learning.**
@@ -80,7 +80,7 @@ Python is the programming language most commonly used for this field.
 
 These are the two hardware-related fields that you will be introduced to in the department. They are very different from one another.
 
-### Embedded Systems
+### 🕹️ Embedded Systems
 
 An embedded system is defined as "a computer system (has similar but often simpler components than computer) that has a dedicated function within a larger mechanical or electronic system." The larger system where the computer system is embedded is most likely a robot or a device that is used in a specific industry.
 
@@ -92,14 +92,14 @@ The way embedded systems are achieved is by programming the computer system (wri
 
 C is one of the most common programming languages used for embedded systems.
 
-### Digital Design
+### 🖱️ Digital Design
 
 Digital design is about designing and building digital devices which include processors, graphical processing units and other digital computer units that can be part of the computer. It is achieved by hardware description languages such as Verilog and VHDL that are used to describe the hardware with code, the code is then converted to actual hardware by a fabrication lab.
 
 **You will cover about 7 courses on hardware. 3 related to fundamentals, 2 related to embedded systems and 2 related to digital design.**
 
 
-## Cyber Security and Networks
+## 🌐🔒 Cyber Security and Networks
 
 This involves writing code so that different devices can communicate with each other. Because the signals are sent over cables or over air, security becomes a serious issue so code is also written to help with security. 
 

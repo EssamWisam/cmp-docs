@@ -5,7 +5,7 @@ Generally, the minimum needed specs for a laptop are not that high. Let's begin 
 Note that unlike desktop PCs where you can mostly mix and match parts, laptops come mostly as a whole package. You're usually able to upgrade the storage/RAM, but that's it. So you're stuck with whatever choose until you upgrade to a new laptop. Make sure to plan a little ahead and be prepared to strech your budget if you plan on keeping your laptop for long (5+ years).
 
 ## Picking a laptop in a nutshell
-Set a budget range, filter out all laptops that don't fit your range or aren't in stock, filter out laptops that dont fit your usage, the watch as many reviews as you can for each laptop so you get to know the pros and cons for each. You can then settle on one and buy it. Keep in mind that you can buy from Egypt for local warranty (for what it's worth), or from outside if you want to save money.
+Set a budget range, filter out all laptops that don't fit your range or aren't in stock, filter out laptops that dont fit your usage, then watch as many reviews as you can for each laptop so you get to know the pros and cons for each. You can then settle on one and buy it. Keep in mind that you can buy from Egypt for local warranty (for what it's worth), or from abroad if you want to save money.
 
 ## Laptop types
 Laptops generally fall under three broad types: thin and light, gaming, and workstation laptops.
@@ -23,11 +23,10 @@ Sometimes even bulkier than gaming laptops, these laptops are usually bought use
 This section dissuses the main parts that you should compare laptops over.
 
 ### CPU
-The brains of the laptop. This will contribute greatly to how smooth and responsive your experience is with the laptop. These are usually called "Intel Core i7 9750H",  "AMD Ryzen 5 5500U", etc.. Let's begin by breaking down the naming convention.
+The brains of the laptop. This will contribute greatly to how smooth and responsive your experience is with the laptop. These are usually called "Intel Core i7 9750H",  "AMD Ryzen 5 5500U", etc.. Let's begin by breaking down the naming convention:
 
-#### Naming Convention
 ##### Manufacturer
-(Intel/AMD): These are the biggest two names in laptop processors at the time of writing (if we ignore apple for a minute), they're usually about equal, we'll discuss them a bit later on. 
+(Intel/AMD): These are the biggest two names in laptop processors at the time of writing (if we ignore Apple for a minute), they're usually about equal, we'll discuss them a bit later on. 
 
 ##### Family
 (Core iX, Ryzen X): This is a way for each manufacturer to separate their processors into larger groups where each is aimed at a specific purpose. As a general rule, you have the server, enthusiast, mainstream, and budget groups. These correspond to Xeon, i9, i7/i5/i3, and celeron/pentium CPUs for Intel, and EPYC, ThreadRipper/Ryzen 9, Ryzen 7/5/3, and Athlon CPUs for AMD. We'll focus on mainstream families in this document as they're about good enough for CMP work, but not too expensive/high end for most people. 
@@ -57,8 +56,9 @@ Note that some laptops (mostly thin and light ones or budget ones) come with sol
 You'll be running a lot of things that are ram hungry for projects and labs, so the bare minimum you should aim for is 8GB (terrible idea by the way), 16GB+ is strongly preferred if possible. 
 
 ### Screen
+
 #### Resolution
-Displays contents from the laptop. You'll be staring at this for hours every day. It's advised to at least aim for 1920x1080 for the resolution. You can live with lower resolutions, but they won't be super pleasant.
+Displays contents from the laptop. You'll be staring at this for hours every day. It's advised to at least aim for 1920x1080 for the resolution. You can live with lower resolutions, but staring at them for a long time won't feel as good to your eyes.
 
 #### Color
 If you intend to do color related work (graphic design, video editing, etc..), or want to have good and saturated/accurate colors, make sure to check the laptop color coverage, it's usually stated as "72% sRGB" or "45% NTSC" in the spec sheet. The higher, the better (and more expensive). The author prefers 72%+ NTSC.
@@ -87,9 +87,9 @@ The skeleton of your laptop. Mainly determines how rugged/premium your laptop fe
 Mainly the keyboard and mouse. You can't really eye this, so you either have to go and test a real-life laptop in some store, or watch reviews. You can always use an external mouse/keyboard, but keep in mind that you'll have to carry it with you, and it will take up USB ports.
 
 ### Storage Drives
-Controls how much stuff you can download (pirate) from the internet. Storage drives have two types: NVMe SSDs and SATA HDDs (ignoring SATA SSDs since they aren't super popular for laptops.). The former is the faster, lighter, and (of course) more expensive option, while the latter allows you to get more storage capacity for cheaper. Some laptops come with only the former, some come only with the latter (cheaper ones), and some come with both. The author highly recommends at least an NVMe SSD for the OS (Windows or Linux). You can still live with a SATA HDD, but it will be SLOW (as in five minutes to boot slow vs 30 or less on an NVMe SSD).
+Controls how much stuff you can download (pirate) from the internet. Storage drives have two types: NVMe SSDs and SATA HDDs (ignoring SATA SSDs since they aren't super popular for laptops.). The former is the faster, lighter, and (of course) more expensive option, while the latter allows you to get more storage capacity for cheaper. Some laptops come with only the former, some come only with the latter (cheaper ones), and some come with both. The author highly recommends at least an NVMe SSD for the OS (Windows or Linux). You can still live with a SATA HDD, but it will be SLOW (as in five minutes to boot slow vs 30 or less seconds on an NVMe SSD).
 
-You can always expand your storage (check the spec sheet for available ports), or use an external drive. Most new laptops come with at least 256GB of NVMe storage or 1TB of HDD storage (or both). 256GB should be the bare minimum you go withj. At this size, you'll have to a lot more maintenance work like deleting temporary files and scanning for large files frequently. Also, forget doing any long-term storage (images, movies, games, course materials, etc... Higher capacities (512GB+) are strongly adivsed.
+You can always expand your storage (check the spec sheet for available ports), or use an external drive. Most new laptops come with at least 256GB of NVMe storage or 1TB of HDD storage (or both). 256GB should be the bare minimum you go with. At this size, you'll have to a lot more maintenance work like deleting temporary files and scanning for large files frequently. Also, forget doing any long-term storage (images, movies, games, course materials, etc... Higher capacities for the NVMe (512GB+) are strongly recommended.
 
 ### Ports
 Allows you to connect mice, keyboards, USBs, external harddrives, screens, etc.. to your laptop. Usually the more, the merrier. Mostly controlled by the laptop chassis. The author recommends at least 2 USB-A ports (the big rectangular ones), a USB-C port (the small, round ones), and an HDMI port as a minimum. Other nice to have ports include: a headphone port, an ethernet port, more USB/USB-C ports.

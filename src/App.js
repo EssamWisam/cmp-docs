@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         <div className="content">
             <Switch>
-              <Route exact path="/"><Redirect to='/extras-about_m'  /></Route>
+              <Route exact path="/"><Redirect to='/Extras-About_m'  /></Route>
               <Route exact path="/:id"><Home /></Route>
             </Switch>
         </div>

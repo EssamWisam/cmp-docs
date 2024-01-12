@@ -24,7 +24,7 @@ const Home = () => {
   const [markdown, setMarkdown] = useState(init('markdown', `Just loading...`));
   const [jsonData, setJsonData] = useState(init('jsonData', {}))
   const { id } = useParams();
-  const [currentMarkdown, setCurrentMarkdown] = useState(init('currentMarkdown', `./department/extras/about.md`));
+  const [currentMarkdown, setCurrentMarkdown] = useState(init('currentMarkdown', `./department/Extras/About.md`));
   const [isGridPage, setIsGridPage] = useState(init('isGridPage', false));
   // when the page loads, setCurrentMarkdown
   useEffect(()=> {
@@ -33,7 +33,7 @@ const Home = () => {
     setCurrentMarkdown(`./department/${file}`);
     }
     else {
-      setCurrentMarkdown(`./department/extras/about.md`);
+      setCurrentMarkdown(`./department/Extras/About.md`);
     }
   },[id]);
 

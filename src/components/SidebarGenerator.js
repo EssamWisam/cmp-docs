@@ -140,7 +140,7 @@ function SidebarGenerator({theme, setTheme, rtl, setRtl, setCurrentMarkdown, isG
         new_link = new_link.replace(/\.md$/, '_ar.md');
         new_link = new_link.replace(/\.yaml$/, '_ar.yaml');
       }
-      new_link = new_link.replace(/\.md$/, '_m').replace(/\.yaml$/, '_y').replace(/\//g, '-').toLowerCase();
+      new_link = new_link.replace(/\.md$/, '_m').replace(/\.yaml$/, '_y').replace(/\//g, '-');
       return new_link;
     }
       return (

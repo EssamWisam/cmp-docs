@@ -55,6 +55,13 @@ Note that some laptops (mostly thin and light ones or budget ones) come with sol
 
 You'll be running a lot of things that are ram hungry for projects and labs, so the bare minimum you should aim for is 8GB (terrible idea by the way), 16GB+ is strongly preferred if possible. 
 
+### GPU
+Mostly matters for gamers and those interested in artificial intelligence (machine learning and deep learning). The latter type of people usually have another preferred option such as training models on the cloud but some of them prefer using their own GPUs offline as it gives more flexibility.
+
+You want to aim for an nvidia RTX xx60 or higher (an nvidia RTX xx50 can also do the job if you're willing to lower the settings for some games). The corresponding GPUs on AMDs side are the RX x600/700 and x500 respectively. The author (begrudgingly) recommends nvidia GPUs over AMD GPUs (at the time of writing at least)
+
+GPU comparisons are similar to CPU comparisons: make sure to keep in mind the power limit. The exact same GPU running at 130 watts obviously performs better than at 90 watts for performance, but outputs more heat thus requiring more cooling and a beefier power brick.
+
 ### Screen
 
 #### Resolution
@@ -93,10 +100,3 @@ You can always expand your storage (check the spec sheet for available ports), o
 
 ### Ports
 Allows you to connect mice, keyboards, USBs, external harddrives, screens, etc.. to your laptop. Usually the more, the merrier. Mostly controlled by the laptop chassis. The author recommends at least 2 USB-A ports (the big rectangular ones), a USB-C port (the small, round ones), and an HDMI port as a minimum. Other nice to have ports include: a headphone port, an ethernet port, more USB/USB-C ports.
-
-### (Optional) GPU
-Mostly matters for gamers and those interested in artificial intelligence (machine learning and deep learning). The latter type of people usually have another preferred option such as training models on the cloud but some of them prefer using their own GPUs offline as it gives more flexibility.
-
-You want to aim for an nvidia RTX xx60 or higher, but an nvidia RTX xx50 can also do the job if you're willing to lower the settings. The corresponding GPUs on AMDs side are the RX x600/700 and x500 respectively. The author (begrudgingly) recommends nvidia GPUs over AMD GPUs (at the time of writing at least)
-
-GPU comparisons are similar to CPU comparisons: make sure to keep in mind the power limit. The exact same GPU running at 130 watts obviously performs better than at 90 watts for performance, but outputs more heat thus requiring more cooling and a beefier power brick.

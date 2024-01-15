@@ -2,10 +2,13 @@
 
 Generally, the minimum needed specs for a laptop are not that high. Let's begin by quickly going over the main parts of the laptop. Each part will get its own brief section. It's advised that you at least skim through this whole document once.
 
-Note that unlike desktop PCs where you can mostly mix and match parts, laptops come mostly as a whole package. You're usually able to upgrade the storage/RAM, but that's it. So you're stuck with whatever choose until you upgrade to a new laptop. Make sure to plan a little ahead and be prepared to strech your budget if you plan on keeping your laptop for long (5+ years).
+Note that unlike desktop PCs where you can mostly mix and match parts, laptops come mostly as a whole package. You're usually able to upgrade the storage/RAM, but that's it. So you're stuck with whatever choose until you upgrade to a new laptop. Make sure to plan a little ahead and be prepared to stretch your budget if you plan on keeping your laptop for long (5+ years).
 
 ## Picking a laptop in a nutshell
 Set a budget range, filter out all laptops that don't fit your range or aren't in stock, filter out laptops that dont fit your usage, then watch as many reviews as you can for each laptop so you get to know the pros and cons for each. You can then settle on one and buy it. Keep in mind that you can buy from Egypt for local warranty (for what it's worth), or from abroad if you want to save money.
+![image](https://media4.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=ecf05e478d1xq61hppfupmceb8nadxh0zia3rogxncqfeveo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+**Optimization Problem Perspective (Bonus):** Suppose every increase in the budget by X pounds corresponds to a constant improvement in specifications Y on average. In this case, an optimal price would be one where adding X pounds to the budget produces improvement Y' where Y' << Y (i.e., it's no longer worth it to raise the budget any higher) or when X is subtracted from the budget an disimprovement Y' >> Y is incurred (i.e., it's no longer worth it to lower the budget any more). 
 
 ## Laptop types
 Laptops generally fall under three broad types: thin and light, gaming, and workstation laptops.
@@ -19,9 +22,13 @@ Performance at the cost of everything else. These are heavy and hot, but they su
 ### Workstations
 Sometimes even bulkier than gaming laptops, these laptops are usually bought used as they provide good-ish performance for cheap. They usually have higher end but older parts. Since they are usually bought used, they can hide nasty surprises. Make sure to test them well before buying.
 
-## Laptop parts
-This section dissuses the main parts that you should compare laptops over.
+As shown below, thin and lights further have some bonus advantages
 
+![image25](https://media4.giphy.com/media/NKkZbYYsZmRzi/giphy.gif?cid=ecf05e47rlyu6cu0rznu2adnvy4lvpmdu2wlg2y2w9fyr9jo&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+## Laptop parts
+This section discuses the main parts that you should compare laptops over.
+![image50](https://media3.giphy.com/media/jtXRDVzaCPXSynUz7h/giphy.gif?cid=ecf05e4788xk31jefbggs8ol2cptbgujczu7n76ohun364pv&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ### CPU
 The brains of the laptop. This will contribute greatly to how smooth and responsive your experience is with the laptop. These are usually called "Intel Core i7 9750H",  "AMD Ryzen 5 5500U", etc.. Let's begin by breaking down the naming convention:
 
@@ -47,6 +54,7 @@ Some other metrics that you can compare based on are: frequency and number of co
 In a nutshell: CPUs have multiple dimensions to compare based upon: cooling, power consumption, frequency, number of cores, and much more. Determining your usecase and using information from reviews will generally guide you in the right direction.
 
 ### RAM
+![image50](https://media0.giphy.com/media/GKAcLuZwZbpI4qbudC/giphy.gif?cid=ecf05e47jgrr836ba361cyf2asw2kvf6gpuqxmakqnwthltw&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 Mainly contributes to how many applications you can run in parallel. Generally, the higher the ram capacity and frequency are, the better it is. So for example, an 8GB stick of ram is usually better than a 4GB stick of ram. And similarly, a "3200MHz" stick of ram is also better than a "2666MHz" stick of ram. Another dimension to consider is the number of sticks coming with the laptop. Usually, having two sticks installed is better than one for performance, even if the total capacity is the same. So 2x8GB is usually better than 1x16GB. Capacity is more important than frequency here.
 
 If your budget is tight and the laptop comes with only one stick, you can later add another stick (check the laptop spec sheet or a teardown for this, keep in mind the model) if needed. If your laptop comes with one slot or two filled slots, you can always sell a stick or two off and buy a better one.
@@ -56,6 +64,7 @@ Note that some laptops (mostly thin and light ones or budget ones) come with sol
 You'll be running a lot of things that are ram hungry for projects and labs, so the bare minimum you should aim for is 8GB (terrible idea by the way), 16GB+ is strongly preferred if possible. 
 
 ### GPU
+![image50](https://media0.giphy.com/media/PMJoInxNOWcwJi5lQR/giphy.gif?cid=ecf05e47jo44rjhyoexkvlaz8il97fqmuvf1ygdonbs3nu6x&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 Mostly matters for gamers and those interested in artificial intelligence (machine learning and deep learning). The latter type of people usually have another preferred option such as training models on the cloud but some of them prefer using their own GPUs offline as it gives more flexibility.
 
 You want to aim for an nvidia RTX xx60 or higher (an nvidia RTX xx50 can also do the job if you're willing to lower the settings for some games). The corresponding GPUs on AMDs side are the RX x600/700 and x500 respectively. The author (begrudgingly) recommends nvidia GPUs over AMD GPUs (at the time of writing at least)
@@ -63,7 +72,7 @@ You want to aim for an nvidia RTX xx60 or higher (an nvidia RTX xx50 can also do
 GPU comparisons are similar to CPU comparisons: make sure to keep in mind the power limit. The exact same GPU running at 130 watts obviously performs better than at 90 watts for performance, but outputs more heat thus requiring more cooling and a beefier power brick.
 
 ### Screen
-
+![image50](https://media1.giphy.com/media/VC77skdR6vBxsEnp0b/giphy.gif?cid=ecf05e47u0yt3b269vsevu6eb4pnimqhtsf5norxcyg3dguc&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 #### Resolution
 Displays contents from the laptop. You'll be staring at this for hours every day. It's advised to at least aim for 1920x1080 for the resolution. You can live with lower resolutions, but staring at them for a long time won't feel as good to your eyes.
 
@@ -80,11 +89,13 @@ You'll probably meet IPS/TN screens in different laptops, here's the difference 
 Another thing that you might encounter is the screen finish: matt screens have slightly less saturated colors but can be used outside or in bright light, while glossy screens are the opposite.
 
 ### Cooling
+![image50](https://media3.giphy.com/media/13lLTicyzjEN8Y/giphy.gif?cid=ecf05e47pn6qw58ty8ch1lg84h9161pdxyqbyvewus8pr8jt&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 Allows your laptop to perform well for longer periods of time. The better the cooling is, the harder and longer your laptop will be able to perform. Some notable parts include vents (one at minimum), number of fans (also one at minimum). Some laptops might have more than one vent for each fan (one to the side and another for the back for each fan, for example), other laptops have multiple fans using a wider vent. Generally, the more surface area you have, the better. Surface area here is affected by both the width/number of vents, and the height/thickness. The more cooling you have, the heavier the laptop will be.
 
 You usually cannot compare laptops by these specs alone, it's advised you pick two different laptop chassis with similar specs and watch/read reviews and compare thermals (averge, max temperature as well as CPU/GPU power).
 
 ### Battery
+![image50](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh6bHl0ZGY5ZjI3Y2diMnZxNmg5bmp2ZnExY2w4ZDRrejgyc2ltMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HDPOMKaF0DudW/giphy.gif)
 Controls how long/hard you can run your laptop without the charger. Larger capacity (Watt-hours or "wh") is generally better, but might lead to a heavier weighing laptop.
 
 ### Chasis
@@ -94,6 +105,7 @@ The skeleton of your laptop. Mainly determines how rugged/premium your laptop fe
 Mainly the keyboard and mouse. You can't really eye this, so you either have to go and test a real-life laptop in some store, or watch reviews. You can always use an external mouse/keyboard, but keep in mind that you'll have to carry it with you, and it will take up USB ports.
 
 ### Storage Drives
+![image50](https://media3.giphy.com/media/101IgDtwWFQKti/giphy.gif?cid=ecf05e47qp7jnlccfyhqlc3e2qnls7vjlf4odby1v0edknis&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 Controls how much stuff you can download (pirate) from the internet. Storage drives have two types: NVMe SSDs and SATA HDDs (ignoring SATA SSDs since they aren't super popular for laptops.). The former is the faster, lighter, and (of course) more expensive option, while the latter allows you to get more storage capacity for cheaper. Some laptops come with only the former, some come only with the latter (cheaper ones), and some come with both. The author highly recommends at least an NVMe SSD for the OS (Windows or Linux). You can still live with a SATA HDD, but it will be SLOW (as in five minutes to boot slow vs 30 or less seconds on an NVMe SSD).
 
 You can always expand your storage (check the spec sheet for available ports), or use an external drive. Most new laptops come with at least 256GB of NVMe storage or 1TB of HDD storage (or both). 256GB should be the bare minimum you go with. At this size, you'll have to a lot more maintenance work like deleting temporary files and scanning for large files frequently. Also, forget doing any long-term storage (images, movies, games, course materials, etc... Higher capacities for the NVMe (512GB+) are strongly recommended.

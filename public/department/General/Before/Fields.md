@@ -103,4 +103,4 @@ Digital design is about designing and building digital devices which include pro
 
 This involves writing code so that different devices can communicate with each other. Because the signals are sent over cables or over air, security becomes a serious issue so code is also written to help with security. 
 
-**You will cover about 1 course on cybers security from a theoretical point of view and 1 course on networks.**
+**You will cover about 1 course on cyber security from a theoretical point of view and 1 course on networks.**

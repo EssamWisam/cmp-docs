@@ -17,7 +17,7 @@
         - name: Programming Techniques¹
           image: https://miro.medium.com/v2/resize:fit:1400/1*oFfl-1UKLtd8XOswpwgriA.png
           markdown: "### Instructor: 
-                    \n Dr. Magda Fayek  \n
+                    \n Prof. Magda Fayek  \n
                     ### Potential Prerequisites:
                     \n Programming Basics (Prep. Year) \n
                     ### Course Content: 
@@ -34,7 +34,7 @@
         - name: Data Structures & Algorithms¹
           image: https://media.licdn.com/dms/image/C4E0DAQHkF5kYkT0t7Q/learning-public-crop_288_512/0/1567118207311?e=2147483647&v=beta&t=2G1mGsg0G6nnky1NFwy67M7myDLV1kAcDb7KXF2VssI
           markdown: "### Instructor: 
-                    \n Dr. Magda Fayek  \n
+                    \n Prof. Magda Fayek  \n
                     ### Potential Prerequisites:
                     \n Programming Techniques \n
                     ### Course Content: 
@@ -226,7 +226,7 @@
         - name: Pattern Recognition³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
           markdown: "### Instructor: 
-                    \n Dr. AbdelMonem Bayoumi   \n
+                    \n Dr. Abdelmonem Bayoumi   \n
                     ### Potential Prerequisites:
                     \n Programming Techniques, Algebra & Multivariate Calculus, Probability & Statistics \n
                     ### Course Content: 
@@ -388,100 +388,102 @@
         - name: Logic Design I¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-08-pcb-3d/
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Ihab Talkhan \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Practical and Engineering Applications (from preparatory year and a weak dependency) \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This is a basic course that teaches students the most fundamental components of computer hardware. It starts by explaining how data is represented in computers, Boolean logic, and logic gates. Combinational logic circuits are analyzed throughly and synthesized using K-Maps as well. Multiplexers, demultiplexers, decoders, encoders and parity circuits are all explained in-depth. By the end of the course, students should be able to design basic and slightly more advanced arithmetic circuits as multipliers.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Students work on a hardware-based team project where they have to design and simulate a functional unit (ex: multiplier, arithmetic, etc...) on Logisim and implement it using physical hardware parts.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/12mRf1KDID6zeddHzgU-CBXkUInyF53YI) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Logic Design II¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-07-disposition/
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Ihab Talkhan\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Logic Design I \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced logic design course covers how to design sequential circuits; synchronous and asynchronous, and simplify them. Students learn all about latches, flip-flops, and their numerous types. Other important circuits components are discussed such as shift registers and counters. Moreover, it delves into finite state machines. Finally, it cover types of memory as RAM & ROM and programming logic controllers as PROM, PAL, & PLA.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this team project, students learn to design and implement the components of the Serial Peripheral Interface (SPI) using verilog; including Master, Slave, integrate them and create test benches for the interface and components.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/155WplJo2fNVGkC4Hc6Qpj59TgoXvZobt) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Microprocessor I²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Khaled Mohamed\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Logic Design II \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This intermediate course covers the history and logic behind the workings of microprocessors by using the popular architecture of the 8086 Intel Microprocessor as a main example. It explores the different units and parts of the microprocessor and how they function. It introduces the assembly language to be able to communicate with the microprocessor and discusses various types of operators, interrupts, and jumps. Lastly, it addresses Port Programming, assemblers, and 32-bits programming instead of the usual 16-bits used in the 8086.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students are required to connect 2 PCs through serial communication and implement a chat module and a 2-player
+                    game using the assembly language. It also includes creating a GUI for the application.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1VrzQ0mEQFAixBZUPsDe2KvWibfMdOUm7) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Microprocessor II²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Khaled Mohamed\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor I\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced microprocessor course builds upon the foundation of microprocessors I, it starts with a comparison between CISC & RISC architectures. Then it focuses on interfacing popular hardware components with the CPU, as interfacing keyboards, motors, and sensors. Furthermore, it covers parallel port programming, and compares between ADCs and DACs. It discusses the components & ports available in Arduino UNO board and how to write code to control it. Lastly, it revisits interrupts but in the 8259 interrupt controller.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This project involves splitting the class into 2 huge teams, each of which has to design and implement a hardware device that performs multiple different 
+                    functionalities to apply the knowledge gained in the course.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/14Zn7cUR7hhss1s2zYowryXxiWlgxMtE8) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Embedded Systems³
           image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Basem Ibraheem\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor II, Computer Architecture (weak dependency)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced hardware course delves into the definition and characteristics of embedded systems. It discusses modeling techniques as FSMs, data flow diagrams, and petri nets. It explores microcontrollers as Arduino, and various types of input and output devices as sensors and actuators. Finally, it revisits the memory hierarchy, and compares validation and verification.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This larger group competitive project involves designing and implementing a line-follower and maze-solver robot. Students are required to use the hardware knowledge gained from the course to collaborate and design the best robot they can while following the given rules and guidelines. It requires using a microcontroller, motors, and assemble all the components on the chassis. It may also require designing a mobile app.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1X9mbOdL5i1BfHhwUgJ6yG1zNDDuU7ccf) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Computer Architecture³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Dina Tantawy (2023-present), Previously by: Dr. Mayada Hadhoud (?-2022)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor II \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n The course starts by explaining Moore's Law, the 8 great ideas in Computer Architecture, and abstracts the structure of the processor. Then it delves into the idea of pipelining, its characteristics, the types of hazards it faces; structural, data, and control hazards, and possible solutions for these hazards. It explores advanced pipelining techniques as instruction level parallelism, multiple issue technique, and loop unrolling. Lastly, it discusses the memory hierarchy and the basics of caches.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, it is required to design and implement a simple 5-stage pipelined processor. The design should follow the given instruction set architecture and involves several one-operand & two-operand operations, memory operations, and branching & control operations. It is to be written in the VHDL language.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1pTfqEeKuFGygtxEpv7dh5g99Vxu1V0l4) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-        - name: Very Large Scale Integration³
+        - name: Very Large Scale Integration (VLSI)³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Amr Wassal\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor II \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This is a comprehensive course that starts by surveying the semiconductor industry and technology. It discusses IC design flows including the MOS transistor, analog and circuit design, digital logic families, and digital design flows. It explains Euler's path, domino logic, the productivity gap, and the ASIC flow. It continues by further examining of synchronous and asynchronous systems, & clock distributions as the H-tree. Finally, it elaborates on multiple other topics as: front-end and back-end design flow, interconnection and signal integrity, low-power design, and design-for testability.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students are required to design and implement a system in VHDL or verilog, simulate it, and perform post-synthesis simulation, floor planning, placement, and routing while optimizing the area, time and power. Note that it is evaluated comparatively with the other teams in the class and the exact idea changes from year to another while the core requirements remain relatively the same.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/18sm9Kd6RukpyZ9p-lCCT8tEm6EsL3eCE) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 🌐 Security & Networks
       description: The essence of this set of courses is to introduce you to computer

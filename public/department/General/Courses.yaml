@@ -380,7 +380,6 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-
     - title: 🤖 Embedded and Digital Courses (Hardware)
       description: After all, knowledge of hardware is really what sets computer
         engineers apart from software engineers, right?
@@ -492,44 +491,44 @@
         - name: Cryptography³
           image: https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Samir Shaheen\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Number Theory\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This comprehensive course covers various topics related to cryptography, and network security. It starts by explaining the basic concepts of encryption and decryption as well as classical encryption techniques as Caesar cipher and one-time pad. Then it moves to more modern block (as DES & others) and stream ciphers. After that, it revisits number theory concepts as GCD, and extended Euclidean algorithm to be able to understand the RSA algorithm and other public-key schemes as the Diffie-Hellman key exchange. Finally, it discusses other important topics as hashing, authentication codes (as MAC), digital signatures, key management & distribution, user authentication, transport-level security, intruders, and malicious software.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n There's a mini project (individual or in pairs) where students are required to implement the RSA algorithm, and a function that attempts to break it. The program should be in the form of a chatting module between a sender and a receiver either through a file or a socket and implemented in the language of their choice.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/1092ey-buyco2Cjx9ZrudJ5_TWk2X6Yy-) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Computer Networks⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Hoda Baraka\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Operating Systems (Weak dependency)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n The course starts by introducing the different types of networks as LAN, & WAN, the protocol hierarchy and terminology, then compares services and protocols. Afterwards, it delves into the OSI model, and compares it with the TCP/IP model and especially focuses on the data link layer. It discusses framing, error detection and correction, and popular protocols in that layer as the Stop-and-Wait, simplex, one-bit sliding window, Go Back N, and selective repeat protocols. It briefly explains the MAC sublayer. Finally, it discusses the network layer, quality of service, congestion control, IPv4, and IPv6.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students write a program in Omnet++ that simulate data link layer protocols between two nodes that are connected with a noisy channel. Essentially, it means implementing framing, error detection, and the Go Back N protocol.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/1gcvL8fIB5l2gjRKo3ntnnVqgdEV8NtyH) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Wireless Networks⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Sandra Wahid (2023-present), Prof. Hoda Baraka (?-2022)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Computer Networks \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course starts by explaining the basic concepts of wireless communication, and the wireless channel characteristics. It then delves into different modulation techniques as PSK, and multiple access techniques as FDMA. After that it explores static and dynamic MAC protocols as ALOHA, slotted ALOHA, and CSMA/CD. The back-off algorithm, the hidden terminal & exposed terminal problems, and power management protocols for power saving & control are discussed. Finally, the Wifi protocol is throughly examined, followed by routing protocols in wireless networks as DSR, & AODV.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No project. Instead, there will be group presentations about selected topics in Mobile Wireless Networks.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/1TpT2HNEPSmcSZqK-WL7IVJHMeqwwLb_O) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.

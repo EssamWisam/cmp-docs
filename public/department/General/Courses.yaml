@@ -609,143 +609,196 @@
         - name: Electrical Circuits¹
           image: https://circuits-elec.com/cdn/shop/files/a9g_grande.jpg?v=1685013700
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Hassan Mostafa    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Nothing beyond high school Mathematics and (optionally) high school Physics involving Circuits.
+                    \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                   \n The first two lectures starts by recapping on high school circuits knowledge like Ohm's law,
+                    Kirchhoff's current and voltage laws, etc. The rest of the course explores other methods to solve circuits
+                    such as Y-Delta Transformations which simplifies the circuit by solving an equivalent one,  Loop Analysis and Node Analysis 
+                    which are methods that could be derived from Kirchhof's laws to solve circuits. Other interesting and more advanced methods of solving circuits such as Superposition theorem
+                    and Thevenin/Norton's theorem are also explained. The course tops off by explaining AC circuits involving capacitors and inductors with more mathematical
+                    rigour compared to high school.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Known to involve a circuit solver project and an assignment on Y-Delta transformations. Both require programming experience that may not be covered in the class yet (e.g., Python or Web) \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
                     "  
         - name: Electronic Circuits¹
           image: https://www.hallmarknameplate.com/wp-content/uploads/2016/07/circuit-board-1.jpeg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Karim Abbas    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n High school Mathematics and Integration. \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n This is an intensive theoretical course on how logical gates and logical circuits can be realized using transistors and how transistors are formed in the first place. 
+                    The vast majority of the course deeply explains transistors by starting from simple silicon atoms. Specifically, MOS transistors which is the most used type in technology.
+                    In this, new concepts such as drift and diffusion currents, flat band and equilibrium band diagrams, MOS transistor modes and related equations are covered.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Known to involve an assignment where each student self-learn and write a paper on bipolar junction transistors\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1eETQC3wIjjAkAjKEzsfGwlPPjJGavkLb) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Electromagnetism & Modern Physics¹
           image: https://plus.maths.org/content/sites/plus.maths.org/files/articles/2016/Maldacena/electric_field.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Alaa AbdelMageed    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Preparatory Year Course on Electromagnetism, integration, (also solid geometry and vector calculus*) for electromagnetism and basic mathematics for modern physics\n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course majorly generalizes many electromagnetism concepts covered in the preparatory year to higher dimensions (surfaces). It starts by recapping on the needed solid geometry while vector calculus explanations
+                    will often be accompanied with lectures that needed. Among the concepts covered are Coulomb’ Law, Continuous Charge Distributions, Electrostatic potential for charges and surfaces, polarization and dielectrics as well
+                    as Faraday's and Ampere's laws, and Maxwell's equations for electrodynamics. The course is somewhat intensive due to the vector calculus involved.
+
+                    The modern physics part of the course is smaller and considers concepts such as black body radiation and photon energy. Dealing with equations here is just as easy as plugging numbers.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None but the course also involves labs (like the preparatory year).\n
                     ### Material: 
-                    \n Material goes here...
+                    \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
                     "  
         - name: Electrodynamics¹
           image: https://images.newscientist.com/wp-content/uploads/2020/08/26150002/electromagnetsim-fyckc9_web.jpg?width=1200
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Mohamed Sanad    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n High school Mathematics\n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n An easygoing course considering how electrodynamics help us use antennas to transmit and receive electromagnetic waves (e.g., radio, phone call, web page, etc.)
+                    The course start with explaining the different types of Antennas and Maxwell's equations which governs electromagnetic wave transmission
+                    followed by measuring antenna charachteristics such as power density, directivity and gain,
+                    bandwidth, efficiency. It also considers explaining specific types of antennas such as Microstrip, Monopole, Dipole, Loop and rounds off with the general
+                    theory of diffraction which models electromagnetic waves as rays for easier analysis.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None but expect frequent quizzes.  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1Ov8mmEiub4cMHdg6NIF1QhGdJW1JrAaJ) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Analog Electronics²
           image: https://www.eleccircuit.com/wp-content/uploads/2013/10/The-amplifier-circuits-can-set-input-and-output-ratio.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Amr Hafez    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Electronics Circuits course \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n This course attempts to explore using transistors to build useful analog circuit devices.
+                    It starts with a recap of the MOS transistor and its modes of operation and their corresponding equations followed by simplifying these complex equations for small changes
+                    using the small signal model. This is followed by methods using transistors to generate a specific current in a circuit such as current mirrors and supply independent
+                    biasing. The second half or so of the course focuses execlusively in using the MOS transistor to create various types of amplifiers (common-source, common-drain,
+                    differential, operational, etc.) You will learn that amplifiers can be used for much more than just amplifying voltage; they can take the derivative or integrate and incoming signal!
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Not known to involve any projects  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1hKgyRIjqgUQ4t-vV80MO8iSe44aK20qn) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Digital Electronics²
           image: https://images.easytechjunkie.com/different-sized-transistors.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Amr Hafez    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Electronics Circuits course \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n Although the Electronic Circuits course demonstrated using the transistor for digital devices (logical circuits), it mostly focused on theory. This course does the opposite
+                    by focusing more on the digital applications. Factors such as delay, power and noise will be analyzed as well as new/different methods to form logical circuits using MOS transistors. 
+                    The applications for logical circuits also go beyond combinational circuits to include sequential circuits which allows the course to also include more digital applications 
+                    for transistors such as DRAM and SRAM memories and digital/analog conversion.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Not known to involve any projects  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1Qxf5IefTqG6gCsGCUrcbLmepj5HWBa64) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Signals and Systems²
           image: https://www.allaboutcircuits.com/uploads/articles/3.1_AC_and_DC_Signals_Image1_.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Yasmine Fahmy (Continuous Signals)  and Dr. Michael Melek (Discrete Signals) \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n High school Integration and Algebra and possibly Fourier Series/Transform and possibly Matlab/Octave \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n A signal is simply a function in time that represents some physical quantity (e.g., voice or transmitted internet data). The course starts by exploring operations that could be done
+                    on signals (e.g., shifting) and how their power and energy could be mathematically measured. It follows that by considering systems and their properties, which are mathematical transformations
+                    of signals. It then zooms in at a specific type of systems: linear time-invariant systems, which are abundant and have nice properties that allow them to be described using the convolution mathematical
+                    operation which is also explained. The course continues by exposing the fact that any signal as a function in time corresponds as well to another function in frequency (dual variable) and that
+                    mathematics in the frequency domain could be much easier to deal with. The last part of the course repeats the concepts but for discrete instead of continuous signals while showing that any continuous signal
+                    could be also possibly perfectly described as a discrete one! This is important because all electronics deal only with digital signals (operate through a clock).
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Not known to involve any project but assignments involving Matlab/Octave should be expected. \n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/10UVsgSqxuy9BAvet9E4xu0pf1xpCKp2-) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Analog Communication³
           image: https://media.monolithicpower.com/wysiwyg/1_33.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Michael Melek    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Signals Course \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n This course uses signals knowledge to develop devices that help in transmitting and receiving electromagnetic waves without needing extremely tall antennas and while
+                    efficiently using the medium where the signals are flowing without having them interfere with each other. The technique that solves these problems is called modulation
+                    and the focus of the course is to convey why it works and its different types (amplitude, frequency and phase) modulation and how different modulators/demodulators can
+                    be designed. Modulation system designs considered include: DSB-SC, DSB-LC, QAM, SSB and more.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n One mini-project involving designing a communication system for audio signals.  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1mkIvgPQShRgCg0sCoTCl61GzYOG6Ia_F) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
         - name: Digital Communication³
           image: https://media.cheggcdn.com/study/026/0260950c-90d8-4fba-8889-946957400f9a/elec-6-img-1.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Mai and Dr. Hala   \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Signals Course \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course is composed of two main parts that each attempt to send more digital data while being robust to noise. 
+                    The first part taught by Dr. Mai approaches
+                    the problem by designing a better digital system using filters which also involves intermediate mathematics; meanwhile, the part by Dr. Hala approaches the problem by
+                    representing the digital data itself in a better way (e.g., adding parity bits) and involves more basic mathematics and concepts. Lectures usually alternate between both professors.
+                    \n
+                    Dr. Mai's part involves concepts such as converting the digital data into signals and vice versa, mathematically modeling noise as a random process, designing an optimal filter to
+                    minimize such noise and then extending it to deal with intersymbol interference (the signal overlapping with itself due to properties of the medium) and to generalize it to discrete
+                    settings with more than two symbols (beyond binary). Her part tops off with modulation techniques for digital signals.
+                    \n
+                    Dr. Hala's part starts with important concepts such as entropy and how it relates to probability along with other basic concepts and then proceeds by exploring different methods
+                    to detect and correct errors in a received signal.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n There is no project but expect programming assignments (Python) to implement concepts from the first part of the course.  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1WFs_rayRkfUDgy-Re8GB1eSroYLxe2JP) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
         - name: Control Engineering³
           image: https://img.yicaiglobal.com/src/image/2020/11/9084567093248000.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Ragia Badr and Dr. Mohamed Sultan   \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Signals and Systems (and Differential Equations) \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course consists of two main parts. The first, taught by Dr. Ragia, is about describing systems (e.g., a mechanical system of springs or an electrical circuit) by
+                    differential equations and then converting this representation into a form that allows easy analysis of various charactheristics of the system such as stability and speed as well as
+                    modifying or adding mathematically-defined components to the system to make it meet particular system charachteristics (e.g., make it a stable or faster system). \n
+                    On the other hand, Dr. Mohamed's part focuses on automatic systems whose behaviour could be specified with simple programming code (called PLC systems). This part barely involves any mathematics
+                    and is mostly about programming the PLC system to achieve a particular behaviour.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n There is no project and no assignments; however, quizzes, especially for the second part, should be expected.  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1LzIgCzKJjkK7-5sbT2N3L7XrT8vuYcwL) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
     - title: 🤷 Other Engineering
       description: Afterall, all engineers should be able to integrate well together.
         Kidding it's just the emoji.

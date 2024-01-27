@@ -17,7 +17,7 @@
         - name: Programming Techniques¹
           image: https://miro.medium.com/v2/resize:fit:1400/1*oFfl-1UKLtd8XOswpwgriA.png
           markdown: "### Instructor: 
-                    \n Dr. Magda Fayek  \n
+                    \n Prof. Magda Fayek  \n
                     ### Potential Prerequisites:
                     \n Programming Basics (Prep. Year) \n
                     ### Course Content: 
@@ -34,7 +34,7 @@
         - name: Data Structures & Algorithms¹
           image: https://media.licdn.com/dms/image/C4E0DAQHkF5kYkT0t7Q/learning-public-crop_288_512/0/1567118207311?e=2147483647&v=beta&t=2G1mGsg0G6nnky1NFwy67M7myDLV1kAcDb7KXF2VssI
           markdown: "### Instructor: 
-                    \n Dr. Magda Fayek  \n
+                    \n Prof. Magda Fayek  \n
                     ### Potential Prerequisites:
                     \n Programming Techniques \n
                     ### Course Content: 
@@ -54,7 +54,7 @@
                     ### Course Content: 
                     \n This is an advanced course that exposes students to various advanced hashing and tree data structures, 
                     recurrences for time complexity analysis and complexity classes for decision problems, 
-                    advanced algorithmic paradigs such as greedy algorithms and dynamic programming,
+                    advanced algorithmic paradigms such as greedy algorithms and dynamic programming,
                     various advanced graph algorithms that cover traversal, minimum spanning trees, single and all pair shortest path problems, flow networks, etc.,
                     and finally some advanced string matching methods.       \n
                     ### Project: 
@@ -152,7 +152,7 @@
                     \n Programming Techniques \n
                     ### Course Content: 
                     \n In this course, students are exposed to computer graphics fundamentals, 2D and 3D transformations, arbitrary rotations,
-                    orthographic and perspective projections, rasterization of straightlines and triangles, hidden surface elimination, lighting and
+                    orthographic and perspective projections, rasterization of straight lines and triangles, hidden surface elimination, lighting and
                     ray tracing.
                     \n
                     ### Project: 
@@ -211,7 +211,7 @@
                     ### Course Content: 
                     \n In this course, students delve into the basics of image processing and various techniques used in that field. 
                     This includes the fourier transform and convolution and their uses in filtering, smoothing, edge detection, etc. 
-                    Image transformations such as thresholding, histogram equalization and gamma correction. As well as, morpholical image processing
+                    Image transformations such as thresholding, histogram equalization and gamma correction. As well as, morphological image processing
                     and its use in hole filling and boundary extraction, image segmentation techniques and shape identification with 
                     hough transforms, techniques for texture analysis, image feature extraction, Harris corner detection and scale-invariant feature
                     transforms. The course tops off with an introduction to computer vision and CNNs.
@@ -226,7 +226,7 @@
         - name: Pattern Recognition³
           image: https://eos.org/wp-content/uploads/2020/07/data-streams-eos-august.png
           markdown: "### Instructor: 
-                    \n Dr. AbdelMonem Bayoumi   \n
+                    \n Dr. Abdelmonem Bayoumi   \n
                     ### Potential Prerequisites:
                     \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
@@ -234,11 +234,11 @@
                     delving into various machine learning algorithms, down to their mathematical implementation and derivations such as: minimum distance classifiers, K-NN, 
                     Bayes classification rule (includes Naive bayes, Linear and Quadratic Discriminant Analysis), Histogram and Kernel density estimation, feature selection methods and PCA,
                     Adaptive boosting, Gaussian Mixture Models, Decision Trees and Random Forests. The course then proceeds by diving into neural networks where it covers the perceptron and other
-                    basic single-neuron models then proceeds with deep neural networks and backpropagation (mathematically) with a view on different activation functions, loss functions, optimization techniques and
+                    basic single-neuron models then proceeds with deep neural networks and back-propagation (mathematically) with a view on different activation functions, loss functions, optimization techniques and
                     other deep learning concepts.
                     \n
                     ### Project: 
-                    \n Students get to work on a team project as a class competition to build a classifier that operates on unstructed data. 
+                    \n Students get to work on a team project as a class competition to build a classifier that operates on unstructured data. 
                     For example, detecting whether an image of handwritten text was written by a male or a female. \n
                     ### Material: 
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/17bVWLgGaxeKCLjwTc9gj_wEe7aIyN8Ni) and other nice material can be found in 2023 class Google drive. 
@@ -274,8 +274,8 @@
                     ### Course Content: 
                     \n In this course, students get exposed to classical AI and reinforcement learning. This comprises the agent program view of AI
                     and a wide variety of search algorithms that implement goal-based instances of it, which include BFS, DFS, DFS variations, UCS, Best-first search,
-                    A* and heuristics. The course also covers a wide variety of local and advarserial search algorithms. In the second part of the course, students 
-                    learn about MDPs, Bellman equation, value and policity iteration which set the stage for passive and active reinforcement learning algorithms such as
+                    A* and heuristics. The course also covers a wide variety of local and adversarial search algorithms. In the second part of the course, students 
+                    learn about MDPs, Bellman equation, value and policy iteration which set the stage for passive and active reinforcement learning algorithms such as
                     direct utility estimation, temporal difference learning, Q-learning, SARSA, deep Q-learning and more. The course tops of with a lecture on Bayesian networks 
                     and probabilistic reasoning.
                     \n
@@ -294,7 +294,7 @@
                     ### Potential Prerequisites:
                     \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
-                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalizationa and segmenting). 
+                    \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalization and segmenting). 
                     It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
                     classical and deep approaches to word classification (e.g, RNNs, Logistic Regression and Naive Bayes), classical and deep approaches to sequence labelling (e.g., RNNS, CRFs and HMMs), sequence-to-sequence mapping via deep attention models,
                     question-answering and syntactic parsing. The course puts considerable emphasis on the underlying mathematics of different models.
@@ -312,11 +312,11 @@
                     ### Potential Prerequisites:
                     \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
-                    \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satallite imagery.
+                    \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satellite imagery.
                     This includes radiometric and geometric correction of images (e.g., haze removal, mapping functions with polynomial regression), PCA for image compression and pan sharpening,
                     classical pixel classification techniques such as maximum likelihood and parallelepiped classifiers, other classical unsupervised learning techniques such as K-Means and ISOData, 
-                    and deep learning techniques such as convolutional neural networks (CNNs) and how they can be used for semantic segmentationw with the U-net. The course tops off by covering a variety
-                    of classical change detection algorithms and generate adversial networks.
+                    and deep learning techniques such as convolutional neural networks (CNNs) and how they can be used for semantic segmentation with the U-net. The course tops off by covering a variety
+                    of classical change detection algorithms and generate adversarial networks.
 
                     \n
                     ### Project: 
@@ -380,108 +380,109 @@
                     \n [Study notes](https://drive.google.com/drive/u/1/folders/1bc_PioXnFrZw3o3oTu_Z2z4-cCIeZg14) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-
     - title: 🤖 Embedded and Digital Courses (Hardware)
-      description: Afterall, knowledge of hardware is really what sets computer
+      description: After all, knowledge of hardware is really what sets computer
         engineers apart from software engineers, right?
       items:
         - name: Logic Design I¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-08-pcb-3d/
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Ihab Talkhan \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None. \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This is a basic course that teaches students the most fundamental components of computer hardware. It starts by explaining how data is represented in computers, Boolean logic, and logic gates. Combinational logic circuits are analyzed throughly as well as tools to simplify them such as K-Maps. Logical circuits such as multiplexers, demultiplexers, decoders, encoders and parity circuits are all explained in-depth. By the end of the course, students should be able to design basic and slightly more advanced arithmetic logical circuits (i.e., calculators).\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Students work on a hardware-based team project where they have to design and simulate a functional unit (ex: multiplier, arithmetic, etc...) on Logisim and implement it using physical hardware parts.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/12mRf1KDID6zeddHzgU-CBXkUInyF53YI) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Logic Design II¹
           image: https://www.eeweb.com/logic-gates-with-microcontroller/feb152021_figure-07-disposition/
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Ihab Talkhan\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Logic Design I \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced logic design course covers how to design sequential circuits whether synchronous or asynchronous, and simplify them. Students learn all about sequential circuit elements such as latches, flip-flops, and their numerous types. Other important sequential circuits components are discussed such as shift registers and counters. Moreover, it delves into finite state machines. Finally, it cover types of memory as RAM & ROM and programming logic controllers as PROM, PAL, & PLA.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this team project, students learn to design and implement the components of the Serial Peripheral Interface (SPI) using verilog; including Master, Slave, integrate them and create test benches for the interface and components.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/155WplJo2fNVGkC4Hc6Qpj59TgoXvZobt) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Microprocessor I²
           image: https://www.investopedia.com/thmb/C7s8G-f9rvaIji0H6JqZgbBNQVo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/assemblylanguage-356836be12ae4723bbbd8e3b6e543b9f.JPG
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Khaled Mohamed\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Logic Design II \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This intermediate course covers the history and logic behind the workings of microprocessors by using the popular architecture of the 8086 Intel Microprocessor as a main example. It explores the different units and parts of the microprocessor and how they function. It introduces the assembly language to be able to communicate with the microprocessor and discusses various types of operators, interrupts, and jumps. Lastly, it addresses Port Programming, assemblers, and 32-bits programming instead of the usual 16-bits used in the 8086.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students are required to connect 2 PCs through serial communication and implement a chat module and a 2-player
+                    game using the assembly language. It also includes creating a GUI for the application.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1VrzQ0mEQFAixBZUPsDe2KvWibfMdOUm7) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Microprocessor II²
           image: https://cdn.mos.cms.futurecdn.net/EWdaCgmfVF6vSNGYMvHLxa.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Khaled Mohamed\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor I\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced microprocessor course builds upon the foundation of microprocessors I, it starts with a comparison between CISC & RISC architectures. Then it focuses on interfacing popular hardware components with the CPU, as interfacing keyboards, motors, and sensors. Furthermore, it covers parallel port programming, and compares between ADCs and DACs. It discusses the components & ports available in Arduino UNO board and how to write code to control it. Lastly, it revisits interrupts but in the 8259 interrupt controller.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This project involves splitting the class into 2 huge teams, each of which has to design and implement a hardware device that performs multiple different 
+                    functionalities to apply the knowledge gained in the course.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/14Zn7cUR7hhss1s2zYowryXxiWlgxMtE8) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Embedded Systems³
           image: https://robots.ros.org/assets/img/robots/leo-rover/leo_rover_photo1.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Basem Ibraheem\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor II (but some content will be repeated anyway)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This advanced hardware course delves into the definition and characteristics of embedded systems. It discusses modeling techniques as FSMs, data flow diagrams, and petri nets. It explores microcontrollers as Arduino, and various types of input and output devices as sensors and actuators. Finally, it revisits the memory hierarchy, and compares validation and verification.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This larger group competitive project involves designing and implementing a line-follower and maze-solver robot. Students are required to use the hardware knowledge gained from the course to collaborate and design the best robot they can while following the given rules and guidelines. It requires using a microcontroller, motors, and assemble all the components on the chassis. It may also require designing a mobile app.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1X9mbOdL5i1BfHhwUgJ6yG1zNDDuU7ccf) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Computer Architecture³
           image: https://reviewed-com-res.cloudinary.com/image/fetch/s--Wpxsulth--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1627576943205/image.jpeg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Dina Tantawy (2023-present), Previously by: Dr. Mayada Hadhoud (?-2022)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Microprocessor II \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n The course starts by explaining Moore's Law, the 8 great ideas in Computer Architecture, and abstracts the structure of the processor. Then it delves into the idea of pipelining, its characteristics, the types of hazards it faces; structural, data, and control hazards, and possible solutions for these hazards. It explores advanced pipelining techniques as instruction level parallelism, multiple issue technique, and loop unrolling. Lastly, it discusses the memory hierarchy and the basics of caches.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, it is required to design and implement a simple 5-stage pipelined processor. The design should follow the given instruction set architecture and involves several one-operand & two-operand operations, memory operations, and branching & control operations. It is to be written in the VHDL language.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1pTfqEeKuFGygtxEpv7dh5g99Vxu1V0l4) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
-        - name: Very Large Scale Integration³
+        - name: Very Large Scale Integration (VLSI)³
           image: https://incompliancemag.com/wp-content/uploads/2020/04/2007_F4_1200x600-1200x520.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Amr Wassal\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Digital Electronics \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This is a comprehensive course that starts by surveying the semiconductor industry and technology. It discusses IC design flows including the MOS transistor, analog and circuit design, digital logic families, and digital design flows. It explains Euler's path, domino logic, the productivity gap, and the ASIC flow. It continues by further examining of synchronous and asynchronous systems, & clock distributions as the H-tree. Finally, it elaborates on multiple other topics as: front-end and back-end design flow, interconnection and signal integrity, low-power design, and design-for testability.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students are required to design and implement a system in VHDL or verilog, simulate it, and perform post-synthesis simulation, floor planning, placement, and routing while optimizing the area, time and power. Note that it is evaluated comparatively with the other teams in the class and the exact idea changes from year to another while the core requirements remain relatively the same.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/18sm9Kd6RukpyZ9p-lCCT8tEm6EsL3eCE) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 🌐 Security & Networks
       description: The essence of this set of courses is to introduce you to computer
@@ -490,44 +491,44 @@
         - name: Cryptography³
           image: https://www.theforage.com/blog/wp-content/uploads/2022/12/what-is-cybersecurity.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Samir Shaheen\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Number Theory\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This comprehensive course covers various topics related to cryptography, and network security. It starts by explaining the basic concepts of encryption and decryption as well as classical encryption techniques as Caesar cipher and one-time pad. Then it moves to more modern block (as DES & others) and stream ciphers. After that, it revisits number theory concepts as GCD, and extended Euclidean algorithm to be able to understand the RSA algorithm and other public-key schemes as the Diffie-Hellman key exchange. Finally, it discusses other important topics as hashing, authentication codes (as MAC), digital signatures, key management & distribution, user authentication, transport-level security, intruders, and malicious software.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n There's a mini project (individual or in pairs) where students are required to implement the RSA algorithm, and a function that attempts to break it. The program should be in the form of a chatting module between a sender and a receiver either through reading files or a socket connection and implemented in the language of their choice.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1092ey-buyco2Cjx9ZrudJ5_TWk2X6Yy-) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Computer Networks⁴
           image: https://www.n-able.com/wp-content/uploads/blog/2019/01/whatis.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Hoda Baraka\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Operating Systems (Weak dependency)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n The course starts by introducing the different types of networks as LAN, & WAN, the protocol hierarchy and terminology, then compares services and protocols. Afterwards, it delves into the OSI model, and compares it with the TCP/IP model and especially focuses on the data link layer. It discusses framing, error detection and correction, and popular protocols in that layer as the Stop-and-Wait, simplex, one-bit sliding window, Go Back N, and selective repeat protocols. It briefly explains the MAC sublayer. Finally, it discusses the network layer, quality of service, congestion control, IPv4, and IPv6.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n In this group project, students write a program in Omnet++ that simulate data link layer protocols between two nodes that are connected with a noisy channel. Essentially, it means implementing framing, error detection, and the Go Back N protocol.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1gcvL8fIB5l2gjRKo3ntnnVqgdEV8NtyH) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Wireless Networks⁴
           image: https://cdn.hswstatic.com/gif/wireless-network-4.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Sandra Wahid (2023-present), Prof. Hoda Baraka (?-2022)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Computer Networks \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course starts by explaining the basic concepts of wireless communication, and the wireless channel characteristics. It then delves into different modulation techniques as PSK, and multiple access techniques as FDMA. After that it explores static and dynamic MAC protocols as ALOHA, slotted ALOHA, and CSMA/CD. The back-off algorithm, the hidden terminal & exposed terminal problems, and power management protocols for power saving & control are discussed. Finally, the Wifi protocol is throughly examined, followed by routing protocols in wireless networks as DSR, & AODV.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No project. Instead, there will be group presentations about selected topics in Mobile Wireless Networks.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Study notes](https://drive.google.com/drive/folders/1TpT2HNEPSmcSZqK-WL7IVJHMeqwwLb_O) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.
@@ -535,72 +536,73 @@
         - name: Algebra & Multivariable Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Algebra: Prof. Abdel-Karim Shaban Hassan (2020-present), Prof. Lucy Kamel (?-2019)
+                    \n Calculus: Dr. Ahmed Essam (2020-present), Prof. Abdel-Karim Shaban Hassan (?-2019)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Linear Algebra & Calculus, Analytic Geometry & Integration (both from preparatory year)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This courses consists of two parts: linear algebra, and multivariable calculus. For the algebra, the syllabus discusses vector spaces, subspaces, orthogonality, and matrices. It explains eigenvalues and eigenvectors, and how to calculate them as well as matrix functions and transformations. As for the calculus part, it addresses multivariable integrals as line and surface integrals as well as important theorems as applications like the divergence (Gauss's) theorem, and Green's theorem. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1P7FOFLeWcP7WM22AyVoQLFfCft-z_a_W) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Numerical Analysis¹
           image: https://i.stack.imgur.com/BJqLU.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Salwa Kamal Abd-El-Hafiz (2021-present), Prof. Amany Aziz Abd El-Kader (?-2020)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
-                    ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n Algebra & Multivariable Calculus\n
+                    \n Algebra (e.g., Eigen Value Problem)\n
+                    \n This course explores various techniques to solve well known problems in mathematics numerically. Some of the techniques include finding numerical solutions to non-linear equations, curve fitting using interpolation and regression, numerical differentiation & integration, and numerical solutions for finding the eigenvalues and eigenvectors of matrices. Lastly, it introduces ordinary differential equations (ODEs), and partial differential equations as well as finding numerical solutions for them. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n The course probably won't include a project since it depends on the Prof. However, if there's going to be one, it will involve implementing functions to numerically solve non-linear equations, ODEs, and find the eigenvalues and eigenvectors of a matrix using the methods taken in the syllabus.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1AYOqcHGxEjXVYoB9u7Pkpv42V5TDcNtK) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Probability & Stats²
           image: https://editor.analyticsvidhya.com/uploads/74661theory-of-probability_stats116.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Maha Amin Hassanein (2021-present), Dr. Mohamed Darwish (?-2020)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None.\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n First, the course discusses the basics of probability by introducing axioms, theorems, conditional probability, and Bayes' rule. Then it delves into more topics as random variables, discrete and continuous distributions, and joint probability distributions. Finally, it concludes by explaining statistical methods as sampling distributions, central limit theorem, maximum likelihood estimation, and hypothesis testing.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This group project involves performing a statistical analysis on a subject using Excel or a programming language and developing a statistical dashboard to visualize the data. You should use the material taken in the course.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/1H8H1bo8b2B66hMbPwHnpNu0cYgNxKuXJ) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Discrete Math²
           image: https://hips.hearstapps.com/hmg-prod/images/2plus2-1596824542.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Haythem Osman Ismail\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None.\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course covers propositional logic, and introduces important terminology as arguments, derivations, and predicates. It then delves into first-order predicate logic, validity and derivation in it, and proof techniques. Futhermore, it discusses the fundamentals of set theory, relations, and functions. It concludes by explaining asymptotic analysis of algorithms and their complexity, in addition to permutations and combinations. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1o6TkiQ2FDLTwAuA16s91DREeM8XIgFOr) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Number Theory³
           image: https://www.researchgate.net/publication/346026529/figure/fig7/AS:959987803234307@1605890336753/Comparison-between-mathematical-results-and-test-data-of-modulus-of-elastic.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Omar Abdallah Elgendy\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Discrete Mathematics (e.g., Proofs lecture).\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course starts by covering the basic concepts of number theory as divisibility tests, congruence relations, and prime numbers. It explains the greatest common divisor, and how to calculate it using Euclid's and extended Euclid's algorithms. It continues with the Chinese remainder theorem, and modular exponentiation. Lastly, it delves into the RSA cryptosystem, primitives roots, and the quadratic reciprocity law.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None but expect Python assignments to implement learnt techniques\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/13UsJR7-FVSnIY8lMIqo2UxqOr55wV97k) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 📡 Communication Engineering
       description: Mostly for shift career opportunities. Kidding, these are mostly
@@ -800,7 +802,7 @@
                     You may also find useful links in Google drives found in the 'Recently Joined' section.
                     " 
     - title: 🤷 Other Engineering
-      description: Afterall, all engineers should be able to integrate well together.
+      description: After all, all engineers should be able to integrate well together.
         Kidding it's just the emoji.
       items:
         - name: Civil Engineering¹

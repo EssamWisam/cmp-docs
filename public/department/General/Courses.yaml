@@ -554,7 +554,7 @@
                     \n Prof. Salwa Kamal Abd-El-Hafiz (2021-present), Prof. Amany Aziz Abd El-Kader (?-2020)\n
                     ### Potential Prerequisites:
                     \n Algebra & Multivariable Calculus\n
-                    ### Course Content: 
+                    \n Algebra (e.g., Eigen Value Problem)\n
                     \n This course explores various techniques to solve well known problems in mathematics numerically. Some of the techniques include finding numerical solutions to non-linear equations, curve fitting using interpolation and regression, numerical differentiation & integration, and numerical solutions for finding the eigenvalues and eigenvectors of matrices. Lastly, it introduces ordinary differential equations (ODEs), and partial differential equations as well as finding numerical solutions for them. \n
                     ### Project: 
                     \n The course probably won't include a project since it depends on the Prof. However, if there's going to be one, it will involve implementing functions to numerically solve non-linear equations, ODEs, and find the eigenvalues and eigenvectors of a matrix using the methods taken in the syllabus.\n

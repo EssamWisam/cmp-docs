@@ -71,6 +71,13 @@ img[alt=image50] {
   width: 80%
 }
 
+img[alt=image25] { 
+  border-radius: 3%;
+  display: block;
+  margin: 1rem auto;
+  width: 40%
+}
+
 
 h1 {
   font-size: 2.2rem;

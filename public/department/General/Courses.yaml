@@ -595,7 +595,7 @@
           markdown: "### Instructor: 
                     \n Dr. Omar Abdallah Elgendy\n
                     ### Potential Prerequisites:
-                    \n None.\n
+                    \n Discrete Mathematics (e.g., Proofs lecture).\n
                     ### Course Content: 
                     \n This course starts by covering the basic concepts of number theory as divisibility tests, congruence relations, and prime numbers. It explains the greatest common divisor, and how to calculate it using Euclid's and extended Euclid's algorithms. It continues with the Chinese remainder theorem, and modular exponentiation. Lastly, it delves into the RSA cryptosystem, primitives roots, and the quadratic reciprocity law.\n
                     ### Project: 

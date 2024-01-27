@@ -788,8 +788,8 @@
                     \n Signals and Systems (and Differential Equations) \n
                     ### Course Content: 
                     \n The course consists of two main parts. The first, taught by Dr. Ragia, is about describing systems (e.g., a mechanical system of springs or an electrical circuit) by
-                    differential equations and then converting this representation into a form that allows easy analysis of various charactheristics of the system such as stability and speed as well as
-                    modifying or adding mathematically-defined components to the system to make it meet particular system charachteristics (e.g., make it a stable or faster system). \n
+                    differential equations and then converting this representation into a form that allows easy analysis of various characteristics of the system such as stability and speed as well as
+                    modifying or adding mathematically-defined components to the system to make it meet particular system characteristics (e.g., make it a stable or faster system). \n
                     On the other hand, Dr. Mohamed's part focuses on automatic systems whose behaviour could be specified with simple programming code (called PLC systems). This part barely involves any mathematics
                     and is mostly about programming the PLC system to achieve a particular behaviour.
                     \n

@@ -389,7 +389,7 @@
           markdown: "### Instructor: 
                     \n Prof. Ihab Talkhan \n
                     ### Potential Prerequisites:
-                    \n Practical and Engineering Applications (from preparatory year and a weak dependency) \n
+                    \n None. \n
                     ### Course Content: 
                     \n This is a basic course that teaches students the most fundamental components of computer hardware. It starts by explaining how data is represented in computers, Boolean logic, and logic gates. Combinational logic circuits are analyzed throughly as well as tools to simplify them such as K-Maps. Logical circuits such as multiplexers, demultiplexers, decoders, encoders and parity circuits are all explained in-depth. By the end of the course, students should be able to design basic and slightly more advanced arithmetic logical circuits (i.e., calculators).\n
                     ### Project: 

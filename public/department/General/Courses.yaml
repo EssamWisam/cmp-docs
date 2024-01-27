@@ -599,7 +599,7 @@
                     ### Course Content: 
                     \n This course starts by covering the basic concepts of number theory as divisibility tests, congruence relations, and prime numbers. It explains the greatest common divisor, and how to calculate it using Euclid's and extended Euclid's algorithms. It continues with the Chinese remainder theorem, and modular exponentiation. Lastly, it delves into the RSA cryptosystem, primitives roots, and the quadratic reciprocity law.\n
                     ### Project: 
-                    \n None.\n
+                    \n None but expect Python assignments to implement learnt techniques\n
                     ### Material: 
                     \n [Lecture Notes](https://drive.google.com/drive/folders/13UsJR7-FVSnIY8lMIqo2UxqOr55wV97k) and other nice material can be found in 2023 class Google drive. 
                     You may also find useful links in Google drives found in the 'Recently Joined' section.

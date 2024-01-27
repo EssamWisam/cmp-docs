@@ -475,7 +475,7 @@
           markdown: "### Instructor: 
                     \n Prof. Amr Wassal\n
                     ### Potential Prerequisites:
-                    \n Microprocessor II \n
+                    \n Digital Electronics \n
                     ### Course Content: 
                     \n This is a comprehensive course that starts by surveying the semiconductor industry and technology. It discusses IC design flows including the MOS transistor, analog and circuit design, digital logic families, and digital design flows. It explains Euler's path, domino logic, the productivity gap, and the ASIC flow. It continues by further examining of synchronous and asynchronous systems, & clock distributions as the H-tree. Finally, it elaborates on multiple other topics as: front-end and back-end design flow, interconnection and signal integrity, low-power design, and design-for testability.\n
                     ### Project: 

@@ -207,7 +207,7 @@
           markdown: "### Instructor: 
                     \n Dr. Mayada Hadhoud   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariate Calculus \n
+                    \n Programming Techniques, Algebra & Multivariable Calculus \n
                     ### Course Content: 
                     \n In this course, students delve into the basics of image processing and various techniques used in that field. 
                     This includes the fourier transform and convolution and their uses in filtering, smoothing, edge detection, etc. 
@@ -228,7 +228,7 @@
           markdown: "### Instructor: 
                     \n Dr. Abdelmonem Bayoumi   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariate Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n In this course, students are introduced to artificial intelligence, machine learning and deep learning. The course covers the main types of learning and then proceeds by
                     delving into various machine learning algorithms, down to their mathematical implementation and derivations such as: minimum distance classifiers, K-NN, 
@@ -249,7 +249,7 @@
           markdown: "### Instructor: 
                     \n Dr. Dina ElReedy   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariate Calculus \n
+                    \n Programming Techniques, Algebra & Multivariable Calculus \n
                     ### Course Content: 
                     \n This is an advanced course where students learn about machine learning from a pure theoretical perspective with emphasis on why and how
                     machine learning models work, where concepts such as growth functions, dichotomies and VC dimensions are covered and various bounds for the 
@@ -292,7 +292,7 @@
           markdown: "### Instructor: 
                     \n Dr. Sandra Wahid   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariate Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n In this course, students start by delving into classical NLP (string matching and Regex) and other basic concepts (tokenization, normalization and segmenting). 
                     It also exposes students to classical and deep approaches for word embeddings (e.g., WW matrix, Word2Vec, Skipgram), recurrent neural networks, classical and deep approaches to language modelling (e.g., N-grams and RNNs), 
@@ -310,7 +310,7 @@
           markdown: "### Instructor: 
                     \n Dr. Sandra Wahid   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariate Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Pattern Recognition, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n This is an advanced course where students delve into various computer vision algorithms and techniques with a view on how they can be utilized for satellite imagery.
                     This includes radiometric and geometric correction of images (e.g., haze removal, mapping functions with polynomial regression), PCA for image compression and pan sharpening,
@@ -331,7 +331,7 @@
           markdown: "### Instructor: 
                     \n Dr. AbdelMonem Bayoumi   \n
                     ### Potential Prerequisites:
-                    \n Programming Techniques, Algebra & Multivariate Calculus, Probability & Statistics \n
+                    \n Programming Techniques, Algebra & Multivariable Calculus, Probability & Statistics \n
                     ### Course Content: 
                     \n This is an advanced course where students delve into various probabilistic techniques that enable state
                     estimation of a dynamical system in an environment given a prior belief, sensor and action model. The techniques covered include different methods for estimating action models and sensor models,
@@ -533,7 +533,7 @@
     - title: 🧮 Mathematics
       description: Mathematics courses mostly occur as prerequisites for other courses.
       items:
-        - name: Algebra & Multivariate Calculus¹
+        - name: Algebra & Multivariable Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
           markdown: "### Instructor: 
                     \n Algebra: Prof. Abdel-Karim Shaban Hassan (2020-present), Prof. Lucy Kamel (?-2019)
@@ -541,7 +541,7 @@
                     ### Potential Prerequisites:
                     \n Linear Algebra & Calculus, Analytic Geometry & Integration (both from preparatory year)\n
                     ### Course Content: 
-                    \n This courses consists of two parts: linear algebra, and multivariate calculus. For the algebra, the syllabus discusses vector spaces, subspaces, orthogonality, and matrices. It explains eigenvalues and eigenvectors, and how to calculate them as well as matrix functions and transformations. As for the calculus part, it addresses multivariable integrals as line and surface integrals as well as important theorems as applications like the divergence (Gauss's) theorem, and Green's theorem. \n
+                    \n This courses consists of two parts: linear algebra, and multivariable calculus. For the algebra, the syllabus discusses vector spaces, subspaces, orthogonality, and matrices. It explains eigenvalues and eigenvectors, and how to calculate them as well as matrix functions and transformations. As for the calculus part, it addresses multivariable integrals as line and surface integrals as well as important theorems as applications like the divergence (Gauss's) theorem, and Green's theorem. \n
                     ### Project: 
                     \n None\n
                     ### Material: 
@@ -553,7 +553,7 @@
           markdown: "### Instructor: 
                     \n Prof. Salwa Kamal Abd-El-Hafiz (2021-present), Prof. Amany Aziz Abd El-Kader (?-2020)\n
                     ### Potential Prerequisites:
-                    \n Algebra & Multivariate Calculus\n
+                    \n Algebra & Multivariable Calculus\n
                     ### Course Content: 
                     \n This course discusses various ways to find numerical solutions to non-linear equations. It covers curve fitting using interpolation and regression, numerical differentiation & integration, and numerical solutions for finding the eigenvalues and eigenvectors of matrices. Lastly, it introduces ordinary differential equations (ODEs), and partial differential equations as well as finding numerical solutions for them. \n
                     ### Project: 

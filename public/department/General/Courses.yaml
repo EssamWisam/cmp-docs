@@ -536,72 +536,73 @@
         - name: Algebra & Multivariate Calculus¹
           image: https://npr.brightspotcdn.com/dims4/default/6e82da7/2147483647/strip/true/crop/5568x3712+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F8f%2F2307b963479e83ea6d9c66bf4229%2Falgebra-4.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Algebra: Prof. Abdel-Karim Shaban Hassan (2020-present), Prof. Lucy Kamel (?-2019)
+                    \n Calculus: Dr. Ahmed Essam (2020-present), Prof. Abdel-Karim Shaban Hassan (?-2019)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Linear Algebra & Calculus, Analytic Geometry & Integration (both from preparatory year)\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This courses consists of two parts: linear algebra, and multivariate calculus. For the algebra, the syllabus discusses vector spaces, subspaces, orthogonality, and matrices. It explains eigenvalues and eigenvectors, and how to calculate them as well as matrix functions and transformations. As for the calculus part, it addresses multivariable integrals as line and surface integrals as well as important theorems as applications like the divergence (Gauss's) theorem, and Green's theorem. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1P7FOFLeWcP7WM22AyVoQLFfCft-z_a_W) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Numerical Analysis¹
           image: https://i.stack.imgur.com/BJqLU.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Salwa Kamal Abd-El-Hafiz (2021-present), Prof. Amany Aziz Abd El-Kader (?-2020)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Algebra & Multivariate Calculus\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course discusses various ways to find numerical solutions to non-linear equations. It covers curve fitting using interpolation and regression, numerical differentiation & integration, and numerical solutions for finding the eigenvalues and eigenvectors of matrices. Lastly, it introduces ordinary differential equations (ODEs), and partial differential equations as well as finding numerical solutions for them. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n The course probably won't include a project since it depends on the Prof. However, if there's going to be one, it will involve implementing functions to numerically solve non-linear equations, ODEs, and find the eigenvalues and eigenvectors of a matrix using the methods taken in the syllabus.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1AYOqcHGxEjXVYoB9u7Pkpv42V5TDcNtK) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Probability & Stats²
           image: https://editor.analyticsvidhya.com/uploads/74661theory-of-probability_stats116.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Maha Amin Hassanein (2021-present), Dr. Mohamed Darwish (?-2020)\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None.\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n First, the course discusses the basics of probability by introducing axioms, theorems, conditional probability, and Bayes' rule. Then it delves into more topics as random variables, discrete and continuous distributions, and joint probability distributions. Finally, it concludes by explaining statistical methods as sampling distributions, central limit theorem, maximum likelihood estimation, and hypothesis testing.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n This group project involves performing a statistical analysis on a subject using Excel or a programming language and developing a statistical dashboard to visualize the data. You should use the material taken in the course.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Summaries](https://drive.google.com/drive/folders/1H8H1bo8b2B66hMbPwHnpNu0cYgNxKuXJ) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Discrete Math²
           image: https://hips.hearstapps.com/hmg-prod/images/2plus2-1596824542.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Prof. Haythem Osman Ismail\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None.\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course covers propositional logic, and introduces important terminology as arguments, derivations, and predicates. It then delves into first-order predicate logic, validity and derivation in it, and proof techniques. Futhermore, it discusses the fundamentals of set theory, relations, and functions. It concludes by explaining asymptotic analysis of algorithms and their complexity, in addition to permutations and combinations. \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/1o6TkiQ2FDLTwAuA16s91DREeM8XIgFOr) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
         - name: Number Theory³
           image: https://www.researchgate.net/publication/346026529/figure/fig7/AS:959987803234307@1605890336753/Comparison-between-mathematical-results-and-test-data-of-modulus-of-elastic.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Omar Abdallah Elgendy\n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None.\n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n This course starts by covering the basic concepts of number theory as divisibility tests, congruence relations, and prime numbers. It explains the greatest common divisor, and how to calculate it using Euclid's and extended Euclid's algorithms. It continues with the Chinese remainder theorem, and modular exponentiation. Lastly, it delves into the RSA cryptosystem, primitives roots, and the quadratic reciprocity law.\n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n None.\n
                     ### Material: 
-                    \n Material goes here...
+                    \n [Lecture Notes](https://drive.google.com/drive/folders/13UsJR7-FVSnIY8lMIqo2UxqOr55wV97k) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
                     "  
     - title: 📡 Communication Engineering
       description: Mostly for shift career opportunities. Kidding, these are mostly

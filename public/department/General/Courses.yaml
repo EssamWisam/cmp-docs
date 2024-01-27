@@ -405,7 +405,7 @@
                     ### Potential Prerequisites:
                     \n Logic Design I \n
                     ### Course Content: 
-                    \n This advanced logic design course covers how to design sequential circuits; synchronous and asynchronous, and simplify them. Students learn all about latches, flip-flops, and their numerous types. Other important circuits components are discussed such as shift registers and counters. Moreover, it delves into finite state machines. Finally, it cover types of memory as RAM & ROM and programming logic controllers as PROM, PAL, & PLA.\n
+                    \n This advanced logic design course covers how to design sequential circuits whether synchronous or asynchronous, and simplify them. Students learn all about sequential circuit elements such as latches, flip-flops, and their numerous types. Other important sequential circuits components are discussed such as shift registers and counters. Moreover, it delves into finite state machines. Finally, it cover types of memory as RAM & ROM and programming logic controllers as PROM, PAL, & PLA.\n
                     ### Project: 
                     \n In this team project, students learn to design and implement the components of the Serial Peripheral Interface (SPI) using verilog; including Master, Slave, integrate them and create test benches for the interface and components.\n
                     ### Material: 

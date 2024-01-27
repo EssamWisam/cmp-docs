@@ -806,143 +806,162 @@
         - name: Civil Engineering¹
           image: https://www.build-review.com/wp-content/uploads/2021/02/civil-engineering-company.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Sherif*    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Statics (Prep. year or High School) \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course focuses on studying structures such as beams and frames and learning to determine their reaction at support points
+                    and whether they are stable or not. It also covers theoretical concepts related to building technology and cement.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n There is none.  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Nicely written lecture notes can be linked to here. You may find useful links in Older Google drives found in the 'Recently Joined' section.
                     "  
         - name: Mechanical Engineering¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeQ3K510sXwvYAbrCcTHUYGCGahLABo0FNA&usqp=CAU
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. ElSayed Khalaf and Dr. Mohamed ElGamil   \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Likely only high school mathematics and Thermodynamics from the Prep. year \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n Composed of two parts: Thermodynamics and Robotics. Thermodynamics involves concepts such as the first law of thermodynamics, 
+                    energy analysis of closed systems and energy analysis for open systems. It then covers different methods for heat transfer both
+                    conceptually and mathematically. 
+                    Robotics involves learning about different types of robots and components within while being able to model their behaviour mathematically
+                    using the direct and inverse kinematic models and mathematical transformation.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Known to include no project  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1qrj8nj3eoJyW4nHh2ok4d8vAzzVI3LoS) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
         - name: Electrical Engineering²
           image: https://engineering-jobs.theiet.org/getasset/85bead92-2e44-4692-b579-3ddf03a9a84b/
           markdown: "### Instructor: 
                     \n Professor name goes here...    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n Electrical Circuits\n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course is composed of two parts. The first explores single and three phase circuits, magnetic circuits and the theory behind
+                    major consequential electrical devices such as the single phase transformer and the three-phase induction motor. Meanwhile, the second part
+                    conceptually and mathematically explores the distribution of electricity across multiple loads (e.g., houses) as well as grounding and step/touch voltages.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No projects but expect quizzes  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/1uIWpI_jbijccjOeyoYz9ITqkv7G_N5FG) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
     - title: 💹 General Courses
       description: More or less equivalent to having business be your minor.
       items:
         - name: Presentation Skills¹
           image: https://www.perkins.org/wp-content/uploads/2022/05/Presenter-scaled.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Nessreen ElAbiad    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n English \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n Course equips students with the necessary presentation and public speaking skills to excel wherever such skills are needed in their
+                    business or personal lives.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Choose a topic as a team and deliver a presentation on it.  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  
         - name: Technical Writing¹
           image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbIAuRBXb9N67WkYiUkJGq4_DC2otJC523xA&usqp=CAU
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Nessreen ElAbiad    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n English \n
                     ### Course Content: 
-                    \n The content of the course is described here...
-                    \n
+                    \n Course equips students with the necessary technical skills to excel wherever such skills are needed in their
+                    business or personal lives.
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Choose a topic as a team and write a technical report on it.  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  
         - name: Project Management²
           image: https://wac-cdn.atlassian.com/dam/jcr:36609480-f4e6-4e66-8691-2dae9e918db5/project-management-social-sharing-image.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Hesham    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course explores concepts related to analyzing, evaluating and managing projects as well as the project's lifecycle,
+                     feasibility studies and dealing with failed projects. There is also an economics components focused on analyzing and understanding
+                     financial statements. The course is by default in Arabic.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No project but possibly assignments in the form of reports  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  
         - name: Economics²
           image: https://www.cheggindia.com/wp-content/uploads/2021/02/Why-is-Economics-important_-Scope-of-Economics.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Hesham    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course explores concepts such as the economic problem, supply, demand and production, monetary theory, distribution theory and
+                    investment and saving. The course is by default in Arabic.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No project but possibly assignments in the form of reports  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  
         - name: Marketing³
           image: https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/marketing.png
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Sheymaa Tayseer   \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n English \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course explores concepts related to the definition of marketing and its management, strategic planning, market environments,
+                     consumer behaviour and factors affecting it, market segmentation, targeting and positioning, product and service classification.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Use social media to simulate marketing a hypothetical start up as a team  \n
                     ### Material: 
-                    \n Material goes here...
-                    "  
+                    \n [Study notes](https://drive.google.com/drive/u/1/folders/16JfS2qVifZnby1Uz8vheh6GdHEYIGYI5) and other nice material can be found in 2023 class Google drive. 
+                    You may also find useful links in Google drives found in the 'Recently Joined' section.
+                    " 
         - name: Business & Strategic Management³
           image: https://m.economictimes.com/thumb/height-450,width-600,imgsize-2927581,msid-57162865/six-steps-to-running-a-successful-business.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Ayman Mashour   \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n English \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course explores concepts related to the definition and principles of business strategies, the types of strategies, the analysis of
+                    the business's mission and vision, methods and tools to generate and select strategies, fundamentals of critical thinking, learning in an organization,
+                    business strategy implementation, execution and monitoring.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n No project but expect various assignment to approach as a team  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  
         - name: Law and Consultation⁴
           image: https://cdn.britannica.com/51/190451-050-0E9B50F5/soundblock-Wood-scales-books-stack-background-leather.jpg
           markdown: "### Instructor: 
-                    \n Professor name goes here...    \n
+                    \n Dr. Samir Shahin    \n
                     ### Potential Prerequisites:
-                    \n Probable prerequisites go here... \n
+                    \n None \n
                     ### Course Content: 
-                    \n The content of the course is described here...
+                    \n The course is in Arabic and extensively studies law No. 182 of 2018 for regulating contracts. This familiarizes students
+                    with all the legal boundaries related to tenders, auctions and other forms of contracts. The course also involves a consultation
+                    and  a web development component where students get to learn more about computer benchmarks and web.
                     \n
                     ### Project: 
-                    \n Information regarding the course project's goes here...  \n
+                    \n Delivering a presentation on benchmarks and building a website as a project  \n
                     ### Material: 
-                    \n Material goes here...
+                    \n Course slides should be provided to the class representative.
                     "  

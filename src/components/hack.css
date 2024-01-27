@@ -48,6 +48,7 @@
     color: var(--primary-color)  !important;
     background-color: var(--inverse-color)  !important;
     overflow: auto;
+    padding: 1.5rem !important;
     
   }
 

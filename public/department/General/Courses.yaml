@@ -447,7 +447,7 @@
           markdown: "### Instructor: 
                     \n Dr. Basem Ibraheem\n
                     ### Potential Prerequisites:
-                    \n Microprocessor II, Computer Architecture (weak dependency)\n
+                    \n Microprocessor II (but some content will be repeated anyway)\n
                     ### Course Content: 
                     \n This advanced hardware course delves into the definition and characteristics of embedded systems. It discusses modeling techniques as FSMs, data flow diagrams, and petri nets. It explores microcontrollers as Arduino, and various types of input and output devices as sensors and actuators. Finally, it revisits the memory hierarchy, and compares validation and verification.\n
                     ### Project: 

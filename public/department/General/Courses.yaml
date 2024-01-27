@@ -614,7 +614,7 @@
                     \n Nothing beyond high school Mathematics and (optionally) high school Physics involving Circuits.
                     \n
                     ### Course Content: 
-                   \n The first two lectures starts by recapping on high school circuits knowledge like Ohm's law,
+                   \n The first two lectures start by recapping on high school circuits knowledge like Ohm's law,
                     Kirchhoff's current and voltage laws, etc. The rest of the course explores other methods to solve circuits
                     such as Y-Delta Transformations which simplifies the circuit by solving an equivalent one,  Loop Analysis and Node Analysis 
                     which are methods that could be derived from Kirchhof's laws to solve circuits. Other interesting and more advanced methods of solving circuits such as Superposition theorem

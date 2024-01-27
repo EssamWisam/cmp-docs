@@ -391,7 +391,7 @@
                     ### Potential Prerequisites:
                     \n Practical and Engineering Applications (from preparatory year and a weak dependency) \n
                     ### Course Content: 
-                    \n This is a basic course that teaches students the most fundamental components of computer hardware. It starts by explaining how data is represented in computers, Boolean logic, and logic gates. Combinational logic circuits are analyzed throughly and synthesized using K-Maps as well. Multiplexers, demultiplexers, decoders, encoders and parity circuits are all explained in-depth. By the end of the course, students should be able to design basic and slightly more advanced arithmetic circuits as multipliers.\n
+                    \n This is a basic course that teaches students the most fundamental components of computer hardware. It starts by explaining how data is represented in computers, Boolean logic, and logic gates. Combinational logic circuits are analyzed throughly as well as tools to simplify them such as K-Maps. Logical circuits such as multiplexers, demultiplexers, decoders, encoders and parity circuits are all explained in-depth. By the end of the course, students should be able to design basic and slightly more advanced arithmetic logical circuits (i.e., calculators).\n
                     ### Project: 
                     \n Students work on a hardware-based team project where they have to design and simulate a functional unit (ex: multiplier, arithmetic, etc...) on Logisim and implement it using physical hardware parts.\n
                     ### Material: 

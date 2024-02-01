@@ -30,7 +30,7 @@ const ImageComponent = ({ imageUrl, placeholderUrl, alt}) => {
     <img
       src={isValid ? imageUrl : placeholderUrl}
       alt={alt}
-      style={{ maxWidth: '100%', height: 'auto' }}
+      style={{ maxWidth: '100%', height: '150px', display: 'inline-block' }}
     />
   );
 };

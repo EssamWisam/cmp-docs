@@ -20,7 +20,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
     };
   
     const renderItems = (items) => {
-      var mdCheck = currentMarkdown.includes("../department/Extras/Classes");
+      var mdCheck = currentMarkdown.includes("department/Extras/Classes");
       return items.map((item, index) => (
         <div className="course-circle" key={index} onClick={() => {openModal(item.markdown)}} onMouseEnter={() => {setHoverStatus(true)}} onMouseLeave={() => {setHoverStatus(false)}}>
           { mdCheck ?  

@@ -1,11 +1,11 @@
-// changes internal styles of some components hence the name.
+/* changes internal styles of some components hence the name. */
 
 :root {
     --primary-color: #f1f1f1;
     --inverse-color: #1d1d1d;
   }
   
-  // sidebar
+  /* sidebar */
   .ps-menu-label {
     color: var(--primary-color) !important;
   }
@@ -32,7 +32,7 @@
 
   }
 
-  // modal
+  /* modal */
   .pure-modal {
     border-radius: 3%;
   }

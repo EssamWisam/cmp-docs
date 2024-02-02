@@ -56,11 +56,6 @@ Now you can test any changes you perform by running
 ```
 npm start
 ```
-If `npm start` doesn't work, do this instead:
-```
-npm run start_win
-```
-
 Once you're done. Simply submit a PR; it would be nice if you start proposing the PR as an issue if it's a big change.
 
 #### Collaboration Notes

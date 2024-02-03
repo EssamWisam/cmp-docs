@@ -7,7 +7,7 @@ https://github.com/EssamWisam/cmp-docs/assets/49572294/5958c03d-2b18-4ee5-bfb3-3
 
 I was motivated to create an online platform that takes the form of software documentation as a guide for those that are considering enrolling, have enrolled or even have graduated from the department! After meeting with prospective students to help them decide whether or not to join the department and teaching a summer course to freshmen, I realized that a lot of questions are being repeatedly asked every year; it dawned on me that it would be really nice if answers to all such questions and more information about the computer engineering department at Cairo university were all available in one site.
 
-You can check the documentation at [https://cmp-docs.netlify.app](https://cmp-docs.netlify.app) or  [https://cmp-docs.vercel.app](https://cmp-docs.vercel.app/)
+You can check the documentation at https://cmp-docs.pages.dev or https://cmp-docs.netlify.app 
 
 **Thereby, the following are the motivations of this website:**
 

@@ -1,0 +1,253 @@
+- title: 🧑🏻‍🎓 فصل CCEC 24 👩🏻‍🎓
+  description:  اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم. 
+  markdown_title: معلومات عن الطالب
+  items:
+    - title: 📃 كشف الدفعة
+      description: طلبة الصف كما يلي
+      items:
+        - name: أحمد طارق
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد أمين
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد عماد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد فتحي
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد ماهر
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد مجدي
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد سعد
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أحمد هدهد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: أنس شريف
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: آية الله أسامة
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: بسنت هشام
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: جون موريس
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: حازم منتصر
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: حبيبة حسن
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: يمكنك معرفة المزيد عن حبيبة والتواصل معها عبر زيارة [صفحتها على LinkedIn](https://www.linkedin.com/in/habiba-hassan-elhussieny-815988231) و[GitHub](https://github.com/HabibaHassan02).
+        - name: حسام نبيل
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: خالد ممدوح
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: يمكنك معرفة المزيد عن خالد والتواصل معه عبر زيارة [صفحته على LinkedIn](https://www.linkedin.com/in/khalidmamdou7/) و[GitHub](https://github.com/khalidmamdou7).
+        - name: دنيا رماح
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: رامي أشرف
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: رنا جمال
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: رنا معتز
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: روفيدة باسم
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: زياد أحمد
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: زياد عزت
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: زياد عمرو
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: سلمى أحمد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: سميحة صادق
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: سهاد حسام
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: سيف البغدادي
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: سيف الله قشطة
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: شهد عبد الرحمن
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: عبد الحميد أسامة
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: عبد الخالق أشرف
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: عبد الرحمن إبراهيم
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: عبد الرحمن سيد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: عبد الرحمن عزت
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: علا أحمد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: علي حسن
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
+        - name: علي حشيش
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: يمكنك معرفة المزيد عن علي والتواصل معه عبر زيارة [صفحته على LinkedIn](https://www.linkedin.com/in/ali-hashish/) و[GitHub](https://github.com/AliHashish).
+        - name: عمار ناصر
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر عبدالوهاب
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر بدر
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر شريف
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر عاطف
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر علاء
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر أمين
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة [LinkedIn](https://www.linkedin.com/in/omar-amin-6bb1961ab/) و[GitHub](https://github.com/oamin12) الخاص به."
+        - name: عمر فهيم
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمر نشأت
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمرو عبدالظاهر
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمرو شمس
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: عمرو ياسر
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: فرح محمد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: كريم حافظ
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: كريم ياسر
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مارك ميلاد
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ماري أشرف
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مازن أسامة
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ماهينور علاء
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمد المصيلحي
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمد أمين
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمد حسين
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمد محسن
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمد مصطفى
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: محمود خالد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مروان مصطفى
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مريم عصام
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مصطفى أسامة
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مصطفى النشار
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ملك مختار
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: مي عبدالحميد
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ندى طارق
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ندى هشام
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: نورالدين أشرف
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: نورهان حلمي
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: هلا هاني
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ياسمين زكي
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: ياسمين هاشم
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يمنى أسامة
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يوسف إسماعيل
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يوسف خالد
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يوسف عادل
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يوسف شعبان
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+        - name: يوسف جيلاني
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة

@@ -33,7 +33,7 @@ const LazyImage = ({ imageUrl, placeholderUrl, alt }) => {
 
     return (
             <LazyLoadImage
-                threshold={200}
+                threshold={400}
                 beforeLoad={checkImage}
                 placeholderSrc={placeholderUrl}
                 alt={alt}

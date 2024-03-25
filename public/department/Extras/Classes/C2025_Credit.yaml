@@ -1,0 +1,265 @@
+- title: 💻 CCE 25 Class 💻
+  description: Enter our computer engineering class, where students exhibit an
+    exceptional level of expertise. They handle computers and technology with
+    remarkable ease, crafting remarkable innovations effortlessly.
+  markdown_title: Student Info
+  items:
+    - title: 📃 Class Roster
+      description: Members of the class are as follows
+      items:
+        - name: Ahmed Hany
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Yasser
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Osama Nasser (El rep)
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Bassel Mohamed (El rep)
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Gaser Sami
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Hassan Hatem
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Hussein Elhawary
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Daniel Adel
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: David George
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Rawan Adel
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Ziad Abdelwareth
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Sohaila Hossam
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Abdelrahman Ayman
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Abdullah Amr
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: You can know more about Habiba and reach her out by visiting her [LinkedIn](https://www.linkedin.com/in/habiba-hassan-elhussieny-815988231) and [GitHub](https://github.com/HabibaHassan02) profile.  
+        - name: Ali Mohamed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Omar Ibrahim
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: You can know more about Khaled and reach him out by visiting his [LinkedIn](https://www.linkedin.com/in/khalidmamdou7/) and [GitHub](https://github.com/khalidmamdou7) profile.
+        - name: Omar Desouki
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Amr Ashraf
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Fares Hesham (El rep)
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Farida Yasser
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Fahd Ahmed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Fatema Kotb
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Marly Mofeed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mahmoud Salah
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Mahmoud Samy
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Marwaan Abbas
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Yehia Tarek
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Mohamed (3okal)
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Islam Amr
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Ismail Mostafa
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Basel Hossam
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Hussen El-Hadidy
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Rana Hatem
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Ziad Ghanem
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Sara Sherif
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Salah Mohamed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Abdelraouf Mamdouh
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Abdallah Matbouli
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: You can know more about Ali and reach him out by visiting his [LinkedIn](https://www.linkedin.com/in/ali-hashish/) and [GitHub](https://github.com/AliHashish) profile.
+        - name: Abdullah Ayman (Shattah)
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Omar Elzahar
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Kamal Ahmed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Zakaria
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Badr El-Din
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Abdelmoneim
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Essam
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: You can know more about Omar and reach him out by visiting his [LinkedIn](https://www.linkedin.com/in/omar-amin-6bb1961ab/) and [GitHub](https://github.com/oamin12) profile.
+        - name: Mariam Tamer
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Moaaz Tarek
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Malak Yasser
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Mina Ashraf
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Gaber
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Khaled
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Jomana Hossam
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Reem Anwar
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Salma Osama
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Seif El-Din Ahmed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Maria Andrawes
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Tarek
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mostafa Fouda
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Hanzada Fayez
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Heba Gamal
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Waleed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Al-Hussein Gamal
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Peter Ashraf
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Rawan Waleed
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Tarek Emad
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Aley El-Din Hesham
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Kirollos Hanna
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Ahmed Sayed
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Mostafa Metwally
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Nardeen Hany
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Youssef Zaki
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Youssef Darwish
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Osama Youssef
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Yasser Amr
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Sarraa Mohamed
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Habiba Wael
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mahmoud Hassan
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Omar Madbouly
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Malek Essam
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Michael Boktor
+          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Mohsen
+          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
+          markdown: This is one fantastic CCE student
+        - name: Omar Qabbani
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Ahmed Tarek
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed ELsayed
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+        - name: Mohamed Gamal
+          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0" 
+          markdown: This is one fantastic CCE student
+          

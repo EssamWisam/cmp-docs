@@ -84,11 +84,10 @@ def retry(times, exceptions):
                 try:
                     return func(*args, **kwargs)
                 except Exception as e:
-                    print(
-                        f'Exception ({e}) thrown when attempting to run %s, attempt '
-                        '%d of %d' % (func, attempt, times)
-                    )
+                    eprint(f'Calling {func} with args ({args}), kwargs ({kwargs}) failed with exception: {type(e).__name__}:{e}')
                     attempt += 1
+
+            eprint(f'Failed to run {func}, for {times} attempts')
             raise RetryFailed
         return newfn
     return decorator
@@ -223,7 +222,8 @@ def join_page_log_in(driver):
     driver.find_element(By.XPATH, "/html/body/div/main/div/div/form/div[2]/button").click()
 
 def sign_in_modal_log_in(driver):
-    sign_in_button = driver.find_element(By.XPATH, r"""//*[@id="public_profile_contextual-sign-in"]/div/section/div/div/div/div[1]/button""")
+    sign_in_button = driver.find_element(
+        By.XPATH, r"""//*[@id="public_profile_contextual-sign-in"]/div/section/div/div/div/div[1]/button""")
     sign_in_button.click()
 
     username = driver.find_element(By.ID, "public_profile_contextual-sign-in_sign-in-modal_session_key")
@@ -243,14 +243,14 @@ class NoTitleException(Exception):
 @retry(3, exceptions=(NoProfileImageException, NoTitleException, Exception))
 def scrape_profile(driver, url):
     driver.get(url)
-    
+
     time.sleep(5)
-    
+
     if is_join_page(driver.page_source):
         join_page_log_in(driver)
         time.sleep(5)
         driver.get(url)
-    
+
     profile_page_source = driver.page_source
 
     # Should be at the profile by now
@@ -304,12 +304,13 @@ if __name__ == '__main__':
     class_students = class_yaml[0]['items'][0]['items']
 
     options = webdriver.ChromeOptions()
+    options.add_argument("--headless=new")
     driver = webdriver.Chrome(options=options)
 
     MAX_PROFILES_BEFORE_CHROME_RELOAD = 20
 
     try:
-        for i, student in tqdm.tqdm(enumerate(class_students)):
+        for i, student in enumerate(class_students):
 
             # Need to restart chrome every so often since it seems to leak memory.
             # Otherwise, we'd run out of memory.
@@ -322,7 +323,7 @@ if __name__ == '__main__':
             # Skip invalid profile URLs
             # We sleep a random amount of time as a precaution so Linkedin doesn't detect our bot
             if profile_url == 'https://www.linkedin.com/in/':
-                print(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
+                eprint(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
                 time.sleep(randint(1, 5))
                 continue
 
@@ -347,9 +348,9 @@ if __name__ == '__main__':
 
             time.sleep(randint(1, 5))
 
-        # print(yaml.dump(class_students))
-        with open('test.yaml', "w") as f:
-            f.write(yaml.dump(class_students))
+        class_yaml_file[0]['items'][0]['items'] = class_students
+        with open(args.class_yaml_file, "w") as f:
+            f.write(yaml.dump(class_yaml_file))
 
     finally:
         driver.close()

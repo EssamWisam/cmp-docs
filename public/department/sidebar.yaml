@@ -76,6 +76,10 @@ sections:
             label_ar: دفعة ٢٥
             icon: MdAdjust
             link: "Extras/Classes/C2025.yaml"
+          - label: Class 2025 - Credit
+            label_ar: دفعة ٢٥ - ساعات معتمدة
+            icon: MdAdjust
+            link: "Extras/Classes/C2025_Credit.yaml"
           - label: Class 2024
             label_ar: دفعة ٢٤
             icon: MdAdjust

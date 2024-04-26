@@ -3,6 +3,7 @@ import itertools
 import os
 import yaml
 import tqdm
+import sys
 
 from bs4 import BeautifulSoup
 from lxml import html
@@ -12,16 +13,34 @@ from selenium.webdriver.common.by import By
 
 from typing import Optional, List
 from dataclasses import dataclass
-from pprint import pprint
 from argparse import ArgumentParser
 from random import randint
 
+"""
+USAGE:
+    LINKEDIN_SCRAPER_EMAIL=<email> LINKEDIN_SCRAPER_PASSWORD=<password> python3 linkedin-scraper.py <path to class yaml>
+
+    or
+
+    export LINKEDIN_SCRAPER_EMAIL=<email>
+    export LINKEDIN_SCRAPER_PASSWORD=<password>
+    python3 linkedin-scraper.py <path to class yaml>
+"""
+
+# TODO: Check for the suspicious activity page (otherwise we crash)
+# TODO: Cheeck for the "profile doesn't exist" page (otherwise we crash)
+
+# https://stackoverflow.com/a/14981125
+def eprint(*args, **kwargs):
+    print(*args, file=sys.stderr, **kwargs)
+
+
 if 'LINKEDIN_SCRAPER_EMAIL' not in os.environ:
-    print('LINKEDIN_SCRAPER_EMAIL is not set, please set it before running')
+    eprint('LINKEDIN_SCRAPER_EMAIL is not set, please set it before running')
     exit(1)
 
 if 'LINKEDIN_SCRAPER_PASSWORD' not in os.environ:
-    print('LINKEDIN_SCRAPER_PASSWORD is not set, please set it before running')
+    eprint('LINKEDIN_SCRAPER_PASSWORD is not set, please set it before running')
     exit(1)
 
 EMAIL = os.environ['LINKEDIN_SCRAPER_EMAIL']
@@ -34,7 +53,7 @@ class Experience:
     duration: str
 
     def __str__(self):
-        return f'{self.title}, {self.company}, self.duration'
+        return f'{self.title}, {self.company}, {self.duration}'
 
 @dataclass
 class ProfileData:
@@ -42,6 +61,37 @@ class ProfileData:
     title: str
     current_position: Optional[Experience]
     top_skills: Optional[List[str]]
+
+
+class RetryFailed(Exception):
+    pass
+
+# https://stackoverflow.com/a/64030200
+def retry(times, exceptions):
+    """
+    Retry Decorator
+    Retries the wrapped function/method `times` times if the exceptions listed
+    in ``exceptions`` are thrown
+    :param times: The number of times to repeat the wrapped function/method
+    :type times: Int
+    :param Exceptions: Lists of exceptions that trigger a retry attempt
+    :type Exceptions: Tuple of Exceptions
+    """
+    def decorator(func):
+        def newfn(*args, **kwargs):
+            attempt = 0
+            while attempt < times:
+                try:
+                    return func(*args, **kwargs)
+                except Exception as e:
+                    print(
+                        f'Exception ({e}) thrown when attempting to run %s, attempt '
+                        '%d of %d' % (func, attempt, times)
+                    )
+                    attempt += 1
+            raise RetryFailed
+        return newfn
+    return decorator
 
 def is_join_page(html):
     # TODO: Use lxml so we don't need beautiful soup 
@@ -184,6 +234,13 @@ def sign_in_modal_log_in(driver):
 
     driver.find_element(By.XPATH, "/html/body/div[2]/div/div/section/div/div/form/div[2]/button").click()
 
+class NoProfileImageException(Exception):
+    pass
+
+class NoTitleException(Exception):
+    pass
+
+@retry(3, exceptions=(NoProfileImageException, NoTitleException, Exception))
 def scrape_profile(driver, url):
     driver.get(url)
     
@@ -199,12 +256,6 @@ def scrape_profile(driver, url):
     # Should be at the profile by now
     tree = html.fromstring(profile_page_source)
 
-    # profile_page_source = None
-    # with open('Taher Mohamed _ LinkedIn.html') as f:
-    #     profile_page_source = f.read()
-    #
-    # tree = html.fromstring(profile_page_source)
-    
     if sign_in_modal_open(tree):
         sign_in_modal_log_in(driver)
         profile_page_source = driver.page_source
@@ -221,8 +272,11 @@ def scrape_profile(driver, url):
     titles = tree.xpath(title_xpath)
     about_section = get_section_data_div(tree, 'about')
 
-    assert(len(images) == 1)
-    assert(len(titles) == 1)
+    if len(images) != 1:
+        raise NoProfileImageException
+
+    if len(images) != 1:
+        raise NoTitleException
 
     image_url = images[0].attrib['src']
     title = titles[0].text_content().strip()
@@ -250,28 +304,33 @@ if __name__ == '__main__':
     class_students = class_yaml[0]['items'][0]['items']
 
     options = webdriver.ChromeOptions()
-    #options.add_argument("--headless=new")
-    options.add_argument(
-        '--user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"')
     driver = webdriver.Chrome(options=options)
 
     MAX_PROFILES_BEFORE_CHROME_RELOAD = 20
 
     try:
         for i, student in tqdm.tqdm(enumerate(class_students)):
+
+            # Need to restart chrome every so often since it seems to leak memory.
+            # Otherwise, we'd run out of memory.
             if (i + 1) % MAX_PROFILES_BEFORE_CHROME_RELOAD == 0:
                 driver.close()
                 driver = webdriver.Chrome(options=options)
 
-            print(student['name'])
-
             profile_url = student['linkedin_url']
 
+            # Skip invalid profile URLs
+            # We sleep a random amount of time as a precaution so Linkedin doesn't detect our bot
             if profile_url == 'https://www.linkedin.com/in/':
+                print(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
                 time.sleep(randint(1, 5))
                 continue
 
-            profile_data = scrape_profile(driver, profile_url)
+            try:
+                profile_data = scrape_profile(driver, profile_url)
+            except RetryFailed:
+                eprint(f"Failed to scrape profile URL ({profile_url}), skipping")
+                continue
 
             student['image'] = profile_data.image_url
             student['title'] = profile_data.title
@@ -288,8 +347,9 @@ if __name__ == '__main__':
 
             time.sleep(randint(1, 5))
 
-        print(yaml.dump(class_students))
+        # print(yaml.dump(class_students))
         with open('test.yaml', "w") as f:
             f.write(yaml.dump(class_students))
+
     finally:
         driver.close()

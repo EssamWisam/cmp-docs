@@ -28,7 +28,7 @@ USAGE:
 """
 
 # TODO: Check for the suspicious activity page (otherwise we crash)
-# TODO: Cheeck for the "profile doesn't exist" page (otherwise we crash)
+# TODO: Check for the "profile doesn't exist" page (otherwise we crash)
 
 # https://stackoverflow.com/a/14981125
 def eprint(*args, **kwargs):
@@ -244,7 +244,7 @@ class NoTitleException(Exception):
 def scrape_profile(driver, url):
     driver.get(url)
 
-    time.sleep(5)
+    time.sleep(randint(5, 10))
 
     if is_join_page(driver.page_source):
         join_page_log_in(driver)
@@ -275,7 +275,7 @@ def scrape_profile(driver, url):
     if len(images) != 1:
         raise NoProfileImageException
 
-    if len(images) != 1:
+    if len(titles) != 1:
         raise NoTitleException
 
     image_url = images[0].attrib['src']
@@ -296,15 +296,16 @@ if __name__ == '__main__':
 
     args = arg_parser.parse_args()
 
-    class_yaml_file = open(args.class_yaml_file, "r")
+    class_yaml_file = open(args.class_yaml_file, "r", encoding="utf-8")
     class_yaml = yaml.load(class_yaml_file, Loader=yaml.Loader)
     class_yaml_file.close()
 
     # Who wrote this yaml file??
     class_students = class_yaml[0]['items'][0]['items']
+    new_class_students = class_students
 
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new")
+    options.add_argument("--headless=new") # Comment this line if you want to see the script in action with UI.
     driver = webdriver.Chrome(options=options)
 
     MAX_PROFILES_BEFORE_CHROME_RELOAD = 20
@@ -324,7 +325,7 @@ if __name__ == '__main__':
             # We sleep a random amount of time as a precaution so Linkedin doesn't detect our bot
             if profile_url == 'https://www.linkedin.com/in/':
                 eprint(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
-                time.sleep(randint(1, 5))
+                # time.sleep(randint(1, 5))
                 continue
 
             try:
@@ -333,24 +334,27 @@ if __name__ == '__main__':
                 eprint(f"Failed to scrape profile URL ({profile_url}), skipping")
                 continue
 
-            student['image'] = profile_data.image_url
-            student['title'] = profile_data.title
+            if profile_data.image_url == "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7":
+                new_class_students[i]['image'] = None
+            else:
+                new_class_students[i]['image'] = profile_data.image_url
+            new_class_students[i]['title'] = profile_data.title
 
             if profile_data.top_skills:
-                student['top_skills'] = '.'.join(profile_data.top_skills)
+                new_class_students[i]['top_skills'] = ', '.join(profile_data.top_skills)
             else:
-                student['top_skills'] = None
+                new_class_students[i]['top_skills'] = None
 
             if profile_data.top_skills:
-                student['current_position'] = str(profile_data.current_position)
+                new_class_students[i]['current_position'] = str(profile_data.current_position)
             else:
-                student['current_position'] = None
+                new_class_students[i]['current_position'] = None
 
-            time.sleep(randint(1, 5))
+            time.sleep(randint(5, 10))
 
-        class_yaml_file[0]['items'][0]['items'] = class_students
-        with open(args.class_yaml_file, "w") as f:
-            f.write(yaml.dump(class_yaml_file))
+        class_yaml[0]['items'][0]['items'] = new_class_students
+        with open(args.class_yaml_file, "w", encoding="utf-8") as f:
+            f.write(yaml.dump(class_yaml, sort_keys=False))
 
     finally:
         driver.close()

@@ -19,12 +19,24 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
       setModalContent(content);
       setModal(true);
     };
+
+    const setUpStudentDescription = (item) => {
+      var studentDescription = "";
+      if(item.title != null)
+        studentDescription += "Current Title: " + item.title + "\n\n";
+      if(item.current_position != null)
+        studentDescription += "Current Position: " + item.current_position + "\n\n";
+      if(item.top_skills != null)
+        studentDescription += "Top Skills: " + item.top_skills + "\n\n";
+      studentDescription += item.markdown.replace("[LinkedIn]()", "[LinkedIn]("+item.linkedin_url+")") + "\n\n";
+      return studentDescription;
+    };
   
     const renderItems = (items) => {
       var isClassMarkdown = currentMarkdown.includes("department/Extras/Classes");
       return items.map((item, index) => (
         <div className="course-circle"
-        key={index} onClick={() => {openModal(item.markdown)}} onMouseEnter={() => {setHoverStatus(true)}} onMouseLeave={() => {setHoverStatus(false)}}> { 
+        key={index} onClick={() => {openModal(setUpStudentDescription(item))}} onMouseEnter={() => {setHoverStatus(true)}} onMouseLeave={() => {setHoverStatus(false)}}> { 
 	    isClassMarkdown ?  
 	      <LazyImage alt={item.name} imageUrl={item.image} placeholderUrl={placeholderUrl(item)} ></LazyImage>
 	      : <img style={{display:'inline-block', height: '150px'}} src={item.image.length > 0? item.image : placeholderUrl(item)} alt={item.name} />

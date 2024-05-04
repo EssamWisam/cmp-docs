@@ -19,7 +19,6 @@ const LazyImage = ({ imageUrl, placeholderUrl, alt }) => {
         }
         try {
             const response = await fetch(imageUrl);
-            console.log(response.status);
             if (response.status === 200) {
                 setIsValid(true);
             } else if (response.status === 403) {

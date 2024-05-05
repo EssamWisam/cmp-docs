@@ -74,7 +74,9 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
             : <img style={{ display: 'inline-block', height: '150px' }} src={item.image.length > 0 ? item.image : placeholderUrl(item)} alt={item.name} />
         }
         <p id="p">{item.name}</p>
-        { isClassMarkdown && item.title && <h5 id="p">{item.title}</h5>}
+        { isClassMarkdown && item.title && <h5 id="p">{
+          item.title.length < 40 ? item.title : (item.title.split(/[,\|]/)[0].length < 40 ? item.title.split(/[,\|]/)[0] : (item.title.split(/[,\|]/)[0].substring(0,37)+"...") )
+        }</h5>}
       </div>
     ));
   };

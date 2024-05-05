@@ -16,6 +16,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   const [modalHeader, setModalHeader] = useState('');
   const [modalContent, setModalContent] = useState('');
   var isClassMarkdown = currentMarkdown.includes("department/Extras/Classes");
+  var isArabicMarkdown = currentMarkdown.includes("_ar.");
 
   const openModal = (header, content) => {
     setModalHeader(header); 
@@ -37,12 +38,12 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
     return (
       <div className="modal-body">
         <p>
-          <strong>Current Position:</strong> {person.current_position != null ? person.current_position : "N/A"}
+          <strong>{isArabicMarkdown ? "العمل الحالي:":"Current Position:"}</strong> {person.current_position != null ? person.current_position : "N/A"}
         </p>
         {person.top_skills != null && (
           <div>
             <p>
-              <strong>Top Skills:</strong>
+              <strong>{isArabicMarkdown ? "أعلى المهارات:":"Top Skills:"}</strong>
             </p>
             <div className="skills-container">
               {person.top_skills.split(",").map((skill, index) => (

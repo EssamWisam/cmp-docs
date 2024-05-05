@@ -1,269 +1,706 @@
-- title: "🧑🏻‍🎓 فصل CMP23 👩🏻‍🎓 "
-  description: اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم. دفعة مليانة تعاون و جمدان و روقان. هات معاك مياه لو مش بتسحتمل كميات عظمة و جمدان كثير في اليوم. 
+- title: '🧑🏻‍🎓 فصل CMP23 👩🏻‍🎓 '
+  description: اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم. دفعة مليانة
+    تعاون و جمدان و روقان. هات معاك مياه لو مش بتسحتمل كميات عظمة و جمدان كثير في
+    اليوم.
   markdown_title: معلومات عن الطالب
   items:
-    - title: 📃 كشف الدفعة
-      description: طلبة الصف كما يلي
-      items:
-        - name: أحمد أيمن أحمد
-          image: "https://media.licdn.com/dms/image/D4D03AQGTA6N1kWd8jg/profile-displayphoto-shrink_400_400/0/1683492916961?e=1704326400&v=beta&t=ZVf72Z5DUGapz7AyK7j0ds4-dakk5pvBQjKbmlliAH0"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ayman-824107216).
-        - name: أحمد إيهاب يسري
-          image: "https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_400_400/0/1692566678185?e=1704326400&v=beta&t=rJAVcWRiJWJjqMVua5H4Jxdl2SiuFGoONjm5XBBpaT0"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ihab-54b1a1195).
-        - name: أحمد جمال عبدالسميع
-          image: "https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-gamal01).
-        # TODO: Add missing LinkedIn Profile & Image (if exists).
-        - name: أحمد حمدي محمد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
-        - name: أحمد خالد محمود
-          image: "https://media.licdn.com/dms/image/C5603AQEs20ih7CUsEA/profile-displayphoto-shrink_400_400/0/1644320883018?e=1704326400&v=beta&t=fACU75z1eYxzR2VZ-guMHZhhQDOqBcxl7ZFP9HjnFSE"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-khaled-a53363193).
-        - name: أحمد سيد عبدالله
-          image: "https://media.licdn.com/dms/image/D4D03AQEJT3N8s0-9Qg/profile-displayphoto-shrink_400_400/0/1673017070008?e=1704326400&v=beta&t=DJ5BV4-UrdmqHFT7iq7cM9Dt35bVv1yJqLfG2ugOw5k"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-sayed-82a5961b5).
-        - name: أحمد عماد الدين
-          image: "https://media.licdn.com/dms/image/D4D03AQFpU8PuX8PRMw/profile-displayphoto-shrink_400_400/0/1695410035396?e=1704326400&v=beta&t=X_OLjOGuCDeOgygyoXuzwcdSh6vES3Do7FodKdy4Hqs"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-emad-b8aa371a4).
-        # TODO: Add missing LinkedIn Profile & Image (if exists).
-        - name: أحمد محمد إبراهيم
-          image: ""
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
-        - name: أحمد محمد عبدالحميد
-          image: "https://media.licdn.com/dms/image/C4D03AQHLLSv9qeMKew/profile-displayphoto-shrink_400_400/0/1604095016872?e=1704326400&v=beta&t=8iguiPEreAwZ7NUzXGlODX8u9cBNap9ws3lgkJ8fMEI"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed--mohamed).
-        - name: أحمد محمود الغريب
-          image: "https://media.licdn.com/dms/image/C4E03AQH2DJsvo1VLXA/profile-displayphoto-shrink_400_400/0/1646243328517?e=1704326400&v=beta&t=8XAhNibZzLsn3Q3azCYsaoK-AWoyQiCvZ9A9bmcuuvU"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-ghareeb-b762391b2/).
-        # TODO: Add missing LinkedIn Profile & Image (if exists).
-        - name: أحمد محمود حافظ
-          image: ""
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
-        - name: أحمد محمود محمد
-          image: "https://media.licdn.com/dms/image/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_400_400/0/1686027677056?e=1704326400&v=beta&t=2BEk3zXgGx6G-5YWGkTSHeQBXu6Ayvn3EQV2avsehgc"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-mahmoud-970378205).
-        - name: أحمد وليد أحمد
-          image: "https://media.licdn.com/dms/image/C4D03AQEGbpWkEG8zpA/profile-displayphoto-shrink_400_400/0/1660919667357?e=1704326400&v=beta&t=0oVogFJ8mk91VhUL-TjjGmHynJXTsJ1cemh2XByvbtE"
-          markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ahmed-waleed-a9b7371a4).
-        - name: أسامة مجدي عايد
-          image: "https://media.licdn.com/dms/image/C5603AQEBtSyPDYBj7w/profile-displayphoto-shrink_400_400/0/1585956113196?e=1704326400&v=beta&t=CVPsRRqGR4xu9gFxpLxy7knvgNwa1OcwP2lUVULIjJs"
-          markdown: يمكنك معرفة المزيد عن أسامة والتواصل معه من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/osamamagdy174).
-        - name: إسراء جمال سعد
-          image: "https://media.licdn.com/dms/image/C4D03AQFNckPr5tZDQw/profile-displayphoto-shrink_400_400/0/1601730147928?e=1704326400&v=beta&t=sUHKOwSkK5JABiuEk2aEcvcrmtnnEQH4IbLke-_fhg4"
-          markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/esraa-gamal-9a048418b).
-        # TODO: Make sure that this is a valid LinkedIn link (gives a 404).
-        - name: إسراء عمرو محمد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/esraa-amr-mohamed-754bb2184).
-        - name: أندرو بشرى بشاي
-          image: "https://media.licdn.com/dms/image/D4D03AQHAHPTAkchyGQ/profile-displayphoto-shrink_400_400/0/1673364405225?e=1704326400&v=beta&t=4PJvjZhEjHsblZveYzP6emVt8VecCMSnhPYdaFGlYm8"
-          markdown: يمكنك معرفة المزيد عن أندرو والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/andrew-boshra).
-        - name: ايتن عماد الدين
-          image: "https://media.licdn.com/dms/image/C4D03AQEjj0T4Q1-gIQ/profile-displayphoto-shrink_400_400/0/1603962266599?e=1704326400&v=beta&t=tq2lMNUjO_LicQZAmDatnQcM8JqXAoE_MEx8lMmjo4g"
-          markdown: يمكنك معرفة المزيد عن ايتن والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/iten-elhak).
-        - name: أيمن محمد رضا
-          image: "https://media.licdn.com/dms/image/C5603AQEiietYKdIPaQ/profile-displayphoto-shrink_400_400/0/1609794272081?e=1704326400&v=beta&t=7YPPljaODRWmXgg__HvVIvPeoD2iRvzwVu1pt_0iwWI"
-          markdown: يمكنك معرفة المزيد عن أيمن والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ayman-reda-b845b0203).
-        - name: بسنت عبد العظيم
-          image: "https://media.licdn.com/dms/image/C4D03AQGFlpr61OICNw/profile-displayphoto-shrink_400_400/0/1596550374494?e=1704326400&v=beta&t=tLw6I46DAsjFv44SB5wlzXpgn02RNKQf1YlAIIe8TuI"
-          markdown: يمكنك معرفة المزيد عن بسنت والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/passant-abdelgalil).
-        # ? Peter's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask him if he minds?
-        - name: بيتر ميشيل عزمي
-          image: "" #"https://media.licdn.com/dms/image/C4D03AQFwhPNFn4stJA/profile-displayphoto-shrink_400_400/0/1598957621750?e=1704326400&v=beta&t=R1YmPSFPwoCP0Kr1vX5sD7nRNutHakcUZkacyXsfotI"
-          markdown: يمكنك معرفة المزيد عن بيتر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/peterayad).
-        - name: بيشوي عاطف تادروس
-          image: "https://media.licdn.com/dms/image/D4D03AQFpthmsxWvGMg/profile-displayphoto-shrink_400_400/0/1664438142501?e=1704326400&v=beta&t=sN0OxDVLRcfJcvPiZBLFBf7IQOfXdVmo0kXzvL1Jn0I"
-          markdown: يمكنك معرفة المزيد عن بيشوي والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/bishoy-atef-36a0891b0).
-        - name: جاسر أشرف فايز
-          image: "https://media.licdn.com/dms/image/D4D03AQHV1YlOyyQuow/profile-displayphoto-shrink_400_400/0/1692004195777?e=1704326400&v=beta&t=O5JafiPp5ggLqmx7aNYC5FrnmD8ytLZO0IQfgRWikXQ"
-          markdown: يمكنك معرفة المزيد عن جاسر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/gaser-ashraf).
-        - name: حازم خالد أحمد
-          image: "https://media.licdn.com/dms/image/C4D03AQFXkvVd8-0Yzw/profile-displayphoto-shrink_400_400/0/1652433618148?e=1704326400&v=beta&t=pytCkK67e6dgsfJjFSH0a9sRCgbaWOSLFncU-T65Sso"
-          markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hazemkak).
-        - name: حازم محمود عبدو
-          image: "https://media.licdn.com/dms/image/C4D03AQF8SYZ8prpSOA/profile-displayphoto-shrink_400_400/0/1629852951858?e=1704326400&v=beta&t=_2Brq1ur8CzmjluI936t5Vii1WaU1sfYWvl2KFRItkU"
-          markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hazemabdo).
-        - name: حسام محمد سعيد
-          image: "https://media.licdn.com/dms/image/C5603AQFtkL3lOFjQIQ/profile-displayphoto-shrink_400_400/0/1645619987299?e=1704326400&v=beta&t=q6dn3siUZNng5KjV2SlTy94xWp9tKg9AAvdYSM81FZg"
-          markdown: يمكنك معرفة المزيد عن حسام والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hossam-saeed-1abab91b3/).
-        - name: حسين مصطفى حسين
-          image: "https://media.licdn.com/dms/image/D4D35AQEI-BNjsZ6qCQ/profile-framedphoto-shrink_400_400/0/1692960564268?e=1700125200&v=beta&t=k4Yzhv1bJDJwr4W5rxX_WzLMCGDMPawIYLibo7mHoAA"
-          markdown: يمكنك معرفة المزيد عن حسين والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/hussien-awad-b6343a21a).
-        - name: دنيا عبد الفتاح عبد الكريم
-          image: "https://media.licdn.com/dms/image/D4D03AQGn-M19AG0UAw/profile-displayphoto-shrink_400_400/0/1690498447937?e=1704326400&v=beta&t=MaiUiDWfdE4rTVAaFp12XvnwXqjGG3cO4tBxNVyEIYw"
-          markdown: يمكنك معرفة المزيد عن دنيا والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/donya-esawi-858719191).
-        - name: رضوى أحمد محمد
-          image: "https://media.licdn.com/dms/image/D4D03AQFXXyXnvPHKoQ/profile-displayphoto-shrink_400_400/0/1698533633786?e=1705536000&v=beta&t=EEesq26j5z58D0Nny6jJM4J7qgK1H0DDwgSsckPK-qw"
-          markdown: يمكنك معرفة المزيد عن رضوى والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/radwa-a-kamel-%F0%9F%87%B5%F0%9F%87%B8-3998091b4/).
-        - name: رغد خالد عبدالحي
-          image: "https://media.licdn.com/dms/image/C4D03AQEuA0ESaQBAkQ/profile-displayphoto-shrink_400_400/0/1635107510628?e=1704326400&v=beta&t=MvGwupZqSYkKoy8Wgy7-eGB0POfDlLYXe7_OaNIcMDw"
-          markdown: يمكنك معرفة المزيد عن رغد والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/raghad-khaled).
-        - name: روبرت منير إسحاق
-          image: "https://media.licdn.com/dms/image/C4D03AQEMDhSGse667A/profile-displayphoto-shrink_400_400/0/1652906642163?e=1704326400&v=beta&t=2Cvf4NCoIfxdnTxR-693gK2Vy_IjAo5DhnfFz15ymJg"
-          markdown: يمكنك معرفة المزيد عن روبرت والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/robert-mounir-027b051a0).
-        - name: روعة أحمد سعيد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن روعة والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/rawaa-ahmed-1233201a2/).
-        - name: ريم عماد رمضان
-          image: ""
-          markdown: يمكنك معرفة المزيد عن ريم والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/reem-attallah-4484b9190).
-        - name: زياد حسن عبد المقصود
-          image: "https://media.licdn.com/dms/image/C4D03AQFNRhDVwTc2-g/profile-displayphoto-shrink_400_400/0/1643158584957?e=1704326400&v=beta&t=8vhwT4GsIw98OYERBCrUad3lVZ4B6nyspkyQjM8WUnk"
-          markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ziyadhassan500/).
-        - name: زياد عاطف أحمد
-          image: "https://media.licdn.com/dms/image/C4E03AQGhGKqTqX4cWQ/profile-displayphoto-shrink_400_400/0/1611579600682?e=1704326400&v=beta&t=t3_cow3ck28OCRZp4Ezzk_GwJxxncoscAbkupbyVvf0"
-          markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ziadatef/).
-        - name: طارق ياسر إسماعيل
-          image: "https://media.licdn.com/dms/image/D4D35AQHpiyNGP-0oyA/profile-framedphoto-shrink_400_400/0/1697564684940?e=1700686800&v=beta&t=4coq0KBL-2neOGEFymkIKOM-JNI653zwx0qwpDZKUR8"
-          markdown: يمكنك معرفة المزيد عن طارق والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/tarek-ismail-263a031b4).
-        - name: طاهر محمد أحمد
-          image: "https://media.licdn.com/dms/image/D4D03AQG3AfGvJlPkkA/profile-displayphoto-shrink_400_400/0/1677891000798?e=1704326400&v=beta&t=jfPBeem1IQEPpTLv75EdEaJRY2jEg0W2QkEqehv_i5A"
-          markdown: يمكنك معرفة المزيد عن طاهر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/taher-mohamed-a0802b123).
-        - name: عبدالرحمن جمال سعيد
-          image: "https://media.licdn.com/dms/image/D4E03AQH_dE3V3GK1aQ/profile-displayphoto-shrink_400_400/0/1632146337642?e=1704326400&v=beta&t=AulgTzjIuuwN27_y9jkesRMm9z-8siiNfIvr2haNdss"
-          markdown: يمكنك معرفة المزيد عن عبدالرحمن والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdelrahmanjamal).
-        # TODO: Add missing LinkedIn Profile & Image (if exists).
-        - name: عبدالرؤوف حسام عبدالرحمن
-          image: ""
-          markdown: يمكنك معرفة المزيد عن عبدالرؤوف والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
-        - name: عبدالله عادل عبدالله
-          image: "https://media.licdn.com/dms/image/C4D03AQHiOk_htDswZg/profile-displayphoto-shrink_400_400/0/1595386679001?e=1704326400&v=beta&t=8TgYTzF7h_pCPD6m7U7e2lbS0aVPV384lk5lyDY0H3Y"
-          markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdullahadel41).
-        - name: عبدالله محمود محمد
-          image: "https://media.licdn.com/dms/image/D4D03AQHq2LDUta4zkQ/profile-displayphoto-shrink_400_400/0/1693238064159?e=1704326400&v=beta&t=Qia0vE-ug5p8wknOJMjDWBUdmarsHBB1z9QHPRBV0Yg"
-          markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/abdalla-mahmoud-8581a7183).
-        - name: عبير حسين محمد
-          image: "https://media.licdn.com/dms/image/C4D03AQFr7w4kqMN6cg/profile-displayphoto-shrink_400_400/0/1662467980677?e=1704326400&v=beta&t=pPaTL4_75WLg8oyQ6Zx4HM95U4ow2Xgw5Ig7UJxBCEg"
-          markdown: يمكنك معرفة المزيد عن عبير والتواصل معها من خلال زيارة صفحتها الشخصية في [LinkedIn](https://www.linkedin.com/in/abeer-hussein-295827192).
-        - name: عصام وسام فؤاد
-          image: "https://media.licdn.com/dms/image/D4D03AQHghoZGKdeqxQ/profile-displayphoto-shrink_400_400/0/1696902204853?e=1704326400&v=beta&t=Z9dL0RtGaauG3l7TBzkOycG-qxCG9nTBZ74CLV12s6I"
-          markdown: يمكنك معرفة المزيد عن عصام والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/essamwisam).
-        - name: عمار محمد صبحي
-          image: "https://media.licdn.com/dms/image/D4D03AQFPy2eHJ1f0gA/profile-displayphoto-shrink_400_400/0/1699357738359?e=1705536000&v=beta&t=BIG9SeCr08KhktfASYeShooGE_5uOqkXK10eVFFcDpM"
-          markdown: يمكنك معرفة المزيد عن عمار والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ammar21).
-        - name: عمر أحمد محمد
-          image: "https://media.licdn.com/dms/image/C4D03AQGE60YhODBXuQ/profile-displayphoto-shrink_400_400/0/1660916209753?e=1704326400&v=beta&t=zCWEz9cGQpKc5B5EJAH6uY3QSgBWE_LOTXJxB-DQQe8"
-          markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-ahmed-9a8427169).
-        - name: عمر عبدالفتاح حماد
-          image: "https://media.licdn.com/dms/image/C4E03AQFEEpkvsbnrMw/profile-displayphoto-shrink_400_400/0/1630720582052?e=1704326400&v=beta&t=xzkKcCrzODcdGhCv3RMcGVgj3hPTA_z7_NXdXDLV418"
-          markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-abd-el-fattah-5898a921b/).
-        - name: عمر محمد أحمد
-          image: "https://media.licdn.com/dms/image/D4D03AQGi-eH4TEA1Fg/profile-displayphoto-shrink_400_400/0/1692961991260?e=1704326400&v=beta&t=a6CSzMEYEjeSgS14ErmYRknvxJTgT8U2lQVDG4SEL1g"
-          markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/omar-mohamed-a829951a1).
-        # TODO: Add missing LinkedIn Profile & Image if exists.
-        - name: عمر محمد عبدالفتاح
-          image: ""
-          markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/).
-        - name: غياث عمر صالح
-          image: "https://media.licdn.com/dms/image/D4D03AQG56yx4sQ4qag/profile-displayphoto-shrink_400_400/0/1668243515824?e=1704326400&v=beta&t=2QR7ZTVHdN5zwdCmhkxkw-bnNipFV1DtSyIa1uKpoTs"
-          markdown: يمكنك معرفة المزيد عن غياث والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/ghieath).
-        - name: كريم طه عبدالصبور
-          image: ""
-          markdown: يمكنك معرفة المزيد عن كريم والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/karim-taha-6927711b8).
-        - name: مايكل عزيز فهيم
-          image: "https://media.licdn.com/dms/image/C4D03AQEKfngJsGis_w/profile-displayphoto-shrink_400_400/0/1657065295135?e=1704326400&v=beta&t=UdQJI3WXorq5fZm-MzelIyGiLGAMtyodP9a6fUQdE34"
-          markdown: يمكنك معرفة المزيد عن مايكل والتواصل معه من خلال زيارة صفحته الشخصية في [LinkedIn](https://www.linkedin.com/in/michael-daud-5a00491aa).
-        - name: محمد أحمد فتحي
-          image: "https://media.licdn.com/dms/image/D4D03AQGU9MuGEu-88A/profile-displayphoto-shrink_400_400/0/1673366890670?e=1704326400&v=beta&t=LrxZvMVLisy6aim7bmuy7pydVD8-T75QtvW9QLSzwU8"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mhmdfathy/).
-        - name: محمد أكرم عبد الفتاح
-          image: "https://media.licdn.com/dms/image/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_400_400/0/1593717417490?e=1704326400&v=beta&t=KdXbb8i2zVvGwrBoP5PhZpnAP3PRvXuMAMw17R7-300"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-akram99/).
-        - name: محمد خالد محمد
-          image: "https://media.licdn.com/dms/image/D4D03AQFzDXrboEoHKg/profile-displayphoto-shrink_400_400/0/1691311179965?e=1704326400&v=beta&t=o6eaQ7yVN25FYskClCLk0apRdt7oHm4FzFLfo0AzZUA"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-khaled-52425419b/).
-        - name: محمد سعد فتحي
-          image: "https://media.licdn.com/dms/image/C4D03AQE4mkabj-KhQg/profile-displayphoto-shrink_400_400/0/1657805923686?e=1704326400&v=beta&t=rhZe-lpt5eaVuE5ywmXqkpEkTnusCzBlWdSZc9PBxVg"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-saad-03b47b218/).
-        - name: محمد سلامة عبد السميع
-          image: "https://media.licdn.com/dms/image/C4D03AQGgS7u30OIU0Q/profile-displayphoto-shrink_400_400/0/1633114955012?e=1704326400&v=beta&t=FgUCbQ3ifCxiR7zWzCGSHvZ6NLVzHMP64JM_Lm2nsB8"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamed-salama-045aa3190/).
-        - name: محمد نبوي حامد
-          image: "https://media.licdn.com/dms/image/C4D03AQHi-8IabNt4kQ/profile-displayphoto-shrink_400_400/0/1604271652356?e=1704326400&v=beta&t=pz5jldDB02VmokdUpMCu1n8KaQHUfQ2Q-4EGFyt-95Q"
-          markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mohamednghareeb).
-        - name: محمود السيد محمود
-          image: "https://media.licdn.com/dms/image/D4D35AQHT27rxEqjhzg/profile-framedphoto-shrink_400_400/0/1694534418436?e=1700686800&v=beta&t=iZQKMIqsoUQUp-wRfSHiXy-alhsOE7YYK0w01FFhPYI"
-          markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mahmoud-raouf-13395a1a2/).
-        # TODO: Add missing LinkedIn Profile & Image if exists.
-        - name: محمود عمرو نبيل
-          image: ""
-          markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
-        # TODO: Add missing LinkedIn Profile & Image if exists.
-        - name: محمود محمد عبد العاطي
-          image: ""
-          markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
-        - name: مريم أشرف ملاك
-          image: "https://media.licdn.com/dms/image/C4D03AQFIQJR8eZFZaQ/profile-displayphoto-shrink_400_400/0/1652108761782?e=1704326400&v=beta&t=pIOi_M_81xXUwHpZyNNqtm-X4KFtxTnecfj3ZS2TfMM"
-          markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/mariam-ashraf-b688ab1b2/).
-        - name: مريم صلاح متولي
-          image: "https://media.licdn.com/dms/image/D4D03AQGRa02PtX_lOQ/profile-displayphoto-shrink_400_400/0/1693905059516?e=1704326400&v=beta&t=YCP28zR9wQ73ky9ZKPw9g4IneAC5l-CYJCXk0Z-LWdI"
-          markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/maryem-salah-6704b0205/).
-        # ? Mariem's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask her if she minds?
-        - name: مريم محمد زين
-          image: ""#"https://media.licdn.com/dms/image/D4D35AQHa29fbcpWqIA/profile-framedphoto-shrink_400_400/0/1692272509188?e=1699282800&v=beta&t=acCx-Q8bjAA1XyagDzCaIV9b6FkCun_JSvdkMGIs4C0"
-          markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/mariem-muhammed-1009801b1/).
-        # ? Marim's profile picture is not available to the public on LinkedIn, probably connects only. Maybe ask her if she minds?
-        - name: مريم ناصر رشاد
-          image: ""#"https://media.licdn.com/dms/image/D4D03AQEcV2AL97eqnA/profile-displayphoto-shrink_400_400/0/1689167639776?e=1704326400&v=beta&t=UPAMF3CCe6ZHfMTiA4kyJW_3ZVBUJpZaJeudSKEGm8E"
-          markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/marim-naser-32b85a203/).
-        - name: مصطفى أحمد صبري
-          image: "https://media.licdn.com/dms/image/D4D03AQGMBg5QC_-ddg/profile-displayphoto-shrink_400_400/0/1699197496527?e=1705536000&v=beta&t=z6aKVDFeb3bNhIsA-3hE02AfqH-SnGKF7uEBXO7yCtI"
-          markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-ahmed-68531520b/).
-        - name: مصطفى مجدي عبد الرحمن
-          image: "https://media.licdn.com/dms/image/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_400_400/0/1692777992068?e=1704326400&v=beta&t=3WIzto64xj6b8hdBjpPse_B3nK0eYF3B2vNBVOMZo2g"
-          markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-magdi-1200121b9/).
-        # TODO: Add missing LinkedIn Profile & Image if exists.
-        - name: مصطفى محمد أحمد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
-        - name: مصطفى محمود كمال
-          image: "https://media.licdn.com/dms/image/C4D03AQEU-CQ0MC6k7g/profile-displayphoto-shrink_400_400/0/1656957981142?e=1704326400&v=beta&t=V1Jj1gptwXLjcJkSk8klD-dWunnwr7FsXHp0GqgwkQ8"
-          markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-m-kamal-b015691b1/).
-        - name: مصطفى وائل كمال
-          image: "https://media.licdn.com/dms/image/C5603AQFppgsFA3A9qg/profile-displayphoto-shrink_400_400/0/1599037872995?e=1704326400&v=beta&t=iq68ApIZr9jZj33B9ONKdzpcVitY5NLftNQvdzl2iWI"
-          markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mostafa-wael/).
-        - name: منة الله أحمد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن منى الله والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/menna-allah-ahmed-391bb31a3/).
-        - name: مينا عماد فخري
-          image: "https://media.licdn.com/dms/image/C4E03AQG9kGtOCCN6dA/profile-displayphoto-shrink_400_400/0/1609278075685?e=1704326400&v=beta&t=FeWGaC_stv9oke5mTG7rP04xbiQDqK6mCznWTQbkE28"
-          markdown: يمكنك معرفة المزيد عن مينا والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/mina-emad-4b8712202/).
-        - name: نادين أيمن مصباح
-          image: "https://media.licdn.com/dms/image/D4D03AQEvLtTFSMMO3g/profile-displayphoto-shrink_400_400/0/1687428188725?e=1704326400&v=beta&t=uhx9_TqB82W5p4KCNaSfCk6RqFcA5-rrCsipsg6r_8I"
-          markdown: يمكنك معرفة المزيد عن ندين والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/nadeen-ayman-3a64aa205/).
-        - name: ندى السيد محمود
-          image: "https://media.licdn.com/dms/image/D4D03AQERxMeaF25qNQ/profile-displayphoto-shrink_400_400/0/1686733817018?e=1704326400&v=beta&t=emfSqSNUNpOOoDDs7Hsha3-AtfjcXAF73FjmYMo2b1c"
-          markdown: يمكنك معرفة المزيد عن ندى والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/nada-elsayed-384583193/).
-        - name: نور الدين مصطفى
-          image: "https://media.licdn.com/dms/image/D4D03AQF-4srWUEhy-w/profile-displayphoto-shrink_400_400/0/1671705363250?e=1704326400&v=beta&t=bzqsDhfOKxjHg_puj29K_Erg1lIvnEnACA2CmJvb1RE"
-          markdown: يمكنك معرفة المزيد عن نور والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/nour-aldin-02b9b41b7/).
-        - name: نوران هاني محمد
-          image: ""
-          markdown: يمكنك معرفة المزيد عن نوران والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/noran-hany-a69103215/).
-        - name: هالة حمدي عبدالهادي
-          image: ""
-          markdown: يمكنك معرفة المزيد عن هالة والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/hala-hamdy-6665a91b0/).
-        - name: وئام باسم حسني
-          image: "https://media.licdn.com/dms/image/D4D03AQGHQs435W1VGA/profile-displayphoto-shrink_400_400/0/1671982925014?e=1704326400&v=beta&t=i6-5twLKGfW59xPNepO44PDQAHZ3NNVQcGoLrLNY5GA"
-          markdown: يمكنك معرفة المزيد عن وئام والتواصل معها من خلال زيارة صفحتها الشخصية [LinkedIn](https://www.linkedin.com/in/weaam-bassem/).
-        - name: يحيى زكريا محمد
-          image: "https://media.licdn.com/dms/image/D4D03AQF4NciCfajM1A/profile-displayphoto-shrink_400_400/0/1697923512093?e=1704326400&v=beta&t=zo9HUOe-OkKY6ySGO_wbZW6Y-5xY337L_jXVm68l-ps"
-          markdown: يمكنك معرفة المزيد عن يحيى والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yahia-zakaria-9a75581b0/).
-        - name: يوسف أحمد أنور
-          image: "https://media.licdn.com/dms/image/D5603AQFbH5BfKT9sqQ/profile-displayphoto-shrink_400_400/0/1673303558766?e=1704326400&v=beta&t=egBsPpE9jmyMPmAbdY-nYpwpQcCq8o9BSAkap2Sx0CU"
-          markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousef-ahmed-6a66b2192/).
-        - name: يوسف جمال رضا
-          image: "https://media.licdn.com/dms/image/C4D03AQHjn-W2kc3Ppg/profile-displayphoto-shrink_400_400/0/1654362561644?e=1704326400&v=beta&t=ZodCkBoe_09C5qOD-BSPu8YZVwMFZNlon1B-EGWFSaQ"
-          markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousef-gamal-225573188/).
-        - name: يوسف عاطف توفيق
-          image: "https://media.licdn.com/dms/image/D4D03AQEQfFqJVtQxig/profile-displayphoto-shrink_400_400/0/1683004775680?e=1704326400&v=beta&t=1gHp8MaRLhH8NlzUfSYJSfKc6omW0UFmh1-F_d16-qA"
-          markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousefatef/).
-        # TODO: Add missing LinkedIn Profile & Image if exists.
-        - name: يوسف عاطف عبدالحليم
-          image: ""
-          markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/).
-        - name: يوسف مصطفى المهدي
-          image: "https://media.licdn.com/dms/image/D4D03AQFNMZvsGgfq8w/profile-displayphoto-shrink_400_400/0/1684532494135?e=1704326400&v=beta&t=_MH_NJclVt23RLK4WR8hT_WBdbwK3_Aew0TZfWM6vAU"
-          markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية [LinkedIn](https://www.linkedin.com/in/yousefelmahdy/).
+  - title: 📃 كشف الدفعة
+    description: طلبة الصف كما يلي
+    items:
+    - name: أحمد أيمن أحمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-ayman-824107216
+      title: Software engineer at Ejada
+      top_skills: null
+      current_position: null
+    - name: أحمد إيهاب يسري
+      image: https://media.licdn.com/dms/image/D4D03AQF-FKwLa0vZ2A/profile-displayphoto-shrink_200_200/0/1692566680622?e=1720051200&v=beta&t=aS1JT7TkfsGKbS8QHOPgWW3A06KwHXmd1uHTSGiWE0s
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-ihab-54b1a1195
+      title: Senior DevOps Engineer @_VOIS
+      top_skills: null
+      current_position: null
+    - name: أحمد جمال عبدالسميع
+      image: https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_200_200/0/1646849433633?e=1720051200&v=beta&t=Ijqmw1J1ojZbKJyBylbFzaiX930DbuF7y9buRUYRzrg
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-gamal01/
+      title: Software QA Engineer @Siemens EDA
+      top_skills: null
+      current_position: null
+    - name: أحمد حمدي محمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد خالد محمود
+      image: https://media.licdn.com/dms/image/C5603AQEs20ih7CUsEA/profile-displayphoto-shrink_200_200/0/1644320884075?e=1720051200&v=beta&t=vNtHuGSUWFKvDg5lnM4mFqWaR1amOv1AVDQAOrKh-ZQ
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-khaled-a53363193/
+      title: Software Developer at eDigits
+      top_skills: null
+      current_position: null
+    - name: أحمد سيد عبدالله
+      image: https://media.licdn.com/dms/image/D4D03AQEJT3N8s0-9Qg/profile-displayphoto-shrink_200_200/0/1673017075338?e=1720051200&v=beta&t=7l7Q6AeM_tuthwbvCkB4HC4IwoGOqJM228oxRHRLLvg
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-sayed-82a5961b5/
+      title: Data Engineer @EJADA
+      top_skills: null
+      current_position: null
+    - name: أحمد عماد الدين
+      image: https://media.licdn.com/dms/image/D4D03AQFpU8PuX8PRMw/profile-displayphoto-shrink_200_200/0/1695410036093?e=1720051200&v=beta&t=pVQsAVcOIj-ggCfYpLgyRGpv398uXgphGbbKttuPAGg
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-emad-b8aa371a4/
+      title: Computer Engineering Frash graduate
+      top_skills: Object-Oriented Programming (OOP), Data Structures, Algorithms,
+        Databases, Software Development
+      current_position: Software Engineer, EJADA · Full-time, Jan 2024 - Present ·
+        5 mos
+    - name: أحمد محمد إبراهيم
+      image: ''
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد محمد عبدالحميد
+      image: https://media.licdn.com/dms/image/C4D03AQHLLSv9qeMKew/profile-displayphoto-shrink_200_200/0/1604095044656?e=1720051200&v=beta&t=quDCUaKB_f3RnXd3AS_4xmdX90xX6uwk_OOdliIas1Q
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed--mohamed/
+      title: Software Engineer @ siemens EDA
+      top_skills: null
+      current_position: null
+    - name: أحمد محمود الغريب
+      image: https://media.licdn.com/dms/image/C4E03AQH2DJsvo1VLXA/profile-displayphoto-shrink_200_200/0/1646243329706?e=1720051200&v=beta&t=RMCPTK59dHzytyFawHC-3sQvObfnmqKK22rtm3A4KyE
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-ghareeb-b762391b2/
+      title: Software Engineer @ Microsoft
+      top_skills: null
+      current_position: null
+    - name: أحمد محمود حافظ
+      image: ''
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد محمود محمد
+      image: https://media.licdn.com/dms/image/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_200_200/0/1686027677967?e=1720051200&v=beta&t=PGoxbGnxsK318ruaMCe3ZtfDGlvQgdZuSug_5mXAjoU
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-mahmoud-970378205/
+      title: Software Engineer @GizaSystems
+      top_skills: null
+      current_position: null
+    - name: أحمد وليد أحمد
+      image: https://media.licdn.com/dms/image/C4D03AQEGbpWkEG8zpA/profile-displayphoto-shrink_200_200/0/1660919670912?e=1720051200&v=beta&t=-61vTe16aIe32LpbmMRtutvVNaa1Qpd4Lx5Elk9YSW4
+      markdown: يمكنك معرفة المزيد عن أحمد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ahmed-waleed-a9b7371a4/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: أسامة مجدي عايد
+      image: https://media.licdn.com/dms/image/C5603AQEBtSyPDYBj7w/profile-displayphoto-shrink_200_200/0/1585956118183?e=1720051200&v=beta&t=wPGWi6n_5kRgjuFecfKU7Igm4D5NSakWaom5vrn_s-w
+      markdown: يمكنك معرفة المزيد عن أسامة والتواصل معه من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/osamamagdy174
+      title: Senior DevOps Engineer @ _VOIS
+      top_skills: Go (Programming Language), Amazon Web Services (AWS), Continuous
+        Integration and Continuous Delivery (CI/CD), Kubernetes, Terraform
+      current_position: Senior DevOps Engineer, _VOIS · Full-time, Nov 2023 - Present
+        · 7 mos
+    - name: إسراء جمال سعد
+      image: https://media.licdn.com/dms/image/C4D03AQFNckPr5tZDQw/profile-displayphoto-shrink_200_200/0/1601730150867?e=1720051200&v=beta&t=MOQ1ZfyQx-OZv507f0gVbCbwgwad28ftJhax58FvCKE
+      markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/esraa-gamal-9a048418b/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: إسراء عمرو محمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن إسراء والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/esraa-amr-069113264/
+      title: --
+      top_skills: null
+      current_position: null
+    - name: أندرو بشرى بشاي
+      image: https://media.licdn.com/dms/image/D4D03AQHAHPTAkchyGQ/profile-displayphoto-shrink_200_200/0/1673364451906?e=1720051200&v=beta&t=e9R7WdgjwhVJGyN06d040hwoAISlDZv5_3QJOG_6Uvk
+      markdown: يمكنك معرفة المزيد عن أندرو والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/andrew-boshra/
+      title: Fullstack Engineer @Reno.Systems | Mentor @Udacity
+      top_skills: null
+      current_position: null
+    - name: ايتن عماد الدين
+      image: https://media.licdn.com/dms/image/C4D03AQEjj0T4Q1-gIQ/profile-displayphoto-shrink_200_200/0/1603962270178?e=1720051200&v=beta&t=jCedakgu2RYolQuWnwnjK5Hw2Kx5zbvoZkI-YzpmcD8
+      markdown: يمكنك معرفة المزيد عن ايتن والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/iten-elhak/
+      title: Junior AI Engineer @Ejada
+      top_skills: Machine Learning, Natural Language Processing (NLP)
+      current_position: Junior AI Engineer, EJADA · Full-time, Sep 2023 - Present
+        · 9 mos
+    - name: أيمن محمد رضا
+      image: https://media.licdn.com/dms/image/C5603AQEiietYKdIPaQ/profile-displayphoto-shrink_200_200/0/1609794288431?e=1720051200&v=beta&t=F1bM7ZxbagsIMnbd__xjVS9Mbx8EhqlVnNORgWX76JE
+      markdown: يمكنك معرفة المزيد عن أيمن والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ayman-reda-b845b0203/
+      title: Low Level Dude - External TA @CU
+      top_skills: Django, Cybersecurity, Programming, Embedded Systems, Back-End Web
+        Development
+      current_position: Undergraduate Student, Faculty of Engineering Cairo University,
+        Sep 2018 - Present · 5 yrs 9 mos
+    - name: بسنت عبد العظيم
+      image: https://media.licdn.com/dms/image/C4D03AQGFlpr61OICNw/profile-displayphoto-shrink_200_200/0/1596550377217?e=1720051200&v=beta&t=kOgbs-0AZ8kNN76KjXN2wXHhFCtXI5CMfXGY7qxkzlo
+      markdown: يمكنك معرفة المزيد عن بسنت والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/passant-abdelgalil/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: بيتر ميشيل عزمي
+      image: ''
+      markdown: يمكنك معرفة المزيد عن بيتر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/peterayad/
+      title: Computer Engineer
+      top_skills: null
+      current_position: null
+    - name: بيشوي عاطف تادروس
+      image: https://media.licdn.com/dms/image/D5603AQFqQFts3d8eng/profile-displayphoto-shrink_200_200/0/1710392821786?e=1720051200&v=beta&t=1r_aOMTgqwtxm_iemosq0nhLirCpUUJwHmPjE5vgn8Q
+      markdown: يمكنك معرفة المزيد عن بيشوي والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/bishoy-atef-36a0891b0/
+      title: Software Development Engineer @ Siemens EDA (Siemens Digital Industries
+        Software)
+      top_skills: null
+      current_position: null
+    - name: جاسر أشرف فايز
+      image: https://media.licdn.com/dms/image/D4D03AQHYzGnQgyAmjA/profile-displayphoto-shrink_200_200/0/1713013594896?e=1720051200&v=beta&t=g44pHf7C672-zp7P8SRolb6AmTH8Ct1AN6VJCll9VfE
+      markdown: يمكنك معرفة المزيد عن جاسر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/gaser-ashraf
+      title: Software Engineer at Microsoft
+      top_skills: null
+      current_position: null
+    - name: حازم خالد أحمد
+      image: https://media.licdn.com/dms/image/C4D03AQFXkvVd8-0Yzw/profile-displayphoto-shrink_200_200/0/1652433619427?e=1720051200&v=beta&t=29Ba2MpQu_nf90wo6UdRi5BmIoWuZgus8F43x9LCulk
+      markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/hazemkak
+      title: Software Engineer II
+      top_skills: null
+      current_position: null
+    - name: حازم محمود عبدو
+      image: https://media.licdn.com/dms/image/D4D03AQH6Z3xVUWLAWg/profile-displayphoto-shrink_200_200/0/1709912476503?e=1720051200&v=beta&t=PQQpiUhvT-77rqeOVLX-vQduoXjnfTzo2rR9ATDHGlk
+      markdown: يمكنك معرفة المزيد عن حازم والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/hazemabdo/
+      title: Junior Software Engineer @Coformatique
+      top_skills: null
+      current_position: null
+    - name: حسام محمد سعيد
+      image: https://media.licdn.com/dms/image/C5603AQFtkL3lOFjQIQ/profile-displayphoto-shrink_200_200/0/1645619992347?e=1720051200&v=beta&t=8H_NPH18_QH2AMdoQ9t9Rl0ELKcHWY2T-63aupAc13Q
+      markdown: يمكنك معرفة المزيد عن حسام والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/hossam-saeed-1abab91b3/
+      title: Research Fellow @MIT-SGI | Computational Geometry Engineer @Atomica |
+        GSoC'22+23 @CGAL
+      top_skills: null
+      current_position: null
+    - name: حسين مصطفى حسين
+      image: https://media.licdn.com/dms/image/D4D35AQEI-BNjsZ6qCQ/profile-framedphoto-shrink_200_200/0/1692960564268?e=1715338800&v=beta&t=YTbSRMcP2peaekPzaLGhhkKCBMFT_s0u6tM8bcrl9CM
+      markdown: يمكنك معرفة المزيد عن حسين والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/hussien-awad-b6343a21a/
+      title: Fresh graduate from Computer Engineering Department in Cairo University
+        | TA @ Faculty of Engineering Cairo University -  Part Time
+      top_skills: null
+      current_position: null
+    - name: دنيا عبد الفتاح عبد الكريم
+      image: https://media.licdn.com/dms/image/D4D03AQFL8sVD62_2sQ/profile-displayphoto-shrink_200_200/0/1710195981971?e=1720051200&v=beta&t=-9qCa5-HioKlLPXSnVXRAxFBM5Z-qihbNeRovxSSMKw
+      markdown: يمكنك معرفة المزيد عن دنيا والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/donya-esawi-858719191/
+      title: Associate Software Engineer @Cyshield
+      top_skills: Flutter, User Interface Design, Mobile Application Development,
+        Front-End Development, Dart
+      current_position: Associate Software Engineer, Cyshield · Full-time, Mar 2024
+        - Present · 3 mos
+    - name: رضوى أحمد محمد
+      image: https://media.licdn.com/dms/image/D4D03AQFXXyXnvPHKoQ/profile-displayphoto-shrink_200_200/0/1698533633786?e=1720051200&v=beta&t=_8xO61zxRjhPu51p-5lSxbxeqYxWmYyiYS9GqV75nr4
+      markdown: يمكنك معرفة المزيد عن رضوى والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/radwa-ahmed-3998091b4/
+      title: Machine Learning & Product Engineer
+      top_skills: null
+      current_position: null
+    - name: رغد خالد عبدالحي
+      image: https://media.licdn.com/dms/image/C4D03AQEuA0ESaQBAkQ/profile-displayphoto-shrink_400_400/0/1635107512285?e=1720051200&v=beta&t=uqXnuJSLFyMG93jz364wQW-JDQFnvLFcZssmcX9xouc
+      markdown: يمكنك معرفة المزيد عن رغد والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/raghad-khaled/
+      title: Associate Software Engineer @ Cyshield
+      top_skills: null
+      current_position: null
+    - name: روبرت منير إسحاق
+      image: https://media.licdn.com/dms/image/D4D35AQFtP1mdzX_Qnw/profile-framedphoto-shrink_200_200/0/1709574550561?e=1715338800&v=beta&t=IQq5uPZCibu4RhZFRt7F8-1nTDQ0UqILAYlOT3Voplw
+      markdown: يمكنك معرفة المزيد عن روبرت والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/robert-mounir-027b051a0/
+      title: Computer Engineer
+      top_skills: null
+      current_position: null
+    - name: روعة أحمد سعيد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن روعة والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/rawaa-ahmed-1233201a2/
+      title: Fresh graduate of the Computer Engineering Department, Faculty of Engineering,
+        Cairo University
+      top_skills: null
+      current_position: null
+    - name: ريم عماد رمضان
+      image: https://media.licdn.com/dms/image/C4D03AQEx4VhPGBi5lA/profile-displayphoto-shrink_800_800/0/1564950884357?e=1720051200&v=beta&t=wJeWIIi0nFaBBV4hOzFD0AMcY4dmzUe3byO1Lgk1QF0
+      markdown: يمكنك معرفة المزيد عن ريم والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/reem-attallah-4484b9190/
+      title: Back End Engineer @ Tactful AI
+      top_skills: null
+      current_position: null
+    - name: زياد حسن عبد المقصود
+      image: https://media.licdn.com/dms/image/C4D03AQFNRhDVwTc2-g/profile-displayphoto-shrink_200_200/0/1643158585538?e=1720051200&v=beta&t=x_G-29qJ6SO--YI29QQOoFeg97hKWaUPSOEU9OONNJg
+      markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ziyadhassan500/
+      title: Software Engineer @ Microsoft
+      top_skills: null
+      current_position: null
+    - name: زياد عاطف أحمد
+      image: https://media.licdn.com/dms/image/C4E03AQGhGKqTqX4cWQ/profile-displayphoto-shrink_200_200/0/1611579601411?e=1720051200&v=beta&t=Sc4J7FoxAWgg_zkJJI-LzKKY4fISBfXs11RCshZ6X6A
+      markdown: يمكنك معرفة المزيد عن زياد والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ziadatef/
+      title: Software Engineer @ Coformatique | TA @ Cairo University
+      top_skills: Machine Learning, Deep Learning, Back-End Web Development, Amazon
+        Web Services (AWS)
+      current_position: Teaching Assistant, Cairo University, Feb 2024 - Present ·
+        4 mos
+    - name: طارق ياسر إسماعيل
+      image: https://media.licdn.com/dms/image/C4D03AQE0XKa0Cpu0CQ/profile-displayphoto-shrink_200_200/0/1597089706359?e=1720051200&v=beta&t=Ox6IxsW4QGCg7AevHy5rAYXNLq0_cVxzCt0PrI5ynP0
+      markdown: يمكنك معرفة المزيد عن طارق والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/tarek-ismail-263a031b4/
+      title: Fresh Computer Engineering Graduate, GSoC 2023 @ Society for Arts and
+        Technology (SAT)
+      top_skills: null
+      current_position: null
+    - name: طاهر محمد أحمد
+      image: https://media.licdn.com/dms/image/D4D03AQG3AfGvJlPkkA/profile-displayphoto-shrink_200_200/0/1677891086474?e=1720051200&v=beta&t=LEyh9t_BStGCpN6GZOPg48IQ-WEYNiQLGxHmxAsBuSE
+      markdown: يمكنك معرفة المزيد عن طاهر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/taher-mohamed-a0802b123/
+      title: Backend Engineer @ Coformatique | TA @ Cairo University
+      top_skills: Node.js, Amazon Web Services (AWS), PostgreSQL, Serverless Computing,
+        Problem Solving
+      current_position: Software Engineer II, Coformatique, Jan 2024 - Present · 5
+        mos
+    - name: عبدالرحمن جمال سعيد
+      image: https://media.licdn.com/dms/image/D4E03AQH_dE3V3GK1aQ/profile-displayphoto-shrink_200_200/0/1632146361432?e=1720051200&v=beta&t=9wGrSqLeC-vuQfuI65ydk_ScEXYS_EEgLVyPfLvvasA
+      markdown: يمكنك معرفة المزيد عن عبدالرحمن والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/abdelrahmanjamal
+      title: GSoC'23 @ Fossology
+      top_skills: null
+      current_position: null
+    - name: عبدالرؤوف حسام عبدالرحمن
+      image: ''
+      markdown: يمكنك معرفة المزيد عن عبدالرؤوف والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالله عادل عبدالله
+      image: https://media.licdn.com/dms/image/C4D03AQHiOk_htDswZg/profile-displayphoto-shrink_200_200/0/1595386680442?e=1720051200&v=beta&t=DGQPf-T_ZxSmhafl6ER_pg3aR7VPyLio837bLP2Pzv8
+      markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/abdullahadel41
+      title: Software Engineer II @ Coformatique
+      top_skills: null
+      current_position: null
+    - name: عبدالله محمود محمد
+      image: https://media.licdn.com/dms/image/D4D03AQHq2LDUta4zkQ/profile-displayphoto-shrink_200_200/0/1693238067041?e=1720051200&v=beta&t=bPaFBdzBGMMUnN6fKo0BbuxD4EDOJkAqLgfaMJVaKSI
+      markdown: يمكنك معرفة المزيد عن عبدالله والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/abdalla-mahmoud-8581a7183
+      title: Computer Engineering Fresh Graduate | Cairo university | Frontend developer
+        | React js | Next js
+      top_skills: null
+      current_position: null
+    - name: عبير حسين محمد
+      image: https://media.licdn.com/dms/image/D4D03AQEj7QnxbECo0g/profile-displayphoto-shrink_200_200/0/1709652886569?e=1720051200&v=beta&t=uJR7biueZydwb3SV27KS7-irpuEfzO-WgZesM6SBj2s
+      markdown: يمكنك معرفة المزيد عن عبير والتواصل معها من خلال زيارة صفحتها الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/abeer-hussein-295827192/
+      title: Computer Engineering Fresh Graduate
+      top_skills: null
+      current_position: null
+    - name: عصام وسام فؤاد
+      image: https://media.licdn.com/dms/image/D4E03AQGl0NrkWpqu6A/profile-displayphoto-shrink_200_200/0/1713453762927?e=1720051200&v=beta&t=c7BYp1QiqtlKNEKl5i7Zt_t9U70VpOIZl5UeLq3yzY4
+      markdown: يمكنك معرفة المزيد عن عصام والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/essamwisam/
+      title: Research Assistant @DFKI
+      top_skills: Deep Learning, Machine Learning, Research Skills, Technical Writing,
+        Front-End Development
+      current_position: Machine Learning Engineer — GSoC, The Julia Language · Internship,
+        May 2024 - Present · 1 mo
+    - name: عمار محمد صبحي
+      image: https://media.licdn.com/dms/image/D4D03AQFPy2eHJ1f0gA/profile-displayphoto-shrink_200_200/0/1699357738359?e=1720051200&v=beta&t=AdDfSmcXHEGOugKjFf5PZgPfbX8y2R5BO-6EF18wZQs
+      markdown: يمكنك معرفة المزيد عن عمار والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ammar21/
+      title: Software Engineer at Ejada
+      top_skills: null
+      current_position: null
+    - name: عمر أحمد محمد
+      image: https://media.licdn.com/dms/image/C4D03AQGE60YhODBXuQ/profile-displayphoto-shrink_200_200/0/1660916211104?e=1720051200&v=beta&t=smHTMhFA5QP4zaJD0VLPsniqFX2dYKobg0sNp9qRlco
+      markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/omar-ahmed-9a8427169/
+      title: Computer Engineering Fresh Graduate
+      top_skills: null
+      current_position: null
+    - name: عمر عبدالفتاح حماد
+      image: https://media.licdn.com/dms/image/C4E03AQFEEpkvsbnrMw/profile-displayphoto-shrink_200_200/0/1630720583718?e=1720051200&v=beta&t=Ty0zoucdfanRBU1b4HETKzWiZdbaZ_KYXr9yQFHSbBw
+      markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/omar-abd-el-fattah-5898a921b/
+      title: Student at Cairo University
+      top_skills: null
+      current_position: null
+    - name: عمر محمد أحمد
+      image: https://media.licdn.com/dms/image/D4D03AQGi-eH4TEA1Fg/profile-displayphoto-shrink_200_200/0/1692961999643?e=1720051200&v=beta&t=JW7ZJRYbMDetLdTe1D9rPfmctmTIkLVn-k_RH2jLcFg
+      markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/omar-mohamed-a829951a1/
+      title: Software Engineer @ Reno Systems
+      top_skills: React.js, Node.js, Problem Solving, JavaScript
+      current_position: Full-stack Developer, Reno Systems · Full-time, Nov 2022 -
+        Present · 1 yr 7 mos
+    - name: عمر محمد عبدالفتاح
+      image: ''
+      markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: غياث عمر صالح
+      image: https://media.licdn.com/dms/image/D4D03AQE4suVcDG1RUw/profile-displayphoto-shrink_200_200/0/1700378330769?e=1720051200&v=beta&t=Vx9VjnnthGQcYHpG3DPk1dtulPaKPm9KQNtweOM7X0c
+      markdown: يمكنك معرفة المزيد عن غياث والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/ghieath/
+      title: Computer Engineering Graduate | Candidate Master on Codeforces
+      top_skills: null
+      current_position: null
+    - name: كريم طه عبدالصبور
+      image: https://media.licdn.com/dms/image/D4D35AQGV0dpd5CK0wA/profile-framedphoto-shrink_100_100/0/1657224326460?e=1715338800&v=beta&t=S7GHmJwWB0d7azhE3-QgkRZQHHrvl3NYbTCn9AK-tNU
+      markdown: يمكنك معرفة المزيد عن كريم والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/karim-taha-6927711b8/
+      title: Student at Cairo University
+      top_skills: null
+      current_position: null
+    - name: مايكل عزيز فهيم
+      image: https://media.licdn.com/dms/image/D5603AQGWC2nUKuoQUQ/profile-displayphoto-shrink_200_200/0/1709658836916?e=1720051200&v=beta&t=JOQBGWAq259bOR4kU_i5cQMpBcLs38iwE0O0hkyjJJ4
+      markdown: يمكنك معرفة المزيد عن مايكل والتواصل معه من خلال زيارة صفحته الشخصية
+        في [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/michael-daud-5a00491aa/
+      title: Backend Engineer II @instabug
+      top_skills: null
+      current_position: null
+    - name: محمد أحمد فتحي
+      image: https://media.licdn.com/dms/image/D4D03AQGU9MuGEu-88A/profile-displayphoto-shrink_200_200/0/1673366892176?e=1720051200&v=beta&t=tL9mp31l0CFmJT2V387BJSXs4yyFRYGmV84Han8qxEw
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mhmdfathy/
+      title: full stack developer @ RACE software,full stack @ Techflipp
+      top_skills: Python (Programming Language), backend, JavaScript, Software Development,
+        nextjs
+      current_position: Full Stack Engineer, Techflipp · Full-time, Nov 2023 - Present
+        · 7 mos
+    - name: محمد أكرم عبد الفتاح
+      image: https://media.licdn.com/dms/image/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_200_200/0/1593717419051?e=1720051200&v=beta&t=mx_Ojezs8J--fRMU5G-fAzfLuLm_jbPtazS0fGDU6GM
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mohamed-akram99/
+      title: Computer Engineer
+      top_skills: null
+      current_position: null
+    - name: محمد خالد محمد
+      image: https://media.licdn.com/dms/image/D4D03AQE2n2mEoyFV1A/profile-displayphoto-shrink_200_200/0/1711117151463?e=1720051200&v=beta&t=iGdFwFPCLO15Z4mKXwPleJhzy4cjOsS06mmcW4wBTPk
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mohamed-khaled-52425419b/
+      title: Computer Vision Engineer | Opinions are my own
+      top_skills: PyTorch, Python (Programming Language), C++, Computer Vision
+      current_position: Computer Vision Research Engineer, Atomica AI · Full-time,
+        Dec 2023 - Present · 6 mos
+    - name: محمد سعد فتحي
+      image: https://media.licdn.com/dms/image/D4D03AQFWXPjZ3GvxFA/profile-displayphoto-shrink_200_200/0/1705068926507?e=1720051200&v=beta&t=X_wu5oIuIF3FD3h73CPgAtPjAUpayrUnkcjU20U6arw
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mohammed-saad-03b47b218/
+      title: AI Engineer
+      top_skills: Research Skills, Machine Learning, Deep Learning, Large Language
+        Models (LLM), DevOps
+      current_position: None
+    - name: محمد سلامة عبد السميع
+      image: https://media.licdn.com/dms/image/D4D03AQHNgKp7ehgT-w/profile-displayphoto-shrink_200_200/0/1705008575955?e=1720051200&v=beta&t=kdBvw24EfLzcTRJNRFuJRmMjEhz7_MqK58eEni5dPgI
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mohamed-salama-045aa3190/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: محمد نبوي حامد
+      image: https://media.licdn.com/dms/image/C4D03AQHi-8IabNt4kQ/profile-displayphoto-shrink_200_200/0/1604271654097?e=1720051200&v=beta&t=tG35wH5_9WBSe2nDlLAJf9Li_fZWa8W9NcQyb_ndiss
+      markdown: يمكنك معرفة المزيد عن محمد والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mohamednghareeb/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: محمود السيد محمود
+      image: https://media.licdn.com/dms/image/D4D35AQHT27rxEqjhzg/profile-framedphoto-shrink_200_200/0/1694534418436?e=1715338800&v=beta&t=BRjLRKg_IYfXY20jsDvfj3-GSBRJY1KPYvRc70di1S0
+      markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mahmoud-raouf-13395a1a2/
+      title: Fresh graduate from Computer Engineering Department in Cairo University
+      top_skills: null
+      current_position: null
+    - name: محمود عمرو نبيل
+      image: ''
+      markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمود محمد عبد العاطي
+      image: ''
+      markdown: يمكنك معرفة المزيد عن محمود والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مريم أشرف ملاك
+      image: https://media.licdn.com/dms/image/C4D03AQFIQJR8eZFZaQ/profile-displayphoto-shrink_200_200/0/1652108764081?e=1720051200&v=beta&t=fxMR5t3iEvNpM9D6I1RZVjRluNrz6RnOpQqmZDCD83w
+      markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mariam-ashraf-b688ab1b2/
+      title: Co-Founder of Apes Solutions
+      top_skills: null
+      current_position: null
+    - name: مريم صلاح متولي
+      image: https://media.licdn.com/dms/image/D4D03AQF8KkB54dTElQ/profile-displayphoto-shrink_200_200/0/1708551303617?e=1720051200&v=beta&t=EuGkpxUlgmh2GNGmGuAjbSXbJ9_p6hvgt6KsIgx-ZS8
+      markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/maryem-salah-6704b0205/
+      title: Software Engineer @Siemens EDA
+      top_skills: null
+      current_position: null
+    - name: مريم محمد زين
+      image: https://media.licdn.com/dms/image/D4D03AQE4vRJf2ZGHYA/profile-displayphoto-shrink_400_400/0/1668196454248?e=1720051200&v=beta&t=YfsLPFLd827tc21yue7entEL-DL3SDDnrVNcta4DG7s
+      markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mariem-muhammed-1009801b1/
+      title: Associate Software Engineer
+      top_skills: null
+      current_position: null
+    - name: مريم ناصر رشاد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن مريم والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/marim-naser-32b85a203/
+      title: Computer Engineering Fresh Graduate
+      top_skills: null
+      current_position: null
+    - name: مصطفى أحمد صبري
+      image: https://media.licdn.com/dms/image/D4D03AQGMBg5QC_-ddg/profile-displayphoto-shrink_200_200/0/1699197496527?e=1720051200&v=beta&t=LeIZkqihj8mZfvqolUd9gc0yChZIsZdVnZvNmCY_oqQ
+      markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mostafa-ahmed-68531520b/
+      title: Software Engineer @ EJADA | Frontend Instructor @ Route
+      top_skills: Angular, React.js, ASP.NET, Microsoft SQL Server, Node.js
+      current_position: Software Engineer, EJADA · Full-time, Aug 2023 - Present ·
+        10 mos
+    - name: مصطفى مجدي عبد الرحمن
+      image: https://media.licdn.com/dms/image/D5635AQE7mdQVJVAmfQ/profile-framedphoto-shrink_200_200/0/1713257617885?e=1715338800&v=beta&t=Nrl6XBW9foN06cBQn3A_Q984IiKcGJhq__o8XTxrmBc
+      markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mostafa-magdi-1200121b9/
+      title: Software Engineer @ Ejada | Java Spring | Nodejs | Angular | ECPC finalist
+      top_skills: Spring Boot, AngularJS, Hibernate, JavaServer Faces (JSF), Oracle
+        Database
+      current_position: Software Engineer, EJADA · Full-time, Aug 2023 - Present ·
+        10 mos
+    - name: مصطفى محمد أحمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مصطفى محمود كمال
+      image: https://media.licdn.com/dms/image/C4D03AQEU-CQ0MC6k7g/profile-displayphoto-shrink_200_200/0/1656957983472?e=1720051200&v=beta&t=_AHYx9ymGHs0VxNLJl7MGSbZUKwugYGo0q7bKGllzFg
+      markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mostafa-m-kamal-b015691b1/
+      title: .
+      top_skills: null
+      current_position: null
+    - name: مصطفى وائل كمال
+      image: https://media.licdn.com/dms/image/C5603AQFppgsFA3A9qg/profile-displayphoto-shrink_200_200/0/1599037873972?e=1720051200&v=beta&t=faEnL_biB6dUR3i803u--89qq3fZZ0Ws3sNtoIT-mzo
+      markdown: يمكنك معرفة المزيد عن مصطفى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mostafa-wael/
+      title: Helping Businesses Optimize Infrastructure | Top 2% on StackOverflow
+        @2022 @2023 | DevOps Engineer
+      top_skills: Amazon Web Services (AWS), DevOps, Linux, Python (Programming Language)
+      current_position: Software Engineer @Metacall, Google Summer of Code, May 2024
+        - Present · 1 mo
+    - name: منة الله أحمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن منى الله والتواصل معها من خلال زيارة صفحتها
+        الشخصية [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/menna-allah-ahmed-391bb31a3/
+      title: Software Engineer @EJADA
+      top_skills: null
+      current_position: null
+    - name: مينا عماد فخري
+      image: https://media.licdn.com/dms/image/D4D35AQFk7r4mZrbk_g/profile-framedphoto-shrink_200_200/0/1705516050502?e=1715338800&v=beta&t=-E5YQBLvLTTHWRjTw36BmHFaHPJZNWGGxcHhbo3WggU
+      markdown: يمكنك معرفة المزيد عن مينا والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/mina-emad-4b8712202/
+      title: Recent Graduate | Software Developer | Seeking Exciting Opportunities
+      top_skills: null
+      current_position: null
+    - name: نادين أيمن مصباح
+      image: https://media.licdn.com/dms/image/D4D03AQEvLtTFSMMO3g/profile-displayphoto-shrink_200_200/0/1687428190439?e=1720051200&v=beta&t=5RGIEpmLaJlBgLV-kMYApS3kH5DRvk40a-i1Suo51wM
+      markdown: يمكنك معرفة المزيد عن ندين والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/nadeen-ayman-3a64aa205/
+      title: Software Engineer @ Ejada
+      top_skills: null
+      current_position: null
+    - name: ندى السيد محمود
+      image: https://media.licdn.com/dms/image/D4D03AQERxMeaF25qNQ/profile-displayphoto-shrink_200_200/0/1686733824543?e=1720051200&v=beta&t=cMFPXh--JdJLiQxRmuxm01tp7ypmU868DUdNVsgiCEc
+      markdown: يمكنك معرفة المزيد عن ندى والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/nada-elsayed-384583193/
+      title: Software Engineering
+      top_skills: null
+      current_position: null
+    - name: نور الدين مصطفى
+      image: https://media.licdn.com/dms/image/D4D03AQF-4srWUEhy-w/profile-displayphoto-shrink_200_200/0/1671705370789?e=1720051200&v=beta&t=Wm31ZFgjVw2nWxuoskWShB1nVhdzAZiBtYnnOWx9vI0
+      markdown: يمكنك معرفة المزيد عن نور والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/nour-aldin-02b9b41b7/
+      title: Software Engineer @Flend
+      top_skills: Software Development, Web Development, Front-End Development, Full-Stack
+        Development, Back-End Web Development
+      current_position: Software Engineer, Flend · Full-time, Dec 2023 - Present ·
+        6 mos
+    - name: نوران هاني محمد
+      image: ''
+      markdown: يمكنك معرفة المزيد عن نوران والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/noran-hany-a69103215/
+      title: Computer Vision Engineer @ Voyance
+      top_skills: null
+      current_position: null
+    - name: هالة حمدي عبدالهادي
+      image: ''
+      markdown: يمكنك معرفة المزيد عن هالة والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/hala-hamdy-6665a91b0/
+      title: Data Scientist @ Dell Technologies
+      top_skills: null
+      current_position: null
+    - name: وئام باسم حسني
+      image: https://media.licdn.com/dms/image/D4D03AQGHQs435W1VGA/profile-displayphoto-shrink_200_200/0/1671982934389?e=1720051200&v=beta&t=mR1tN_-EA0kAwvQi38H94EH7Haqa_7hw3OWcfNtWeHw
+      markdown: يمكنك معرفة المزيد عن وئام والتواصل معها من خلال زيارة صفحتها الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/weaam-bassem/
+      title: Software Testing Engineer
+      top_skills: null
+      current_position: null
+    - name: يحيى زكريا محمد
+      image: https://media.licdn.com/dms/image/D4D03AQFls97uYGAhkg/profile-displayphoto-shrink_200_200/0/1705609098997?e=1720051200&v=beta&t=Q5r9zl6C_2C1iSTpXugOk75PTKobcPP9u6amTKK7C2Q
+      markdown: يمكنك معرفة المزيد عن يحيى والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/yahia-zakaria-9a75581b0/
+      title: CAD Engineer  | GSoC'23 & 22
+      top_skills: null
+      current_position: null
+    - name: يوسف أحمد أنور
+      image: https://media.licdn.com/dms/image/D4D03AQEAKnAxTHDNSQ/profile-displayphoto-shrink_200_200/0/1702566732226?e=1720051200&v=beta&t=Qa3iogYNWjyIKHVN3vmByXemOz9nPMdEaoUXNAgg4lY
+      markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/yousef-ahmed-6a66b2192/
+      title: Backend Engineer II @instabug
+      top_skills: null
+      current_position: null
+    - name: يوسف جمال رضا
+      image: https://media.licdn.com/dms/image/C4D03AQHjn-W2kc3Ppg/profile-displayphoto-shrink_200_200/0/1654362565732?e=1720051200&v=beta&t=bNinctJlEhXZuq3mE3mWW96-J1DwdRRb_KYU0BS0ogI
+      markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/yousef-gamal-225573188/
+      title: Software Engineer
+      top_skills: null
+      current_position: null
+    - name: يوسف عاطف توفيق
+      image: https://media.licdn.com/dms/image/D4D03AQEQfFqJVtQxig/profile-displayphoto-shrink_200_200/0/1683004777814?e=1720051200&v=beta&t=vuVAjkxTi8bOczQ7YDjDYyFDrSXC5HaNQ0VRTaVoXys
+      markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/yousefatef/
+      title: Candidate Master @ Codeforces | 2x ACPC finalist | Computer Engineer
+      top_skills: null
+      current_position: null
+    - name: يوسف عاطف عبدالحليم
+      image: ''
+      markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: يوسف مصطفى المهدي
+      image: https://media.licdn.com/dms/image/D4D03AQFNMZvsGgfq8w/profile-displayphoto-shrink_200_200/0/1684532495991?e=1720051200&v=beta&t=Ycr5GyvgSKn4LV0JT2uZ-6OIwOQ67HsuLfr3D1MxA8Q
+      markdown: يمكنك معرفة المزيد عن يوسف والتواصل معه من خلال زيارة صفحته الشخصية
+        [LinkedIn]().
+      linkedin_url: https://www.linkedin.com/in/yousefelmahdy/
+      title: Software Engineer @AlRajhi Bank
+      top_skills: null
+      current_position: null

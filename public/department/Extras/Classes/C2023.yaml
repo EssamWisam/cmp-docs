@@ -1,11 +1,10 @@
-- title: "\U0001F9D1\U0001F3FB\u200D\U0001F393 CMP23 Class \U0001F469\U0001F3FB\u200D\
-    \U0001F393 "
+- title: "🧑🏻‍🎓 CMP23 Class 👩🏻‍🎓 "
   description: Enter our computer engineering class, where students exhibit an exceptional
     level of expertise. They handle computers and technology with remarkable ease,
     crafting remarkable innovations effortlessly.
   markdown_title: Student Info
   items:
-  - title: "\U0001F4C3 Class Roster"
+  - title: "📃 Class Roster"
     description: Members of the class are as follows
     items:
     - name: Ahmed Ayman Ahmed

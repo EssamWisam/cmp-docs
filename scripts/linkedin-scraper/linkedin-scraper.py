@@ -354,7 +354,7 @@ if __name__ == '__main__':
 
         class_yaml[0]['items'][0]['items'] = new_class_students
         with open(args.class_yaml_file, "w", encoding="utf-8") as f:
-            f.write(yaml.dump(class_yaml, sort_keys=False))
+            f.write(yaml.dump(class_yaml, sort_keys=False, allow_unicode=True))
 
     finally:
         driver.close()

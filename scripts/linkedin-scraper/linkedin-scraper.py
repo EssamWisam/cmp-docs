@@ -145,6 +145,17 @@ def parse_multiple_positions(experience_li, multi_position_company_xpath):
 def flatten(nested_list):
     return list(itertools.chain(*nested_list))
 
+def has_data_div(node, section_id):
+    if type(node) is not str and hasattr(node, 'attrib') and 'id' in node.attrib:
+        # print(node.tag, node.attrib)
+
+        if node.attrib['id'] == section_id:
+            return True
+        else:
+            return False
+    else:
+        return any(has_data_div(child, section_id) for child in node.getchildren())
+
 def get_section_data_div(tree, section_id):
     """
     Finds all section tags, checks if the first div has an id of 'experience'. If so, returns the div containing the 
@@ -152,11 +163,10 @@ def get_section_data_div(tree, section_id):
     """
     sections = tree.iter("section")
     for section in sections:
-        children = section.getchildren()
-
-        for child in children:
-            if 'id' in child.attrib and child.attrib['id'] == section_id:
+        for child in section.getchildren():
+            if has_data_div(child, section_id):
                 return section
+
     return None
 
 def get_current_position(tree) -> Optional[Experience]:
@@ -248,8 +258,9 @@ def scrape_profile(driver, url):
 
     if is_join_page(driver.page_source):
         join_page_log_in(driver)
-        time.sleep(5)
+        time.sleep(randint(5, 10))
         driver.get(url)
+        time.sleep(randint(5, 10))
 
     profile_page_source = driver.page_source
 
@@ -305,7 +316,7 @@ if __name__ == '__main__':
     new_class_students = class_students
 
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new") # Comment this line if you want to see the script in action with UI.
+    # options.add_argument("--headless=new") # Comment this line if you want to see the script in action with UI.
     driver = webdriver.Chrome(options=options)
 
     MAX_PROFILES_BEFORE_CHROME_RELOAD = 20
@@ -334,21 +345,16 @@ if __name__ == '__main__':
                 eprint(f"Failed to scrape profile URL ({profile_url}), skipping")
                 continue
 
-            if profile_data.image_url == "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7":
-                new_class_students[i]['image'] = None
-            else:
-                new_class_students[i]['image'] = profile_data.image_url
             new_class_students[i]['title'] = profile_data.title
+
+            if profile_data.image_url is not None and profile_data.image_url != "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7":
+                new_class_students[i]['image'] = profile_data.image_url
 
             if profile_data.top_skills:
                 new_class_students[i]['top_skills'] = ', '.join(profile_data.top_skills)
-            else:
-                new_class_students[i]['top_skills'] = None
 
-            if profile_data.top_skills:
+            if profile_data.current_position:
                 new_class_students[i]['current_position'] = str(profile_data.current_position)
-            else:
-                new_class_students[i]['current_position'] = None
 
             time.sleep(randint(5, 10))
 

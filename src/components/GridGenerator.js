@@ -27,7 +27,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   function studentProfileModalHeader(person) {
     return (
       (<div>
-        <img style={{ display: 'inline-block', height: '150px' }} className="student-profile" src={person.image.length > 0 ? person.image : placeholderUrl(person)} alt={person.name} />
+        <img style={{ display: 'inline-block', height: '150px' }} className="student-profile" src={person.image && person.image.length > 0 ? person.image : placeholderUrl(person)} alt={person.name} />
         <h2>{person.name}</h2>
         <h4>{person.title}</h4>
         </div>)
@@ -70,8 +70,8 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           openModal(jsonData[0].markdown_title, item.markdown)
         } }} onMouseEnter={() => { setHoverStatus(true) }} onMouseLeave={() => { setHoverStatus(false) }}> {
           isClassMarkdown ?
-            <LazyImage alt={item.name} imageUrl={item.image} placeholderUrl={placeholderUrl(item)} ></LazyImage>
-            : <img style={{ display: 'inline-block', height: '150px' }} src={item.image.length > 0 ? item.image : placeholderUrl(item)} alt={item.name} />
+            <LazyImage alt={item.name} imageUrl={item.image ? item.image : placeholderUrl(item)} placeholderUrl={placeholderUrl(item)} ></LazyImage>
+            : <img style={{ display: 'inline-block', height: '150px' }} src={item.image && item.image.length > 0 ? item.image : placeholderUrl(item)} alt={item.name} />
         }
         <p id="p">{item.name}</p>
         { isClassMarkdown && item.title && <h5 id="p">{

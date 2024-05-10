@@ -15,6 +15,9 @@ from typing import Optional, List
 from dataclasses import dataclass
 from argparse import ArgumentParser
 from random import randint
+from pathlib import Path
+
+from arabic_mapper import map_en_to_ar_yaml
 
 """
 USAGE:
@@ -330,12 +333,17 @@ if __name__ == '__main__':
                 driver.close()
                 driver = webdriver.Chrome(options=options)
 
-            profile_url = student['linkedin_url']
+            profile_url = student['linkedin_url'] if 'linkedin_url' in student.keys() else 'https://www.linkedin.com/in/'
 
             # Skip invalid profile URLs
             # We sleep a random amount of time as a precaution so Linkedin doesn't detect our bot
             if profile_url == 'https://www.linkedin.com/in/':
                 eprint(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
+                new_class_students[i]['linkedin_url'] = 'https://www.linkedin.com/in/'
+                new_class_students[i]['title'] = None
+                new_class_students[i]['image'] = None
+                new_class_students[i]['top_skills'] = None
+                new_class_students[i]['current_position'] = None
                 # time.sleep(randint(1, 5))
                 continue
 
@@ -364,3 +372,35 @@ if __name__ == '__main__':
 
     finally:
         driver.close()
+
+    arg_parser = ArgumentParser()
+    arg_parser.add_argument("class_yaml_file")
+
+    args = arg_parser.parse_args()
+
+    file_path = Path(args.class_yaml_file)
+
+    if not file_path.exists():
+        print("The YAML file does not exist!")
+        exit()
+
+    ar_yaml_path = args.class_yaml_file.replace(".yaml", "_ar.yaml")
+    arabic_file_path = Path(ar_yaml_path)
+
+    if not arabic_file_path.exists():
+        print("The Arabic YAML file does not exist! Should have the same path as English yaml and same name but ending with _ar.yaml instead!")
+        exit()
+
+    class_yaml_file = open(args.class_yaml_file, "r", encoding="utf-8")
+    class_yaml = yaml.load(class_yaml_file, Loader=yaml.Loader)
+    class_yaml_file.close()
+
+    ar_class_yaml_file = open(ar_yaml_path, "r", encoding="utf-8")
+    ar_class_yaml = yaml.load(ar_class_yaml_file, Loader=yaml.Loader)
+    ar_class_yaml_file.close()
+
+    new_ar_class_yaml = map_en_to_ar_yaml(class_yaml,ar_class_yaml)
+
+    with open(ar_yaml_path, "w", encoding="utf-8") as f:
+        f.write(yaml.dump(new_ar_class_yaml, sort_keys=False, allow_unicode=True))
+        print("Arabic YAML mapped successfully!")

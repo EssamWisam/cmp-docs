@@ -49,12 +49,16 @@
     outline: 2px solid #00C2CB;
   }
   
+  .student-open-for-work img {
+    outline: 3px groove #00CB4D;
+  }
+
+  .student-no-linkedin img {
+    outline: 3px groove #ffff00;
+  }
+
   .student-profile {
     border-radius: 25%;
-  }
-  
-  .student-unknown-position img {
-    outline: 3px groove #00CB4D;
   }
   
   .skill-oval {

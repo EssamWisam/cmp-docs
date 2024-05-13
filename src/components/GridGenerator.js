@@ -4,6 +4,7 @@ import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import PureModal from 'react-pure-modal';
 import LazyImage from './LazyImage';
+import Tooltip from '@mui/material/Tooltip';
 import 'react-pure-modal/dist/react-pure-modal.min.css';
 // css
 import './grid.css';
@@ -27,7 +28,11 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   function studentProfileModalHeader(person) {
     return (
       (<div>
-        <img style={{ display: 'inline-block', height: '150px' }} className="student-profile" src={person.image && person.image.length > 0 ? person.image : placeholderUrl(person)} alt={person.name} />
+        <img style={{ display: 'inline-block', height: '150px' }} 
+        className="student-profile" 
+        src={person.image && person.image.length > 0 ? person.image : placeholderUrl(person)} 
+        alt={person.name} 
+        onError={(event) => event.target.src = placeholderUrl(person)}/>
         <h2>{person.name}</h2>
         <h4>{person.title}</h4>
         </div>)
@@ -63,19 +68,38 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
 
   const renderItems = (items) => {
     return items.map((item, index) => (
-      <div className={isClassMarkdown && item.current_position == null ? "course-circle student-unknown-position" : "course-circle"}
+      <div className={
+        !isClassMarkdown ? "course-circle":
+        isClassMarkdown && (item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? "course-circle student-no-linkedin" :
+        isClassMarkdown && item.current_position == null ? "course-circle student-open-for-work":
+        "course-circle"}
         key={index} onClick={() => { if(isClassMarkdown){
           openModal(studentProfileModalHeader(item), studentProfileModalContent(item))
         } else {
           openModal(jsonData[0].markdown_title, item.markdown)
-        } }} onMouseEnter={() => { setHoverStatus(true) }} onMouseLeave={() => { setHoverStatus(false) }}> {
+        } }} onMouseEnter={() => { setHoverStatus(true) }} onMouseLeave={() => { setHoverStatus(false) }}>
+        {
           isClassMarkdown ?
             <LazyImage alt={item.name} imageUrl={item.image ? item.image : placeholderUrl(item)} placeholderUrl={placeholderUrl(item)} ></LazyImage>
-            : <img style={{ display: 'inline-block', height: '150px' }} src={item.image && item.image.length > 0 ? item.image : placeholderUrl(item)} alt={item.name} />
-        }
-        <p id="p">{item.name}</p>
+            : <img style={{ display: 'inline-block', height: '150px' }} 
+            src={item.image && item.image.length > 0 ? item.image : placeholderUrl(item)} 
+            alt={item.name} 
+            onError={(event) => event.target.src = placeholderUrl(item)}
+            />
+          }
+          {
+            !isClassMarkdown ? <p id="p">{item.name}</p>:
+            isClassMarkdown && (item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? <Tooltip followCursor={true} title="Unknown LinkedIn Account!" place="top" type="dark" effect="float">
+              <p id="p">{item.name}</p>
+            </Tooltip> :
+            isClassMarkdown && item.current_position == null ?
+            <Tooltip followCursor={true} title="Open to Work!" place="top" type="dark" effect="float">
+              <p id="p">{item.name}</p>
+            </Tooltip>
+            : <p id="p">{item.name}</p>
+          }
         { isClassMarkdown && item.title && <h5 id="p">{
-          item.title.length < 40 ? item.title : (item.title.split(/[,\|]/)[0].length < 40 ? item.title.split(/[,\|]/)[0] : (item.title.split(/[,\|]/)[0].substring(0,37)+"...") )
+          item.title.length < 40 ? item.title : (item.title.split(/[,|]/)[0].length < 40 ? item.title.split(/[,|]/)[0] : (item.title.split(/[,|]/)[0].substring(0,37)+"...") )
         }</h5>}
       </div>
     ));

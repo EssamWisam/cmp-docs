@@ -42,9 +42,12 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   function studentProfileModalContent(person) {
     return (
       <div className="modal-body">
+          {person.current_position != null &&
         <p>
-          <strong>{isArabicMarkdown ? "العمل الحالي:":"Current Position:"}</strong> {person.current_position != null ? person.current_position : "N/A"}
+          <div><strong>{isArabicMarkdown ? "العمل الحالي:":"Current Position:"}</strong> {person.current_position}</div>
         </p>
+          }
+          
         {person.top_skills != null && (
           <div>
             <p>
@@ -70,7 +73,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
     return items.map((item, index) => (
       <div className={
         !isClassMarkdown ? "course-circle":
-        isClassMarkdown && (item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? "course-circle student-no-linkedin" :
+        isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? "course-circle student-no-linkedin" :
         isClassMarkdown && item.current_position == null ? "course-circle student-open-for-work":
         "course-circle"}
         key={index} onClick={() => { if(isClassMarkdown){
@@ -89,11 +92,11 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           }
           {
             !isClassMarkdown ? <p id="p">{item.name}</p>:
-            isClassMarkdown && (item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? <Tooltip followCursor={true} title="Unknown LinkedIn Account!" place="top" type="dark" effect="float">
+            isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? <Tooltip followCursor={true} title={isArabicMarkdown?"حساب لينكدإن غير معروف!":"Unknown LinkedIn Account!"} place="top" type="dark" effect="float">
               <p id="p">{item.name}</p>
             </Tooltip> :
             isClassMarkdown && item.current_position == null ?
-            <Tooltip followCursor={true} title="Open to Work!" place="top" type="dark" effect="float">
+            <Tooltip followCursor={true} title={ isArabicMarkdown ? "حاليا غير موظف!" : "Currently Unemployed!"} place="top" type="dark" effect="float">
               <p id="p">{item.name}</p>
             </Tooltip>
             : <p id="p">{item.name}</p>

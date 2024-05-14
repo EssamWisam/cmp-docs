@@ -357,12 +357,19 @@ if __name__ == '__main__':
 
             if profile_data.image_url is not None and profile_data.image_url != "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7":
                 new_class_students[i]['image'] = profile_data.image_url
+            else:
+                new_class_students[i]['image'] = None
 
             if profile_data.top_skills:
                 new_class_students[i]['top_skills'] = ', '.join(profile_data.top_skills)
+            else:
+                new_class_students[i]['top_skills'] = None
 
             if profile_data.current_position:
                 new_class_students[i]['current_position'] = str(profile_data.current_position)
+            else:
+                new_class_students[i]['current_position'] = None
+
 
             time.sleep(randint(5, 10))
 

@@ -19,7 +19,6 @@ const LazyImage = ({ imageUrl, placeholderUrl, alt }) => {
         }
         try {
             const response = await fetch(imageUrl);
-            console.log(response.status);
             if (response.status === 200) {
                 setIsValid(true);
             } else if (response.status === 403) {
@@ -39,6 +38,7 @@ const LazyImage = ({ imageUrl, placeholderUrl, alt }) => {
                 alt={alt}
                 style={{ maxWidth: '100%', height: '150px', display: 'inline-block' }}
                 src={isValid?imageUrl:placeholderUrl} // use normal <img> attributes as props
+                onError={(event) => event.target.src = placeholderUrl}
                 />
     );
 

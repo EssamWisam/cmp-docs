@@ -40,8 +40,6 @@
       max-width: 100px !important;
     }
   }
-
-
   
   .course-circle p {
     margin-top: 3px;
@@ -49,5 +47,36 @@
   
   .course-circle img:hover {
     outline: 2px solid #00C2CB;
+  }
+  
+  .student-open-for-work img {
+    outline: 3px groove #00CB4D;
+  }
+
+  .student-no-linkedin img {
+    outline: 3px groove #ffff00;
+  }
+
+  .student-profile {
+    border-radius: 25%;
+  }
+  
+  .skill-oval {
+    background-color: #00C2CB;
+    color: #000000;
+    border-radius: 50px;
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+  }
+  
+  .skill-oval:hover {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.4); 
+    font-style: italic;
+  }
+  
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
   }
   

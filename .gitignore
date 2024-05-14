@@ -72,3 +72,4 @@ dist/
 *.njsproj
 *.sln
 *.sw?
+scripts/linkedin-scraper/chromedriver.exe

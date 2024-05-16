@@ -63,7 +63,9 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           </div>)
         }
         <p>
-          <ReactMarkdown children={person.markdown.replace("[LinkedIn]()", "[LinkedIn]("+person.linkedin_url+")")} remarkPlugins={[remarkGfm]} />
+          <ReactMarkdown children={person.markdown ? (person.markdown.contains("[LinkedIn]()") ? person.markdown.replace("[LinkedIn]()", "[LinkedIn]("+person.linkedin_url+")") : person.markdown) :
+          person.linkedin_url && isArabicMarkdown ?  "يمكنك معرفة المزيد عن "+person.name.split(" ")[0]+" والتواصل من خلال زيارة [LinkedIn]("+person.linkedin_url+")." : "You can know more about "+person.name.split(" ")[0]+" and reach out by visiting [LinkedIn]("+person.linkedin_url+")"} 
+          remarkPlugins={[remarkGfm]} />
         </p>
       </div>
     );

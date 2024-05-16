@@ -96,6 +96,10 @@ sections:
             label_ar: دفعة ٢٢
             icon: MdAdjust
             link: "Extras/Classes/C2022.yaml"
+          - label: Class 2020
+            label_ar: دفعة .٢
+            icon: MdAdjust
+            link: "Extras/Classes/C2020.yaml"
       - label: Graduation Projects
         label_ar: مشاريع التخرج
         icon: MdTipsAndUpdates

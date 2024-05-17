@@ -20,7 +20,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   var isArabicMarkdown = currentMarkdown.includes("_ar.");
 
   const openModal = (header, content) => {
-    setModalHeader(header); 
+    setModalHeader(header);
     setModalContent(content);
     setModal(true);
   };
@@ -28,30 +28,51 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   function studentProfileModalHeader(person) {
     return (
       (<div>
-        <img style={{ display: 'inline-block', height: '150px' }} 
-        className="student-profile" 
-        src={person.image && person.image.length > 0 ? person.image : placeholderUrl(person)} 
-        alt={person.name} 
-        onError={(event) => event.target.src = placeholderUrl(person)}/>
+        <img style={{ display: 'inline-block', height: '150px' }}
+          className="student-profile"
+          src={person.image && person.image.length > 0 ? person.image : placeholderUrl(person)}
+          alt={person.name}
+          onError={(event) => event.target.src = placeholderUrl(person)} />
         <h2>{person.name}</h2>
         <h4>{person.title}</h4>
-        </div>)
+      </div>)
     )
+  }
+
+  function studentMarkdown(person) {
+    var markdown_string = "";
+    var valid_linkedin = person.linkedin_url && person.linkedin_url !== "https://www.linkedin.com/in/";
+    if (valid_linkedin && person.markdown && person.markdown.includes("[LinkedIn]()")) {
+      markdown_string = person.markdown.replace("[LinkedIn]()", "[LinkedIn](" + person.linkedin_url + ")");
+    }
+    else if (valid_linkedin && person.markdown) {
+      markdown_string = person.markdown + "\n\n" + isArabicMarkdown ? "يمكنك معرفة المزيد عن " + person.name.split(" ")[0] + " والتواصل من خلال زيارة [LinkedIn](" + person.linkedin_url + ")." : "You can know more about " + person.name.split(" ")[0] + " and reach out by visiting [LinkedIn](" + person.linkedin_url + ")";
+    }
+    else if (valid_linkedin) {
+      markdown_string = isArabicMarkdown ? "يمكنك معرفة المزيد عن " + person.name.split(" ")[0] + " والتواصل من خلال زيارة [LinkedIn](" + person.linkedin_url + ")." : "You can know more about " + person.name.split(" ")[0] + " and reach out by visiting [LinkedIn](" + person.linkedin_url + ")";
+    }
+    else if (person.markdown && !person.markdown.includes("[LinkedIn]()")) {
+      markdown_string = person.markdown + "\n\n" + (isArabicMarkdown ? "رابط Linked غير معلوم." : "LinkedIn link for this student is unknown.");
+    }
+    else {
+      markdown_string = (isArabicMarkdown ? "رابط Linked غير معلوم." : "LinkedIn link for this student is unknown.");
+    }
+    return markdown_string;
   }
 
   function studentProfileModalContent(person) {
     return (
       <div className="modal-body">
-          {person.current_position != null &&
-        <p>
-          <div><strong>{isArabicMarkdown ? "العمل الحالي:":"Current Position:"}</strong> {person.current_position}</div>
-        </p>
-          }
-          
+        {person.current_position != null &&
+          <p>
+            <div><strong>{isArabicMarkdown ? "العمل الحالي:" : "Current Position:"}</strong> {person.current_position}</div>
+          </p>
+        }
+
         {person.top_skills != null && (
           <div>
             <p>
-              <strong>{isArabicMarkdown ? "أعلى المهارات:":"Top Skills:"}</strong>
+              <strong>{isArabicMarkdown ? "أعلى المهارات:" : "Top Skills:"}</strong>
             </p>
             <div className="skills-container">
               {person.top_skills.split(",").map((skill, index) => (
@@ -63,7 +84,8 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           </div>)
         }
         <p>
-          <ReactMarkdown children={person.markdown.replace("[LinkedIn]()", "[LinkedIn]("+person.linkedin_url+")")} remarkPlugins={[remarkGfm]} />
+          <ReactMarkdown children={studentMarkdown(person)}
+            remarkPlugins={[remarkGfm]} />
         </p>
       </div>
     );
@@ -72,37 +94,39 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
   const renderItems = (items) => {
     return items.map((item, index) => (
       <div className={
-        !isClassMarkdown ? "course-circle":
-        isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? "course-circle student-no-linkedin" :
-        isClassMarkdown && item.current_position == null ? "course-circle student-open-for-work":
-        "course-circle"}
-        key={index} onClick={() => { if(isClassMarkdown){
-          openModal(studentProfileModalHeader(item), studentProfileModalContent(item))
-        } else {
-          openModal(jsonData[0].markdown_title, item.markdown)
-        } }} onMouseEnter={() => { setHoverStatus(true) }} onMouseLeave={() => { setHoverStatus(false) }}>
+        !isClassMarkdown ? "course-circle" :
+          isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === null || item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? "course-circle student-no-linkedin" :
+            isClassMarkdown && item.current_position == null ? "course-circle student-open-for-work" :
+              "course-circle"}
+        key={index} onClick={() => {
+          if (isClassMarkdown) {
+            openModal(studentProfileModalHeader(item), studentProfileModalContent(item))
+          } else {
+            openModal(jsonData[0].markdown_title, item.markdown)
+          }
+        }} onMouseEnter={() => { setHoverStatus(true) }} onMouseLeave={() => { setHoverStatus(false) }}>
         {
           isClassMarkdown ?
             <LazyImage alt={item.name} imageUrl={item.image ? item.image : placeholderUrl(item)} placeholderUrl={placeholderUrl(item)} ></LazyImage>
-            : <img style={{ display: 'inline-block', height: '150px' }} 
-            src={item.image && item.image.length > 0 ? item.image : placeholderUrl(item)} 
-            alt={item.name} 
-            onError={(event) => event.target.src = placeholderUrl(item)}
+            : <img style={{ display: 'inline-block', height: '150px' }}
+              src={item.image && item.image.length > 0 ? item.image : placeholderUrl(item)}
+              alt={item.name}
+              onError={(event) => event.target.src = placeholderUrl(item)}
             />
-          }
-          {
-            !isClassMarkdown ? <p id="p">{item.name}</p>:
-            isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === "" || item.linkedin_url === "https://www.linkedin.com/in/") ? <Tooltip followCursor={true} title={isArabicMarkdown?"حساب لينكدإن غير معروف!":"Unknown LinkedIn Account!"} place="top" type="dark" effect="float">
+        }
+        {
+          !isClassMarkdown ? <p id="p">{item.name}</p> :
+            isClassMarkdown && (!('linkedin_url' in item) || item.linkedin_url === "" || item.linkedin_url === null || item.linkedin_url === "https://www.linkedin.com/in/") ? <Tooltip followCursor={true} title={isArabicMarkdown ? "حساب لينكدإن غير معروف!" : "Unknown LinkedIn Account!"} place="top" type="dark" effect="float">
               <p id="p">{item.name}</p>
             </Tooltip> :
-            isClassMarkdown && item.current_position == null ?
-            <Tooltip followCursor={true} title={ isArabicMarkdown ? "حاليا غير موظف!" : "Currently Unemployed!"} place="top" type="dark" effect="float">
-              <p id="p">{item.name}</p>
-            </Tooltip>
-            : <p id="p">{item.name}</p>
-          }
-        { isClassMarkdown && item.title && <h5 id="p">{
-          item.title.length < 40 ? item.title : (item.title.split(/[,|]/)[0].length < 40 ? item.title.split(/[,|]/)[0] : (item.title.split(/[,|]/)[0].substring(0,37)+"...") )
+              isClassMarkdown && item.current_position == null ?
+                <Tooltip followCursor={true} title={isArabicMarkdown ? "حاليا غير موظف!" : "Currently Unemployed!"} place="top" type="dark" effect="float">
+                  <p id="p">{item.name}</p>
+                </Tooltip>
+                : <p id="p">{item.name}</p>
+        }
+        {isClassMarkdown && item.title && <h5 id="p">{
+          item.title.length < 40 ? item.title : (item.title.split(/[,|]/)[0].length < 40 ? item.title.split(/[,|]/)[0] : (item.title.split(/[,|]/)[0].substring(0, 37) + "..."))
         }</h5>}
       </div>
     ));

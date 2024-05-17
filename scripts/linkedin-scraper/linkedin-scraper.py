@@ -337,13 +337,14 @@ if __name__ == '__main__':
 
             # Skip invalid profile URLs
             # We sleep a random amount of time as a precaution so Linkedin doesn't detect our bot
-            if profile_url == 'https://www.linkedin.com/in/':
+            if profile_url == 'https://www.linkedin.com/in/' or profile_url is None:
                 eprint(f"Skipping: {student['name']} due to invalid URL ({profile_url})")
                 new_class_students[i]['linkedin_url'] = 'https://www.linkedin.com/in/'
                 new_class_students[i]['title'] = None
                 new_class_students[i]['image'] = None
                 new_class_students[i]['top_skills'] = None
                 new_class_students[i]['current_position'] = None
+                new_class_students[i]['markdown'] = student['markdown'] if 'markdown' in student.keys() else None
                 # time.sleep(randint(1, 5))
                 continue
 
@@ -370,6 +371,8 @@ if __name__ == '__main__':
             else:
                 new_class_students[i]['current_position'] = None
 
+            if 'markdown' not in student.keys():
+                new_class_students[i]['markdown'] = None
 
             time.sleep(randint(5, 10))
 

@@ -1,141 +1,455 @@
 - title: '🧑🏻‍🎓 فصل CMP20 👩🏻‍🎓 '
-  description: Enter our computer engineering class, where students exhibit an exceptional
-    level of expertise. They handle computers and technology with remarkable ease,
-    crafting remarkable innovations effortlessly.
-  markdown_title: Student Info
+  description: اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم. دفعة مليانة
+    تعاون و جمدان و روقان. هات معاك مياه لو مش بتسحتمل كميات عظمة و جمدان كثير في
+    اليوم.
+  markdown_title: معلومات عن الطالب
   items:
-  - title: 📃 Class Roster
-    description: Members of the class are as follows
+  - title: 📃 كشف الدفعة
+    description: طلبة الصف كما يلي
     items:
     - name: ابراهيم محمود عبدالمجيد محمود
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: احمد ابراهيم عبدالنبى احمد
       linkedin_url: https://www.linkedin.com/in/ahmibr68/
+      image: https://media.licdn.com/dms/image/C4D03AQHgUFR85CjhXA/profile-displayphoto-shrink_200_200/0/1591088730038?e=1721260800&v=beta&t=xDbohYHl-F9w1VLY9VX8CpZAYs-lZVIaZV0YP-w4bVk
+      title: Software Engineer at Google
+      top_skills: null
+      current_position: Software Engineer, Google · Full-time, Jan 2022 - Present
+        · 2 yrs 5 mos
     - name: احمد خالد رجب بيومى
       linkedin_url: https://www.linkedin.com/in/ahmed-khaled-ba3151135/
+      image: https://media.licdn.com/dms/image/D4D03AQFjDVlOSaWGWw/profile-displayphoto-shrink_200_200/0/1715120290539?e=1721260800&v=beta&t=Ntpy42ke8g7M5WYXi2todqay8aKGlv14CzDbAxUV7WI
+      title: I work on optimization & machine learning.
+      top_skills: null
+      current_position: null
     - name: احمد سلامه حامد سليم مصطفى
       linkedin_url: https://www.linkedin.com/in/ahmed-salama-272a68130/
+      image: https://media.licdn.com/dms/image/D4D03AQHwMf3SM6UoWA/profile-displayphoto-shrink_200_200/0/1698086800951?e=1721260800&v=beta&t=xynWAlPMNIdnOfYLXvtPbn-b34X14C2MqaD3m0dTADA
+      title: BI Analyst/ Data Engineer at Ejada Systems
+      top_skills: null
+      current_position: BI Analyst/ Data Engineer, EJADA · Full-time, Jul 2022 - Present
+        · 1 yr 11 mos
     - name: احمد صلاح عبدالمحسن محمد
       linkedin_url: https://www.linkedin.com/in/ahmed-salah-190777139/
+      image: https://media.licdn.com/dms/image/C4D03AQHK3z7bwuzHgA/profile-displayphoto-shrink_200_200/0/1584221694812?e=1721260800&v=beta&t=4uvxXDAbqezeUKDkDV5__yZF_-C7FvdhbJ1pmgM-luo
+      title: Fresh graduate from Cairo University, Computer Engineering department
+      top_skills: null
+      current_position: null
     - name: احمد عصام الدين سيد ضاحى احمد
       linkedin_url: https://www.linkedin.com/in/ahmed-essam-ba6630112/
+      image: https://media.licdn.com/dms/image/C5603AQHbdlAGuMy0fA/profile-displayphoto-shrink_200_200/0/1517527555816?e=1721260800&v=beta&t=pIzTttICWSDLPBYmEpStEQsaYmyjobQUBOV9-j4k_I4
+      title: Software Engineer
+      top_skills: null
+      current_position: Software Engineer, Rembrand · Full-time, Oct 2023 - Present
+        · 8 mos
     - name: احمد ماهر عبدالسلام نبيه عبدالسلام
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: احمد محمد سليمان حامد
       linkedin_url: https://www.linkedin.com/in/ahmedhamed2020/
+      image: https://media.licdn.com/dms/image/C4D03AQEb-p40Pn0t7w/profile-displayphoto-shrink_200_200/0/1582898127360?e=1721260800&v=beta&t=dFLRx9x-6DCZx28pxfVNOlVz9L-Zt1C1q6uvL88U2N8
+      title: Embedded Software Engineer at Si-Vision
+      top_skills: null
+      current_position: Standard Embedded Software Engineer, Si-Vision, Sep 2023 -
+        Present · 9 mos
     - name: اسامه نبيه عبداللطيف سالم
       linkedin_url: https://www.linkedin.com/in/osama-nabih/
+      image: https://media.licdn.com/dms/image/D4D03AQG_edbCAXOizQ/profile-displayphoto-shrink_200_200/0/1710316911805?e=1721260800&v=beta&t=tuGcIdCBR63Ua8fGEzMpYYGC89c9YG9IUiMAOR_yQLc
+      title: Software Engineer II at Incorta
+      top_skills: null
+      current_position: Software Engineer II, Incorta · Full-time, Apr 2022 - Present
+        · 2 yrs 2 mos
     - name: اسراء اشرف يونس محمد
       linkedin_url: https://www.linkedin.com/in/israaachraf/
+      image: https://media.licdn.com/dms/image/C4E03AQFd4oclp2OWAg/profile-displayphoto-shrink_200_200/0/1591212800434?e=1721260800&v=beta&t=mqlS-96RzzNMHiWUZdpi0qdNAdFUnKXKDn3YPDFnVtc
+      title: Software Integration Engineer @ EJADA
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, May 2021 - Present ·
+        3 yrs 1 mo
     - name: اسراء ممدوح عبدالحميد على عمر
       linkedin_url: https://www.linkedin.com/in/esraa-mamdouh-970158201/
+      image: https://media.licdn.com/dms/image/C5603AQH5qTnO0VrWBA/profile-displayphoto-shrink_200_200/0/1617815175075?e=1721260800&v=beta&t=RgpAYnjrBGiv6vYE_CBuLBBjc_7THE04ZohuQ8SAAcI
+      title: Software Engineer
+      top_skills: null
+      current_position: Integration Developer, Inspire for Solutions Development ·
+        Full-time, Sep 2021 - Present · 2 yrs 9 mos
     - name: امنيه زكريا محيى الدين محمد
       linkedin_url: https://www.linkedin.com/in/omniia-mohyee/
+      image: https://media.licdn.com/dms/image/D4D03AQFZISQeSb7_tg/profile-displayphoto-shrink_200_200/0/1686514672264?e=1721260800&v=beta&t=lOGSZ1SVfomdbyf9nm_NVNwtx_mZYuf6mYvWirLETJQ
+      title: SWE @ Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft, Sep 2021 to Present · 2 yrs
+        9 mos
     - name: ايمان السيد ابراهيم على
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: ايهاب ربيع امين الشريف
       linkedin_url: https://www.linkedin.com/in/ehab-el-sherif/
+      image: https://media.licdn.com/dms/image/D4D03AQELC2JbVZuVxQ/profile-displayphoto-shrink_200_200/0/1705928188848?e=1721260800&v=beta&t=Xa3f9ableavDF2b-EJKaa2yVdlUItMi5o5C4JREi5Ko
+      title: Software Engineer | Full Stack Engineer at SupportFinity™
+      top_skills: null
+      current_position: Full Stack Engineer, SupportFinity™ · Full-time, Sep 2021
+        - Present · 2 yrs 9 mos
     - name: باسل مصطفى كامل سيد احمد
       linkedin_url: https://www.linkedin.com/in/bassel-mostafa/
+      image: https://media.licdn.com/dms/image/D4D03AQELwWql0hauPw/profile-displayphoto-shrink_200_200/0/1710753960312?e=1721260800&v=beta&t=C0O5y4HAaigCvqlpFwECUPQgt1yjkskHpzW_3Wm_brw
+      title: Junior Programmer at Limbic Entertainment GmbH
+      top_skills: Game Development
+      current_position: Junior Programmer, Limbic Entertainment GmbH · Full-time,
+        Jul 2022 - Present · 1 yr 11 mos
     - name: حسن اسامه حسن خليفه
       linkedin_url: https://www.linkedin.com/in/hassan-osama/
+      image: https://media.licdn.com/dms/image/C5603AQHBcW6V_XFHew/profile-displayphoto-shrink_200_200/0/1554044571361?e=1721260800&v=beta&t=W2wFHIM402VmIULO-FxMDKn9YV93DryFDE8UI8Xvo7I
+      title: Software Engineer ll - Microsoft
+      top_skills: null
+      current_position: Software Engineer ll, Microsoft, Sep 2023 - Present · 9 mos
     - name: حسين يوسف حسين موسى
       linkedin_url: https://www.linkedin.com/in/hussein-youssef-h/
+      image: https://media.licdn.com/dms/image/C5603AQGR5FtGZJkdSg/profile-displayphoto-shrink_200_200/0/1653610787811?e=1721260800&v=beta&t=3xDnDlWwX5q6w0_Z_aUlLCqCTbtQBmjWltLKgV0dseY
+      title: Software Engineer @Microsoft
+      top_skills: null
+      current_position: Software Engineer I, Microsoft, Mar 2024 to Present · 3 mos
     - name: حنين هشام عبدالسميع والى
       linkedin_url: https://www.linkedin.com/in/haneen-mohammed/
+      image: https://media.licdn.com/dms/image/C4D03AQGjjg7Wp7NSBw/profile-displayphoto-shrink_200_200/0/1609176653526?e=1721260800&v=beta&t=UUZBWaNP3CbYObcc0SnWl55y0Y46-KazdgmPJudpU9c
+      title: Planning Specialist at Vodafone
+      top_skills: null
+      current_position: Planning Specialist, Vodafone, Dec 2022 - Present · 1 yr 6
+        mos
     - name: خالد صبرى ابراهيم البيومى
       linkedin_url: https://www.linkedin.com/in/khaledsabry97/
+      image: https://media.licdn.com/dms/image/D4D35AQGad3zYCcChsw/profile-framedphoto-shrink_200_200/0/1714478439505?e=1716508800&v=beta&t=vcGdM8P8j49lObYBCz4hlNhJdemG0Psqj8mUQNGySLQ
+      title: Software Engineer 2 @Microsoft | Experience in Shopping, Skype, Copilot
+      top_skills: null
+      current_position: Software Development Engineer 2 (L61), Microsoft, Dec 2023
+        - Present · 6 mos
     - name: داليا محمد عبداللطيف عيسى
       linkedin_url: https://www.linkedin.com/in/dalia-mohamed7/
+      image: https://media.licdn.com/dms/image/C5603AQF9ZHyR_4pC6g/profile-displayphoto-shrink_200_200/0/1625774319967?e=1721260800&v=beta&t=96SLZi5dT8pS9Zqst4UokWwgWmFyIkdRcTzcdvtsuzg
+      title: Integration Specialist at Vodafone
+      top_skills: null
+      current_position: Integration Specialist, Vodafone · Full-time, Feb 2023 - Present
+        · 1 yr 4 mos
     - name: رامى محمد سعيد سيد موسي
       linkedin_url: https://www.linkedin.com/in/ramy-saied-0415b810b/
+      image: https://media.licdn.com/dms/image/D4D35AQFc8rNaWlhj5A/profile-framedphoto-shrink_200_200/0/1710592072567?e=1716508800&v=beta&t=DvLocPHU8zwKo3O7-y0lNDIMyPCx9ueoVr7MUeAu_rQ
+      title: Software Engineer @ Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Mar 2022 - Present
+        · 2 yrs 3 mos
     - name: ربى جمال محمد غيطاس
       linkedin_url: https://www.linkedin.com/in/roba-gamal-13215a157/
+      image: https://media.licdn.com/dms/image/C4D03AQG39PDmCPoTeg/profile-displayphoto-shrink_200_200/0/1657362565852?e=1721260800&v=beta&t=Gf3dr7bLNFUFoTMY8fbw4vr8TS_ce9HWnFo8P6NLcgc
+      title: Senior Algorithm Engineer
+      top_skills: null
+      current_position: Teaching Assistant, Zewail City of Science and Technology
+        · Part-time, Mar 2021 - Present · 3 yrs 3 mos
     - name: رياض عادل رياض سيد احمد
       linkedin_url: https://www.linkedin.com/in/riadadel/
+      image: https://media.licdn.com/dms/image/C4D03AQEWK6OrGZ9hvg/profile-displayphoto-shrink_200_200/0/1660431571328?e=1721260800&v=beta&t=U0oLYaU7vlBnxxutid7ZhbMisENhRrxNHTmdsp62WZI
+      title: BI Solution Engineer II
+      top_skills: Extract, Transform, Load (ETL), Microsoft Power BI, SQL, SQL Server
+        Integration Services (SSIS), Talend
+      current_position: BI Solution Engineer II, Incorta · Full-time, Mar 2024 - Present
+        · 3 mos
     - name: ريم اشرف صلاح الدين محمد عثمان
       linkedin_url: https://www.linkedin.com/in/reem-othman/
+      image: https://media.licdn.com/dms/image/C5603AQEdIQgWHIuzHg/profile-displayphoto-shrink_200_200/0/1648558767760?e=1721260800&v=beta&t=wFSfcp2x0TWw5jYuwDasZBH-FeZ--koXIwjnq7b-UF4
+      title: Senior Data Analysis Engineer @Taager | AWS Data Analyst and ML Certified
+        | ITI  AI Track Graduate
+      top_skills: null
+      current_position: Senior Data Analytics Engineer, Taager, Mar 2024 - Present
+        · 3 mos
     - name: ريهام حمدى محمد حسين
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: زينب ربيع عبدالتواب عبدالمولى بكير
       linkedin_url: https://www.linkedin.com/in/zainabrabie/
+      image: null
+      title: Software Engineer
+      top_skills: null
+      current_position: null
     - name: ساره احمد عبدالتواب عبدالله
       linkedin_url: https://www.linkedin.com/in/sara-ahmed-cufe/
+      image: https://media.licdn.com/dms/image/D4D35AQHjchZqpiFU2Q/profile-framedphoto-shrink_200_200/0/1704040890722?e=1716508800&v=beta&t=WD9MIRlCPQxEWrWD-GrRVkK-irHkC5VqCHbz_UKTCfg
+      title: Software Development Engineer at Amazon
+      top_skills: null
+      current_position: null
     - name: ساره ماهر حسن عبدالحميد عبدالرحيم
       linkedin_url: https://www.linkedin.com/in/sara-maher97/
+      image: https://media.licdn.com/dms/image/C4D03AQHxAwg-moPhJA/profile-displayphoto-shrink_200_200/0/1623837964767?e=1721260800&v=beta&t=BAhl7GrYzqiKTe79FwthQTizFxAIpqfOTmd1vfTP91w
+      title: Software Developer at Pylon
+      top_skills: null
+      current_position: Software Developer, Pylon (YC S21) · Full-time, Sep 2020 -
+        Present · 3 yrs 9 mos
     - name: سمير حسنى محمد عيسى
       linkedin_url: https://www.linkedin.com/in/samir7osny/
+      image: https://media.licdn.com/dms/image/D4D03AQEZWiqoKdUrLw/profile-displayphoto-shrink_200_200/0/1697595389083?e=1721260800&v=beta&t=vZGCzZ4N6RxvtjFFd4tcXygRwFKvu5YyU493OIccPf4
+      title: Software Engineer at Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Jun 2022 - Present
+        · 2 yrs
     - name: سيد قطب سيد قطب مسعود
       linkedin_url: https://www.linkedin.com/in/sayed-alesawy/
+      image: https://media.licdn.com/dms/image/D4D03AQF-BV3njrEkCQ/profile-displayphoto-shrink_200_200/0/1705075525125?e=1721260800&v=beta&t=P_uOuGyOflse0z8XDyaFhLfNdBPkX-DAyfRTXWdWPdI
+      title: Backend Lead at Instabug
+      top_skills: null
+      current_position: Backend Lead, Instabug, Sep 2021 to Present · 2 yrs 9 mos
     - name: شهاب علاء الدين عبدالمنعم عبداللطيف
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: عائشه موسى فوده موسى
       linkedin_url: https://www.linkedin.com/in/aisha-mousa-44648212a/
+      image: https://media.licdn.com/dms/image/D4D35AQHf-8N_Zf_WBw/profile-framedphoto-shrink_200_200/0/1663138329498?e=1716508800&v=beta&t=caUTtPz7YIwOMw_0hqygb27fcTChs3rvOSqmFtLXfj8
+      title: Unix System Administrator @ NBE | Computer Engineering
+      top_skills: null
+      current_position: Unix System Administrator, National Bank of Egypt (NBE) ·
+        Full-time, Dec 2022 - Present · 1 yr 6 mos
     - name: عبدالرحمن سيد احمد كاسب
       linkedin_url: https://www.linkedin.com/in/askaseb/
+      image: https://media.licdn.com/dms/image/C5603AQHEUvtd4PC2Tg/profile-displayphoto-shrink_200_200/0/1516555053851?e=1721260800&v=beta&t=3z24UNODGzAcEKAZgMdu2ZwmYwTru8hMbYkvwLiv6QA
+      title: NLP Engineer at Botco.ai | Ex-Microsoft
+      top_skills: null
+      current_position: Machine Learning Engineer (NLP), Botco.ai · Full-time, May
+        2023 - Present · 1 yr 1 mo
     - name: عبدالرحمن محمد محمود سليمان
       linkedin_url: https://www.linkedin.com/in/abdelrahman2020/
+      image: null
+      title: Big Data Engineer at EJADA
+      top_skills: Cloudera, Informatica, Apache Spark, Administration, SQL
+      current_position: Big Data Engineer, EJADA · Full-time, Sep 2022 - Present ·
+        1 yr 9 mos
     - name: عبدالرحمن هاشم احمد حسين الفرلي
       linkedin_url: https://www.linkedin.com/in/abzo/
+      image: null
+      title: Software Developer
+      top_skills: null
+      current_position: Software Developer, Trufla Technology · Full-time, Jun 2022
+        - Present · 2 yrs
     - name: عبدالغفار اسماعيل عبدالرازق اسماعيل
       linkedin_url: https://www.linkedin.com/in/abdelghaffarismail/
+      image: https://media.licdn.com/dms/image/C5603AQEkfk8ZhnYGCA/profile-displayphoto-shrink_200_200/0/1583275590086?e=1721260800&v=beta&t=_QnjkmhqeExsUpMbzCVzO7_ZzbT4Kmo3tX2gy6OPEzo
+      title: Founder & Chief Products Officer at A-eye Tech
+      top_skills: null
+      current_position: Founder & Chief Products Officer, A-eye Tech · Full-time,
+        Jun 2018 - Present · 6 yrs
     - name: عبدالله مصطفى محمود عبداللة
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: عمار السيد ابراهيم ابراهيم
       linkedin_url: https://www.linkedin.com/in/ammarrabie/
+      image: https://media.licdn.com/dms/image/C4D03AQGBcNMZXxCfFg/profile-displayphoto-shrink_200_200/0/1517284658337?e=1721260800&v=beta&t=6E9BGrqziYHCS3inLPkjiNgBkv8YgLrHnzmH7rWoKAM
+      title: Full Stack Developer at Bricks
+      top_skills: Angular, NgRx, RxJS, Go (Programming Language)
+      current_position: Full Stack Developer, Bricks · Full-time, Jul 2022 - Present
+        · 1 yr 11 mos
     - name: عمر سمير تونى محمد
       linkedin_url: https://www.linkedin.com/in/omar-touny/
+      image: https://media.licdn.com/dms/image/D4D03AQHv0w2mO0H__A/profile-displayphoto-shrink_200_200/0/1688280340509?e=1721260800&v=beta&t=bXFvSP-e1bZPDE4_v059ZW0HBqe0WKaPTa2Fl8j8Ys8
+      title: Software Product Manager
+      top_skills: null
+      current_position: Product Manager, Jisr I جسر  · Full-time, Apr 2023 - Present
+        · 1 yr 2 mos
     - name: عمر سمير جلال محمد
       linkedin_url: https://www.linkedin.com/in/omarsgalal/
+      image: https://media.licdn.com/dms/image/C4D03AQE1lzhSUcgEng/profile-displayphoto-shrink_200_200/0/1518295913617?e=1721260800&v=beta&t=iVKtBnVhGE1aUeqlAOFvCcNlcZoi4Y6dinbRailmJcs
+      title: ML Engineer at Anovate.ai | TA at Cairo University
+      top_skills: null
+      current_position: Machine Learning Engineer, Anovate.ai · Full-time, Apr 2023
+        - Present · 1 yr 2 mos
     - name: عمر محمد محمد عبدالكريم
       linkedin_url: https://www.linkedin.com/in/omar97cs/
+      image: https://media.licdn.com/dms/image/D5603AQEi7Bl3wiwx0A/profile-displayphoto-shrink_200_200/0/1700176863692?e=1721260800&v=beta&t=FCr7uZLEVDnQt0NhG5Sl42taWEa-2vA7euKrqTyvRQY
+      title: Software Engineer at Google
+      top_skills: null
+      current_position: Software Engineer, Google · Full-time, Sep 2022 - Present
+        · 1 yr 9 mos
     - name: عمر وجيه مصطفى عبدالحكيم
       linkedin_url: https://www.linkedin.com/in/omarwagih1/
+      image: null
+      title: Software Engineer II @ Microsoft
+      top_skills: null
+      current_position: Software Engineer II, Microsoft, Sep 2023 - Present · 9 mos
     - name: كريم عماد سيد ابراهيم
       linkedin_url: https://www.linkedin.com/in/kareem-e/
+      image: https://media.licdn.com/dms/image/C5603AQH6F9NGeBr7rA/profile-displayphoto-shrink_200_200/0/1581107448300?e=1721260800&v=beta&t=c_w97FHwqBR7ssan9jthsXIxi--W5IGUxamd1hmvKms
+      title: Software Engineer
+      top_skills: null
+      current_position: Senior Software Engineer, Careem · Full-time, Apr 2023 - Present
+        · 1 yr 2 mos
     - name: لؤى على عبدالمتجلى محمد علي
       linkedin_url: https://www.linkedin.com/in/loai-ali-5a888b184/
+      image: null
+      title: Embedded Software Engineer at Mentor Graphics
+      top_skills: null
+      current_position: Embedded Software Engineer, Siemens · Full-time, Dec 2021
+        - Present · 2 yrs 6 mos
     - name: مؤمن حسن عطيه صالح
       linkedin_url: https://www.linkedin.com/in/moamen-attia/
+      image: https://media.licdn.com/dms/image/C4D03AQFfUNw5-N9FEA/profile-displayphoto-shrink_200_200/0/1608115479027?e=1721260800&v=beta&t=_ZpLh-5puvIEr_1CnirMEAAM0IGwlhQp8k23PvipDag
+      title: Software Engineer @Cyshield
+      top_skills: null
+      current_position: Software Engineer, Cyshield · Full-time, Jun 2023 - Present
+        · 1 yr
     - name: ماجد مختار ابراهيم بطرس
       linkedin_url: https://www.linkedin.com/in/maged-boutros-175240b4/
+      image: https://media.licdn.com/dms/image/C4D03AQHACSUMnIDwMQ/profile-displayphoto-shrink_200_200/0/1608403960588?e=1721260800&v=beta&t=WDb6_T6BHh-gQ-pYM70d9HNx1Eky6IBk9TejrJ6puWY
+      title: Product Manager II At Walaplus | Online trainer at Udemy and Skillshare
+        | E-Commerce Expert | Business Consultant | Ex-Homzmart, Fawry, and B.tech
+      top_skills: null
+      current_position: Product Manager II, WalaPlus, Nov 2023 to Present · 7 mos
     - name: مارى نادر نصحى فهمى
       linkedin_url: https://www.linkedin.com/in/mary-nader-51a060115/
+      image: https://media.licdn.com/dms/image/C5603AQFcUIxKwO_rkA/profile-displayphoto-shrink_200_200/0/1641770992656?e=1721260800&v=beta&t=1gaxivxbQx3WJEIFzchw4uP4ihClLPYfrKPQbZki7Xg
+      title: Software Engineer at EJADA
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, May 2021 - Present ·
+        3 yrs 1 mo
     - name: محمد جمال حسين مصطفى
       linkedin_url: https://www.linkedin.com/in/mohamed-gamal-a9222511a/
+      image: https://media.licdn.com/dms/image/C5103AQGuwVXfRNFqag/profile-displayphoto-shrink_200_200/0/1517593657821?e=1721260800&v=beta&t=QN8GJh4BfQdxOmjIx8K9BH-58vf1j2wJOciHgk61Hbs
+      title: Software Engineer | backend developer
+      top_skills: null
+      current_position: Back End Developer, Momentum Solutions Co.  · Full-time, Sep
+        2023 - Present · 9 mos
     - name: محمد سيد حسن السيد
       linkedin_url: https://www.linkedin.com/in/mohammedsayed97/
+      image: https://media.licdn.com/dms/image/C4E03AQHot8DfR2VMNg/profile-displayphoto-shrink_200_200/0/1554464458986?e=1721260800&v=beta&t=jVHd9zeJlUMfseVadRhC7iRDAl3-p8kK2oa9N7WLsqE
+      title: Software Engineer @ Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Jul 2022 - Present
+        · 1 yr 11 mos
     - name: محمد طلعت محمد السيد
       linkedin_url: https://www.linkedin.com/in/mohamed-talaat-4b5a44185/
+      image: https://media.licdn.com/dms/image/D4D03AQEeBmX82nCFOA/profile-displayphoto-shrink_200_200/0/1701533297412?e=1721260800&v=beta&t=H-1D6yI7h0hsx6Szo18onZEgm6IZDhzl5INjgi3U6Oo
+      title: Oracle Technical Developer at EJADA
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, Nov 2020 - Present ·
+        3 yrs 7 mos
     - name: محمد طه سيد محمد
       linkedin_url: https://www.linkedin.com/in/mohamedtaha177/
+      image: https://media.licdn.com/dms/image/C4E03AQGqDvEsX17h0w/profile-displayphoto-shrink_200_200/0/1582903152788?e=1721260800&v=beta&t=KsLOxvuIlyM8h_1qtHygnt3Fi0E3aqZ_D5htN4FV1iY
+      title: Computer Engineer
+      top_skills: null
+      current_position: Software Engineer, Microsoft, Mar 2022 to Present · 2 yrs
+        3 mos
     - name: محمد عبدالعزيز ابراهيم عبدالعزيز
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: محمد عبدالكريم حسين الشريف
       linkedin_url: https://www.linkedin.com/in/makariim/
+      image: null
+      title: Software Engineer II at Microsoft
+      top_skills: null
+      current_position: Software Engineer II, Microsoft, Sep 2023 - Present · 9 mos
     - name: محمد عماد حنفى محمد محمود
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: محمد مجدى خليل محمد القشوطى
       linkedin_url: https://www.linkedin.com/in/mohammedmagdyelkashoty/
+      image: https://media.licdn.com/dms/image/D4D03AQHwVwQcfKaPTw/profile-displayphoto-shrink_200_200/0/1696942666216?e=1721260800&v=beta&t=g26BD_8mMn1wKMbzL1jVw3R1EjSO_63z5CQaEpAo9X0
+      title: Software Developer at FlairsTech
+      top_skills: null
+      current_position: Software Developer, FlairsTech · Full-time, Dec 2020 - Present
+        · 3 yrs 6 mos
     - name: محمود يسرى سيد عبدالله
       linkedin_url: https://www.linkedin.com/in/mahmoudyoussri/
+      image: https://media.licdn.com/dms/image/D4D03AQHTTliuW4Il5A/profile-displayphoto-shrink_200_200/0/1713051224082?e=1721260800&v=beta&t=tYFe3fRUz7pAFQDEgcnrN-IVTicBIlRqny0S_5H8y9w
+      title: Data Engineer @ SAS | SAS, Azure, Data Engineering
+      top_skills: null
+      current_position: Data Engineer, SAS · Full-time, Jan 2022 - Present · 2 yrs
+        5 mos
     - name: مريم ابوالفتوح سعد شلبى
       linkedin_url: https://www.linkedin.com/in/maryamshalaby/
+      image: https://media.licdn.com/dms/image/C4D03AQGpPT_3IEnEOg/profile-displayphoto-shrink_400_400/0/1659784068040?e=1721260800&v=beta&t=c6zBW0UUz13mi2SaJMqHAHJZF2hU8y2ZOM2TLWDFXNY
+      title: Software Engineer 2 at Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Jul 2021 - Present
+        · 2 yrs 11 mos
     - name: مى محمود محمد عبدالرحمن
       linkedin_url: https://www.linkedin.com/in/maaimahmoud/
+      image: https://media.licdn.com/dms/image/D4D03AQEonwgjDPlnRQ/profile-displayphoto-shrink_200_200/0/1703771116491?e=1721260800&v=beta&t=yVshJCAV3ynkcsf_agDjbxrsdlcfBpM6TmIhGVlnriw
+      title: Senior Software Engineer at Siemens Digital Industries Software
+      top_skills: null
+      current_position: Senior Software Engineer, Siemens Digital Industries Software,
+        Dec 2023 - Present · 6 mos
     - name: ندا كرم محمد احمد حسن
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: نورهان كمال محمود ابراهيم دراهم
-      linkedin_url: 
+      linkedin_url: https://www.linkedin.com/in/
+      image: null
+      title: null
+      top_skills: null
+      current_position: null
     - name: هاجر هيثم فتحى باهى
       linkedin_url: https://www.linkedin.com/in/hagar-haytham-218a08116/
+      image: https://media.licdn.com/dms/image/D4D03AQFNHqRu151T-g/profile-displayphoto-shrink_200_200/0/1696506422443?e=1721260800&v=beta&t=jkeVkuKj-6U0FDh1aQzcjrDgnBOgyqj6iHvkPkRjJGw
+      title: Software Engineer
+      top_skills: Python (Programming Language), PyQt, SQL
+      current_position: Software Engineer, Creativa · Full-time, Mar 2024 - Present
+        · 3 mos
     - name: هادى ماهر عبدالسميع شومه
       linkedin_url: https://www.linkedin.com/in/hady-maher-257428138/
+      image: https://media.licdn.com/dms/image/C5603AQH875gwC7bAtw/profile-displayphoto-shrink_200_200/0/1583694463738?e=1721260800&v=beta&t=RCbEKHGkWUogJQJ3Q4PDzixgFAxpKX0VzcinVw7Aczc
+      title: Senior Software Engineer
+      top_skills: null
+      current_position: Senior Software Engineer, Neurode · Full-time, May 2023 -
+        Present · 1 yr 1 mo
     - name: وليد اشرف جمال الدين عبدالعظيم الشيمى
       linkedin_url: https://www.linkedin.com/in/waleedagamal/
+      image: https://media.licdn.com/dms/image/C4D03AQEOMAM2RaE2SQ/profile-displayphoto-shrink_200_200/0/1583967847931?e=1721260800&v=beta&t=Ka-_BtFln7I-_fRzGdMsVI_CMm_YDnatFGN6O0FYgQc
+      title: Software Engineer at Microsoft
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, May 2022 - Present
+        · 2 yrs 1 mo
     - name: وليد محمد السيد طه
       linkedin_url: https://www.linkedin.com/in/wmtaha31/
+      image: https://media.licdn.com/dms/image/C5603AQGArs_m6Lum6g/profile-displayphoto-shrink_200_200/0/1524950125667?e=1721260800&v=beta&t=9jMEUjNcSbMi8qUp8xn8XtdcgSHCssQa4qAUwhPkVNg
+      title: ITOM Consultant at Saudi Payments | ITSM | APM
+      top_skills: null
+      current_position: ITOM Consultant, Fingerprint Consultancy, Jan 2024 - Present
+        · 5 mos
     - name: ياسمين احمد عبدالواحد متولى
       linkedin_url: https://www.linkedin.com/in/yasmeen-ahmed-b8468514b/
+      image: https://media.licdn.com/dms/image/D4D03AQGMk7vINX3EgA/profile-displayphoto-shrink_200_200/0/1685906219262?e=1721260800&v=beta&t=4EGIAd60xPIRgRTrn8Ly1FeTw9tr5LclBG9fJSXWQSA
+      title: Credit Risk Modeler
+      top_skills: null
+      current_position: Risk Modeling Officer, Credit Agricole Egypt · Full-time,
+        Nov 2021 - Present · 2 yrs 7 mos
     - name: يحيى على محمد انور ابو سيف
       linkedin_url: https://www.linkedin.com/in/yahiaabusaif/
+      image: https://media.licdn.com/dms/image/C4D03AQGSzH7few2Mqg/profile-displayphoto-shrink_200_200/0/1656573205063?e=1721260800&v=beta&t=kKM3zAtRtr7LdcfqwrB3qB1C2CrehWKqoqLAUVRpmlU
+      title: Software engineer @Microsoft | ex-Sahl
+      top_skills: .NET Core, Flutter, Git, Software Development, Amazon Web Services
+        (AWS)
+      current_position: Software Engineer, Microsoft · Full-time, May 2024 - Present
+        · 1 mo

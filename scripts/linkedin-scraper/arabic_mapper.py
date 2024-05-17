@@ -15,7 +15,7 @@ def map_en_to_ar_yaml(en_yaml, ar_yaml):
         ar_class_students[i]["title"] = student["title"] if "title" in student.keys() else None
         ar_class_students[i]["top_skills"] = student["top_skills"] if "top_skills" in student.keys() else None
         ar_class_students[i]["current_position"] = student["current_position"] if "current_position" in student.keys() else None
-        if "[LinkedIn]" in ar_class_students[i]["markdown"] and "[LinkedIn]()" not in ar_class_students[i]["markdown"]:
+        if "markdown" in ar_class_students[i].keys() and "[LinkedIn]" in ar_class_students[i]["markdown"] and "[LinkedIn]()" not in ar_class_students[i]["markdown"]:
             pattern = r"\[LinkedIn\]\([^)]+\)"
             ar_class_students[i]["markdown"] = re.sub(pattern, "[LinkedIn]()", ar_class_students[i]["markdown"])
 

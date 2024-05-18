@@ -58,6 +58,8 @@ npm start
 ```
 Once you're done. Simply submit a PR; it would be nice if you start proposing the PR as an issue if it's a big change.
 
+What are you waiting for? Be part of this project by considering one of the [outstanding tasks](https://github.com/EssamWisam/cmp-docs/issues). Most important of which are [adding your class to the site](https://github.com/EssamWisam/cmp-docs/issues/12) if it's not already there.
+
 #### Collaboration Notes
 
 - Please only write facts that you are certainly sure of; if it's controversial please discuss it in an issue first. It's best to either naturally deduce your argument or use references rather than just stating facts as if they were universal truisms.

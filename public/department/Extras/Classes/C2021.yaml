@@ -8,144 +8,571 @@
     description: Members of the class are as follows
     items:
     - name: Ahmed Hamdy
-      linked_url: https://www.linkedin.com/in/ahmed-hamdy-4b371a149/
+      linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-4b371a149/
+      title: Software Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/C4D03AQG6XlNbpkCisA/profile-displayphoto-shrink_200_200/0/1535426812830?e=1721865600&v=beta&t=C5raW6hVDDRFVpTdC8Cx3FPZFderOllcJ2Ofr1hdDZA
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Apr 2022 - Present
+        · 2 yrs 2 mos
+      markdown: null
     - name: Ahmed Essam
-      linked_url: https://www.linkedin.com/in/ahmedessam498
+      linkedin_url: https://www.linkedin.com/in/ahmedessam498
+      title: Software Engineer at Siemens EDA (Siemens Digital Industries Software)
+      image: https://media.licdn.com/dms/image/D4D03AQHneArDOk2Q0A/profile-displayphoto-shrink_200_200/0/1668169966725?e=1721865600&v=beta&t=PxzDh3fLn-dOlqGHm6qg4CpkN6Pej61ut7h6D71By-M
+      top_skills: null
+      current_position: Software Engineer, Siemens EDA (Siemens Digital Industries
+        Software) · Full-time, Sep 2022 - Present · 1 yr 9 mos
+      markdown: null
     - name: Ahmed Elkarashily
-      linked_url: https://www.linkedin.com/in/karashily
+      linkedin_url: https://www.linkedin.com/in/karashily
+      title: Machine Learning Engineer at Valeo
+      image: https://media.licdn.com/dms/image/D4D03AQHO93sX2byo9g/profile-displayphoto-shrink_200_200/0/1711710090593?e=1721865600&v=beta&t=7_zpR8xiafwMdPGeCUYgic5fonfCcXgjkbfwNd1MbyY
+      top_skills: null
+      current_position: Machine Learning Engineer, Valeo · Full-time, Dec 2022 - Present
+        · 1 yr 6 mos
+      markdown: null
     - name: Ahmed Mohamed Nassar
-      linked_url: https://www.linkedin.com/in/ahmednassarmlops/
+      linkedin_url: https://www.linkedin.com/in/ahmednassarmlops/
+      title: Data scientist | MLOps - Machine learning engineer | Python | SQL
+      image: https://media.licdn.com/dms/image/D4D03AQFgCjeLSFhNvQ/profile-displayphoto-shrink_200_200/0/1711896437108?e=1721865600&v=beta&t=obyz8bP1pgUZ-Wro-ELH85oQPjXBEo6kbOET2tQjFMc
+      top_skills: null
+      current_position: Data Scientist At Ejada, Arab National Bank · Full-time, Nov
+        2022 - Present · 1 yr 7 mos
+      markdown: null
     - name: Ahmed Afifi
-      linked_url: https://www.linkedin.com/in/ahmedafifi98/
+      linkedin_url: https://www.linkedin.com/in/ahmedafifi98/
+      title: Software Engineer at ejad
+      image: https://media.licdn.com/dms/image/D4D03AQGPjoz6rXtcxQ/profile-displayphoto-shrink_200_200/0/1714409318624?e=1721865600&v=beta&t=CLB7m5kQNtnBpYXx6hxPjYfwvgJg77UnoYwHpyVRLiQ
+      top_skills: null
+      current_position: Tooling Software Engineer, eJad, Sep 2023 to Present · 9 mos
+      markdown: null
     - name: Ahmed Abdelfattah
-      linked_url: https://www.linkedin.com/in/ahmed-abdelfattah-752932178/
+      linkedin_url: https://www.linkedin.com/in/ahmed-abdelfattah-752932178/
+      title: Software Engineer @ Interview Query | Bachelor of Engineering, Full Stack
+        Developer
+      image: https://media.licdn.com/dms/image/C4D03AQEPPGlTiN4TfA/profile-displayphoto-shrink_200_200/0/1640082101149?e=1721865600&v=beta&t=ET23VVvr9Sj07pDUpavgpCQBPPsvqKaapPYAm3ivgF8
+      top_skills: null
+      current_position: Software Engineer, Interview Query, Apr 2022 to Present ·
+        2 yrs 2 mos
+      markdown: null
     - name: Ahmed Waleed Ahmed Amin
-      linked_url: https://www.linkedin.com/in/ahmed-waleed-ahmed/
+      linkedin_url: https://www.linkedin.com/in/ahmed-waleed-ahmed/
+      title: Software Engineer @ Maqsam | Devops | Ruby on Rails | AWS | Ansible
+      image: https://media.licdn.com/dms/image/D4D03AQFVgUKhpxOlqg/profile-displayphoto-shrink_200_200/0/1693084071747?e=1721865600&v=beta&t=rfCx0KOL5Q9LBgg_xZu2fcT6ZV1ZNLXfyPnQT6Vw-6M
+      top_skills: Software Engineering, DevOps, Amazon Web Services (AWS)
+      current_position: Software Engineer, Maqsam · Full-time, Sep 2021 - Present
+        · 2 yrs 9 mos
+      markdown: null
     - name: Evram Yousef Helmy Narouz
-      linked_url: https://www.linkedin.com/in/evram-narouz-838959131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+      linkedin_url: https://www.linkedin.com/in/evram-narouz-838959131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+      title: Data & Applied Scientist
+      image: https://media.licdn.com/dms/image/D4D03AQE8g8kZ0B70AQ/profile-displayphoto-shrink_200_200/0/1697075138245?e=1721865600&v=beta&t=edzSHvRkHJarjLaFP8-bK-0GWb2djgIzdyfGicPNDMU
+      top_skills: null
+      current_position: Data & Applied Scientist, Microsoft · Full-time, Jan 2022
+        - Present · 2 yrs 5 mos
+      markdown: null
     - name: Amira Mehrez
-      linked_url: https://www.linkedin.com/in/amiramehriz
+      linkedin_url: https://www.linkedin.com/in/amiramehriz
+      title: Junior System Administrator at National Bank of Egypt (NBE)
+      image: null
+      top_skills: null
+      current_position: Junior System Administrator, National Bank of Egypt (NBE)
+        · Full-time, Nov 2022 - Present · 1 yr 7 mos
+      markdown: null
     - name: Ayat Mostafa
-      linked_url: https://www.linkedin.com/in/ayat-mostafa-a02067185
+      linkedin_url: https://www.linkedin.com/in/ayat-mostafa-a02067185
+      title: Data Scientist at Fawry Integrated Systems | M.Sc Student
+      image: https://media.licdn.com/dms/image/D4D03AQEda9n--Jf2Ig/profile-displayphoto-shrink_200_200/0/1672570003474?e=1721865600&v=beta&t=KqkY9Y7_oc2YvDUjbEe4QJdrDOdUk0UsoG12bswLJTw
+      top_skills: null
+      current_position: Data Scientist, Fawry Integrated Systems · Full-time, Oct
+        2021 - Present · 2 yrs 8 mos
+      markdown: null
     - name: Ayman Azzam
-      linked_url: https://www.linkedin.com/in/ayman-azzam-42b266145
+      linkedin_url: https://www.linkedin.com/in/ayman-azzam-42b266145
+      title: Cloud Operations Engineer @ Core42 | Computer Engineering
+      image: https://media.licdn.com/dms/image/D4D03AQEQBnlNSxvtfw/profile-displayphoto-shrink_200_200/0/1712632132759?e=1721865600&v=beta&t=3H4DpPotCLIdjxwZa7YYr-LEyVYOzgevaO2V_hm-ijU
+      top_skills: null
+      current_position: Cloud Operations Engineer, Core42 · Contract, Jul 2023 - Present
+        · 11 mos
+      markdown: null
     - name: Ayman Elakwah
-      linked_url: https://www.linkedin.com/in/ayman-elakwah/
+      linkedin_url: https://www.linkedin.com/in/ayman-elakwah/
+      title: Software Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/D4D03AQGsbjIfJ9GROQ/profile-displayphoto-shrink_200_200/0/1705111368487?e=1721865600&v=beta&t=kMEgHslqiITaUhMs2aD5Id8MTUKdV4gOlKKS_F9wric
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Sep 2022 - Present
+        · 1 yr 9 mos
+      markdown: null
     - name: Ayman Abdelnaby
-      linked_url: https://www.linkedin.com/in/ayman-abdelnaby/
+      linkedin_url: https://www.linkedin.com/in/ayman-abdelnaby/
+      title: Student at Cairo University
+      image: null
+      top_skills: null
+      current_position: null
+      markdown: null
     - name: Hossam Ahmed
-      linked_url: https://www.linkedin.com/in/hossamahmedem/
+      linkedin_url: https://www.linkedin.com/in/hossamahmedem/
+      title: fresh graduate computer engineer
+      image: https://media.licdn.com/dms/image/D4D35AQGZA0cc-1shSQ/profile-framedphoto-shrink_200_200/0/1714585218093?e=1717012800&v=beta&t=DSoZufMuzIoFRQeqvkydDwMh1xVR5PTOD_onx1u-gX0
+      top_skills: null
+      current_position: null
+      markdown: null
     - name: Khaled Amgad
-      linked_url: https://www.linkedin.com/in/khaled-amgad-21040a200
+      linkedin_url: https://www.linkedin.com/in/khaled-amgad-21040a200
+      title: Software Development Engineer at Siemens EDA (Siemens Digital Industries
+        Software)
+      image: https://media.licdn.com/dms/image/D4D03AQG-s7aMuTz83w/profile-displayphoto-shrink_200_200/0/1697313084217?e=1721865600&v=beta&t=OKR-nYbytezUUDJZLALipJ6zhvb8Mjiu5BE_gVJ5lXc
+      top_skills: null
+      current_position: Software Development Engineer, Siemens EDA (Siemens Digital
+        Industries Software) · Full-time, Feb 2022 - Present · 2 yrs 4 mos
+      markdown: null
     - name: Khaled Galal
-      linked_url: https://www.linkedin.com/in/khaled-galal
+      linkedin_url: https://www.linkedin.com/in/khaled-galal
+      title: Full stack engineer at USYTech
+      image: https://media.licdn.com/dms/image/D4D03AQH8PqWbNIuc2w/profile-displayphoto-shrink_200_200/0/1696848748451?e=1721865600&v=beta&t=tgqKg96M_S0Y1_NxrQNIfLE9l6F_g1rVb5bZcxw7FAg
+      top_skills: null
+      current_position: Full Stack Engineer, USYTech · Full-time, Feb 2022 - Present
+        · 2 yrs 4 mos
+      markdown: null
     - name: Khaled Nassar
-      linked_url: https://www.linkedin.com/in/khaled-nassar-2a129414b/
+      linkedin_url: https://www.linkedin.com/in/khaled-nassar-2a129414b/
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/D4D03AQHRwJgEMPH_wQ/profile-displayphoto-shrink_200_200/0/1689202952995?e=1721865600&v=beta&t=b2F-E2W8dCX36bBkuBA1c_ku7GKUoKPXS-A9AyQ74D8
+      top_skills: null
+      current_position: Teaching Assistant, Faculty of Engineering Cairo University,
+        Jan 2023 - Present · 1 yr 5 mos
+      markdown: null
     - name: Radwa Khattab
-      linked_url: https://www.linkedin.com/in/radwask
+      linkedin_url: https://www.linkedin.com/in/radwask
+      title: R&D AI Engineer / Instructor (M.Sc. student)
+      image: https://media.licdn.com/dms/image/C4D03AQHoCvyB1yA8FQ/profile-displayphoto-shrink_200_200/0/1662989660753?e=1721865600&v=beta&t=LDoWZYvu0CeE9oeJyYATC6BVFpUT3Oy1OK97-bxE6H4
+      top_skills: null
+      current_position: Applied Scientist I, Microsoft · Full-time, May 2024 - Present
+        · 1 mo
+      markdown: null
     - name: Remonda Talaat
-      linked_url: https://www.linkedin.com/in/remonda-talaat-206932168/
+      linkedin_url: https://www.linkedin.com/in/remonda-talaat-206932168/
+      title: Teaching Assistant at Cairo University Faculty of Engineering | Software
+        Engineer
+      image: https://media.licdn.com/dms/image/C5603AQEmXc5yzfjvLw/profile-displayphoto-shrink_200_200/0/1533402309967?e=1721865600&v=beta&t=2an-N2eA12oJOBQcvaToiH7ADYuLvBYmjhoiFHGfiVA
+      top_skills: null
+      current_position: Software Engineer, Rembrand · Full-time, Apr 2024 - Present
+        · 2 mos
+      markdown: null
     - name: Reham Osman
-      linked_url: https://www.linkedin.com/in/reham-gamal-931244149
+      linkedin_url: https://www.linkedin.com/in/reham-gamal-931244149
+      title: Embedded Software Engineer at Siemens EDA
+      image: https://media.licdn.com/dms/image/C5603AQFaBgr1aVWIog/profile-displayphoto-shrink_200_200/0/1557246214725?e=1721865600&v=beta&t=Rsp41qAaI0cpZnfZzpn-7ovQDopdBLSBrSFUBkHy094
+      top_skills: null
+      current_position: Embedded Software Engineer, Siemens EDA (Siemens Digital Industries
+        Software) · Full-time, Oct 2021 - Present · 2 yrs 8 mos
+      markdown: null
     - name: Reham Elheshodi
-      linked_url: https://www.linkedin.com/in/reham-ali
+      linkedin_url: https://www.linkedin.com/in/reham-ali
+      title: Software Developement Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/D4D03AQEto8YXoGQ8aA/profile-displayphoto-shrink_200_200/0/1681968152397?e=1721865600&v=beta&t=AxBhQQ9Rrdgq3a3yMp4fKAgyMArtQGV82j5yYTvRppI
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, Jan 2024 - Present
+        · 5 mos
+      markdown: null
     - name: Sarah Raafat Heinein
-      linked_url: https://www.linkedin.com/in/sara-raafat/
+      linkedin_url: https://www.linkedin.com/in/sara-raafat/
+      title: QA Engineer
+      image: https://media.licdn.com/dms/image/C4E03AQGFTxCG1W490g/profile-displayphoto-shrink_200_200/0/1620282865747?e=1721865600&v=beta&t=7pDWIh2NoPYLhHfmLG2t1L5LqEVEHNKx53GvHZ7R_hE
+      top_skills: null
+      current_position: QA Automation Engineer, InstaMotion Retail GmbH · Full-time,
+        Jul 2022 - Present · 1 yr 11 mos
+      markdown: null
     - name: Sarah Mohamed Lotfy
-      linked_url: https://www.linkedin.com/in/sarah-mohamed-lotfy-5a254116a/
+      linkedin_url: https://www.linkedin.com/in/sarah-mohamed-lotfy-5a254116a/
+      title: Software Engineer at EJADA
+      image: https://media.licdn.com/dms/image/D5603AQE5vIVW2F8OOw/profile-displayphoto-shrink_200_200/0/1707089749747?e=1721865600&v=beta&t=0l97AZJKCVm-iNgaGWvh_OnQApCaZF7zo_xCcJMi9mU
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, Aug 2021 - Present ·
+        2 yrs 10 mos
+      markdown: null
     - name: Sara Yasser
-      linked_url: https://www.linkedin.com/in/sara-yasser-02bb69214/
+      linkedin_url: https://www.linkedin.com/in/sara-yasser-02bb69214/
+      title: Software Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/C4D03AQGvxzO2iLBMIQ/profile-displayphoto-shrink_200_200/0/1650185068093?e=1721865600&v=beta&t=RGRHGkL7QzFmAdbHQ4w2rbIlY6i1oHfGQ3LYtgTtSBc
+      top_skills: null
+      current_position: Software Engineer, Microsoft, Oct 2022 to Present · 1 yr 8
+        mos
+      markdown: null
     - name: Sofyan Mahmoud
-      linked_url: https://www.linkedin.com/in/sofyanmahmoud0000/
+      linkedin_url: https://www.linkedin.com/in/sofyanmahmoud0000/
+      title: Software development engineer  @ SETTLE
+      image: https://media.licdn.com/dms/image/D4D03AQESdP9H9XSPmw/profile-displayphoto-shrink_200_200/0/1715412569413?e=1721865600&v=beta&t=SG-JyOsd07q9xm10ekL4BDx6SCI6H8-vcw_KA-__EsE
+      top_skills: null
+      current_position: Software Engineer, SETTLE · Full-time, Oct 2023 - Present
+        · 8 mos
+      markdown: null
     - name: Salma Ibrahim
-      linked_url: https://www.linkedin.com/in/salma-ibrahim-539395161/
+      linkedin_url: https://www.linkedin.com/in/salma-ibrahim-539395161/
+      title: Software Developer @ DXC Technology
+      image: https://media.licdn.com/dms/image/D4D03AQHSXXQ2MgUs_g/profile-displayphoto-shrink_200_200/0/1685382447441?e=1721865600&v=beta&t=ev1GtO2MQeHxUH3WLZqhLv_4DSiF71Kfzo1xutPv0jM
+      top_skills: null
+      current_position: Java Software Developer, DXC Technology · Full-time, May 2023
+        - Present · 1 yr 1 mo
+      markdown: null
     - name: Salma Gira
-      linked_url: https://www.linkedin.com/in/salma-gira-6481aa166/
+      linkedin_url: https://www.linkedin.com/in/salma-gira-6481aa166/
+      title: Full-stack Engineer at Arete Global
+      image: https://media.licdn.com/dms/image/D4D03AQHoMNxwwFyIaQ/profile-displayphoto-shrink_200_200/0/1714301679944?e=1721865600&v=beta&t=_YFTSLdSzowTfAJGAXy9qCYY1sq9ZdFqVp1HA7JBI2Q
+      top_skills: null
+      current_position: Full Stack Engineer, Arete Global, Dec 2021 - Present · 2
+        yrs 6 mos
+      markdown: null
     - name: Shady Fahmy
-      linked_url: https://www.linkedin.com/in/shady-fahmy
+      linkedin_url: https://www.linkedin.com/in/shady-fahmy
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/C4D03AQHPpfi0UwMY0w/profile-displayphoto-shrink_200_200/0/1634656885031?e=1721865600&v=beta&t=2HUQSEqfNZr7rDYXQ7mJ7GPlooaBhCKvCJE_bsxXlE0
+      top_skills: null
+      current_position: Embedded Software Engineer, Valeo · Full-time, Jul 2022 -
+        Present · 1 yr 11 mos
+      markdown: null
     - name: Sherif Essam Ahmed
-      linked_url: https://www.linkedin.com/in/sherifessamgomaa
+      linkedin_url: https://www.linkedin.com/in/sherifessamgomaa
+      title: DevOps and Cloud Infrastructure Engineer @ Ejada | ITI Graduate | AWS
+        x1
+      image: https://media.licdn.com/dms/image/D4D03AQH8J1GK7M4coQ/profile-displayphoto-shrink_200_200/0/1684414603039?e=1721865600&v=beta&t=Zd1ajdYsc95CGkY5YtrjNhRdgmcsJQNq9igcse4oYIo
+      top_skills: DevOps, Continuous Integration and Continuous Delivery (CI/CD),
+        Amazon Web Services (AWS), OpenShift, Azure DevOps Server
+      current_position: DevOps and Cloud Infrastructure Engineer, EJADA · Full-time,
+        May 2023 - Present · 1 yr 1 mo
+      markdown: null
     - name: Abdulrahman Khalid
-      linked_url: https://www.linkedin.com/in/abdulrahman-elshafei
+      linkedin_url: https://www.linkedin.com/in/abdulrahman-elshafei
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/D4D03AQFFNwp_O2a0aA/profile-displayphoto-shrink_200_200/0/1699083906029?e=1721865600&v=beta&t=HcJvwlhpN_2uPQMtYPC8T2UoAMt8hMZgUghr1ulukxU
+      top_skills: null
+      current_position: Software Engineer, Siemens Digital Industries Software, Apr
+        2024 - Present · 2 mos
+      markdown: null
     - name: Abdelrahman ElGamil
-      linked_url: https://www.linkedin.com/in/ajammil
+      linkedin_url: https://www.linkedin.com/in/ajammil
+      title: DevOps Consultant at AWS ProServe
+      image: https://media.licdn.com/dms/image/C4D03AQHt7biEUKaBJQ/profile-displayphoto-shrink_200_200/0/1635237002024?e=1721865600&v=beta&t=1WZ9odkzFSUmK5s3CCYKbewsHydobRFKGkcWa8cQxKs
+      top_skills: null
+      current_position: Staff DevOps Consultant, Amazon Web Services (AWS), Apr 2024
+        to Present · 2 mos
+      markdown: null
     - name: Abdelrahman Badr
-      linked_url: https://www.linkedin.com/in/abdelrahman-badr-b84368150/
+      linkedin_url: https://www.linkedin.com/in/abdelrahman-badr-b84368150/
+      title: Data Engineer at EJADA
+      image: https://media.licdn.com/dms/image/C5603AQGmSFwLvxGJhw/profile-displayphoto-shrink_200_200/0/1545382195938?e=1721865600&v=beta&t=faSZSx2KM8LeU8f6pDuCg0joqdoto7lYF2gocCpw02Q
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, Sep 2021 - Present ·
+        2 yrs 9 mos
+      markdown: null
     - name: Abdullah Ezzat
-      linked_url: https://www.linkedin.com/in/abdullahezzat/
+      linkedin_url: https://www.linkedin.com/in/abdullahezzat/
+      title: Software Engineer @ Swift Act | C/C++ | Embedded SW | Embedded Linux
+        | ROS | Problem Solving
+      image: https://media.licdn.com/dms/image/D4D03AQGc5vuUoeLaFQ/profile-displayphoto-shrink_200_200/0/1709981427892?e=1721865600&v=beta&t=B8tDk6gtWCB9PIEPfGWnkjA3ulVI8I-WJQpCC7kupKk
+      top_skills: Embedded Systems, C (Programming Language), Radar, Software Development,
+        Research
+      current_position: Software Standard Engineer, SWIFT ACT  · Full-time, Aug 2023
+        - Present · 10 mos
+      markdown: null
     - name: Ali Khaled Ali Mohamed
-      linked_url: https://www.linkedin.com/in/ali-khaled1/
+      linkedin_url: https://www.linkedin.com/in/ali-khaled1/
+      title: Machine Learning Engineer
+      image: https://media.licdn.com/dms/image/D4D03AQFZHsVYRTxGWg/profile-displayphoto-shrink_200_200/0/1695202288505?e=1721865600&v=beta&t=PM_dAdf6dpZfnxg-ZNtQKt72aJulOehUKTYLVQzGS-0
+      top_skills: null
+      current_position: Machine Learning Engineer, Maqsam · Full-time, Sep 2023 -
+        Present · 9 mos
+      markdown: null
     - name: Aly Ramzy
-      linked_url: https://www.linkedin.com/in/aly-ramzy-24450b179
+      linkedin_url: https://www.linkedin.com/in/aly-ramzy-24450b179
+      title: Data Scientist Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/C5603AQGvvu-GPgUs7A/profile-displayphoto-shrink_200_200/0/1548619436045?e=1721865600&v=beta&t=VTmD94iyokAzsaOCgFAvUJMHZMnCcpfXYUza-XjOAtU
+      top_skills: null
+      current_position: Data Scientist, Microsoft · Full-time, Jun 2022 - Present
+        · 2 yrs
+      markdown: null
     - name: Omar Ahmed Desoky
-      linked_url: https://www.linkedin.com/in/omar-desoky/
+      linkedin_url: https://www.linkedin.com/in/omar-desoky/
+      title: Computer engineer at Maqsam.
+      image: https://media.licdn.com/dms/image/C4D03AQFbfEN8oSGfKg/profile-displayphoto-shrink_200_200/0/1644680060666?e=1721865600&v=beta&t=FKtryO4-eJo2-L9_q-c4cS3CN1Ku4_YBL0zpKyBN_Ls
+      top_skills: null
+      current_position: Software Engineer, Maqsam · Full-time, Feb 2023 - Present
+        · 1 yr 4 mos
+      markdown: null
     - name: Omar Salah
-      linked_url: https://www.linkedin.com/in/omar-salah-ab6553185/
+      linkedin_url: https://www.linkedin.com/in/omar-salah-ab6553185/
+      title: Integration Engineer at EJADA
+      image: https://media.licdn.com/dms/image/D4D03AQF_7uWhhaQePg/profile-displayphoto-shrink_200_200/0/1693396189627?e=1721865600&v=beta&t=LYWLUxBb5N2uKctJx6aHkZUl7LagoVBPuSEhCmc34eM
+      top_skills: null
+      current_position: Software Engineer, Ejada, Aug 2021 - Present · 2 yrs 10 mos
+      markdown: null
     - name: Amr Aboshama
-      linked_url: https://www.linkedin.com/in/amr-aboshama
+      linkedin_url: https://www.linkedin.com/in/amr-aboshama
+      title: Software Engineer II @ Microsoft | ICPC World's Finalist
+      image: https://media.licdn.com/dms/image/C4D03AQErY0l6tkfbSw/profile-displayphoto-shrink_200_200/0/1595512437579?e=1721865600&v=beta&t=zLNcrt6jxKaPOFp2Lb17q26qZvn9yKPry9-jtvDKef8
+      top_skills: null
+      current_position: Software Engineer II, Microsoft, Dec 2023 - Present · 6 mos
+      markdown: null
     - name: Amr Ahmed Abdelbaqi Mahmoud
-      linked_url: https://www.linkedin.com/in/amr-mahmoud-82a407170
+      linkedin_url: https://www.linkedin.com/in/amr-mahmoud-82a407170
+      title: Software Engineer at Google | GCP
+      image: https://media.licdn.com/dms/image/C4D03AQG16Lb-_k3ttg/profile-displayphoto-shrink_200_200/0/1618518061548?e=1721865600&v=beta&t=RqAtMIOs31Y1jryQrGOLbDTQvFj7jMIODbTMUW2406I
+      top_skills: null
+      current_position: Software Engineer, Google · Full-time, Apr 2024 - Present
+        · 2 mos
+      markdown: null
     - name: Philopateer Nabil
-      linked_url: https://www.linkedin.com/in/philopateer-nabil-85a41b169/
+      linkedin_url: https://www.linkedin.com/in/philopateer-nabil-85a41b169/
+      title: Software Engineer @ Telda | ex-Microsoft
+      image: https://media.licdn.com/dms/image/C4D03AQGjnLTxkdfsaQ/profile-displayphoto-shrink_200_200/0/1549538305497?e=1721865600&v=beta&t=0FuagjYU6tDWdlxyCT4FkHb7LmoLg8Pkajorsp7e608
+      top_skills: null
+      current_position: Software Engineer, Telda · Full-time, Dec 2023 - Present ·
+        6 mos
+      markdown: null
     - name: Kareem Osama
-      linked_url: https://www.linkedin.com/in/kareem-osama-a9b4ba1b1/
+      linkedin_url: https://www.linkedin.com/in/kareem-osama-a9b4ba1b1/
+      title: Software Engineer at noon
+      image: https://media.licdn.com/dms/image/C4E03AQH-F0rgrUkR-w/profile-displayphoto-shrink_200_200/0/1593026329821?e=1721865600&v=beta&t=5YQAoF8s-lXpCnVu6vzdHvyL-AUHGMC-UOvZsBbn5Kg
+      top_skills: null
+      current_position: Software Engineer, noon · Full-time, Jan 2023 - Present ·
+        1 yr 5 mos
+      markdown: null
     - name: Kareem Omar Abo Shenaq
-      linked_url: https://www.linkedin.com/in/kareem-omar-abo-shenaq-124aa1186/
+      linkedin_url: https://www.linkedin.com/in/kareem-omar-abo-shenaq-124aa1186/
+      title: Technical Consultant at Ejada
+      image: https://media.licdn.com/dms/image/C4D03AQHaOaDMs1TANQ/profile-displayphoto-shrink_200_200/0/1601046525157?e=1721865600&v=beta&t=iJhzMmE6TOjeEH1_MGITK8BRLFdS5izPkLnNA2JcsWc
+      top_skills: null
+      current_position: Technical Consultant, EJADA · Full-time, Jan 2023 - Present
+        · 1 yr 5 mos
+      markdown: null
     - name: Mark Nagy Nabil Shafik
-      linked_url: https://www.linkedin.com/in/mark-nabil-521a87198
+      linkedin_url: https://www.linkedin.com/in/mark-nabil-521a87198
+      title: Data Engineer at EJADA
+      image: https://media.licdn.com/dms/image/D4D03AQFPVUqbVFue-w/profile-displayphoto-shrink_200_200/0/1696763529739?e=1721865600&v=beta&t=rgoPZ9cWes1Fn6gjfoPJSLpzu2_1VpanMYnRS1gcCvw
+      top_skills: Informatica PowerCenter, Talend Open Studio, PL/SQL, Data Analysis
+      current_position: Data Engineer, EJADA · Full-time, Aug 2021 - Present · 2 yrs
+        10 mos
+      markdown: null
     - name: Mazen Amr Fawzy
-      linked_url: https://www.linkedin.com/in/mazen-amr-09551914b/
+      linkedin_url: https://www.linkedin.com/in/mazen-amr-09551914b/
+      title: Software Engineer, Maqsam
+      image: https://media.licdn.com/dms/image/C5603AQGLtngCPD_tXw/profile-displayphoto-shrink_200_200/0/1644681096764?e=1721865600&v=beta&t=179oZM1nQbyYGclZhYzkmCfkZ8RjizmMYQeFqddVz1w
+      top_skills: null
+      current_position: Software Engineer, Maqsam · Full-time, Nov 2021 - Present
+        · 2 yrs 7 mos
+      markdown: null
     - name: Mohamed Ahmed Ibrahim
-      linked_url: https://www.linkedin.com/in/mohamed-ghonem1
+      linkedin_url: https://www.linkedin.com/in/mohamed-ghonem1
+      title: Software Engineer | ACPC Finalist
+      image: https://media.licdn.com/dms/image/C5603AQHJTdpcAxREIg/profile-displayphoto-shrink_200_200/0/1647522013807?e=1721865600&v=beta&t=-sROjwqmfQ78Pbiru_NzDW1Dvt2vJPrLw1AO0XgJXTo
+      top_skills: null
+      current_position: Software Engineer, Siemens EDA (Siemens Digital Industries
+        Software) · Full-time, Mar 2024 - Present · 3 mos
+      markdown: null
     - name: Mohamed Ahmed Mohamed
-      linked_url: https://www.linkedin.com/in/mohamedahmed228
+      linkedin_url: https://www.linkedin.com/in/mohamedahmed228
+      title: Computer Vision Engineer @ Rembrand | MSc. student and TA @ Cairo University
+      image: https://media.licdn.com/dms/image/C4D03AQFPFnf2rbIMEA/profile-displayphoto-shrink_200_200/0/1638535979708?e=1721865600&v=beta&t=kdfWKJgEZXE_kvXCGEsDBgOEtkEBOdFN4849AUG_xTU
+      top_skills: null
+      current_position: Computer Vision Engineer, Rembrand · Full-time, Nov 2023 -
+        Present · 7 mos
+      markdown: null
     - name: Muhammad Ayman Muhammad Sadek
-      linked_url: https://www.linkedin.com/in/muhammad-ayman-1589a0166/
+      linkedin_url: https://www.linkedin.com/in/muhammad-ayman-1589a0166/
+      title: DevOps Engineer
+      image: https://media.licdn.com/dms/image/D4D03AQF9ILj_joDaiw/profile-displayphoto-shrink_200_200/0/1688409562542?e=1721865600&v=beta&t=UQrigY72I0PTZZgnzs3wvPd90QjWwAoc8Xu88nEnxF0
+      top_skills: null
+      current_position: DevOps Engineer, Siemens Digital Industries Software · Contract,
+        May 2024 - Present · 1 mo
+      markdown: null
     - name: Mohamad Khir Shaheen
-      linked_url: https://www.linkedin.com/in/mohamadkshaheen/
+      linkedin_url: https://www.linkedin.com/in/mohamadkshaheen/
+      title: Software engineer
+      image: https://media.licdn.com/dms/image/C4D03AQGq4F3JhhYKMw/profile-displayphoto-shrink_200_200/0/1596429552833?e=1721865600&v=beta&t=jbFl3b3HYbEvJ0jwRK38UyW_Nc8nnQ6LQFb-cBhL8wk
+      top_skills: null
+      current_position: null
+      markdown: null
     - name: Mohamed Ramzy Helmy Ibrahim Ebbed
-      linked_url: https://www.linkedin.com/in/mohamed-ebbed/
+      linkedin_url: https://www.linkedin.com/in/mohamed-ebbed/
+      title: M.Sc of Informatics from TUM | Deep Learning for 3D Computer Vision |
+        Working Student @ Siemens
+      image: null
+      top_skills: null
+      current_position: Working Student, Siemens · Part-time, Mar 2023 - Present ·
+        1 yr 3 mos
+      markdown: null
     - name: Mohamed Sayed Mahdy Mahmoud
-      linked_url: https://www.linkedin.com/in/muhammad-sayed-2a5204187/
+      linkedin_url: https://www.linkedin.com/in/muhammad-sayed-2a5204187/
+      title: Software Engineer at Maqsam
+      image: https://media.licdn.com/dms/image/D4D03AQHPNcExsy7eHQ/profile-displayphoto-shrink_200_200/0/1689018675538?e=1721865600&v=beta&t=RImr4Qv3pDE7S0ntwqGcYMRxfZoyUCmMQA4-vMbAx_4
+      top_skills: null
+      current_position: Software Engineer, Maqsam  · Full-time, Aug 2021 - Present
+        · 2 yrs 10 mos
+      markdown: null
     - name: Mohamed Shawky Sabae
-      linked_url: https://www.linkedin.com/in/mohamed-shawky/
+      linkedin_url: https://www.linkedin.com/in/mohamed-shawky/
+      title: Computer Vision Engineer at Rembrand | TA & MSc Student at Cairo University
+      image: https://media.licdn.com/dms/image/C5603AQEWZWnR6N-1VA/profile-displayphoto-shrink_200_200/0/1517639139417?e=1721865600&v=beta&t=bby2FscdDUblhbvriurkE41JzJww9L6lPKrneWDPrGE
+      top_skills: null
+      current_position: Computer Vision Engineer, Rembrand, Mar 2023 - Present · 1
+        yr 3 mos
+      markdown: null
     - name: Mohammad Abdallah
-      linked_url: https://www.linkedin.com/in/mhmdabdlh/
+      linkedin_url: https://www.linkedin.com/in/mhmdabdlh/
+      title: C++ Software Engineer at Tahaluf Al Emarat Technical Solutions
+      image: https://media.licdn.com/dms/image/D4D03AQHO5SExKWZb4g/profile-displayphoto-shrink_200_200/0/1681354638041?e=1721865600&v=beta&t=WNd67Url7gllB3bXczjNyxy--7yMINJG0OHhgw1EgWE
+      top_skills: null
+      current_position: Software Engineer, Tahaluf Al Emarat Technical Solutions تحالف
+        الإمارات للحلول التقنية, Mar 2023 - Present · 1 yr 3 mos
+      markdown: null
     - name: Mohamed Mokhtar
-      linked_url: https://linkedin.com/in/rrrokhtar
+      linkedin_url: https://linkedin.com/in/rrrokhtar
+      title: Software Engineer (Backend Focused)
+      image: https://media.licdn.com/dms/image/D4D03AQFj3e7jpsssAQ/profile-displayphoto-shrink_200_200/0/1705316612220?e=1721865600&v=beta&t=epq-BteYxVuz1xNTSBYC_vZCHpjrzj47DxkaeMwET00
+      top_skills: null
+      current_position: Back End Developer, OANDA, Nov 2023 - Present · 7 mos
+      markdown: null
     - name: Mahmoud Sebak
-      linked_url: https://www.linkedin.com/in/mahmoud-sebak/
+      linkedin_url: https://www.linkedin.com/in/mahmoud-sebak/
+      title: Software Engineer II at Microsoft
+      image: https://media.licdn.com/dms/image/C4D03AQGnhv3pTgD2lA/profile-displayphoto-shrink_200_200/0/1651593963737?e=1721865600&v=beta&t=yUtYkiU7LtX7xGDPpFZEryzx2bQJ4u0bp2u44LVAv9Q
+      top_skills: null
+      current_position: Software Engineer II, Microsoft, Dec 2023 - Present · 6 mos
+      markdown: null
     - name: Mahmoud Adas
-      linked_url: https://www.linkedin.com/in/mahmoud-adas/
+      linkedin_url: https://www.linkedin.com/in/mahmoud-adas/
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/D4D03AQHB99RfxoNWGQ/profile-displayphoto-shrink_200_200/0/1686040744782?e=1721865600&v=beta&t=dggTUbr88x8mezW0Q97pWHH6tazKSTu2wFH8Uwo-dUQ
+      top_skills: null
+      current_position: Software Engineer, Atomica AI · Full-time, Jun 2023 - Present
+        · 1 yr
+      markdown: null
     - name: Mahmoud Mohamed
-      linked_url: https://www.linkedin.com/in/mmmaa/
+      linkedin_url: https://www.linkedin.com/in/mmmaa/
+      title: Software Engineer at eJad
+      image: https://media.licdn.com/dms/image/C5603AQFWRb-ZF_DDlA/profile-displayphoto-shrink_200_200/0/1556471928432?e=1721865600&v=beta&t=L_b0I90j4sKUMDAkfS1SYffO9ia6ckEvVgrtssFFA7g
+      top_skills: null
+      current_position: Tooling Software Engineer, eJad · Full-time, May 2022 - Present
+        · 2 yrs 1 mo
+      markdown: null
     - name: Mariam Hesham Heiba
-      linked_url: https://www.linkedin.com/in/mariam-heiba/
+      linkedin_url: https://www.linkedin.com/in/mariam-heiba/
+      title: Software Engineer at EJADA
+      image: https://media.licdn.com/dms/image/C4D03AQFV0fz3ZUE15w/profile-displayphoto-shrink_200_200/0/1592502614392?e=1721865600&v=beta&t=UV-y-rLTlEpcDGu5vcx-7VHiPKp4JPJPz3H8C2E5ugI
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, Aug 2021 - Present ·
+        2 yrs 10 mos
+      markdown: null
     - name: Mostafa Walid Gaafar
-      linked_url: https://www.linkedin.com/in/mostafa-walid
+      linkedin_url: https://www.linkedin.com/in/mostafa-walid
+      title: Data Engineer at Ejada ltd.
+      image: https://media.licdn.com/dms/image/C5603AQH6GfW7DF5BbQ/profile-displayphoto-shrink_200_200/0/1639983283982?e=1721865600&v=beta&t=olr-wR5wvho0B1B2WDXteaOvdB7OioPFaSJ3K__lFmU
+      top_skills: null
+      current_position: Data Engineer, EJADA · Full-time, Dec 2021 - Present · 2 yrs
+        6 mos
+      markdown: null
     - name: Menna Fekry
-      linked_url: https://www.linkedin.com/in/menna-fekry-139398171/
+      linkedin_url: https://www.linkedin.com/in/menna-fekry-139398171/
+      title: Software Development Engineer at Siemens EDA (Siemens Digital Industries
+        Software)
+      image: https://media.licdn.com/dms/image/C5603AQFSKK_kN3Zj9g/profile-displayphoto-shrink_200_200/0/1566160461183?e=1721865600&v=beta&t=8xRkSpxVFi8kIxu6os98Got16f9r3Zr14EbJUirfnYg
+      top_skills: null
+      current_position: Software Development Engineer, Siemens EDA (Siemens Digital
+        Industries Software), Oct 2021 to Present · 2 yrs 8 mos
+      markdown: null
     - name: Muhanad Atef
-      linked_url: https://www.linkedin.com/in/muhanad-atef/
+      linkedin_url: https://www.linkedin.com/in/muhanad-atef/
+      title: Software Engineer at eJad
+      image: https://media.licdn.com/dms/image/D4D03AQECLMWFD2nbdQ/profile-displayphoto-shrink_200_200/0/1680893369976?e=1721865600&v=beta&t=I-df85uG6w_qdsXfAU9CT9UYDn6l25SV8xTaLNLbkc8
+      top_skills: null
+      current_position: Tooling Software Engineer, eJad · Full-time, Oct 2021 - Present
+        · 2 yrs 8 mos
+      markdown: null
     - name: Mai Mostafa
-      linked_url: https://www.linkedin.com/in/maimostafa99/
+      linkedin_url: https://www.linkedin.com/in/maimostafa99/
+      title: computer engineer
+      image: https://media.licdn.com/dms/image/D4D03AQEOHhqlPHVaKA/profile-displayphoto-shrink_200_200/0/1693500344205?e=1721865600&v=beta&t=5lAuqo8loYZcLo0rtiY4Hv4A8wlKcbqR1fm8eHQ3XqQ
+      top_skills: null
+      current_position: Game Developer, BEDO Innovating Education · Full-time, Dec
+        2022 - Present · 1 yr 6 mos
+      markdown: null
     - name: Nader Abdalghani
-      linked_url: https://www.linkedin.com/in/naderabdalghani
+      linkedin_url: https://www.linkedin.com/in/naderabdalghani
+      title: Software Development Contractor
+      image: https://media.licdn.com/dms/image/C4E03AQFRjhKic2Ajkw/profile-displayphoto-shrink_200_200/0/1634827794568?e=1721865600&v=beta&t=UzlodPcC1ZlvCZSoBZYzBSeGRBGf_o9IIYclRwJeQNQ
+      top_skills: null
+      current_position: Software Development Contractor, FrontStory · Contract, Feb
+        2022 - Present · 2 yrs 4 mos
+      markdown: null
     - name: Nada Adel
-      linked_url: https://www.linkedin.com/in/nada-adel-mohamady/
+      linkedin_url: https://www.linkedin.com/in/nada-adel-mohamady/
+      title: Software Engineer at Microsoft
+      image: https://media.licdn.com/dms/image/D4D03AQHXkAkwj52w0Q/profile-displayphoto-shrink_200_200/0/1687383955850?e=1721865600&v=beta&t=7UVfdcxrq9Xd_LSNofCSIf-3X3LkGMVkyKiPYACJcpo
+      top_skills: null
+      current_position: Software Engineer, Microsoft · Full-time, May 2022 - Present
+        · 2 yrs 1 mo
+      markdown: null
     - name: Nehal Abd Elkader
-      linked_url: https://www.linkedin.com/in/nehalabdulkader/
+      linkedin_url: https://www.linkedin.com/in/nehalabdulkader/
+      title: Frontend Developer
+      image: https://media.licdn.com/dms/image/C4D03AQG7n7PMv1BFvQ/profile-displayphoto-shrink_200_200/0/1559897843149?e=1721865600&v=beta&t=8_9PnZ-mxfPuk9AC5xUTkzUSbtLNHBbWuFAKY0xUKuA
+      top_skills: null
+      current_position: Frontend Developer, USYTech · Full-time, Nov 2021 - Present
+        · 2 yrs 7 mos
+      markdown: null
     - name: Nour Ahmed
-      linked_url: https://www.linkedin.com/in/nour-ahmed-626749176/
+      linkedin_url: https://www.linkedin.com/in/nour-ahmed-626749176/
+      title: Software Engineer at EJADA
+      image: https://media.licdn.com/dms/image/C4D03AQGqJSNN2z3giQ/profile-displayphoto-shrink_200_200/0/1638985163499?e=1721865600&v=beta&t=hSUbphL8r20u7fXMuPFnd2wSeIs2EfEvYwZevfUt57c
+      top_skills: null
+      current_position: Software Engineer, EJADA · Full-time, Aug 2021 - Present ·
+        2 yrs 10 mos
+      markdown: null
     - name: Nour Nasser
-      linked_url: https://www.linkedin.com/in/nour-nasser-5172111b2/
+      linkedin_url: https://www.linkedin.com/in/nour-nasser-5172111b2/
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/C4E03AQGjqj25C97lpg/profile-displayphoto-shrink_200_200/0/1644604677200?e=1721865600&v=beta&t=9HBlbhgmdosc3mypxTe5g5-RpLcTI8vX5Ke4RXiYS0I
+      top_skills: null
+      current_position: Back End Developer, Micro Engineering Tech Inc · Full-time,
+        Sep 2021 - Present · 2 yrs 9 mos
+      markdown: null
     - name: Nourhan Gamal Mahmoud
-      linked_url: https://www.linkedin.com/in/nour-gamal-852a52149/
+      linkedin_url: https://www.linkedin.com/in/nour-gamal-852a52149/
+      title: software developer (.net core, angular, react.js)
+      image: https://media.licdn.com/dms/image/D4D03AQHNp58Cked-2w/profile-displayphoto-shrink_200_200/0/1667047075823?e=1721865600&v=beta&t=dy0Zso40LkWXf-hOGq32GEYxMeztFK9I3bBhVGdPFNs
+      top_skills: null
+      current_position: Software Developer, Mist · Full-time, Dec 2022 - Present ·
+        1 yr 6 mos
+      markdown: null
     - name: Hager Ahmed
-      linked_url: https://www.linkedin.com/in/hager-ahmed-1727a8229/
+      linkedin_url: https://www.linkedin.com/in/hager-ahmed-1727a8229/
+      title: Fresh graduate computer engineer.
+      image: https://media.licdn.com/dms/image/C4D03AQHDr9rX0sFczA/profile-displayphoto-shrink_200_200/0/1640452675925?e=1721865600&v=beta&t=HmTf1Qwt1gRcRjR8fBmw1exMx9dQ86E_F7Egoiv5CFU
+      top_skills: null
+      current_position: null
+      markdown: null
     - name: Yosry Ahmed
-      linked_url: https://www.linkedin.com/in/yosrym93/
+      linkedin_url: https://www.linkedin.com/in/yosrym93/
+      title: Software Engineer at Google | Linux Kernel Maintainer
+      image: https://media.licdn.com/dms/image/D5603AQFoWUPiQd4PkQ/profile-displayphoto-shrink_200_200/0/1712625417689?e=1721865600&v=beta&t=ze8A-X3HR1CJk086Oe7jtOlNJkv4RrnbZOyO5qtUUtc
+      top_skills: Linux Kernel, C (Programming Language), Git
+      current_position: Software Engineer III, Google, Nov 2022 - Present · 1 yr 7
+        mos
+      markdown: null
     - name: Yousif Ahmed
-      linked_url: https://www.linkedin.com/in/yousiif-ahmed
+      linkedin_url: https://www.linkedin.com/in/yousiif-ahmed
+      title: Full Stack Developer at Valeo
+      image: https://media.licdn.com/dms/image/C4D03AQHK0hNUD2mfcw/profile-displayphoto-shrink_200_200/0/1558489333369?e=1721865600&v=beta&t=BPb3eFHZOxgXHJu2anG2Zr03HPQ6I676aA-J8Aq0ZRI
+      top_skills: null
+      current_position: Full Stack Developer, Valeo · Full-time, Jul 2022 - Present
+        · 1 yr 11 mos
+      markdown: null
     - name: Youssef Dawood
-      linked_url: https://www.linkedin.com/in/youssef-dawood-574424186
+      linkedin_url: https://www.linkedin.com/in/youssef-dawood-574424186
+      title: Data & Analytics Engineer | SQL | Python | PowerBI | Tableau | Pyspark
+        | Azure | Airflow | Database | Data warehouse | SSIS
+      image: https://media.licdn.com/dms/image/D4D03AQEYsJsPPlh7jw/profile-displayphoto-shrink_200_200/0/1713628147990?e=1721865600&v=beta&t=cmxm1uTWvApGOe0kUb48Vf6y8Z577isOp6IW9XhSCtI
+      top_skills: null
+      current_position: Data & Analytics Engineer, EJADA · Full-time, Aug 2021 - Present
+        · 2 yrs 10 mos
+      markdown: null

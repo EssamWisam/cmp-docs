@@ -1,0 +1,35 @@
+name: Run Python Script with Selenium (Sundays 4AM)
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'  # Runs at 4:00 on Sunday (0 = Sunday)
+  workflow_dispatch: 
+env:
+  linkedin_scraper_email: ${{secrets.LINKEDIN_SCRAPER_EMAIL}}
+  linkedin_scraper_password: 'Just for testing the workflow' #${{secrets.LINKEDIN_SCRAPER_PASSWORD}}
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # Replace with desired runner OS if needed
+    if: github.ref == 'refs/heads/script-action-testing'  # Check branch only for scheduled runs
+    steps:
+      - uses: actions/checkout@v3  # Checkout code from repository
+      - name: Use Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+      - name: Install Chrome Driver
+        run: |
+          curl -SL https://chromedriver.chromium.org/LATEST_RELEASE | grep 'Current release' | cut -d ':' -f 2 | tr -d ' '  >> chromedriver_version
+          curl -sfL "https://chromedriver.chromium.org/${chromedriver_version}/chromedriver_linux64.zip" -o chromedriver.zip
+          unzip chromedriver.zip
+          chmod +x chromedriver
+          echo "##@AddPath /github/workspace"  # Add Chrome driver to PATH
+      - name: Install Dependencies
+        run: pip install -r ./scripts/linkedin-scraper/requirements.txt  # Install from requirements.txt
+      - name: Set LinkedIn Email as Environment Variable
+        run: export LINKEDIN_SCRAPER_EMAIL=$linkedin_scraper_email
+      - name: Set LinkedIn Password as Environment Variable
+        run: export LINKEDIN_SCRAPER_PASSWORD=$linkedin_scraper_password
+      - name: Run LinkedIn Scraper Script
+        run: python ./scripts/linkedin-scraper/run.py  # Execute your script

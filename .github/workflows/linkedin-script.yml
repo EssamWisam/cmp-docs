@@ -5,8 +5,8 @@ on:
     - cron: '0 4 * * 0'  # Runs at 4:00 on Sunday (0 = Sunday)
   workflow_dispatch: 
 env:
-  linkedin_scraper_email: ${{secrets.LINKEDIN_SCRAPER_EMAIL}}
-  linkedin_scraper_password: 'Just for testing the workflow' #${{secrets.LINKEDIN_SCRAPER_PASSWORD}}
+  LINKEDIN_SCRAPER_EMAIL: ${{secrets.LINKEDIN_SCRAPER_EMAIL}}
+  LINKEDIN_SCRAPER_PASSWORD: ${{secrets.LINKEDIN_SCRAPER_PASSWORD}}
 
 jobs:
   run-script:
@@ -29,9 +29,9 @@ jobs:
       #     echo "##@AddPath /github/workspace"  # Add Chrome driver to PATH
       - name: Install Dependencies
         run: pip install -r ./scripts/linkedin-scraper/requirements.txt  # Install from requirements.txt
-      - name: Set LinkedIn Email as Environment Variable
-        run: export LINKEDIN_SCRAPER_EMAIL=$linkedin_scraper_email
-      - name: Set LinkedIn Password as Environment Variable
-        run: export LINKEDIN_SCRAPER_PASSWORD=$linkedin_scraper_password
+      # - name: Set LinkedIn Email as Environment Variable
+      #   run: export LINKEDIN_SCRAPER_EMAIL=$linkedin_scraper_email
+      # - name: Set LinkedIn Password as Environment Variable
+      #   run: export LINKEDIN_SCRAPER_PASSWORD=$linkedin_scraper_password
       - name: Run LinkedIn Scraper Script
         run: python ./scripts/linkedin-scraper/run.py  # Execute your script

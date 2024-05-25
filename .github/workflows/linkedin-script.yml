@@ -20,18 +20,7 @@ jobs:
           python-version: 3.11
       - name: Setup Chrome Driver
         uses: nanasess/setup-chromedriver@v2.2.2
-      # - name: Install Chrome Driver
-      #   run: |
-      #     curl -SL https://chromedriver.chromium.org/LATEST_RELEASE | grep 'Current release' | cut -d ':' -f 2 | tr -d ' '  >> chromedriver_version
-      #     curl -sfL "https://chromedriver.chromium.org/${chromedriver_version}/chromedriver_linux64.zip" -o chromedriver.zip
-      #     unzip chromedriver.zip
-      #     chmod +x chromedriver
-      #     echo "##@AddPath /github/workspace"  # Add Chrome driver to PATH
       - name: Install Dependencies
         run: pip install -r ./scripts/linkedin-scraper/requirements.txt  # Install from requirements.txt
-      # - name: Set LinkedIn Email as Environment Variable
-      #   run: export LINKEDIN_SCRAPER_EMAIL=$linkedin_scraper_email
-      # - name: Set LinkedIn Password as Environment Variable
-      #   run: export LINKEDIN_SCRAPER_PASSWORD=$linkedin_scraper_password
       - name: Run LinkedIn Scraper Script
         run: python ./scripts/linkedin-scraper/run.py  # Execute your script

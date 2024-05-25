@@ -18,13 +18,15 @@ jobs:
         uses: actions/setup-python@v3
         with:
           python-version: 3.11
-      - name: Install Chrome Driver
-        run: |
-          curl -SL https://chromedriver.chromium.org/LATEST_RELEASE | grep 'Current release' | cut -d ':' -f 2 | tr -d ' '  >> chromedriver_version
-          curl -sfL "https://chromedriver.chromium.org/${chromedriver_version}/chromedriver_linux64.zip" -o chromedriver.zip
-          unzip chromedriver.zip
-          chmod +x chromedriver
-          echo "##@AddPath /github/workspace"  # Add Chrome driver to PATH
+      - name: Setup Chrome Driver
+        uses: nanasess/setup-chromedriver@v2.2.2
+      # - name: Install Chrome Driver
+      #   run: |
+      #     curl -SL https://chromedriver.chromium.org/LATEST_RELEASE | grep 'Current release' | cut -d ':' -f 2 | tr -d ' '  >> chromedriver_version
+      #     curl -sfL "https://chromedriver.chromium.org/${chromedriver_version}/chromedriver_linux64.zip" -o chromedriver.zip
+      #     unzip chromedriver.zip
+      #     chmod +x chromedriver
+      #     echo "##@AddPath /github/workspace"  # Add Chrome driver to PATH
       - name: Install Dependencies
         run: pip install -r ./scripts/linkedin-scraper/requirements.txt  # Install from requirements.txt
       - name: Set LinkedIn Email as Environment Variable

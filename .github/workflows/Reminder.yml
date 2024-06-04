@@ -1,0 +1,23 @@
+name: Reminder to Update LinkedIn Profiles
+
+on:
+  schedule:
+    - cron: '0 0 */2 * *' # Runs every two weeks
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  create-issue:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Create Issue
+      uses: peter-evans/create-issue-action@v2
+      with:
+        title: '⏰ Reminder to Run LinkedIn Scraping Script'
+        body: 'It has been two weeks!'
+        labels: 'reminder'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

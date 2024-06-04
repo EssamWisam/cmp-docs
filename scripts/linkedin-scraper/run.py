@@ -15,15 +15,15 @@ def is_ignored(filename):
       return True
   return ignored_word.lower() in filename.lower()
 
+if __name__ == '__main__':
+  # Loop through files in the directory
+  for filename in os.listdir(target_dir):
+    if not is_ignored(filename):
+      # Construct full path
+      full_path = os.path.join(target_dir, filename)
+      print(full_path)
+      # Call the command with relative path
+      command = f"python ./scripts/linkedin-scraper/linkedin-scraper.py {full_path}"
+      os.system(command)
 
-# Loop through files in the directory
-for filename in os.listdir(target_dir):
-  if not is_ignored(filename):
-    # Construct full path
-    full_path = os.path.join(target_dir, filename)
-    print(full_path)
-    # Call the command with relative path
-    command = f"python ./scripts/linkedin-scraper/linkedin-scraper.py {full_path}"
-    os.system(command)
-
-print("Finished processing files.")
+  print("Finished processing files.")

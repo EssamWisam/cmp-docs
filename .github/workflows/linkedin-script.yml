@@ -1,0 +1,26 @@
+name: Run Python Script with Selenium (Sundays 4AM)
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'  # Runs at 4:00 on Sunday (0 = Sunday)
+  workflow_dispatch: 
+env:
+  LINKEDIN_SCRAPER_EMAIL: ${{secrets.LINKEDIN_SCRAPER_EMAIL}}
+  LINKEDIN_SCRAPER_PASSWORD: ${{secrets.LINKEDIN_SCRAPER_PASSWORD}}
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # Replace with desired runner OS if needed
+    if: github.ref == 'refs/heads/script-action-testing'  # Check branch only for scheduled runs
+    steps:
+      - uses: actions/checkout@v3  # Checkout code from repository
+      - name: Use Python 3.11
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.11
+      - name: Setup Chrome Driver
+        uses: nanasess/setup-chromedriver@v2.2.2
+      - name: Install Dependencies
+        run: pip install -r ./scripts/linkedin-scraper/requirements.txt  # Install from requirements.txt
+      - name: Run LinkedIn Scraper Script
+        run: python ./scripts/linkedin-scraper/run.py  # Execute your script

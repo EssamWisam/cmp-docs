@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 0 */2 * *' # Runs every two weeks
+    - cron: '0 7 1-7,14-21 * 6' # Runs almost every two weeks on Saturday at 7 am.
   workflow_dispatch: # Allows manual triggering of the workflowname: Create an issue on push
 permissions:
   contents: read

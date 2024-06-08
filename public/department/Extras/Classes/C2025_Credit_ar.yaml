@@ -1,265 +1,605 @@
 - title: 💻 فصل CCEC 25 💻
-  description:  اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم. 
+  description: اهلا بيك، حضرتك في صفحة دفعة من اجمد و اروق دفعات القسم.
   markdown_title: معلومات عن الطالب
   items:
-    - title: 📃 كشف الدفعة
-      description: طلبة الصف كما يلي
-      items:
-        - name: أحمد هاني
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد ياسر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد عبدالعال
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد جابر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد خالد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد وليد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد محسن
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: أحمد طارق
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: اسامة ناصر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name:  اسامة يوسف
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: اسلام عمرو
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: اسماعيل مصطفي
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: الحسين جمال
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: باسل محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name:  باسل حسام
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: جاسر سامي
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: حسين خالد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: حسين مصطفى
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: حسن حاتم
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: جمانة حسام
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: جمانة حسام
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: دانيال عادل
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: ديفيد جورج
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: روان عادل
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: سلمى اسامة
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: زياد عبدالوارث
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: سهيله حسام الدين
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: عبدالرحمن ايمن
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: عبدالله عمرو
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: علي محمد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: عمر ابراهيم
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: عمر احمد 
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name:  عمرو اشرف
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: فارس هشام
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: فريدة ياسر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: فهد احمد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: مارلى مفيد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: محمود صلاح
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة 
-        - name: مروان محمد
-          image: "" 
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: يحيي طارق
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: رنا حاتم
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: زياد محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ساره شريف
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: شريف حاتم
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: صلاح محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عبدالرووْف ممدوح
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عبدالله احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عبدالله ايمن
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عمر شريف
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: كمال احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد زكريا
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد بدر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد عصام
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمود سامي
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مريم تامر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: معاذ طارق
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ملك ياسر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مينا اشرف
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ريم محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: سيف الدين احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ماريا اندراوس
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد طارق
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مصطفى ابراهيم
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: هانزاده فايز
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: هبة جمال
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: روان وليد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: طارق عماد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: على الدين هشام
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: كيرلس حنا
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد سيد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مصطفى فودة
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ناردين هاني
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: يوسف احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: يوسف حسن
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: فاطمة محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: ياسر عمرو
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: سراء محمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: حبيبة وائل
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد حسن
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عمر احمد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مالك عصام
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: مايكل بكتر
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: عمر محمد 
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد السيد
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
-        - name: محمد جمال
-          image: ""
-          markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+  - title: 📃 كشف الدفعة
+    description: طلبة الصف كما يلي
+    items:
+    - name: أحمد هاني
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد ياسر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد عبدالعال
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد جابر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد خالد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد وليد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد محسن
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: أحمد طارق
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: اسامة ناصر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: اسامة يوسف
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: اسلام عمرو
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: اسماعيل مصطفي
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: الحسين جمال
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: باسل محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: باسل حسام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: جاسر سامي
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: حسين خالد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: حسين مصطفى
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: حسن حاتم
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: جمانة حسام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: جمانة حسام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: دانيال عادل
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ديفيد جورج
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: روان عادل
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: سلمى اسامة
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: زياد عبدالوارث
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: سهيله حسام الدين
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالرحمن ايمن
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالله عمرو
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: علي محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمر ابراهيم
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمر احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمرو اشرف
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: فارس هشام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: فريدة ياسر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: فهد احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مارلى مفيد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمود صلاح
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مروان محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: يحيي طارق
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: رنا حاتم
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: زياد محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ساره شريف
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: شريف حاتم
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: صلاح محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالرووْف ممدوح
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالله احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عبدالله ايمن
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمر شريف
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: كمال احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد زكريا
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد بدر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد عصام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمود سامي
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مريم تامر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: معاذ طارق
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ملك ياسر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مينا اشرف
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ريم محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: سيف الدين احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ماريا اندراوس
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد طارق
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مصطفى ابراهيم
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: هانزاده فايز
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: هبة جمال
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: روان وليد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: طارق عماد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: على الدين هشام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: كيرلس حنا
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد سيد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مصطفى فودة
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ناردين هاني
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: يوسف احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: يوسف حسن
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: فاطمة محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: ياسر عمرو
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: سراء محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: حبيبة وائل
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد حسن
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمر احمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مالك عصام
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: مايكل بكتر
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: عمر محمد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد السيد
+      image: null
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: محمد جمال
+      image: ''
+      markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة

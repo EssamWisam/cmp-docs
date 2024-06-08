@@ -1,12 +1,16 @@
 - title: 🙋🏻 CMP24 Class 🙋🏼‍♀️
-  description: Enter our computer engineering class, where students exhibit an
-    exceptional level of expertise. They handle computers and technology with
-    remarkable ease, crafting remarkable innovations effortlessly.
+  description: Enter our computer engineering class, where students exhibit an exceptional
+    level of expertise. They handle computers and technology with remarkable ease,
+    crafting remarkable innovations effortlessly.
   markdown_title: Student Info
   items:
-    - title: 📃 Class Roster
-      description: Members of the class are as follows
-      items:
-        - name: Example Student
-          image: ""
-          markdown: Example info about student...
+  - title: 📃 Class Roster
+    description: Members of the class are as follows
+    items:
+    - name: Example Student
+      image: null
+      markdown: Example info about student...
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null

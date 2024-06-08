@@ -34,7 +34,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           alt={person.name}
           onError={(event) => event.target.src = placeholderUrl(person)} />
         <h2>{person.name}</h2>
-        <h4>{person.title}</h4>
+        <h4 style={{color: "#FFB300"}}>{person.title}</h4>
       </div>)
     )
   }

@@ -1,265 +1,604 @@
 - title: 💻 CCE 25 Class 💻
-  description: Enter our computer engineering class, where students exhibit an
-    exceptional level of expertise. They handle computers and technology with
-    remarkable ease, crafting remarkable innovations effortlessly.
+  description: Enter our computer engineering class, where students exhibit an exceptional
+    level of expertise. They handle computers and technology with remarkable ease,
+    crafting remarkable innovations effortlessly.
   markdown_title: Student Info
   items:
-    - title: 📃 Class Roster
-      description: Members of the class are as follows
-      items:
-        - name: Ahmed Hany
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Yasser
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Osama Nasser (El rep)
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Bassel Mohamed (El rep)
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Gaser Sami
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Hassan Hatem
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Hussein Elhawary
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Daniel Adel
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: David George
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Rawan Adel
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Ziad Abdelwareth
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Sohaila Hossam
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Abdelrahman Ayman
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Abdullah Amr
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ali Mohamed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Omar Ibrahim
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Omar Desouki
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Amr Ashraf
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Fares Hesham (El rep)
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Farida Yasser
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Fahd Ahmed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Fatema Kotb
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Marly Mofeed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mahmoud Salah
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mahmoud Samy
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Marwaan Abbas
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Yehia Tarek
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Mohamed (3okal)
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Islam Amr
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ismail Mostafa
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Basel Hossam
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Hussen El-Hadidy
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Rana Hatem
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ziad Ghanem
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Sara Sherif
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Salah Mohamed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Abdelraouf Mamdouh
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Abdallah Matbouli
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Abdullah Ayman (Shattah)
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Omar Elzahar
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Kamal Ahmed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Zakaria
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Badr El-Din
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Abdelmoneim
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Essam
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mariam Tamer
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Moaaz Tarek
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Malak Yasser
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mina Ashraf
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Gaber
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Khaled
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Jomana Hossam
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Reem Anwar
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Salma Osama
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Seif El-Din Ahmed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Maria Andrawes
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Tarek
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mostafa Fouda
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Hanzada Fayez
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Heba Gamal
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Waleed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Al-Hussein Gamal
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Peter Ashraf
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Rawan Waleed
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Tarek Emad
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Aley El-Din Hesham
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Kirollos Hanna
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Ahmed Sayed
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Mostafa Metwally
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Nardeen Hany
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Youssef Zaki
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Youssef Darwish
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Osama Youssef
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Yasser Amr
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Sarraa Mohamed
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Habiba Wael
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mahmoud Hassan
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Omar Madbouly
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Malek Essam
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Michael Boktor
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Mohsen
-          image: ""
-          markdown: This is one fantastic CCE student
-        - name: Omar Qabbani
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Ahmed Tarek
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed ELsayed
-          image: "" 
-          markdown: This is one fantastic CCE student
-        - name: Mohamed Gamal
-          image: "" 
-          markdown: This is one fantastic CCE student
-          
+  - title: 📃 Class Roster
+    description: Members of the class are as follows
+    items:
+    - name: Ahmed Hany
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Yasser
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Osama Nasser (El rep)
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Bassel Mohamed (El rep)
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Gaser Sami
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Hassan Hatem
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Hussein Elhawary
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Daniel Adel
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: David George
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Rawan Adel
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ziad Abdelwareth
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Sohaila Hossam
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Abdelrahman Ayman
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Abdullah Amr
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ali Mohamed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Omar Ibrahim
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Omar Desouki
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Amr Ashraf
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Fares Hesham (El rep)
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Farida Yasser
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Fahd Ahmed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Fatema Kotb
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Marly Mofeed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mahmoud Salah
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mahmoud Samy
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Marwaan Abbas
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Yehia Tarek
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Mohamed (3okal)
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Islam Amr
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ismail Mostafa
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Basel Hossam
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Hussen El-Hadidy
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Rana Hatem
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ziad Ghanem
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Sara Sherif
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Salah Mohamed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Abdelraouf Mamdouh
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Abdallah Matbouli
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Abdullah Ayman (Shattah)
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Omar Elzahar
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Kamal Ahmed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Zakaria
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Badr El-Din
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Abdelmoneim
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Essam
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mariam Tamer
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Moaaz Tarek
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Malak Yasser
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mina Ashraf
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Gaber
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Khaled
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Jomana Hossam
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Reem Anwar
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Salma Osama
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Seif El-Din Ahmed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Maria Andrawes
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Tarek
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mostafa Fouda
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Hanzada Fayez
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Heba Gamal
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Waleed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Al-Hussein Gamal
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Peter Ashraf
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Rawan Waleed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Tarek Emad
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Aley El-Din Hesham
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Kirollos Hanna
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Ahmed Sayed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mostafa Metwally
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Nardeen Hany
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Youssef Zaki
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Youssef Darwish
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Osama Youssef
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Yasser Amr
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Sarraa Mohamed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Habiba Wael
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mahmoud Hassan
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Omar Madbouly
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Malek Essam
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Michael Boktor
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Mohsen
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Omar Qabbani
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Ahmed Tarek
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed ELsayed
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null
+    - name: Mohamed Gamal
+      image: null
+      markdown: This is one fantastic CCE student
+      linkedin_url: https://www.linkedin.com/in/
+      title: null
+      top_skills: null
+      current_position: null

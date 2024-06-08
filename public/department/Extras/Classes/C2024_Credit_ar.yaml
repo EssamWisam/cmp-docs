@@ -97,7 +97,7 @@
       top_skills: null
       current_position: null
     - name: حبيبة حسن
-      image: https://media.licdn.com/dms/image/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_400_400/0/1646849432273?e=1704326400&v=beta&t=cNouCM7s7J3JQ6Z_FvUOXX8PVWXYeQj--fKbZo2CIyI
+      image: null
       linkedin_url: https://www.linkedin.com/in/habiba-hassan-elhussieny-815988231
       markdown: يمكنك معرفة المزيد عن حبيبة والتواصل معها عبر زيارة [صفحتها على LinkedIn]()
         و[GitHub](https://github.com/HabibaHassan02).
@@ -112,7 +112,7 @@
       top_skills: null
       current_position: null
     - name: خالد ممدوح
-      image: https://media.licdn.com/dms/image/C4D03AQFs7ESzlXCQTQ/profile-displayphoto-shrink_200_200/0/1635702211865?e=1720656000&v=beta&t=8F8NuCq4cOG2vWZ3-kWumNFqia5GwV99voWAW5Mx3Yk
+      image: https://media.licdn.com/dms/image/C4D03AQFs7ESzlXCQTQ/profile-displayphoto-shrink_200_200/0/1635702211865?e=1723075200&v=beta&t=3BNg3uUNBE04qEgCGs-H159rtKCe2h2LQztcX-Abcl4
       linkedin_url: https://www.linkedin.com/in/khalidmamdou7/
       markdown: يمكنك معرفة المزيد عن خالد والتواصل معه عبر زيارة [صفحته على LinkedIn]()
         و[GitHub](https://github.com/khalidmamdou7).
@@ -267,14 +267,14 @@
       top_skills: null
       current_position: null
     - name: علي حشيش
-      image: https://media.licdn.com/dms/image/C5603AQEXMQ-01G2EYA/profile-displayphoto-shrink_200_200/0/1600817991312?e=1720656000&v=beta&t=vbRr1Tyfjd9t7KHRZcf3tstXRvwaVmZJc64evQGtIpQ
+      image: https://media.licdn.com/dms/image/C5603AQEXMQ-01G2EYA/profile-displayphoto-shrink_200_200/0/1600817991312?e=1723075200&v=beta&t=gpNtbygmhdy6wkp6liVrw22GMsRrbnfQlpIiLvq_HdM
       linkedin_url: https://www.linkedin.com/in/ali-hashish/
       markdown: يمكنك معرفة المزيد عن علي والتواصل معه عبر زيارة [صفحته على LinkedIn]()
         و[GitHub](https://github.com/AliHashish).
       title: Ex SWE Intern @ Microsoft | Computer Engineering Student @ Cairo University
       top_skills: null
       current_position: Student, Cairo University · Full-time, Sep 2019 - Present
-        · 4 yrs 9 mos
+        · 4 yrs 10 mos
     - name: عمار ناصر
       image: null
       markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
@@ -318,7 +318,7 @@
       top_skills: null
       current_position: null
     - name: عمر أمين
-      image: https://media.licdn.com/dms/image/D5603AQFfFajRTTDA5g/profile-displayphoto-shrink_200_200/0/1714373617233?e=1720656000&v=beta&t=cPdBhyYVBnr_Mra610PeQJBHhQX5g-TtDB4KejAI_dE
+      image: https://media.licdn.com/dms/image/D5603AQFfFajRTTDA5g/profile-displayphoto-shrink_200_200/0/1714373617233?e=1723075200&v=beta&t=L2Mu5RmCsKddVxAjwNms6993OJ7FU9sowKCZ0ma5O_s
       linkedin_url: https://www.linkedin.com/in/omar-amin-6bb1961ab/
       markdown: يمكنك معرفة المزيد عن عمر والتواصل معه من خلال زيارة [LinkedIn]()
         و[GitHub](https://github.com/oamin12) الخاص به."

@@ -319,10 +319,10 @@ if __name__ == '__main__':
     new_class_students = class_students
 
     options = webdriver.ChromeOptions()
-    options.add_argument("--headless=new") # Comment this line if you want to see the script in action with UI.
+    # options.add_argument("--headless=new") # Comment this line if you want to see the script in action with UI.
     driver = webdriver.Chrome(options=options)
 
-    MAX_PROFILES_BEFORE_CHROME_RELOAD = 20
+    MAX_PROFILES_BEFORE_CHROME_RELOAD = 100
 
     try:
         for i, student in enumerate(class_students):

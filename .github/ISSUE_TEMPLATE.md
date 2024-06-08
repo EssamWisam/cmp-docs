@@ -5,10 +5,10 @@ It's been two weeks.
 
 It's time to run the LinkedIn script to get the latest titles and current positions of CMP students and graduates.
 
-To run the script follow the steps below and if it's not your first time running the scipt, you can just start from step 4:
+To run the script follow the steps below and if it's not your first time running the script, you can just start from step 4:
 
 ### Steps for running the LinkedIn script:
-1. Make sure you have Python 3 downloaded on your device. You can check by running the command in your bash terminal and it should display the Python version if it is already installed.
+1. Make sure you have Python 3 downloaded on your device. You can check by running the command below in your bash terminal and it should display the Python version if it is already installed.
     ```bash
     python --version
     ```

@@ -129,7 +129,7 @@ sections:
             icon: MdBeachAccess
             link: "Extras/Opportunities/GSoC.md"
           - label: Teaching Positions
-            label_ar: فرص كمدرس مساعد
+            label_ar: فرص تدريس
             icon:  MdDriveFileRenameOutline
             link: "Extras/Opportunities/TeachingPositions.md"
           - label: Summer Courses

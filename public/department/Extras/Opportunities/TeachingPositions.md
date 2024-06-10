@@ -95,4 +95,4 @@ Your default rights as a TA are as follows:
 Moreover, you may request an academic email during your career as a TA and an experience certificate after you finish.
 ![image](https://gifdb.com/images/high/allen-zach-galifianakis-math-calculation-oxh2zx9mj99c5fpo.gif)
 
-⭐ That's it! We hope you contribute in making a positive difference for other by considering being a TA at a subject you love and would be good to teach.
+⭐ That's it! We hope you contribute in making a positive difference for others by considering being a TA at a subject you love and would be good to teach.

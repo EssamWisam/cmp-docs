@@ -43,7 +43,7 @@ Suppose you apply to work at company X in field Y which you taught as a TA. Firs
 Don't forget that by this, you are also a TA at the #1 university in Egypt.
 
 ### 5. Enhance Your Soft Skills and Gain More
-You can easily derive that you will learn to be better at skills such as communication, explanation, time management, conflict resolution and more as a result of such experience. It's also a great networking opportunity (with professors and students also graduate soon).
+You can easily derive that you will learn to be better at skills such as communication, explanation, time management, conflict resolution and more as a result of such experience. It's also a great networking opportunity (with professors and students also graduating soon).
 
 ### 6. It's a Fulfilling Job
 With every tutorial, you feel fulfilled (i.e., happy and rewarding) that you were able to make a positive impact on other people by delivering the tutorial.

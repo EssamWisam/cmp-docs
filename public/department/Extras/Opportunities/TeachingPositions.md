@@ -38,7 +38,7 @@ In other words, it's an excellent opportunity to peak at the learning curve of a
 Moreover, it's widely known (as in the Feynman technique) that teaching uncovers gaps or incorrect understanding in your knowledge that could have been left unresolved otherwise and the proper resolution to resolve these gaps is often to deepen your understanding.
 
 ### 4. Shines on Your Resume
-Suppose you apply to work at company X in field Y which you taught as a TA. First, being a TA which implies the deeper understanding will give you an edge (in that dimension) over most other applications and second, you will probably do pretty well in the technical interview as a result of such a deep understanding (e.g., by providing more elaborate and sophisticated answers). 
+Suppose you apply to work at company X in field Y which you taught as a TA. First, being a TA which implies a deeper understanding will give you an edge (in that dimension) over most other applications and second, you will probably do pretty well in the technical interview as a result of such a deep understanding (e.g., by providing more elaborate and sophisticated answers). 
 
 Don't forget that by this, you are also a TA at the #1 university in Egypt.
 

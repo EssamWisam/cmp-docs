@@ -128,7 +128,7 @@ II. Get a scholarship that clearly gives you at least around 1000 euros a month 
 
 III. Make someone in Germany demonstrate the ability of covering you financially (this may be risky for them so this option only makes sense if you have a close relative in Germany).
 
-The most popular option is perhaps to make the blocked account and try to work during MS in Germany (part-time is allowed) so that you don't use much of that money. Understand more about blocked accounts by [watching this](https://www.youtube.com/watch?v=M9pzM-a-sOk&pp=ygUpZmludGliYSBibG9ja2VkIGFjY291bnQgbW9oYW1lZCBlbGJhc2lvbnk%3D).
+The most popular option is perhaps to make a blocked account and try to work during MS in Germany (part-time is allowed) so that you don't use much of that money. Understand more about blocked accounts by [watching this](https://www.youtube.com/watch?v=M9pzM-a-sOk&pp=ygUpZmludGliYSBibG9ja2VkIGFjY291bnQgbW9oYW1lZCBlbGJhc2lvbnk%3D).
 
 For jobs, there is a special position ‘working student’ you can search through Linkedin, XING, Stepstone.
 

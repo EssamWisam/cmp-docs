@@ -110,7 +110,7 @@ In general, universities will give the most weight to your GPA and the extent to
 ### 💸  Funding and Monthly Expenses
 Now let's talk about the important stuff.
 #### Cost of Education
-Usually, most german master programs are almost free of charge (around €200-€400 per semester).
+Usually, most German master programs are almost free of charge (around €200-€400 per semester).
 
 However, for some regions like the one of Stuttgart or Freiburg it may cost €1000-€2000 per semester. Lately a famous university like Technical university of Munich became very expensive (more than €4000 euros per semester) so it can vary, but yet free programs are very common and you should be able to find them.
 

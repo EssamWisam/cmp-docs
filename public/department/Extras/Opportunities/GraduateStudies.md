@@ -146,7 +146,7 @@ The U.S. follows a different system compared to Germany. To start off, the vast 
 PhDs in the U.S. usually take 4-6 years and have four special properties:
 
 #### 1. Deadlines are too early 
-For instance, to start in Fall (August) of 202X, you usually need to apply by at most 15th Dec. of 202Y where Y=X-1. This is the usual case but uncommonly, some universities support other starts than fall (e.g., spring in January) or have more relaxed deadlines. In the U.S. many people find this to be fine because it gives them an opportunity to explore the industry more instead of moving from BS to PhD without industry experience.
+For instance, to start in Fall (August) of 202X, you usually need to apply by at most 15th Dec. of 202Y where Y=X-1. This is the usual case but uncommonly, some universities support other starts not just fall (e.g., spring in January) or have more relaxed deadlines. In the U.S. many people find this to be fine because it gives them an opportunity to explore the industry more instead of moving from BS to PhD without industry experience.
 
 #### 2. You need not have a MS degree to pursue it 
 This is the normal case in the U.S. People that consider an MS usually consider it to be sufficient for them and don't consider a PhD. People who think they need a PhD go straight to it.

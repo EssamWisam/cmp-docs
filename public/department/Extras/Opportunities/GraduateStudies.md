@@ -93,6 +93,9 @@ Always required and shows why you chose to pursue MS, why Germany and why this p
 #### Bachelor Thesis Book
 May be submitted, no one cares if it is the group’s book or your individual book.
 
+#### CV
+Sometimes you are required to submit your resume.
+
 #### Mailing
 Some programs require that you send a copy of your documents via mail (ordinary mail not email) like Darmstadt university so you should apply early to make sure that your documents arrive before the deadline 
 
@@ -101,6 +104,8 @@ Some programs require that you send a copy of your documents via mail (ordinary 
 You can check the different universities on [QS ranking website](https://www.topuniversities.com/university-subject-rankings/computer-science-information-systems?region=Europe&countries=de) and check their website. 
 
 Some allow to apply through their website free of charge directly, and some required the application to be through a portal called [Uniassist](https://www.uni-assist.de/en/) which possibly requires your documents to be legalized through the German embassy and then sent to them and only after that you can apply through it. To understand more about Uniassist, consider [watching this](https://www.youtube.com/watch?v=FgoQOtt3dEc&t=823s) and for legalizing documents you can [watch this](https://www.youtube.com/watch?v=kGAWbz30DDM&pp=ygUo2KrZiNir2YrZgiDYp9mE2LTZh9in2KfYr9iqINin2YXZhNmG2YrYpw%3D%3D).
+
+In general, universities will give the most weight to your GPA and the extent to which the courses you covered align with those covered by undergraduates at the university.
 
 ### 💸  Funding and Monthly Expenses
 Now let's talk about the important stuff.

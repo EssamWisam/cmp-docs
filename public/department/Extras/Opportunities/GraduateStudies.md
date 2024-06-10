@@ -4,7 +4,7 @@ In this, we wish to talk about four common pathways after graduation for graduat
 | [Graduate Studies at Cairo University](#CUFE) | [Graduate Studies in Europe](#EUROPE) | [Graduate Studies in the United States](#USA) | [Graduate Studies in Canada](#CANADA) |
 |--------------------------------------|-----------------------------|--------------------------------------|----------------------------|
 
-But before we do this, lets motivate you to pursue graduate studies.
+But before we do this, let's motivate you to pursue graduate studies.
 
 ![image](https://i.gifer.com/2PHb.gif)
 
@@ -16,7 +16,7 @@ There are a couple of reasons why it may be a great idea for you to pursue gradu
 
 Graduate studies offer an opportunity to acquire in-depth knowledge and solve unanswered questions. Have you ever hoped to make a great positive impact in our world? Advancements in technology (e.g., ChatGPT) are in general a result of collaborative research which is exactly what you can get trained to do in graduate studies.
 
-### 2. Stand Out from the Rest of the Work Force
+### 2. Stand Out from the Rest of the Workforce
 
 Computer science jobs nowadays are highly competitive. We can categorize such jobs into four categories: (i), jobs were at least MS degree is required; (ii), jobs were it's explicitly mentioned that at least MS degree is preferred; (iii), jobs were it's not explicitly mentioned that MS degree is preferred but where it actually gives applicant an advantage by logic; and (iv), jobs where at least having a MS degree makes no difference.
 
@@ -33,14 +33,14 @@ Do you have a thirst to dive deeper and understand more? A desire to continuousl
 If you answered "yes" to these, or at least "no" while being open to a "yes" in the future as such skills are enhanced, then it will likely and logically be naturally fulfilling for you to pursue graduate studies.
 
 ### 5. Networking Opportunities
-You get the chance to meet other advanced students and professor which can open up opportunities for you. We know for sure that you truly miss the ability to be in an academic society as in your Bachelors; this is an opportunity to get back to a similar experience.
+You get the chance to meet other advanced students and professors which can open up opportunities for you. We know for sure that you truly miss the ability to be in an academic society as in your Bachelors; this is an opportunity to get back to a similar experience.
 
 ## 💡 MS/PhD Basics
 An MS degree typically covers advanced courses in your field (along with projects) and may or may not involve significant research work depending on whether it's a Thesis Master's degree or a Non-Thesis Master's degree. A thesis is a long document exposing original research work you did through your masters. 
 
 In contrast to an MS program, a PhD curriculum typically includes coursework but places a greater emphasis on research. While an MS thesis may sometimes feel like a semester-long project, a PhD dissertation usually includes rigorous investigation into complex research questions, which can span more than two years. Moreover, in some regions it's necessary to hold an MS degree before considering a PhD.
 
-It follows that the benefits we mentioned above apply to both MS and PhD degrees except that some them are leveraged even more effectively with a PhD (e.g., PhD applicants would stand out even from MS applicants). Moreover, a PhD makes it possible to work as a professor (teaching) and advise other students in their MS/PhD journeys (research). This type of work (at a university) is often viewed to be more flexible than working in the industry for some research group.
+It follows that the benefits we mentioned above apply to both MS and PhD degrees except that some of them are leveraged even more effectively with a PhD (e.g., PhD applicants would stand out even from MS applicants). Moreover, a PhD makes it possible to work as a professor (teaching) and advise other students in their MS/PhD journeys (research). This type of work (at a university) is often viewed to be more flexible than working in the industry for some research group.
 
 ![image](https://i.imgur.com/f0Jqvs1.jpg)
 
@@ -48,9 +48,9 @@ It follows that the benefits we mentioned above apply to both MS and PhD degrees
 In this we focus on the MS program at our department (computer engineering).
 
 ### 📝 Application Requirements
-If you were among the top ten students in your class then you may be qualified to have your MS at our department for free. Offers usually sent a year after you graduate (but you can request to start the MS before that), and go over higher ranking students first, and require you to be an internal teaching assistant as well.
+If you were among the top ten students in your class then you may be qualified to have your MS at our department for free. Offers are usually sent a year after you graduate (but you can request to start the MS before that), and go over higher ranking students first, and require you to be an internal teaching assistant as well.
 
-In any case, you can apply as an ordinary student for MS regardless of your academic performance. Although MS at our department it follows credit hours system, it's much less expensive (e.g., two years ago it was 25-30K).
+In any case, you can apply as an ordinary student for MS regardless of your academic performance. Although MS at our department follows credit hours system, it's much less expensive (e.g., two years ago it was 25-30K).
 
 In case you were not an undergrad at our department, you may be requested to cover prerequisite undergraduate courses before starting your MS.
 
@@ -82,10 +82,10 @@ You easily request these from student affairs after graduation (or before for tr
 
 
 #### Proof of English proficiency 
-Most of the time our college certificate is enough for that as it is stated that we studied in English; however, some programs require TOEFL or IELTS regardless of that. There is a plethora of online resources to prepare to taking either of these; however, IELTS is cheaper and handled more professionally in Egypt.
+Most of the time our college certificate is enough for that as it is stated that we studied in English; however, some programs require TOEFL or IELTS regardless of that. There is a plethora of online resources to prepare for taking either of these; however, IELTS is cheaper and handled more professionally in Egypt.
 
 #### Two or three recommendation letters
-Some universities require that the professor submit it him/herself. Some require that the recommender is an academic recommender, and you can not get a recommendation from your team leader in your job and some are fine with non-academic recommendations.
+Some universities require that the professor submit it himself/herself. Some require that the recommender is an academic recommender, and you can not get a recommendation from your team leader in your job and some are fine with non-academic recommendations.
 
 #### Cover Letter
 Always required and shows why you chose to pursue MS, why Germany and why this program.
@@ -110,9 +110,9 @@ In general, universities will give the most weight to your GPA and the extent to
 ### 💸  Funding and Monthly Expenses
 Now let's talk about the important stuff.
 #### Cost of Education
-Usually, most german master programs are almost free of charge (around €200-€400 per semester).
+Usually, most German master programs are almost free of charge (around €200-€400 per semester).
 
-However, for some regions like the one of Stuttgart or Freiburg it may cost €1000-€2000 per semester. Lately a famous university like Technical university of Munich became very expensive (more than €4000 euros per semester) so it can vary, but yet free programs are very common and you should be able to find them.
+However, for some regions like the one of Stuttgart or Freiburg it may cost €1000-€2000 per semester. Lately a famous university like Technical University of Munich has become very expensive (more than €4000 euros per semester) so it can vary, but yet free programs are very common and you should be able to find them.
 
 #### Monthly Expenses Breakdown
 €300-€500 + €125 + €200-€300 + €0 for rent including all bills + health insurance + raw food + transport respectively. Transport is free for students and bills include water, gas and electricity.
@@ -126,9 +126,9 @@ I. Make what's known as a blocked account which has at least around €11400 (th
 
 II. Get a scholarship that clearly gives you at least around 1000 euros a month for 2 years. E.g., Search for DAAD scholarships, you can also book a free appointment with them and get a consultation session from their quarters in Zamalek.
 
-III. Make someone in Germany demonstrate ability of covering you financially (this may be risky for them so this option only makes sense if you have a close relative in Germany).
+III. Make someone in Germany demonstrate the ability of covering you financially (this may be risky for them so this option only makes sense if you have a close relative in Germany).
 
-The most popular option is perhaps to make the blocked account and try to work during MS in Germany (part-time is allowed) so that you don't use much of that money. Understand more about blocked accounts by [watching this](https://www.youtube.com/watch?v=M9pzM-a-sOk&pp=ygUpZmludGliYSBibG9ja2VkIGFjY291bnQgbW9oYW1lZCBlbGJhc2lvbnk%3D).
+The most popular option is perhaps to make a blocked account and try to work during MS in Germany (part-time is allowed) so that you don't use much of that money. Understand more about blocked accounts by [watching this](https://www.youtube.com/watch?v=M9pzM-a-sOk&pp=ygUpZmludGliYSBibG9ja2VkIGFjY291bnQgbW9oYW1lZCBlbGJhc2lvbnk%3D).
 
 For jobs, there is a special position ‘working student’ you can search through Linkedin, XING, Stepstone.
 
@@ -141,12 +141,12 @@ Learn more about lives of Egyptian students in Germany by watching [this](https:
 ![image](https://cloudfront.american.edu/assets/2021-images/classroom.jpg)
 
 ## 🇺🇸 Graduate Studies in the United States<a id='USA'></a>
-The U.S. follows a different system compared to Germany. To start off, the vast majority of MS opportunities in the U.S. are paid (and it's too expensive). Unless you get there via some external scholarship/fellowship such as [FullBright](https://fulbright-egypt.org/). For this reason, you will find that most popular opportunity in the U.S. for Egyptian students is to get a PhD in the U.S.
+The U.S. follows a different system compared to Germany. To start off, the vast majority of MS opportunities in the U.S. are paid (and it's too expensive). Unless you get there via some external scholarship/fellowship such as [FullBright](https://fulbright-egypt.org/). For this reason, you will find that the most popular opportunity in the U.S. for Egyptian students is to get a PhD in the U.S.
 
 PhDs in the U.S. usually take 4-6 years and have four special properties:
 
 #### 1. Deadlines are too early 
-For instance, to start in Fall (August) of 202X, you usually need to apply by at most 15th Dec. of 202Y where Y=X-1. This is the usual case but uncommonly, some universities support other starts than fall (e.g., spring in January) or have more relaxed deadlines. In the U.S. many people find this to be fine because it gives them an opportunity to explore the industry more instead of moving from BS to PhD without industry experience.
+For instance, to start in Fall (August) of 202X, you usually need to apply by at most 15th Dec. of 202Y where Y=X-1. This is the usual case but uncommonly, some universities support other starts not just fall (e.g., spring in January) or have more relaxed deadlines. In the U.S. many people find this to be fine because it gives them an opportunity to explore the industry more instead of moving from BS to PhD without industry experience.
 
 #### 2. You need not have a MS degree to pursue it 
 This is the normal case in the U.S. People that consider an MS usually consider it to be sufficient for them and don't consider a PhD. People who think they need a PhD go straight to it.
@@ -154,9 +154,9 @@ This is the normal case in the U.S. People that consider an MS usually consider 
 Moreover, many PhD programs are fine to award you with both a PhD and MS degree after your PhD if you fill some extra papers (without taking extra courses or doing extra research).
 
 #### 3. They are almost always fully funded
-That is, you pay nothing; in fact, you get paid (e.g., around $2K to $4K a month depending on the location and university). Usually the more expensive the area of the university is, the higher is a stipend.
+That is, you pay nothing; in fact, you get paid (e.g., around $2K to $4K a month depending on the location and university). Usually the more expensive the area of the university is, the higher the stipend is.
 
-In return, you either do research and teaching with your PhD supervisor or just research. In the first case, it's called a Teaching Assistanship and in the latter case, it's called a Research Assistanship. Teaching duties are usually not that significant compared to Egypt.
+In return, you either do research and teaching with your PhD supervisor or just research. In the first case, it's called a Teaching Assistantship and in the latter case, it's called a Research Assistantship. Teaching duties are usually not that significant compared to Egypt.
 
 In summary, if you get accepted into a PhD program, you don't worry about funding because it will be covered.
 
@@ -179,7 +179,7 @@ The requirements are as follows:
 You easily request these from student affairs after graduation (or before for transcript). The transcript details all the courses you covered and your grades in them. You may need to submit extra material in case the transcript doesn't write the names of the chosen electives.
 
 #### Proof of English proficiency 
-Programs usually require TOEFL or IELTS (in some cases only TOEFL and in some cases they even accept Duolingo) and it's not so common for them to just accept that your BS was in English to waive this requirement. There is a plethora of online resources to prepare to taking either of these.
+Programs usually require TOEFL or IELTS (in some cases only TOEFL and in some cases they even accept Duolingo) and it's not so common for them to just accept that your BS was in English to waive this requirement. There is a plethora of online resources to prepare for taking either of these.
 
 #### Three recommendation letters
 Usually submitted by recommenders themselves to the portal (you write their email and they get instructions for how to do it). Usually can have at most one non-academic recommender (i.e., not a professor but rather a manager or something).

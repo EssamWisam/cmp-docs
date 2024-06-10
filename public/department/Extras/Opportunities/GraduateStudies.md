@@ -85,7 +85,7 @@ You easily request these from student affairs after graduation (or before for tr
 Most of the time our college certificate is enough for that as it is stated that we studied in English; however, some programs require TOEFL or IELTS regardless of that. There is a plethora of online resources to prepare for taking either of these; however, IELTS is cheaper and handled more professionally in Egypt.
 
 #### Two or three recommendation letters
-Some universities require that the professor submit it him/herself. Some require that the recommender is an academic recommender, and you can not get a recommendation from your team leader in your job and some are fine with non-academic recommendations.
+Some universities require that the professor submit it himself/herself. Some require that the recommender is an academic recommender, and you can not get a recommendation from your team leader in your job and some are fine with non-academic recommendations.
 
 #### Cover Letter
 Always required and shows why you chose to pursue MS, why Germany and why this program.

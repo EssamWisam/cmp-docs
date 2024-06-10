@@ -82,7 +82,7 @@ You easily request these from student affairs after graduation (or before for tr
 
 
 #### Proof of English proficiency 
-Most of the time our college certificate is enough for that as it is stated that we studied in English; however, some programs require TOEFL or IELTS regardless of that. There is a plethora of online resources to prepare to taking either of these; however, IELTS is cheaper and handled more professionally in Egypt.
+Most of the time our college certificate is enough for that as it is stated that we studied in English; however, some programs require TOEFL or IELTS regardless of that. There is a plethora of online resources to prepare for taking either of these; however, IELTS is cheaper and handled more professionally in Egypt.
 
 #### Two or three recommendation letters
 Some universities require that the professor submit it him/herself. Some require that the recommender is an academic recommender, and you can not get a recommendation from your team leader in your job and some are fine with non-academic recommendations.

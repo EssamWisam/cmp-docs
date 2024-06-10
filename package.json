@@ -22,6 +22,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "^5.0.0",
     "react-tooltip": "^5.26.4",
+    "rehype-raw": "^7.0.0",
     "remark-gfm": "^3.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^0.2.4",

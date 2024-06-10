@@ -1,7 +1,7 @@
 # 🎓 Graduate Studies
 In this, we wish to talk about four common pathways after graduation for graduate studies:
 
-| Graduate Studies at Cairo University | Graduate Studies in Europe | Graduate Studies in the United States | Graduate Studies in Canada |
+| [Graduate Studies at Cairo University](#CUFE) | [Graduate Studies in Europe](#EUROPE) | [Graduate Studies in the United States](#USA) | [Graduate Studies in Canada](#CANADA) |
 |--------------------------------------|-----------------------------|--------------------------------------|----------------------------|
 
 But before we do this, lets motivate you to pursue graduate studies.
@@ -44,7 +44,7 @@ It follows that the benefits we mentioned above apply to both MS and PhD degrees
 
 ![image](https://i.imgur.com/f0Jqvs1.jpg)
 
-## 🇪🇬 Graduate Studies at Cairo University
+## 🇪🇬 Graduate Studies at Cairo University<a id='CUFE'></a>
 In this we focus on the MS program at our department (computer engineering).
 
 ### 📝 Application Requirements
@@ -68,7 +68,7 @@ A list of the courses that you will choose from is [shown here](https://eng.cu.e
 Overall, the main distinction of the MS program from undergrad is the thesis requirement which can be quite challenging (but also quite rewarding if done right by opening opportunities for a PhD abroad). It's possible to pursue a PhD after finishing the MS at our department (more courses and a more demanding thesis). You become a faculty professor whether you finish your PhD in our department or abroad.
 
 ![image](https://study-eu.s3.eu-west-1.amazonaws.com/uploads/image/path/46/wide_fullhd_15317597976_b86a01bd5e_o.jpg)
-## 🇪🇺 Graduate Studies in Europe 
+## 🇪🇺 Graduate Studies in Europe<a id='EUROPE'></a>
 Another quite popular option is to pursue your graduate studies in Europe. We will focus on Germany here but other countries in Europe may share some similarities. One reason Germany is among the best places where you can have your MS is that it's only about 3.5 hours to Egypt (by airplane). Meanwhile, a ticket from Egypt to the U.S./Canada is often 15+ hours.
 
 Special thanks to [Eng. Mohamed Hadidy](https://www.linkedin.com/in/mohamed-khaled-52425419b/) for his assistance in this section.
@@ -140,7 +140,7 @@ Learn more about lives of Egyptian students in Germany by watching [this](https:
 
 ![image](https://cloudfront.american.edu/assets/2021-images/classroom.jpg)
 
-## 🇺🇸 Graduate Studies in the United States
+## 🇺🇸 Graduate Studies in the United States<a id='USA'></a>
 The U.S. follows a different system compared to Germany. To start off, the vast majority of MS opportunities in the U.S. are paid (and it's too expensive). Unless you get there via some external scholarship/fellowship such as [FullBright](https://fulbright-egypt.org/). For this reason, you will find that most popular opportunity in the U.S. for Egyptian students is to get a PhD in the U.S.
 
 PhDs in the U.S. usually take 4-6 years and have four special properties:
@@ -215,5 +215,5 @@ Usually either get hired at a company to work on research (MAANG like to hire go
 
 ![image](https://yfile.news.yorku.ca/wp-content/uploads/2020/12/Vari-Hall.jpg)
 
-## 🇨🇦 Graduate Studies in Canada
+## 🇨🇦 Graduate Studies in Canada<a id='CANADA'></a>
 Usually like Germany for MS and like the U.S. for PhD (but depends on university). We may refine this section later.

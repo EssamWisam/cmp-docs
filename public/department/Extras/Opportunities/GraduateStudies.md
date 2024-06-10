@@ -40,7 +40,7 @@ An MS degree typically covers advanced courses in your field (along with project
 
 In contrast to an MS program, a PhD curriculum typically includes coursework but places a greater emphasis on research. While an MS thesis may sometimes feel like a semester-long project, a PhD dissertation usually includes rigorous investigation into complex research questions, which can span more than two years. Moreover, in some regions it's necessary to hold an MS degree before considering a PhD.
 
-It follows that the benefits we mentioned above apply to both MS and PhD degrees except that some them are leveraged even more effectively with a PhD (e.g., PhD applicants would stand out even from MS applicants). Moreover, a PhD makes it possible to work as a professor (teaching) and advise other students in their MS/PhD journeys (research). This type of work (at a university) is often viewed to be more flexible than working in the industry for some research group.
+It follows that the benefits we mentioned above apply to both MS and PhD degrees except that some of them are leveraged even more effectively with a PhD (e.g., PhD applicants would stand out even from MS applicants). Moreover, a PhD makes it possible to work as a professor (teaching) and advise other students in their MS/PhD journeys (research). This type of work (at a university) is often viewed to be more flexible than working in the industry for some research group.
 
 ![image](https://i.imgur.com/f0Jqvs1.jpg)
 

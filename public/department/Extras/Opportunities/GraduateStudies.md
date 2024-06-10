@@ -179,7 +179,7 @@ The requirements are as follows:
 You easily request these from student affairs after graduation (or before for transcript). The transcript details all the courses you covered and your grades in them. You may need to submit extra material in case the transcript doesn't write the names of the chosen electives.
 
 #### Proof of English proficiency 
-Programs usually require TOEFL or IELTS (in some cases only TOEFL and in some cases they even accept Duolingo) and it's not so common for them to just accept that your BS was in English to waive this requirement. There is a plethora of online resources to prepare to taking either of these.
+Programs usually require TOEFL or IELTS (in some cases only TOEFL and in some cases they even accept Duolingo) and it's not so common for them to just accept that your BS was in English to waive this requirement. There is a plethora of online resources to prepare for taking either of these.
 
 #### Three recommendation letters
 Usually submitted by recommenders themselves to the portal (you write their email and they get instructions for how to do it). Usually can have at most one non-academic recommender (i.e., not a professor but rather a manager or something).

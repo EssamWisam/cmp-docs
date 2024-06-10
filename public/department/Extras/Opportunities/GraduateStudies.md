@@ -4,7 +4,7 @@ In this, we wish to talk about four common pathways after graduation for graduat
 | Graduate Studies at Cairo University | Graduate Studies in Europe | Graduate Studies in the United States | Graduate Studies in Canada |
 |--------------------------------------|-----------------------------|--------------------------------------|----------------------------|
 
-But before we do this, lets motivate you to pursue graduate studies.
+But before we do this, let's motivate you to pursue graduate studies.
 
 ![image](https://i.gifer.com/2PHb.gif)
 

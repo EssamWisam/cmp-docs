@@ -50,7 +50,7 @@ In this we focus on the MS program at our department (computer engineering).
 ### 📝 Application Requirements
 If you were among the top ten students in your class then you may be qualified to have your MS at our department for free. Offers are usually sent a year after you graduate (but you can request to start the MS before that), and go over higher ranking students first, and require you to be an internal teaching assistant as well.
 
-In any case, you can apply as an ordinary student for MS regardless of your academic performance. Although MS at our department it follows credit hours system, it's much less expensive (e.g., two years ago it was 25-30K).
+In any case, you can apply as an ordinary student for MS regardless of your academic performance. Although MS at our department follows credit hours system, it's much less expensive (e.g., two years ago it was 25-30K).
 
 In case you were not an undergrad at our department, you may be requested to cover prerequisite undergraduate courses before starting your MS.
 

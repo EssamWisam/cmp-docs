@@ -33,7 +33,7 @@ Do you have a thirst to dive deeper and understand more? A desire to continuousl
 If you answered "yes" to these, or at least "no" while being open to a "yes" in the future as such skills are enhanced, then it will likely and logically be naturally fulfilling for you to pursue graduate studies.
 
 ### 5. Networking Opportunities
-You get the chance to meet other advanced students and professor which can open up opportunities for you. We know for sure that you truly miss the ability to be in an academic society as in your Bachelors; this is an opportunity to get back to a similar experience.
+You get the chance to meet other advanced students and professors which can open up opportunities for you. We know for sure that you truly miss the ability to be in an academic society as in your Bachelors; this is an opportunity to get back to a similar experience.
 
 ## 💡 MS/PhD Basics
 An MS degree typically covers advanced courses in your field (along with projects) and may or may not involve significant research work depending on whether it's a Thesis Master's degree or a Non-Thesis Master's degree. A thesis is a long document exposing original research work you did through your masters. 

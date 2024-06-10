@@ -120,10 +120,26 @@ sections:
             label_ar: دفعة ٢١
             icon: MdAdjust
             link: "Extras/GPs/G2021.yaml"
-      - label: Summer Courses
-        label_ar: تدريبات صيفية
-        icon: MdGolfCourse
-        link: "Extras/SummerCourses.yaml"
+      - label: Opportunities
+        label_ar: فرص مختلفة
+        icon: MdTrackChanges
+        items:
+          - label: Google Summer of Code
+            label_ar: صيف جوجل البرمجي 
+            icon: MdBeachAccess
+            link: "Extras/Opportunities/GSoC.md"
+          - label: Teaching Positions
+            label_ar: فرص تدريس
+            icon:  MdDriveFileRenameOutline
+            link: "Extras/Opportunities/TeachingPositions.md"
+          - label: Summer Courses
+            label_ar: تدريبات صيفية
+            icon: MdGolfCourse
+            link: "Extras/Opportunities/SummerCourses.yaml"
+          - label: Graduate Studies
+            label_ar: الدراسات العليا
+            icon:  MdSchool
+            link: "Extras/Opportunities/GraduateStudies.md"
       - label: About
         label_ar: حول الصفحة
         icon: MdInfo

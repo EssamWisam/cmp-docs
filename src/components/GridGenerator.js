@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 // components
-import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
+import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
 import PureModal from 'react-pure-modal';
 import LazyImage from './LazyImage';
 import Tooltip from '@mui/material/Tooltip';
@@ -34,7 +34,7 @@ const GridGenerator = ({ jsonData, setHoverStatus, currentMarkdown }) => {
           alt={person.name}
           onError={(event) => event.target.src = placeholderUrl(person)} />
         <h2>{person.name}</h2>
-        <h4>{person.title}</h4>
+        <h4 style={{color: "#FFB300"}}>{person.title}</h4>
       </div>)
     )
   }

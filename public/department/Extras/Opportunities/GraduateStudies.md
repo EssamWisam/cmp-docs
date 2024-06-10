@@ -16,7 +16,7 @@ There are a couple of reasons why it may be a great idea for you to pursue gradu
 
 Graduate studies offer an opportunity to acquire in-depth knowledge and solve unanswered questions. Have you ever hoped to make a great positive impact in our world? Advancements in technology (e.g., ChatGPT) are in general a result of collaborative research which is exactly what you can get trained to do in graduate studies.
 
-### 2. Stand Out from the Rest of the Work Force
+### 2. Stand Out from the Rest of the Workforce
 
 Computer science jobs nowadays are highly competitive. We can categorize such jobs into four categories: (i), jobs were at least MS degree is required; (ii), jobs were it's explicitly mentioned that at least MS degree is preferred; (iii), jobs were it's not explicitly mentioned that MS degree is preferred but where it actually gives applicant an advantage by logic; and (iv), jobs where at least having a MS degree makes no difference.
 

@@ -156,7 +156,7 @@ Moreover, many PhD programs are fine to award you with both a PhD and MS degree 
 #### 3. They are almost always fully funded
 That is, you pay nothing; in fact, you get paid (e.g., around $2K to $4K a month depending on the location and university). Usually the more expensive the area of the university is, the higher the stipend is.
 
-In return, you either do research and teaching with your PhD supervisor or just research. In the first case, it's called a Teaching Assistanship and in the latter case, it's called a Research Assistanship. Teaching duties are usually not that significant compared to Egypt.
+In return, you either do research and teaching with your PhD supervisor or just research. In the first case, it's called a Teaching Assistantship and in the latter case, it's called a Research Assistantship. Teaching duties are usually not that significant compared to Egypt.
 
 In summary, if you get accepted into a PhD program, you don't worry about funding because it will be covered.
 

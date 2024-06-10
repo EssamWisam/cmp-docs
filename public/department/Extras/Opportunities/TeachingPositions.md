@@ -81,7 +81,7 @@ In particular, you need to fulfill seven major duties as a teaching assistant:
  
  - Take attendance.
 
-- Provide office hours and respond to student inquires in timely manner
+- Provide office hours and respond to student inquiries in timely manner
 
 - Respect towards everyone.
 

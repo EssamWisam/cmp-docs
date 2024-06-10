@@ -154,7 +154,7 @@ This is the normal case in the U.S. People that consider an MS usually consider 
 Moreover, many PhD programs are fine to award you with both a PhD and MS degree after your PhD if you fill some extra papers (without taking extra courses or doing extra research).
 
 #### 3. They are almost always fully funded
-That is, you pay nothing; in fact, you get paid (e.g., around $2K to $4K a month depending on the location and university). Usually the more expensive the area of the university is, the higher is a stipend.
+That is, you pay nothing; in fact, you get paid (e.g., around $2K to $4K a month depending on the location and university). Usually the more expensive the area of the university is, the higher the stipend is.
 
 In return, you either do research and teaching with your PhD supervisor or just research. In the first case, it's called a Teaching Assistanship and in the latter case, it's called a Research Assistanship. Teaching duties are usually not that significant compared to Egypt.
 

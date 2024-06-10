@@ -141,7 +141,7 @@ Learn more about lives of Egyptian students in Germany by watching [this](https:
 ![image](https://cloudfront.american.edu/assets/2021-images/classroom.jpg)
 
 ## 🇺🇸 Graduate Studies in the United States
-The U.S. follows a different system compared to Germany. To start off, the vast majority of MS opportunities in the U.S. are paid (and it's too expensive). Unless you get there via some external scholarship/fellowship such as [FullBright](https://fulbright-egypt.org/). For this reason, you will find that most popular opportunity in the U.S. for Egyptian students is to get a PhD in the U.S.
+The U.S. follows a different system compared to Germany. To start off, the vast majority of MS opportunities in the U.S. are paid (and it's too expensive). Unless you get there via some external scholarship/fellowship such as [FullBright](https://fulbright-egypt.org/). For this reason, you will find that the most popular opportunity in the U.S. for Egyptian students is to get a PhD in the U.S.
 
 PhDs in the U.S. usually take 4-6 years and have four special properties:
 

@@ -112,7 +112,7 @@ Now let's talk about the important stuff.
 #### Cost of Education
 Usually, most German master programs are almost free of charge (around €200-€400 per semester).
 
-However, for some regions like the one of Stuttgart or Freiburg it may cost €1000-€2000 per semester. Lately a famous university like Technical university of Munich became very expensive (more than €4000 euros per semester) so it can vary, but yet free programs are very common and you should be able to find them.
+However, for some regions like the one of Stuttgart or Freiburg it may cost €1000-€2000 per semester. Lately a famous university like Technical University of Munich has become very expensive (more than €4000 euros per semester) so it can vary, but yet free programs are very common and you should be able to find them.
 
 #### Monthly Expenses Breakdown
 €300-€500 + €125 + €200-€300 + €0 for rent including all bills + health insurance + raw food + transport respectively. Transport is free for students and bills include water, gas and electricity.

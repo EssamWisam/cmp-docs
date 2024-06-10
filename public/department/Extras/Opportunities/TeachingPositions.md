@@ -38,12 +38,12 @@ In other words, it's an excellent opportunity to peak at the learning curve of a
 Moreover, it's widely known (as in the Feynman technique) that teaching uncovers gaps or incorrect understanding in your knowledge that could have been left unresolved otherwise and the proper resolution to resolve these gaps is often to deepen your understanding.
 
 ### 4. Shines on Your Resume
-Suppose you apply to work at company X in field Y which you taught as a TA. First, being a TA which implies the deeper understanding will give you an edge (in that dimension) over most other applications and second, you will probably do pretty well in the technical interview as a result of such a deep understanding (e.g., by providing more elaborate and sophisticated answers). 
+Suppose you apply to work at company X in field Y which you taught as a TA. First, being a TA which implies a deeper understanding will give you an edge (in that dimension) over most other applications and second, you will probably do pretty well in the technical interview as a result of such a deep understanding (e.g., by providing more elaborate and sophisticated answers). 
 
 Don't forget that by this, you are also a TA at the #1 university in Egypt.
 
 ### 5. Enhance Your Soft Skills and Gain More
-You can easily derive that you will learn to be better at skills such as communication, explanation, time management, conflict resolution and more as a result of such experience. It's also a great networking opportunity (with professors and students also graduate soon).
+You can easily derive that you will learn to be better at skills such as communication, explanation, time management, conflict resolution and more as a result of such experience. It's also a great networking opportunity (with professors and students also graduating soon).
 
 ### 6. It's a Fulfilling Job
 With every tutorial, you feel fulfilled (i.e., happy and rewarding) that you were able to make a positive impact on other people by delivering the tutorial.
@@ -79,9 +79,9 @@ In particular, you need to fulfill seven major duties as a teaching assistant:
 
 - Grade labs/assignments/Project/..etc.
  
- - Take attendances.
+ - Take attendance.
 
-- Provide office hours and respond to student inquires in timely manner
+- Provide office hours and respond to student inquiries in timely manner
 
 - Respect towards everyone.
 
@@ -95,4 +95,4 @@ Your default rights as a TA are as follows:
 Moreover, you may request an academic email during your career as a TA and an experience certificate after you finish.
 ![image](https://gifdb.com/images/high/allen-zach-galifianakis-math-calculation-oxh2zx9mj99c5fpo.gif)
 
-⭐ That's it! We hope you contribute in making a positive difference for other by considering being a TA at a subject you love and would be good to teach.
+⭐ That's it! We hope you contribute in making a positive difference for others by considering being a TA at a subject you love and would be good to teach.

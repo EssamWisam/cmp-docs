@@ -8,7 +8,8 @@ import SidebarGenerator from './SidebarGenerator';
 import GridGenerator from './GridGenerator';
 // markdown components
 import ReactMarkdown from 'react-markdown'
-import remarkGfm from 'remark-gfm'
+import rehypeRaw from "rehype-raw";
+import remarkGfm from 'remark-gfm';
 // themes and hex to rgba converter
 import {themes, hexToRgba, saveSet, init} from './themes';
 // css
@@ -96,7 +97,7 @@ const Home = () => {
           <div class="after"></div>
         </div>
         {(!isGridPage)?
-        <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} />
+        <ReactMarkdown children={markdown} remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}/>
         :
         <GridGenerator jsonData={jsonData} setHoverStatus={setHoverStatus} currentMarkdown={currentMarkdown}/>
         }

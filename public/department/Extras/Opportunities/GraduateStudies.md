@@ -126,7 +126,7 @@ I. Make what's known as a blocked account which has at least around €11400 (th
 
 II. Get a scholarship that clearly gives you at least around 1000 euros a month for 2 years. E.g., Search for DAAD scholarships, you can also book a free appointment with them and get a consultation session from their quarters in Zamalek.
 
-III. Make someone in Germany demonstrate ability of covering you financially (this may be risky for them so this option only makes sense if you have a close relative in Germany).
+III. Make someone in Germany demonstrate the ability of covering you financially (this may be risky for them so this option only makes sense if you have a close relative in Germany).
 
 The most popular option is perhaps to make the blocked account and try to work during MS in Germany (part-time is allowed) so that you don't use much of that money. Understand more about blocked accounts by [watching this](https://www.youtube.com/watch?v=M9pzM-a-sOk&pp=ygUpZmludGliYSBibG9ja2VkIGFjY291bnQgbW9oYW1lZCBlbGJhc2lvbnk%3D).
 

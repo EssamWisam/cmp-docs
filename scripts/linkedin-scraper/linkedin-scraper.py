@@ -306,7 +306,8 @@ def scrape_profile(driver, url):
 
 if __name__ == '__main__':
     arg_parser = ArgumentParser()
-    arg_parser.add_argument("class_yaml_file")
+    arg_parser.add_argument("class_yaml_file", help="Path to the YAML file (mandatory)")
+    arg_parser.add_argument("--start-no", help="Optional starting number", type=int, default=1)
 
     args = arg_parser.parse_args()
 
@@ -314,6 +315,7 @@ if __name__ == '__main__':
     class_yaml = yaml.load(class_yaml_file, Loader=yaml.Loader)
     class_yaml_file.close()
 
+    start_no = args.start_no
     # Who wrote this yaml file??
     class_students = class_yaml[0]['items'][0]['items']
     new_class_students = class_students
@@ -326,6 +328,9 @@ if __name__ == '__main__':
 
     try:
         for i, student in enumerate(class_students):
+
+            if start_no is not None and i < start_no-1:
+                continue
 
             # Need to restart chrome every so often since it seems to leak memory.
             # Otherwise, we'd run out of memory.
@@ -382,11 +387,6 @@ if __name__ == '__main__':
 
     finally:
         driver.close()
-
-    arg_parser = ArgumentParser()
-    arg_parser.add_argument("class_yaml_file")
-
-    args = arg_parser.parse_args()
 
     file_path = Path(args.class_yaml_file)
 

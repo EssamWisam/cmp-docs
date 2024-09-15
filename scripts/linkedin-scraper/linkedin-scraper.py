@@ -257,6 +257,7 @@ class NoTitleException(Exception):
 def scrape_profile(driver, url):
     driver.get(url)
 
+    time.sleep(10)
     time.sleep(randint(5, 10))
 
     if is_join_page(driver.page_source):

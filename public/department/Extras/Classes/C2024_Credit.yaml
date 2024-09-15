@@ -114,7 +114,7 @@
       top_skills: null
       current_position: null
     - name: Khaled Mamdouh
-      image: https://media.licdn.com/dms/image/C4D03AQFs7ESzlXCQTQ/profile-displayphoto-shrink_200_200/0/1635702211865?e=1727913600&v=beta&t=ctamqvzT8LDNEh65jksfbX4IEPIrx2TjE3SRC2mLrBs
+      image: https://media.licdn.com/dms/image/v2/D4D35AQHDhv-nvKF1vQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725544612384?e=1726992000&v=beta&t=j0HETKgKg6rUncflrThvCsZTfseWk5hZQJuWXZKQSOs
       linkedin_url: https://www.linkedin.com/in/khalidmamdou7/
       markdown: You can know more about Khaled and reach him out by visiting his [LinkedIn]()
         and [GitHub](https://github.com/khalidmamdou7) profile.
@@ -269,7 +269,7 @@
       top_skills: null
       current_position: null
     - name: Ali Hashish
-      image: https://media.licdn.com/dms/image/C5603AQEXMQ-01G2EYA/profile-displayphoto-shrink_200_200/0/1600817991312?e=1727913600&v=beta&t=pQWX0vomkkpDk1fPn3H2HiDc_cU5wDmMtX4VIMM1V-c
+      image: https://media.licdn.com/dms/image/v2/C5603AQEXMQ-01G2EYA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1600817991312?e=1732147200&v=beta&t=c7Ha7_l7ajlnpH4LEWiF_MxgFompWeZoVWTFpRNhFXs
       linkedin_url: https://www.linkedin.com/in/ali-hashish/
       markdown: You can know more about Ali and reach him out by visiting his [LinkedIn]()
         and [GitHub](https://github.com/AliHashish) profile.
@@ -320,14 +320,15 @@
       top_skills: null
       current_position: null
     - name: Omar Amin
-      image: https://media.licdn.com/dms/image/D5603AQFfFajRTTDA5g/profile-displayphoto-shrink_200_200/0/1714373617233?e=1727913600&v=beta&t=Iti57O18si1CiDC1_MV-fBASTqLk7uY_o4hpP4v86ok
+      image: https://media.licdn.com/dms/image/v2/D5603AQFfFajRTTDA5g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714373617233?e=1732147200&v=beta&t=8zj5O1zd4kj4n9u7KyOKvIpfOMEba6_O2SW8UAgeyco
       linkedin_url: https://www.linkedin.com/in/omar-amin-6bb1961ab/
       markdown: You can know more about Omar and reach him out by visiting his [LinkedIn]()
         and [GitHub](https://github.com/oamin12) profile.
       title: SWE @ Microsoft | Computer Engineering Graduate of Cairo University
-      top_skills: null
+      top_skills: Back-End Web Development, Front-End Development, Big Data, Multithreaded
+        Development, Project Management
       current_position: Software Engineer, Microsoft · Full-time, May 2024 - Present
-        · 4 mos
+        · 5 mos
     - name: Omar Fahiem
       image: null
       markdown: This is one fantastic CCEC student

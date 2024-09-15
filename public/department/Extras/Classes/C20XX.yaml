@@ -4,9 +4,9 @@
     remarkable ease, crafting remarkable innovations effortlessly.
   markdown_title: Student Info
   items:
-    - title: 📃 Class Roster
-      description: Members of the class are as follows
-      items:
-        - name: Example Student
-          linkedin_url: https://www.linkedin.com/in/
-          markdown: Example info about student...
+  - title: 📃 Class Roster
+    description: Members of the class are as follows
+    items:
+    - name: Example Student
+      linkedin_url: https://www.linkedin.com/in/
+      markdown: Example info about student...

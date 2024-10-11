@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 7 1,15 * *' # Runs every 1st & 15th of each month at 7 am.
+    - cron: '0 7 1 * *' # Runs on the 1st of each month at 7 am UTC.
   workflow_dispatch: # Allows manual triggering of the workflowname: Create an issue on push
 permissions:
   contents: read

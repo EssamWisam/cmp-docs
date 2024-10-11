@@ -1,7 +1,7 @@
 ---
 title: ⏰ Reminder to Run LinkedIn Scraper
 ---
-It's been two weeks.
+It's been a month!
 
 It's time to run the LinkedIn script to get the latest titles and current positions of CMP students and graduates.
 

@@ -1,58 +1,8 @@
-import json
 from linkedin_api import Linkedin
 from requests.cookies import RequestsCookieJar
 from typing import Optional, List, Dict, Union
 
-def load_cookies_from_json(filename: str) -> RequestsCookieJar:
-    """
-    Load cookies from a JSON file into a RequestsCookieJar object suitable for use with requests.
-
-    Args:
-        filename (str): The path to the JSON file containing cookies in a specific format.
-
-    Returns:
-        RequestsCookieJar: An object containing cookies parsed from the JSON file.
-    """
-    # Create a RequestsCookieJar object to store cookies
-    jar = RequestsCookieJar()
-
-    # Open and load the JSON file containing cookies
-    with open(filename, 'r') as f:
-        cookie_data = json.load(f)
-
-    # Iterate over each cookie in the data and add it to the jar
-    for cookie in cookie_data:
-        # Ensure the cookie has required keys before adding it to the jar
-        if all(key in cookie for key in ('name', 'value', 'domain', 'path')):
-            jar.set(
-                name=cookie['name'],
-                value=cookie['value'],
-                domain=cookie['domain'],
-                path=cookie['path']
-            )
-        else:
-            raise ValueError("A Cookie entry is missing required keys: 'name', 'value', 'domain', or 'path'.")
-
-    return jar
-
-def get_linkedin_public_id(url: str) -> Union[str, None]:
-    """
-    Extracts the public ID from a LinkedIn profile URL.
-
-    Args:
-        url (str): The LinkedIn profile URL.
-
-    Returns:
-        str: The public ID of the profile, or None if the URL is invalid.
-    """
-    # Split the URL on '/' to get individual segments
-    url_parts = url.split("/")
-
-    # Check if the URL structure is valid (in/username)
-    if len(url_parts) >= 5 and url_parts[3] == "in":
-        return url_parts[4]
-    else:
-        return None
+from utils import load_cookies_from_json, get_linkedin_public_id, get_latest_position
 
 class LinkedProfileScraper:
     """
@@ -111,9 +61,10 @@ class LinkedProfileScraper:
         """
         # Check if 'experience' exists and contains entries
         if 'experience' in profile and isinstance(profile['experience'], list) and len(profile['experience']) > 0:
-            current_experience = profile['experience'][0]
-            # Return formatted current position
-            return f"{current_experience['title']}, {current_experience['companyName']}"
+            current_position = get_latest_position(profile['experience'])
+            # Return formatted current position =>
+            # {title}, {company} · {start_month} {start_year} - Present · {total_years} yr {total_months} mos
+            return f"{current_position['title']}, {current_position['company']} · {current_position['start_month']} {current_position['start_year']} - Present · {current_position["years"]} yr {current_position["months"]} mos"
         else:
             return None
 

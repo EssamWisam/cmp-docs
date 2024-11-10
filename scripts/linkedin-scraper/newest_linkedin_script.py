@@ -1,8 +1,10 @@
+import os
 import json
 import time
 import yaml
 from pathlib import Path
 from random import randint
+from argparse import ArgumentParser
 
 from utils import load_cookies_from_json
 from linkedin_profile_scraper import LinkedProfileScraper
@@ -106,16 +108,32 @@ def get_class_data(class_yaml_file_path: str, scraper: LinkedProfileScraper, sta
         
 if __name__ == '__main__':
     
+    arg_parser = ArgumentParser()
+    arg_parser.add_argument("class_yaml_file", help="Path to the YAML file (mandatory)")
+    arg_parser.add_argument("--start-no", help="Optional starting index", type=int, default=1)
+    arg_parser.add_argument("--end-no", help="Optional stopping index", type=int, default=1)
+
+    args = arg_parser.parse_args()
+    yaml_file_path = args.class_yaml_file
+    start_no = args.start_no
+    end_no = args.end_no
+         
     cookies_file = './scripts/linkedin-scraper/cookies.json'
     cookies = load_cookies_from_json(cookies_file)
     
     lps = LinkedProfileScraper(cookies=cookies)
-    profiles_data, raw_profiles_data = get_class_data("./public/department/Extras/Classes/C2023.yaml", lps)
+    profiles_data, raw_profiles_data = get_class_data(yaml_file_path, lps,start_no=start_no, end_no=end_no)
+
+    # Get the file name from the full path
+    file_name_with_path = os.path.basename(yaml_file_path)
+
+    # Split the file name and extension
+    name, _ = os.path.splitext(file_name_with_path)
 
     # Write the dictionary to a JSON file
-    with open("./scripts/linkedin-scraper/data/C2023_summary.json", 'w') as f:
+    with open(f"./scripts/linkedin-scraper/data/{name}_summary.json", 'w') as f:
         json.dump(profiles_data, f, indent=4)  
         
     # Write the dictionary to a JSON file
-    with open("./scripts/linkedin-scraper/data/C2023_raw.json", 'w') as f:
+    with open(f"./scripts/linkedin-scraper/data/{name}_raw.json", 'w') as f:
         json.dump(raw_profiles_data, f, indent=4)

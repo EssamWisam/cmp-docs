@@ -149,15 +149,9 @@ if __name__ == '__main__':
     cookies = load_cookies_from_json(cookies_file)
     
     lps = LinkedProfileScraper(cookies=cookies)
-    # students_data = lps.get_all_student_details("https://www.linkedin.com/in/iten-elhak/")
-    # print(students_data)
     
     students_data, students_profiles = lps.batch_get_all_student_details([
         "https://www.linkedin.com/in/iten-elhak/",
     ])
-    print(students_data)
     
-    # import json
-    # # Write the dictionary to a JSON file
-    # with open("all_data.json", 'w') as f:
-    #     json.dump(students_profiles, f, indent=4)  
+    print(students_data)

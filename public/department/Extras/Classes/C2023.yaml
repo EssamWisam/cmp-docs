@@ -8,32 +8,30 @@
     description: Members of the class are as follows
     items:
     - name: Ahmed Ayman Ahmed
-      image: https://media.licdn.com/dms/image/v2/D4D35AQFYdBgDNeIu1w/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725524215673?e=1726981200&v=beta&t=svCuhAuAMHKqQr-bNzjxlIlw1DdmcVdYfziMeQJU7cI
+      image: https://media.licdn.com/dms/image/v2/D4D03AQH5xYF1a5ywnQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725216028204?e=1736380800&v=beta&t=uNLQ8Cpc_qwT3H-TJb_bYK3b6kWKLDOrC6nID5NM7NM
       linkedin_url: https://www.linkedin.com/in/ahmed-ayman-824107216
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software engineer at Ejada
-      top_skills: Node.js, Angular, React.js, Scripting, MongoDB
-      current_position: Angular Developer, EJADA · Full-time, Oct 2023 - Present ·
-        1 yr
+      top_skills: Apache, Microsoft Azure, Microsoft SQL Server, Apigee API Management
+      current_position: Software Engineer, EJADA · Oct 2023 - Present · 1 yr 2 mos
     - name: Ahmed Ihab Yosry
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGP6952X67hww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716033597607?e=1732147200&v=beta&t=VucGpMFFPnjzLceI_osVcRphq99L1R-b9RG1OrISBcY
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGP6952X67hww/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1716033597607?e=1736380800&v=beta&t=uiQs4mgJKtTOu5hlnNWOOmlXMihYWfCZ5aNzQDIcKHk
       linkedin_url: https://www.linkedin.com/in/ahmed-ihab-54b1a1195
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Senior DevOps Engineer @_VOIS | CKA
-      top_skills: null
-      current_position: Senior DevOps Engineer, _VOIS · Full-time, Feb 2024 - Present
-        · 8 mos
+      top_skills: CMake, CI/CD, Jira, Jenkins
+      current_position: Senior DevOps Engineer, _VOIS · Feb 2024 - Present 10 mos
     - name: Ahmed Gamal Abdelsamea
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646849433633?e=1732147200&v=beta&t=zJa1qH5wppU_dTKMNrXftXfAQhbAlYJvB9_wj_eYlHw
+      image: https://media.licdn.com/dms/image/v2/C4D03AQEHtr_qqXszkw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646849433633?e=1736380800&v=beta&t=4b0wDN6HAFd3FFdzNKF-XtP3ckKVzWrOgzF3k4pRKA0
       linkedin_url: https://www.linkedin.com/in/ahmed-gamal01/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software QA Engineer @Siemens EDA
-      top_skills: null
+      top_skills: React.js, TypeScript, Cybersecurity, Artificial Intelligence (AI)
       current_position: Software Quality Assurance Engineer, Siemens EDA (Siemens
-        Digital Industries Software) · Full-time, Dec 2023 - Present · 10 mos
+        Digital Industries Software) · Dec 2023 - Present · 1 yr
     - name: Ahmed Hamdy Mohamed
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -43,34 +41,32 @@
       top_skills: null
       current_position: null
     - name: Ahmed Khaled Mahmoud
-      image: https://media.licdn.com/dms/image/v2/C5603AQEs20ih7CUsEA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644320884075?e=1733961600&v=beta&t=epu-fjYz3JCm17yb5e6nj9TCbyTw_i5u_rVilAr-jD0
+      image: https://media.licdn.com/dms/image/v2/C5603AQEs20ih7CUsEA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1644320884075?e=1736380800&v=beta&t=-JFZg9AEENhjwU5pCMVBgm9ALJLs0Ctde2mgIsOBf5Q
       linkedin_url: https://www.linkedin.com/in/ahmed-khaled-a53363193/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Finance as it should be with NetSuite, Yokoy, and Inplenion/Cloudmaven
         as your Strategic Advisor.
-      top_skills: null
-      current_position: Full-stack Developer, Cloudmaven ERP · Full-time, Jul 2024
-        - Present · 4 mos
+      top_skills: Laravel, Jest, suitescript, NetSuite
+      current_position: Full-stack Developer, Cloudmaven ERP · Jul 2024 - Present
+        5 mos
     - name: Ahmed Sayed Abdullah
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEJT3N8s0-9Qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673017075338?e=1732147200&v=beta&t=wkRFjZOprukpcDoglHOBOTKM7_9Y2BYbktvLA58Gz4w
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEJT3N8s0-9Qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673017075338?e=1736380800&v=beta&t=q3xcgtWVWXwfAYaslD9McAb4guiQCXfBKSdRbzvJgP8
       linkedin_url: https://www.linkedin.com/in/ahmed-sayed-82a5961b5/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Big Data Engineer @EJADA
-      top_skills: null
-      current_position: Data Engineer, EJADA · Full-time, Sep 2023 - Present · 1 yr
-        1 mo
+      top_skills: Data Virtualization, Cloudera, Google Cloud Platform (GCP), Scala
+        in Spark
+      current_position: Data Engineer, EJADA · Sep 2023 - Present · 1 yr 3 mos
     - name: Ahmed Emad Eldin
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFpU8PuX8PRMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695410036093?e=1733961600&v=beta&t=TAuKjglt-30RM2aTkL0s48aFG4XWk2WlxJgKK0MMbDE
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFpU8PuX8PRMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695410036093?e=1736380800&v=beta&t=Sp81VLhU4zX3HsJwILdDfdiCi7IKwQ8FNjdqRdUE4ZI
       linkedin_url: https://www.linkedin.com/in/ahmed-emad-b8aa371a4/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Data & Analytics Engineer @Ejada
-      top_skills: Object-Oriented Programming (OOP), Data Structures, Algorithms,
-        Databases, Software Development
-      current_position: Software Engineer, EJADA · Full-time, Jan 2024 - Present ·
-        10 mos
+      top_skills: Microsoft Power BI, Data Modeling, DAX, Information Visualization
+      current_position: Software Engineer, EJADA · Jan 2024 - Present 11 mos
     - name: Ahmed Mohamed Ibrahim
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -80,23 +76,22 @@
       top_skills: null
       current_position: null
     - name: Ahmed Mohamed Abdelhamed
-      image: https://media.licdn.com/dms/image/v2/C4D03AQHLLSv9qeMKew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1604095044656?e=1733961600&v=beta&t=7kgZs0Q0qVumYwJCwC3ZTOmGPtLawCopvnZBA-ar9iE
+      image: https://media.licdn.com/dms/image/v2/C4D03AQHLLSv9qeMKew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1604095044656?e=1736380800&v=beta&t=7DqhsQMilRgCu2L1c0MxPzS2BFaYCVDWWhr5KNfeeT8
       linkedin_url: https://www.linkedin.com/in/ahmed--mohamed/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @ siemens EDA
-      top_skills: null
+      top_skills: Computer Science, Design Patterns, Linux, C (Programming Language)
       current_position: Software Engineer, Siemens EDA (Siemens Digital Industries
-        Software), Apr 2024 to Present · 7 mos
+        Software) · Nov 2022 - Present · 2 yr 10 mos
     - name: Ahmed Mahmoud ElGhareeb
-      image: https://media.licdn.com/dms/image/v2/C4E03AQH2DJsvo1VLXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646243329706?e=1733961600&v=beta&t=G1B0zciqienT9HGrlXaAaQ_gzno8EGI_LmyKW6SxnyQ
+      image: https://media.licdn.com/dms/image/v2/C4E03AQH2DJsvo1VLXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1646243329706?e=1736380800&v=beta&t=qaqL0hnBWDza-neBZxCqx4rLiL2kq4f13ZzFilRMuwY
       linkedin_url: https://www.linkedin.com/in/ahmed-ghareeb-b762391b2/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @ Microsoft
       top_skills: null
-      current_position: Software Engineer, Microsoft · Full-time, May 2024 - Present
-        · 6 mos
+      current_position: Software Engineer, Microsoft · May 2024 - Present 7 mos
     - name: Ahmed Mahmoud Hafez
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -106,40 +101,40 @@
       top_skills: null
       current_position: null
     - name: Ahmed Mahmoud Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686027677967?e=1733961600&v=beta&t=A37ovcAH_EMoNYOednq5ATEsWA5LXFbtEZKvJBvph04
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686027677967?e=1736380800&v=beta&t=kMfYLGltNz7WKSis7fBABrffmf9d6K0mOyCnOCGhjdc
       linkedin_url: https://www.linkedin.com/in/ahmed-mahmoud-970378205/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @GizaSystems
-      top_skills: null
-      current_position: Software Engineer, Giza Systems, Mar 2024 to Present · 8 mos
+      top_skills: Node.js, TypeScript, React.js, C++
+      current_position: Software Engineer, Giza Systems · Aug 2023 - Present · 1 yr
+        4 mos
     - name: Ahmed Walid Ahmed
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEGbpWkEG8zpA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1660919670912?e=1730332800&v=beta&t=LMSob7y5oZH38U_Vcc1LeOgSG-5WMIkWSUqqHHhyyKA
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFQ8Aw7UxumhA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686027677967?e=1736380800&v=beta&t=kMfYLGltNz7WKSis7fBABrffmf9d6K0mOyCnOCGhjdc
       linkedin_url: https://www.linkedin.com/in/ahmed-waleed-a9b7371a4/
       markdown: You can know more about Ahmed and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer
-      top_skills: null
-      current_position: null
+      title: Software Engineer @GizaSystems
+      top_skills: Node.js, TypeScript, React.js, C++
+      current_position: Software Engineer, Giza Systems · Aug 2023 - Present · 1 yr
+        4 mos
     - name: Osama Magdy Ayed
-      image: https://media.licdn.com/dms/image/v2/C5603AQEBtSyPDYBj7w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1585956118183?e=1732147200&v=beta&t=zqLeU4wSJJ7QOmJbRxcAXAPc893cb6Jx03N4EQajFKM
+      image: https://media.licdn.com/dms/image/v2/C5603AQEBtSyPDYBj7w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1585956118183?e=1736380800&v=beta&t=Xg1yQlsGjMJYBQWcJXmDtfW2l55_7KOTUoLiS6Biiy0
       linkedin_url: https://www.linkedin.com/in/osamamagdy174
       markdown: You can know more about Osama and reach him out by visiting his [LinkedIn]()
         profile.
       title: Senior DevOps Engineer @ _VOIS
-      top_skills: Go (Programming Language), Amazon Web Services (AWS), Continuous
-        Integration and Continuous Delivery (CI/CD), Kubernetes, Terraform
-      current_position: Senior DevOps Engineer, _VOIS · Full-time, Nov 2023 - Present
-        · 11 mos
+      top_skills: Cd, Natural Language Processing (NLP), Tree-Sitter, Security
+      current_position: Senior DevOps Engineer, _VOIS · Nov 2023 - Present · 1 yr
+        1 mos
     - name: Esraa Gamal Saad
-      image: https://media.licdn.com/dms/image/v2/D4D03AQETTrjE0jIbgQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718720223768?e=1732147200&v=beta&t=cOS16rT1YE5PbJxMsok-lOiV2ITpURkoFEVSpXZaH20
+      image: https://media.licdn.com/dms/image/v2/D4D03AQETTrjE0jIbgQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718720223768?e=1736380800&v=beta&t=6xER6RG9dVPFoMF1hse1uO3qOLgkvFv-gHPNeAl-DHc
       linkedin_url: https://www.linkedin.com/in/esraa-gamal-9a048418b/
       markdown: You can know more about Esraa and reach her out by visiting her [LinkedIn]()
         profile.
       title: Software Engineer
-      top_skills: null
-      current_position: Software Engineer, EJADA · Full-time, Sep 2023 - Present ·
-        1 yr 1 mo
+      top_skills: Java, C++, C (Programming Language), python
+      current_position: Software Engineer, EJADA · Sep 2023 - Present · 1 yr 3 mos
     - name: Esraa Amr Mohamed
       image: null
       linkedin_url: https://www.linkedin.com/in/esraa-amr-069113264/
@@ -153,201 +148,198 @@
       linkedin_url: https://www.linkedin.com/in/andrew-boshra-0a94792b8/
       markdown: You can know more about Andrew and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Full Stack Engineer at RENOSYSTEMS
+      title: --
       top_skills: null
       current_position: null
     - name: Iten Emad ElDin
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEjj0T4Q1-gIQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1603962270178?e=1733961600&v=beta&t=JDWJYl5Ro2EmMujVurk5hOSitEsJwSuBinM-7wGDbmk
+      image: https://media.licdn.com/dms/image/v2/C4D03AQEjj0T4Q1-gIQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1603962270178?e=1736380800&v=beta&t=auDEMB614ruiqgT77ywSsLkhuXCjZ-f9UwzrRYv8Y_Y
       linkedin_url: https://www.linkedin.com/in/iten-elhak/
       markdown: You can know more about Iten and reach her out by visiting her [LinkedIn]()
         profile.
-      title: Junior AI Engineer @Ejada
-      top_skills: Machine Learning, Natural Language Processing (NLP), Front-End Development,
-        Research Skills
-      current_position: Junior AI Engineer, EJADA · Full-time, Sep 2023 - Present
-        · 1 yr 2 mos
+      title: AI Engineer @ Ejada
+      top_skills: Natural Language Processing (NLP), Deep Learning, Research Skills,
+        Front-End Development
+      current_position: AI Engineer, EJADA · Sep 2023 - Present · 1 yr 3 mos
     - name: Ayman Mohamed Reda
-      image: https://media.licdn.com/dms/image/v2/C5603AQEiietYKdIPaQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1609794288431?e=1733961600&v=beta&t=3aZ8Dskev_HCfNO_vwhbml7OESOb-He455eVt4dF8Ds
+      image: https://media.licdn.com/dms/image/v2/C5603AQEiietYKdIPaQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1609794288431?e=1736380800&v=beta&t=qK0brrYcl49sjjaZ58mgTUhd6SOJiIuy92ztvc0PvCY
       linkedin_url: https://www.linkedin.com/in/ayman-reda-b845b0203/
       markdown: You can know more about Ayman and reach him out by visiting his [LinkedIn]()
         profile.
       title: External TA @CU || R&D engineer @FoE
-      top_skills: Django, Cybersecurity, Programming, Embedded Systems, Back-End Web
-        Development
+      top_skills: Reverse Engineering, CTF, Malware Analysis, Network Security
       current_position: Research And Development Engineer, Future of Egypt - جهاز
-        مستقبل مصر للتنمية المستدامة · Full-time, Mar 2024 - Present · 8 mos
+        مستقبل مصر للتنمية المستدامة · Mar 2024 - Present 9 mos
     - name: Passant Abdelaziem
       image: null
       linkedin_url: https://www.linkedin.com/in/passant-abdelgalil/
       markdown: You can know more about Passant and reach her out by visiting her
         [LinkedIn]() profile.
       title: Software Engineer
-      top_skills: null
-      current_position: Frontend Engineer, Tactful · Full-time, Jul 2023 - Present
-        · 1 yr 4 mos
+      top_skills: Vue.js, Microfrontend, JavaScript, React.js
+      current_position: Frontend Engineer, Tactful · Jul 2023 - Present · 1 yr 5 mos
     - name: Peter Micheal Azmy
       image: null
       linkedin_url: https://www.linkedin.com/in/peterayad/
       markdown: You can know more about Peter and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Computer Engineer
-      top_skills: null
-      current_position: null
+      title: Software Engineer
+      top_skills: Vue.js, Microfrontend, JavaScript, React.js
+      current_position: Frontend Engineer, Tactful · Jul 2023 - Present · 1 yr 5 mos
     - name: Bishoy Atef Tadros
-      image: https://media.licdn.com/dms/image/v2/D5603AQFqQFts3d8eng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710392821786?e=1732147200&v=beta&t=aprCcMfGDj-29E3OUhjdadfejG5G4mxqk0ivyITMkfI
+      image: null
       linkedin_url: https://www.linkedin.com/in/bishoy-atef-36a0891b0/
       markdown: You can know more about Bishoy and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Development Engineer
-      top_skills: null
-      current_position: null
+      title: Software Engineer
+      top_skills: Vue.js, Microfrontend, JavaScript, React.js
+      current_position: Frontend Engineer, Tactful · Jul 2023 - Present · 1 yr 5 mos
     - name: Gaser Ashraf Fayez
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFUqKfhmq6Vvg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720599861725?e=1732147200&v=beta&t=y9WWgrZ4mhMTu3UT2czXmmcSkyThS-JvQcolp4hrrmY
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFUqKfhmq6Vvg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720599861725?e=1736380800&v=beta&t=gJNkzDSw972nlEe2ot55hlHw-KKzzw0bOn4TOZQUG10
       linkedin_url: https://www.linkedin.com/in/gaser-ashraf
       markdown: You can know more about Gasser and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer at Microsoft
-      top_skills: null
-      current_position: Software Engineer, Microsoft · Full-time, Oct 2023 - Present
-        · 1 yr
+      top_skills: .NET Framework, React.js, C++, Algorithms
+      current_position: Software Engineer, Microsoft · Jul 2022 - Present · 1 yr 5
+        mos
     - name: Hazem Khaled Ahmed
-      image: https://media.licdn.com/dms/image/v2/C4D03AQFXkvVd8-0Yzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652433619427?e=1732147200&v=beta&t=6najiJo0NnmX_DnmVa--N64rVM6c9ugxx5x3OLWWTv0
+      image: https://media.licdn.com/dms/image/v2/C4D03AQFXkvVd8-0Yzw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652433619427?e=1736380800&v=beta&t=am2SxrhwUMCTE_lBNHdBqsv94zdKf8ofe0EXCbukCBU
       linkedin_url: https://www.linkedin.com/in/hazemkak
       markdown: You can know more about Hazem and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer II
-      top_skills: null
-      current_position: Software Engineer II, Careem · Full-time, Aug 2023 - Present
-        · 1 yr 2 mos
+      title: Senior Software Engineer
+      top_skills: Kotlin, Amazon Web Services (AWS), Kubernetes, Docker Products
+      current_position: Software Engineer II, Careem · Aug 2023 - Present · 1 yr 4
+        mos
     - name: Hazem Mahmoud Abdo
-      image: https://media.licdn.com/dms/image/v2/D4D03AQH6Z3xVUWLAWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709912476503?e=1733356800&v=beta&t=7Z8renWpdYKXgYLH1k5Hae2vgAQx7KCJ7ALoax0iScI
+      image: https://media.licdn.com/dms/image/v2/D4D03AQH6Z3xVUWLAWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709912476503?e=1736380800&v=beta&t=sEhbXL1VZkOEOX2K8pTbrt3MNwDYlpCIMfQ2FDVd8cI
       linkedin_url: https://www.linkedin.com/in/hazemabdo/
       markdown: You can know more about Hazem and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Junior Frontend Engineer @Coformatique
-      top_skills: null
-      current_position: Junior Frontend Engineer, Coformatique, Oct 2023 to Present
-        · 1 yr 1 mo
+      title: Frontend Engineer @Coformatique
+      top_skills: posthog, I18n, Internationalization, AWS cognito
+      current_position: Frontend Engineer, Coformatique · Aug 2023 - Present · 1 yr
+        5 mos
     - name: Hossam Mohamed Saeed
-      image: https://media.licdn.com/dms/image/v2/C5603AQFtkL3lOFjQIQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645619992347?e=1732147200&v=beta&t=ifISo-OPnclGz5Wrejvd-iF_N_nFZE7XEU3zUuXQGMo
+      image: https://media.licdn.com/dms/image/v2/C5603AQFtkL3lOFjQIQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1645619992347?e=1736380800&v=beta&t=hbIJN4WCAxrIUm3uotG_hWHRECWKmyyPdLc3liOgy_A
       linkedin_url: https://www.linkedin.com/in/hossam-saeed-1abab91b3/
       markdown: You can know more about Hossam and reach him out by visiting his [LinkedIn]()
         profile.
       title: Research Fellow @MIT-SGI | Computational Geometry Engineer @Atomica |
         GSoC'22+23 @CGAL
-      top_skills: null
+      top_skills: LaTeX, MATLAB, CGAL, NumPy
       current_position: Geometry Processing R&D Intern @CGAL [GSoC'23], Google Summer
-        of Code · Internship, May 2023 - Present · 1 yr 5 mos
+        of Code · May 2022 - Present · 2 yr 2 mos
     - name: Hussein Mostafa Hussein
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHbO2XKpRwaqQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723906828466?e=1733961600&v=beta&t=T3AX6htGpsC-xYeBkVMPx3ohVWVkJTB-rLrk5somAwo
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHbO2XKpRwaqQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723906828466?e=1736380800&v=beta&t=IG_UuTpVcRiDoY8pyXlb6nYrihjnPpPKdSDRFJPDu50
       linkedin_url: https://www.linkedin.com/in/hussien-awad-b6343a21a/
       markdown: You can know more about Hussein and reach him out by visiting his
         [LinkedIn]() profile.
       title: Data Engineer @Ejada
-      top_skills: Data Management, Informatica PowerCenter, Informatica
-      current_position: Data Engineer, EJADA · Full-time, Dec 2023 - Present · 11
-        mos
+      top_skills: Data Management, Informatica PowerCenter, Informatica, MLOps
+      current_position: Data Engineer, EJADA · Dec 2023 - Present · 1 yr
     - name: Donia Abdelfattah Abdelkareem
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFL8sVD62_2sQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710195981971?e=1733961600&v=beta&t=He9Nx-yuVrEk7YU2wjdr8kpwi8tryXDiFKWORI7ILBM
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFL8sVD62_2sQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710195981971?e=1736380800&v=beta&t=7Cw6hX36NkDbsH0bn7n_-CYOCBECyUEGk5saHFLKe8A
       linkedin_url: https://www.linkedin.com/in/donya-esawi-858719191/
       markdown: You can know more about Donia and reach her out by visiting her [LinkedIn]()
         profile.
       title: Associate Software Engineer @Cyshield
-      top_skills: Flutter, User Interface Design, Mobile Application Development,
-        Front-End Development, Dart
-      current_position: Associate Software Engineer, Cyshield · Full-time, Mar 2024
-        - Present · 8 mos
+      top_skills: Mathematics, Adobe XD, Getx, State Management
+      current_position: Associate Software Engineer, Cyshield · Mar 2024 - Present
+        9 mos
     - name: Radwa Ahmed Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D35AQF--AEsB19AJQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1722367069622?e=1729231200&v=beta&t=ovR19wBVTXWF37Zg7qxmJcS94pnVT7MmNl5CBYo1sZg
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFXXyXnvPHKoQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1698533633786?e=1736380800&v=beta&t=iu0p6zI6YTOFQNfOMYq5FnNhHbwKu9wI6W10UWsUiLQ
       linkedin_url: https://www.linkedin.com/in/radwa-ahmed-3998091b4/
       markdown: You can know more about Radwa and reach her out by visiting her [LinkedIn]()
         profile.
-      title: TA @ CUFE , Machine Learning and Software Engineer
-      top_skills: null
+      title: TA @ CUFE | SDE-I
+      top_skills: Problem Solving, c++, Python (Programming Language), Docker
       current_position: Teacher Assistant, Faculty of Engineering Cairo University
-        · Part-time, Oct 2024 - Present · 1 mo
+        · Sep 2024 - Present 3 mos
     - name: Raghad Khaled Abdelhay
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEuA0ESaQBAkQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1635107512285?e=1732147200&v=beta&t=sQkAwVjNjdRtlSgSwh7fCBPpg4XHkZ1sBp-JvS1saZQ
+      image: null
       linkedin_url: https://www.linkedin.com/in/raghad-khaled/
       markdown: You can know more about Raghad and reach her out by visiting her [LinkedIn]()
         profile.
       title: Associate Software Engineer @ Cyshield
-      top_skills: null
-      current_position: Associate Software Engineer, Cyshield · Full-time, Jan 2024
-        - Present · 9 mos
+      top_skills: No-Code Development Platforms, redux, Auth0, Material-UI
+      current_position: Associate Software Engineer, Cyshield · Jan 2024 - Present
+        11 mos
     - name: Robert Monier Isaac
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEMDhSGse667A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652906649168?e=1733961600&v=beta&t=5SgMy3BlSSg9ZLnQlMmwUjn5ShwGJvkVKZL8wu4DiRg
+      image: https://media.licdn.com/dms/image/v2/C4D03AQEMDhSGse667A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652906649168?e=1736380800&v=beta&t=XlzzbShKNEpvKzHZ_LKHqReePHRlAcpXeMTINFdFZqo
       linkedin_url: https://www.linkedin.com/in/robert-mounir-027b051a0/
       markdown: You can know more about Robert and reach him out by visiting his [LinkedIn]()
         profile.
       title: Computer Engineer
-      top_skills: null
+      top_skills: ModelSim, Digital IC Design, Yacc, Lex
       current_position: Military Service - Software Engineer, Ministry of Interior
-        · Part-time, Oct 2023 - Present · 1 yr 1 mo
+        · Oct 2023 - Present · 1 yr 2 mos
     - name: Rawaa Ahmed Saed
       image: null
       linkedin_url: https://www.linkedin.com/in/rawaa-ahmed-1233201a2/
       markdown: You can know more about Rawaa and reach her out by visiting her [LinkedIn]()
         profile.
-      title: R&D AI Engineer @ EJADA
-      top_skills: null
-      current_position: AI Engineer, EJADA · Full-time, Dec 2023 - Present · 10 mos
+      title: AI Engineer @ EJADA
+      top_skills: Understand the main components of the Transformer architecture,
+        Learn how a BERT model is built using Transformers, Use BERT to solve different
+        natural language processing (NLP) tasks, Understand the concept of attention
+        and how it works
+      current_position: AI Engineer, EJADA · Dec 2023 - Present · 1 yr
     - name: Reem Emad Ramadan
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEx4VhPGBi5lA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1564950884357?e=1733961600&v=beta&t=_NEUh5ApcjGBXish-Us_MD41MHBw51CGoGjeacntlcQ
+      image: null
       linkedin_url: https://www.linkedin.com/in/reem-attallah-4484b9190/
       markdown: You can know more about Reem and reach her out by visiting her [LinkedIn]()
         profile.
       title: Back End Engineer II @ Tactful AI
-      top_skills: null
-      current_position: Back End Engineer, Tactful · Full-time, Aug 2023 - Present
-        · 1 yr 3 mos
+      top_skills: Django, J2EE Application Development, Agile Methodologies, API Development
+      current_position: Back End Engineer, Tactful · Aug 2023 - Present · 1 yr 4 mos
     - name: Ziad Hassan Abdelmaksoud
-      image: https://media.licdn.com/dms/image/v2/C4D03AQFNRhDVwTc2-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1643158585538?e=1732147200&v=beta&t=HzcXJIjHamoYV9z6Z3CFKCxPw5CGT-9JoY8g_lIz_fQ
+      image: https://media.licdn.com/dms/image/v2/C4D03AQFNRhDVwTc2-g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1643158585538?e=1736380800&v=beta&t=rNb1kfUfpXo3HdCbwqN_ZYg2VBW4QP6NrsiGR1lGST4
       linkedin_url: https://www.linkedin.com/in/ziyadhassan500/
       markdown: You can know more about Ziad and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @ Microsoft
-      top_skills: null
-      current_position: Software Engineer, Microsoft · Full-time, Sep 2023 - Present
-        · 1 yr 1 mo
+      top_skills: English, Presentations, Problem Solving, Data Structures
+      current_position: Software Engineer, Microsoft · Jul 2022 - Present · 1 yr 5
+        mos
     - name: Ziad Atef Ahmed
-      image: https://media.licdn.com/dms/image/v2/C4E03AQGhGKqTqX4cWQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1611579601411?e=1732147200&v=beta&t=Ox39ivaU0BBjwzQy0nRV7-r9nbSwA9eTC8v3bEKmidE
+      image: https://media.licdn.com/dms/image/v2/C4E03AQGhGKqTqX4cWQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1611579601411?e=1736380800&v=beta&t=qTHKvy01_SGGhElFppnPfWxMr4yyYNix8uDDb9Vs6vs
       linkedin_url: https://www.linkedin.com/in/ziadatef/
       markdown: You can know more about Ziad and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @ Coformatique | TA @ Cairo University
-      top_skills: Machine Learning, Deep Learning, Back-End Web Development, Amazon
-        Web Services (AWS)
-      current_position: Teaching Assistant, Cairo University, Feb 2024 - Present ·
-        8 mos
+      top_skills: Machine Learning, Back-End Web Development, Amazon Web Services
+        (AWS), Infrastructure as code (IaC)
+      current_position: Teaching Assistant, Cairo University · Feb 2024 - Present
+        10 mos
     - name: Tarek Yasser Ismail
-      image: https://media.licdn.com/dms/image/v2/C4D03AQE0XKa0Cpu0CQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1597089706359?e=1733961600&v=beta&t=DPAaxuL4CqTgVKIM-nWMRbJCBx1ydYEeIjnvUfNEbK4
+      image: https://media.licdn.com/dms/image/v2/C4D03AQE0XKa0Cpu0CQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1597089706359?e=1736380800&v=beta&t=s_rM3_Pf8HU7OwVLudq6UHI4Lis-9oXxhtQNdrcfre4
       linkedin_url: https://www.linkedin.com/in/tarek-ismail-263a031b4/
       markdown: You can know more about Tarek and reach him out by visiting his [LinkedIn]()
         profile.
       title: Graduate Software Engineer @ Canonical
-      top_skills: C++, Java, Python, Computer Graphics, Software Engineering
-      current_position: Graduate Software Engineer, Canonical · Full-time, Jun 2024
-        - Present · 5 mos
+      top_skills: Wayland, Bash, C (Programming Language), Device Drivers
+      current_position: Graduate Software Engineer, Canonical · Jun 2024 - Present
+        6 mos
     - name: Taher Mohamed Ahmed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQG3AfGvJlPkkA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1677891086474?e=1732147200&v=beta&t=j3ic2L6EBnz7ZABF9q1GvfIUTi29xcdIRVjUMUJn3Mg
+      image: https://media.licdn.com/dms/image/v2/C4D03AQE0XKa0Cpu0CQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1597089706359?e=1736380800&v=beta&t=s_rM3_Pf8HU7OwVLudq6UHI4Lis-9oXxhtQNdrcfre4
       linkedin_url: https://www.linkedin.com/in/taher-saad/
       markdown: You can know more about Taher and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer
-      top_skills: Node.js, Amazon Web Services (AWS), PostgreSQL, Serverless Computing,
-        Problem Solving
-      current_position: Teaching Assistant, Faculty of Engineering Cairo University,
-        Sep 2023 - Present · 1 yr 1 mo
+      title: Graduate Software Engineer @ Canonical
+      top_skills: Wayland, Bash, C (Programming Language), Device Drivers
+      current_position: Graduate Software Engineer, Canonical · Jun 2024 - Present
+        6 mos
     - name: Abdelrahman Jamal Sayed
-      image: https://media.licdn.com/dms/image/v2/D4E03AQH_dE3V3GK1aQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1632146361432?e=1733961600&v=beta&t=54XkjEeR4KX-z9gs_ggU81raXSq6KYybE08ywzrwWa0
+      image: https://media.licdn.com/dms/image/v2/D4E03AQH_dE3V3GK1aQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1632146361432?e=1736380800&v=beta&t=SlYEzVtmsjNAMoVlmPiPlg63pGJGV9Oh75suX3z-CeU
       linkedin_url: https://www.linkedin.com/in/abdelrahmanjamal
       markdown: You can know more about Abdelrahman and reach him out by visiting
         his [LinkedIn]() profile.
       title: GSoC'24 @ Fossology
-      top_skills: null
-      current_position: Contributor @ FOSSology, Google Summer of Code · Part-time,
-        May 2024 - Present · 6 mos
+      top_skills: Software Licensing, Semantic Search, Fine Tuning, Artificial Intelligence
+        (AI)
+      current_position: Contributor @ FOSSology, Google Summer of Code · May 2023
+        - Present · 1 yr 1 mos
     - name: Abdelraouf Hossam Abdelrahman
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -357,61 +349,63 @@
       top_skills: null
       current_position: null
     - name: Abdullah Adel Abdullah
-      image: https://media.licdn.com/dms/image/v2/C4D03AQHiOk_htDswZg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1595386680442?e=1733961600&v=beta&t=rx8LPG__5W6YfTWdVp_PGUPOcwTlHJhIfWUJ7ueAyno
+      image: https://media.licdn.com/dms/image/v2/C4D03AQHiOk_htDswZg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1595386680442?e=1736380800&v=beta&t=g1WeEQesShrqCv8y0_3Cox0U52P_VRpyrQyEn2j_W_Y
       linkedin_url: https://www.linkedin.com/in/abdullahadel41
       markdown: You can know more about Abdullah and reach him out by visiting his
         [LinkedIn]() profile.
       title: Digital Transformation @ Walturn 🚀
-      top_skills: null
-      current_position: Software Engineer, Walturn · Contract, Jul 2024 - Present
-        · 4 mos
+      top_skills: Cloud Computing, PostgreSQL, Amazon Web Services (AWS), NestJS
+      current_position: Software Engineer, Walturn · Jul 2024 - Present 5 mos
     - name: Abdullah Mahmoud Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHq2LDUta4zkQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693238067041?e=1732147200&v=beta&t=_MUjdqXha_4IuRVFWFoj6CGAtS0lWbvYCcmsid1V6qs
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHq2LDUta4zkQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693238067041?e=1736380800&v=beta&t=GJ9p4ALScOwMoG7KN3PG-wsInuD9pSp-ssiKnGKtjWE
       linkedin_url: https://www.linkedin.com/in/abdalla-mahmoud-8581a7183
       markdown: You can know more about Abdullah and reach him out by visiting his
         [LinkedIn]() profile.
       title: Computer Engineering Fresh Graduate | Cairo university | Frontend developer
         | React js | Next js
-      top_skills: null
-      current_position: Frontend Engineer, RENOSYSTEMS · Full-time, May 2024 - Present
-        · 5 mos
+      top_skills: TypeScript, React Native, Redux.js, tailwind
+      current_position: Frontend Engineer, RENOSYSTEMS · May 2024 - Present 7 mos
     - name: Abeer Hussein Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEj7QnxbECo0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709652886569?e=1732147200&v=beta&t=eism_OTFfR5YqtMbVkPXkUZNmR4AwuZdfU-9Aw5pjDo
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEj7QnxbECo0g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709652886569?e=1736380800&v=beta&t=gCQRkpxUInCvc6NV4meeeXKt1x8fHuOhVEtKdTqRKhU
       linkedin_url: https://www.linkedin.com/in/abeer-hussein-295827192/
       markdown: You can know more about Abeer and reach her out by visiting her [LinkedIn]()
         profile.
       title: Data & Analytics Engineer @ Ejada
-      top_skills: null
-      current_position: Data & Analytics Engineer, EJADA · Full-time, Sep 2023 - Present
-        · 1 yr 1 mo
+      top_skills: Python, Data Science, UiPath, Data Analysis
+      current_position: Data & Analytics Engineer, EJADA · Sep 2023 - Present · 1
+        yr 3 mos
     - name: Essam Wisam Fouad
-      image: https://media.licdn.com/dms/image/v2/D5603AQH7XAwp_nZAUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724460960823?e=1733961600&v=beta&t=20b8j7O8FYdLKuInHWuCE8LcZ1W0zkNEdWoQeHJRB6U
+      image: https://media.licdn.com/dms/image/v2/D5603AQH7XAwp_nZAUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724460960823?e=1736380800&v=beta&t=ZGrAaZg95AGlNX26sH0dN5Vwe_yhlNtBzJGFN6mVDWE
       linkedin_url: https://www.linkedin.com/in/essamwisam/
       markdown: You can know more about Essam and reach him out by visiting his [LinkedIn]()
         profile.
       title: Machine Learning Engineer
-      top_skills: Deep Learning, Machine Learning, Research Skills, Technical Writing,
-        Front-End Development
-      current_position: Graduate Student, The University of Texas at Arlington, Aug
-        2024 - Present · 3 mos
+      top_skills: Teaching, Prompt Engineering, Large Language Models (LLM), Research
+        Skills
+      current_position: Doctoral Student, The University of Texas at Arlington · Aug
+        2024 - Present 4 mos
     - name: Ammar Mohamed Sobhy
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFPy2eHJ1f0gA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699357738359?e=1733961600&v=beta&t=q3k4iI8ikiy63S4i3wwdhbFK4GLj9Bbh9qSzv3pKLGc
+      image: https://media.licdn.com/dms/image/v2/D5603AQH7XAwp_nZAUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724460960823?e=1736380800&v=beta&t=ZGrAaZg95AGlNX26sH0dN5Vwe_yhlNtBzJGFN6mVDWE
       linkedin_url: https://www.linkedin.com/in/ammar21/
       markdown: You can know more about Ammar and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer
-      top_skills: null
-      current_position: null
+      title: Machine Learning Engineer
+      top_skills: Teaching, Prompt Engineering, Large Language Models (LLM), Research
+        Skills
+      current_position: Doctoral Student, The University of Texas at Arlington · Aug
+        2024 - Present 4 mos
     - name: Omar Ahmed Mohamed
-      image: https://media.licdn.com/dms/image/v2/C4D03AQGE60YhODBXuQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1660916211104?e=1733961600&v=beta&t=veX02OFMbDwzTE9_gW8SRKiXTS_RtYpnXZNxnaIojLA
+      image: https://media.licdn.com/dms/image/v2/D5603AQH7XAwp_nZAUg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724460960823?e=1736380800&v=beta&t=ZGrAaZg95AGlNX26sH0dN5Vwe_yhlNtBzJGFN6mVDWE
       linkedin_url: https://www.linkedin.com/in/omar-ahmed-9a8427169/
       markdown: You can know more about Omar and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Computer Engineering Fresh Graduate
-      top_skills: null
-      current_position: null
+      title: Machine Learning Engineer
+      top_skills: Teaching, Prompt Engineering, Large Language Models (LLM), Research
+        Skills
+      current_position: Doctoral Student, The University of Texas at Arlington · Aug
+        2024 - Present 4 mos
     - name: Omar Abdelfattah Hamad
-      image: https://media.licdn.com/dms/image/v2/C4E03AQFEEpkvsbnrMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630720583718?e=1733961600&v=beta&t=QNdQNlxbkI7NQviI8MWCMaAZyTL6_HgoJm0mAh-z_7g
+      image: https://media.licdn.com/dms/image/v2/C4E03AQFEEpkvsbnrMw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1630720583718?e=1736380800&v=beta&t=_4PAaUWFSJLUm4z7N4kIOF6YZBROnAU9tcDwr0cgCTk
       linkedin_url: https://www.linkedin.com/in/omar-abd-el-fattah-5898a921b/
       markdown: You can know more about Omar and reach him out by visiting his [LinkedIn]()
         profile.
@@ -419,14 +413,15 @@
       top_skills: null
       current_position: null
     - name: Omar Mohamed Ahmed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGi-eH4TEA1Fg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692961999643?e=1732147200&v=beta&t=nORMJgVwM4fKdCJRDKx1KGcjI3Cn-LOCdQeyUDd1uKQ
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGi-eH4TEA1Fg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692961999643?e=1736380800&v=beta&t=PsSpnDn7zmmF24zKCvjkdeBgIld3JkTEKhI-e4ZAf8c
       linkedin_url: https://www.linkedin.com/in/omar-mohamed-a829951a1/
       markdown: You can know more about Omar and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer
-      top_skills: React.js, Node.js, Problem Solving, JavaScript
-      current_position: Full-stack Developer, Reno Systems · Full-time, Nov 2022 -
-        Present · 1 yr 11 mos
+      title: Software Engineer @ Raisa Energy
+      top_skills: Object-Oriented Programming (OOP), Data Structures, Problem Solving,
+        Algorithms
+      current_position: Software Engineer, Raisa Energy LLC · Jul 2024 - Present 6
+        mos
     - name: Omar Mohamed Abdelfattah
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -436,92 +431,94 @@
       top_skills: null
       current_position: null
     - name: Ghiath Omar Saleh
-      image: https://media.licdn.com/dms/image/v2/D4D03AQE4suVcDG1RUw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700378330769?e=1732147200&v=beta&t=jFgK8wPlAuS6e8cYsVSHGf8x6XNLO6TJxaymeWS7jqI
+      image: https://media.licdn.com/dms/image/v2/D4D03AQE4suVcDG1RUw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1700378330769?e=1736380800&v=beta&t=gEkWjdH9LHBdcL3v8OL1P_4vcwME00u_VV0U3DK12OM
       linkedin_url: https://www.linkedin.com/in/ghieath/
       markdown: You can know more about Ghiath and reach him out by visiting his [LinkedIn]()
         profile.
       title: Computer Engineering Graduate | Candidate Master on Codeforces
-      top_skills: null
+      top_skills: Data Analytics, Data Analysis, Visualization, Statistical Analysis
       current_position: Coding AI data collection and prompt/response improvement,
-        Freelance, Jul 2023 - Present · 1 yr 3 mos
+        عمل مستقل · Jul 2023 - Present · 1 yr 5 mos
     - name: Kareem Taha Abdelsabour
-      image: https://media.licdn.com/dms/image/v2/D4D35AQGV0dpd5CK0wA/profile-framedphoto-shrink_100_100/profile-framedphoto-shrink_100_100/0/1657224326460?e=1728640800&v=beta&t=vIWIR9ko3_f6Zc1KIsq-s7-S5nfDGyar---JsFsLmN0
+      image: null
       linkedin_url: https://www.linkedin.com/in/karim-taha-6927711b8/
       markdown: You can know more about Kareem and reach him out by visiting his [LinkedIn]()
         profile.
       title: Student at Cairo University
-      top_skills: null
+      top_skills: C++, C (Programming Language)
       current_position: null
     - name: Michael Aziz Fahim
-      image: https://media.licdn.com/dms/image/v2/D5603AQGWC2nUKuoQUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709658836916?e=1732147200&v=beta&t=6-9W0RVi68y68wko0KcNxV5Rm9uxJS_Nm5b4-Pqr74M
+      image: https://media.licdn.com/dms/image/v2/D5603AQGWC2nUKuoQUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1709658836916?e=1736380800&v=beta&t=vrLM67APBCvwNn8Ufrk4jidMydpZockpfX2XGORe6xY
       linkedin_url: https://www.linkedin.com/in/michael-daud-5a00491aa/
       markdown: You can know more about Michael and reach him out by visiting his
         [LinkedIn]() profile.
       title: Backend Engineer II @instabug
       top_skills: null
-      current_position: Backend Engineer II, Instabug, Apr 2024 to Present · 6 mos
+      current_position: Backend Engineer II, Instabug · Jun 2022 - Present · 2 yr
+        9 mos
     - name: Mohamed Ahmed Fathy
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGU9MuGEu-88A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673366892176?e=1733356800&v=beta&t=4jsWa5fgyQD1qz7Pw9_QjGy91LkBgh-oW2us3IEsfWg
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGU9MuGEu-88A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673366892176?e=1736380800&v=beta&t=pgiPcyCD_NfOWsvS2qyoeOhinkEhm8oxZnqsNcMpUJc
       linkedin_url: https://www.linkedin.com/in/mhmdfathy/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
       title: full stack developer @ RACE software,full stack @ Techflipp
-      top_skills: Python (Programming Language), backend, JavaScript, Software Development,
-        nextjs
-      current_position: Full Stack Engineer, Techflipp · Full-time, Nov 2023 - Present
-        · 1 yr
+      top_skills: nextjs, Next.js, Front-End Development, Django
+      current_position: Full Stack Engineer, Techflipp · Nov 2023 - Present · 1 yr
+        1 mos
     - name: Mohamed Akram Abdelfattah
-      image: https://media.licdn.com/dms/image/v2/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1593717419051?e=1733356800&v=beta&t=TJm5Q9v3antEwwsR3IDnbtJqrGI19He99kOClIStYn4
+      image: https://media.licdn.com/dms/image/v2/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1593717419051?e=1736380800&v=beta&t=ZhopddzgHeUu020kSFyUj6JxdvKaF87UIazpHt4F7ME
       linkedin_url: https://www.linkedin.com/in/mohamed-akram99/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
       title: Computer Engineer
-      top_skills: null
-      current_position: Software Engineer, NTG Clarity · Full-time, Feb 2024 - Present
-        · 9 mos
+      top_skills: Generative AI, Large Language Models (LLM), Natural Language Processing
+        (NLP), Long Short-term Memory (LSTM)
+      current_position: Software Engineer, NTG Clarity · Feb 2024 - Present 10 mos
     - name: Mohamed Khaled Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D35AQGgFaVeX7z8Xw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1719223781483?e=1728640800&v=beta&t=NP_fvCzooh3ehc5weKYM1XC-Gyf96P3yNQAXKplyiEk
+      image: https://media.licdn.com/dms/image/v2/C4D03AQGEdHi4bPbvfQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1593717419051?e=1736380800&v=beta&t=ZhopddzgHeUu020kSFyUj6JxdvKaF87UIazpHt4F7ME
       linkedin_url: https://www.linkedin.com/in/mohamed-khaled-elbassiouny-52425419b/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
-      title: Computer Vision Engineer | Opinions are my own
-      top_skills: PyTorch, Python (Programming Language), C++, Computer Vision
-      current_position: null
+      title: Computer Engineer
+      top_skills: Generative AI, Large Language Models (LLM), Natural Language Processing
+        (NLP), Long Short-term Memory (LSTM)
+      current_position: Software Engineer, NTG Clarity · Feb 2024 - Present 10 mos
     - name: Mohamed Saad Fathy
       linkedin_url: https://www.linkedin.com/in/mohammed-saad-03b47b218/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
       title: AI Engineer
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFWXPjZ3GvxFA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705068926507?e=1733961600&v=beta&t=-XingouAIwgLfddqF8q9fvuNhLVIHYJnJcs_ozUaknc
-      top_skills: Research Skills, Machine Learning, Deep Learning, Large Language
-        Models (LLM), DevOps
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFWXPjZ3GvxFA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705068926507?e=1736380800&v=beta&t=ir-9GlLpUVjr-3LauSytjsXNlk4pWZhVpjNrH8PtEGg
+      top_skills: Amazon Web Services (AWS), Ansible, Prometheus.io, CircleCI
       current_position: Research Assistant, Deutsches Forschungszentrum für Künstliche
-        Intelligenz (DFKI) · Part-time, May 2024 - Present · 6 mos
+        Intelligenz (DFKI) · May 2024 - Present 7 mos
     - name: Mohamed Salama Abdelsamea
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHNgKp7ehgT-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705008575955?e=1732147200&v=beta&t=Zq2JlkTf0XV1nGKKuFbWqwnn-zcQo9TTqU854xwskLU
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFWXPjZ3GvxFA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705068926507?e=1736380800&v=beta&t=ir-9GlLpUVjr-3LauSytjsXNlk4pWZhVpjNrH8PtEGg
       linkedin_url: https://www.linkedin.com/in/mohamed-salama-045aa3190/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
-      title: Software Engineer
-      top_skills: null
-      current_position: null
+      title: AI Engineer
+      top_skills: Amazon Web Services (AWS), Ansible, Prometheus.io, CircleCI
+      current_position: Research Assistant, Deutsches Forschungszentrum für Künstliche
+        Intelligenz (DFKI) · May 2024 - Present 7 mos
     - name: Mohamed Nabawee Hamed
-      image: https://media.licdn.com/dms/image/v2/C4D03AQHi-8IabNt4kQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1604271654097?e=1732147200&v=beta&t=jPMdPhPr6sKI717enfJDTLpz48UuiGApY3BBqafLYuk
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFWXPjZ3GvxFA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705068926507?e=1736380800&v=beta&t=ir-9GlLpUVjr-3LauSytjsXNlk4pWZhVpjNrH8PtEGg
       linkedin_url: https://www.linkedin.com/in/mohamednghareeb/
       markdown: You can know more about Mohamed and reach him out by visiting his
         [LinkedIn]() profile.
-      title: Software Engineer
-      top_skills: null
-      current_position: null
+      title: AI Engineer
+      top_skills: Amazon Web Services (AWS), Ansible, Prometheus.io, CircleCI
+      current_position: Research Assistant, Deutsches Forschungszentrum für Künstliche
+        Intelligenz (DFKI) · May 2024 - Present 7 mos
     - name: Mahmoud ElSayed Mahmoud
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGVzSOtAbvFbg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723123432428?e=1732147200&v=beta&t=dBOfpVsUmhoJzMOzQATMJUCkriA0q1adE6VQ_ZdQeZI
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGVzSOtAbvFbg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1723123432428?e=1736380800&v=beta&t=YD5scHV62d5Lca1E-wG2_VJ9R00oZoiB9U5uOE48oFk
       linkedin_url: https://www.linkedin.com/in/mahmoud-el-sayed-raouf-13395a1a2/
       markdown: You can know more about Mahmoud and reach him out by visiting his
         [LinkedIn]() profile.
-      title: Software Engineer | C# | .NET | SQL
-      top_skills: null
-      current_position: Backend Software Engineer, T-Tech Company · Full-time, Oct
-        2023 - Present · 1 yr
+      title: Software Engineer | C# | .NET | SQL | ERP
+      top_skills: ERP Implementations, Web Services API, ASP.NET Web API, .NET Framework
+      current_position: Backend Software Engineer, T-Tech Company · Oct 2023 - Present
+        · 1 yr 2 mos
     - name: Mahmoud Amr Nabil
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -539,191 +536,196 @@
       top_skills: null
       current_position: null
     - name: Mariam Ashraf Malak
-      image: https://media.licdn.com/dms/image/v2/C4D03AQFIQJR8eZFZaQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652108764081?e=1732147200&v=beta&t=RZ2dxt5Snmma2aGmzC0Xq9yGjhXYcpYmoRbyf4lZVwQ
+      image: https://media.licdn.com/dms/image/v2/C4D03AQFIQJR8eZFZaQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1652108764081?e=1736380800&v=beta&t=9IIShygpm4tPnrizCaFKnvgvSU8V5xvXYjydoC8EByc
       linkedin_url: https://www.linkedin.com/in/mariam-ashraf-b688ab1b2/
       markdown: You can know more about Maryam and reach her out by visiting her [LinkedIn]()
         profile.
       title: Co-Founder of Apes Solutions
       top_skills: null
-      current_position: Co-Founder, Apes Solutions · Full-time, Jul 2023 - Present
-        · 1 yr 3 mos
+      current_position: Co-Founder, Apes Solutions · Jul 2023 - Present · 1 yr 5 mos
     - name: Maryem Salah Metwally
-      image: https://media.licdn.com/dms/image/v2/D4D03AQF8KkB54dTElQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708551303617?e=1732147200&v=beta&t=htFDI5ZkpkCKAb0QrAlQMJNsHCRQCDLMm8XrKB0vs-0
+      image: https://media.licdn.com/dms/image/v2/D4D03AQF8KkB54dTElQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708551303617?e=1736380800&v=beta&t=9fU1K9tAbvPAvMEm0hvh57kqLkCP8igBes5QIXJoUhs
       linkedin_url: https://www.linkedin.com/in/maryem-salah-6704b0205/
       markdown: You can know more about Maryem and reach her out by visiting her [LinkedIn]()
         profile.
       title: Software Engineer @Siemens EDA
-      top_skills: null
+      top_skills: Software Development, Node.js, React.js, Red Hat Linux
       current_position: Software Engineer, Siemens EDA (Siemens Digital Industries
-        Software), Sep 2023 to Present · 1 yr 1 mo
+        Software) · Aug 2022 - Present · 2 yr 5 mos
     - name: Mariem Mohamed Zein
       image: null
       linkedin_url: https://www.linkedin.com/in/mariam-muhammed-1009801b1/
       markdown: You can know more about Mariem and reach her out by visiting her [LinkedIn]()
         profile.
       title: Associate Software Engineer
-      top_skills: null
-      current_position: Associate Software Engineer, Sumerge, Dec 2023 - Present ·
-        10 mos
+      top_skills: Search Engine Optimization (SEO), Google Analytics, Nuxt.js, Python
+        (Programming Language)
+      current_position: Associate Software Engineer, Sumerge · Dec 2023 - Present
+        · 1 yr
     - name: Marim Naser Rashad
       image: null
       linkedin_url: https://www.linkedin.com/in/marim-naser-32b85a203/
       markdown: You can know more about Mariam and reach her out by visiting her [LinkedIn]()
         profile.
-      title: Computer Engineering Fresh Graduate
-      top_skills: null
-      current_position: null
+      title: Associate Software Engineer
+      top_skills: Search Engine Optimization (SEO), Google Analytics, Nuxt.js, Python
+        (Programming Language)
+      current_position: Associate Software Engineer, Sumerge · Dec 2023 - Present
+        · 1 yr
     - name: Mostafa Ahmed Sabry
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGMBg5QC_-ddg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699197496527?e=1733961600&v=beta&t=TEEWJ8yBKspSUg3IjIDmCg5f4FGITefucee0oqLBK4c
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGMBg5QC_-ddg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699197496527?e=1736380800&v=beta&t=0aXCDNEKoDnb5uwn_jIW_Y7ce3VX8VKeWooUrcJ__r0
       linkedin_url: https://www.linkedin.com/in/mostafa-ahmed-68531520b/
       markdown: You can know more about Mostafa and reach him out by visiting his
         [LinkedIn]() profile.
       title: Software Engineer @EJADA | Frontend Instructor @ Route
-      top_skills: Angular, React.js, ASP.NET, Microsoft SQL Server, Node.js
-      current_position: Software Engineer, EJADA · Full-time, Aug 2023 - Present ·
-        1 yr 3 mos
+      top_skills: ASP.NET, HTML, Web Accessibility, Cascading Style Sheets (CSS)
+      current_position: Frontend Instructor, Route · Dec 2022 - Present · 2 yr 1 mos
     - name: Mostafa Magdy Abdelrahman
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692777992407?e=1732147200&v=beta&t=nABKdSohWcewiakP77Z8VGij5biaQUQy51gEAm1mnzY
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692777992407?e=1736380800&v=beta&t=pqmlnnE9TpWAYK6aQ74tGV-ZClsWkf-O8t8V6qZrJzg
       linkedin_url: https://www.linkedin.com/in/mostafa-magdi-1200121b9/
       markdown: You can know more about Mostafa and reach him out by visiting his
         [LinkedIn]() profile.
       title: Senior Java Engineer @ _VOIS | Java Spring | Nodejs | Angular | ECPC
         finalist
-      top_skills: Spring Boot, AngularJS, Hibernate, JavaServer Faces (JSF), Oracle
-        Database
-      current_position: Senior Java Engineer, _VOIS · Full-time, Aug 2024 - Present
-        · 2 mos
+      top_skills: AngularJS, Oracle Database, JavaServer Faces (JSF), Hibernate
+      current_position: Senior Java Engineer, _VOIS · Aug 2024 - Present 4 mos
     - name: Mostafa Mohamed Elgendy
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEycuWndOGf3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1585231420493?e=1732147200&v=beta&t=u57etiiYV0xxM0FIkNWrv0ebJ-qrfTYJKzXNuu6VME0
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692777992407?e=1736380800&v=beta&t=pqmlnnE9TpWAYK6aQ74tGV-ZClsWkf-O8t8V6qZrJzg
       linkedin_url: https://www.linkedin.com/in/mostafa-elgendy1/
       markdown: You can know more about Mostafa and reach him out by visiting his
         [LinkedIn]() profile.
-      title: Computer Engineering Graduate
-      top_skills: C++, Python (Programming Language), Verilog
-      current_position: null
+      title: Senior Java Engineer @ _VOIS | Java Spring | Nodejs | Angular | ECPC
+        finalist
+      top_skills: AngularJS, Oracle Database, JavaServer Faces (JSF), Hibernate
+      current_position: Senior Java Engineer, _VOIS · Aug 2024 - Present 4 mos
     - name: Mostafa Mahmoud Kamal
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEU-CQ0MC6k7g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1656957983472?e=1732147200&v=beta&t=ABAJ8OPQmnAdASQuZVJ4YcZyaVu-G9Tl_1BP2hoVN3I
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHAsM5h7Fsihw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1692777992407?e=1736380800&v=beta&t=pqmlnnE9TpWAYK6aQ74tGV-ZClsWkf-O8t8V6qZrJzg
       linkedin_url: https://www.linkedin.com/in/mostafa-m-kamal-b015691b1/
       markdown: You can know more about Mostafa and reach him out by visiting his
         [LinkedIn]() profile.
-      title: .
-      top_skills: null
-      current_position: null
+      title: Senior Java Engineer @ _VOIS | Java Spring | Nodejs | Angular | ECPC
+        finalist
+      top_skills: AngularJS, Oracle Database, JavaServer Faces (JSF), Hibernate
+      current_position: Senior Java Engineer, _VOIS · Aug 2024 - Present 4 mos
     - name: Mostafa Wael Kamal
-      image: https://media.licdn.com/dms/image/v2/D4D35AQHsofKjHZ0oYQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725951766896?e=1726981200&v=beta&t=-MtytLLBNpgeSCQV6lp8gf1upmGJ4lC3w7mpCkPU56E
+      image: https://media.licdn.com/dms/image/v2/C5603AQFppgsFA3A9qg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1599037873972?e=1736380800&v=beta&t=XRgUx66bUodH9paCtnG4vYmyAd2S9EHWVMloymF-cqs
       linkedin_url: https://www.linkedin.com/in/mostafa-wael/
       markdown: You can know more about Mostafa and reach him out by visiting his
         [LinkedIn]() profile.
       title: Helping Businesses Optimize Infrastructure | Top 2% on StackOverflow
         @2022 @2023 | DevOps Engineer | GSoC'24 @Metacall
-      top_skills: DevOps, Linux, Kubernetes, Python (Programming Language), Amazon
-        Web Services (AWS)
-      current_position: Software Engineer, Research and Development Center "Egyptian
-        Air Defense Military Commands" · Contract, Jan 2024 - Present · 9 mos
+      top_skills: General Data Protection Regulation (GDPR), Networking, Teaching,
+        Gitlab
+      current_position: Teaching Assistant, Faculty of Engineering Cairo University
+        · Sep 2024 - Present 3 mos
     - name: Menna Allah Ahmed
       image: null
       linkedin_url: https://www.linkedin.com/in/menna-allah-ahmed-391bb31a3/
       markdown: You can know more about Menna and reach her out by visiting her [LinkedIn]()
         profile.
       title: Software Engineer @EJADA
-      top_skills: null
-      current_position: Software Engineer, EJADA · Full-time, Aug 2023 - Present ·
-        1 yr 2 mos
+      top_skills: C++, C (Programming Language), Python (Programming Language), Verilog
+      current_position: Software Engineer, EJADA · Aug 2023 - Present · 1 yr 4 mos
     - name: Mina Emad Fakhry
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEdhxxU4ClNrA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705514729653?e=1732147200&v=beta&t=mg1uFgLrRgrbRY94LbnNIZikAOXJYSWHlWXEeoDtPD0
+      image: null
       linkedin_url: https://www.linkedin.com/in/mina-emad-4b8712202/
       markdown: You can know more about Mina and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Recent Graduate | Software Developer | Seeking Exciting Opportunities
-      top_skills: null
-      current_position: null
+      title: Software Engineer @EJADA
+      top_skills: C++, C (Programming Language), Python (Programming Language), Verilog
+      current_position: Software Engineer, EJADA · Aug 2023 - Present · 1 yr 4 mos
     - name: Nadeen Ayman Mesbah
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEvLtTFSMMO3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687428190439?e=1732147200&v=beta&t=_326LSoZ1BxPM-iF5qYLM0I5B5LkyTs9ej5PFMmfaDM
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEvLtTFSMMO3g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1687428190439?e=1736380800&v=beta&t=ur5X5CYvaqpfxHHo7svlHq-au8_hcHxtWpdToKoR9ro
       linkedin_url: https://www.linkedin.com/in/nadeen-ayman-3a64aa205/
       markdown: You can know more about Nadin and reach her out by visiting her [LinkedIn]()
         profile.
       title: Software Engineer
-      top_skills: null
-      current_position: null
+      top_skills: ASP.NET, .NET Framework, AngularJS, Microsoft SQL Server
+      current_position: Software Development Engineer, Siemens EDA (Siemens Digital
+        Industries Software) · Jul 2024 - Present 5 mos
     - name: Nada ElSayed Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQERxMeaF25qNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686733824543?e=1732147200&v=beta&t=iYpj-c5TCR-oKVpWwPplclRLsm9_Tn9SibCFXFLWMks
+      image: https://media.licdn.com/dms/image/v2/D4D03AQERxMeaF25qNQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1686733824543?e=1736380800&v=beta&t=ZAb5ycpzp_ZXFevv23e7tBwXr0xQmkcSIBa9T-aJMcg
       linkedin_url: https://www.linkedin.com/in/nada-elsayed-384583193/
       markdown: You can know more about Nada and reach her out by visiting her [LinkedIn]()
         profile.
       title: Software Engineering
-      top_skills: null
-      current_position: Software Engineer, EJADA Systems Ltd · Full-time, Aug 2023
-        - Present · 1 yr 2 mos
+      top_skills: MySQL, Software Industry, PostgreSQL, SQL
+      current_position: Software Engineer, EJADA Systems Ltd · Aug 2023 - Present
+        · 1 yr 4 mos
     - name: Nour ElDin Mostafa
-      image: https://media.licdn.com/dms/image/v2/D4D03AQE43Fjkh7yOWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715278801531?e=1732147200&v=beta&t=M2A7ZW8rFW9DWke4iAtiGyWocQjzYr0V8cDHBg4d2mE
+      image: https://media.licdn.com/dms/image/v2/D4D03AQE43Fjkh7yOWg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715278801531?e=1736380800&v=beta&t=VZPAYQGzapydYdMbgRNUayIWGxhyeEw8-SIH_cf9NKk
       linkedin_url: https://www.linkedin.com/in/nouraldin-mostafa-02b9b41b7/
       markdown: You can know more about Nour and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer @Flend
-      top_skills: Software Development, Web Development, Front-End Development, Full-Stack
-        Development, Back-End Web Development
-      current_position: Software Engineer, Flend · Full-time, Dec 2023 - Present ·
-        10 mos
+      top_skills: Ant Design, PostgreSQL, Prisma ORM, SQL
+      current_position: Software Engineer, Flend · Dec 2023 - Present · 1 yr
     - name: Noran Hany Mohamed
       image: null
       linkedin_url: https://www.linkedin.com/in/noran-hany-a69103215/
       markdown: You can know more about Noran and reach her out by visiting her [LinkedIn]()
         profile.
       title: Computer Vision Engineer @ Voyance
-      top_skills: null
-      current_position: Computer Vision Engineer, Voyance · Full-time, Nov 2023 -
-        Present · 11 mos
+      top_skills: PyTorch, TensorFlow, weights and biases, Laravel
+      current_position: Computer Vision Engineer, Voyance · Nov 2023 - Present · 1
+        yr 1 mos
     - name: Hala Hamdy Abdelhady
       image: null
       linkedin_url: https://www.linkedin.com/in/hala-hamdy-6665a91b0/
       markdown: You can know more about Hala and reach her out by visiting her [LinkedIn]()
         profile.
       title: Data Scientist @ Dell Technologies
-      top_skills: null
-      current_position: Data Scientist, Dell Technologies · Full-time, Sep 2023 -
-        Present · 1 yr 1 mo
+      top_skills: Problem Solving, Deep Learning, Presentation Skills, Computer Vision
+      current_position: Data Scientist, Dell Technologies · Sep 2023 - Present · 1
+        yr 3 mos
     - name: Waeam Bassem Hosny
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGHQs435W1VGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1671982934389?e=1732147200&v=beta&t=ZpaMSgVXrikIU5uClsnuYRgxlD9mhb31F39njAPqnks
+      image: null
       linkedin_url: https://www.linkedin.com/in/weaam-bassem/
       markdown: You can know more about Waeam and reach her out by visiting her [LinkedIn]()
         profile.
-      title: Software Testing Engineer
-      top_skills: null
-      current_position: Software Testing Engineer, intella · Full-time, Jul 2023 -
-        Present · 1 yr 3 mos
+      title: Data Scientist @ Dell Technologies
+      top_skills: Problem Solving, Deep Learning, Presentation Skills, Computer Vision
+      current_position: Data Scientist, Dell Technologies · Sep 2023 - Present · 1
+        yr 3 mos
     - name: Yahia Zakaria Mohamed
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFls97uYGAhkg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705609098997?e=1732147200&v=beta&t=xKDl1J-p8Vg7G4AjS5DsDKrZ6OaEMtRoBnUVTRIgSBo
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFls97uYGAhkg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705609098997?e=1736380800&v=beta&t=8JLv5DfTKvvG57Q9abw3kVfFKqK0oKOizA9EoR8mXLY
       linkedin_url: https://www.linkedin.com/in/yahia-zakaria-9a75581b0/
       markdown: You can know more about Yahia and reach him out by visiting his [LinkedIn]()
         profile.
       title: Software Engineer  | GSoC'23 & 22
-      top_skills: null
-      current_position: Software Engineer, PULSAR Microelectronics · Full-time, Feb
-        2024 - Present · 8 mos
+      top_skills: MLflow, C++, Data Science, TypeScript
+      current_position: Software Engineer, PULSAR Microelectronics · Feb 2024 - Present
+        10 mos
     - name: Yousef Ahmed Anwar
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEAKnAxTHDNSQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702566732226?e=1732147200&v=beta&t=i7lo3I5PB3aApXc8z9vOCVNPRbliuXZPmSk9Ca8xGxY
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEAKnAxTHDNSQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702566732226?e=1736380800&v=beta&t=lHdexgaywXMFSBVkrM4khxs1EXB23ERXXMhsN7tgm-g
       linkedin_url: https://www.linkedin.com/in/yousef-ahmed-6a66b2192/
       markdown: You can know more about Yousef and reach him out by visiting his [LinkedIn]()
         profile.
       title: Backend Engineer II @instabug
-      top_skills: null
-      current_position: Back End Engineer II, Instabug, Apr 2024 - Present · 6 mos
+      top_skills: Microservices, Amazon Web Services (AWS), ClickHouse, Go (Programming
+        Language)
+      current_position: Back End Engineer II, Instabug · Jun 2022 - Present · 2 yr
+        8 mos
     - name: Yousef Gamal Reda
-      image: https://media.licdn.com/dms/image/v2/C4D03AQHjn-W2kc3Ppg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654362565732?e=1732147200&v=beta&t=7fCaBJNiF2KdmttA76dGnGR-P1aIlpqA_dVxZfdHMY0
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEAKnAxTHDNSQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702566732226?e=1736380800&v=beta&t=lHdexgaywXMFSBVkrM4khxs1EXB23ERXXMhsN7tgm-g
       linkedin_url: https://www.linkedin.com/in/yousef-gamal-225573188/
       markdown: You can know more about Yousef and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Software Engineer
-      top_skills: null
-      current_position: null
+      title: Backend Engineer II @instabug
+      top_skills: Microservices, Amazon Web Services (AWS), ClickHouse, Go (Programming
+        Language)
+      current_position: Back End Engineer II, Instabug · Jun 2022 - Present · 2 yr
+        8 mos
     - name: Yousef Atef Tawfik
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEQfFqJVtQxig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683004777814?e=1732147200&v=beta&t=MaxffHtINPquYVKasRCr-oYh7Y1ogWghwZ7iecqJZ_8
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEAKnAxTHDNSQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702566732226?e=1736380800&v=beta&t=lHdexgaywXMFSBVkrM4khxs1EXB23ERXXMhsN7tgm-g
       linkedin_url: https://www.linkedin.com/in/yousefatef/
       markdown: You can know more about Yousef and reach him out by visiting his [LinkedIn]()
         profile.
-      title: Candidate Master @ Codeforces | 2x ACPC finalist | Computer Engineer
-      top_skills: null
-      current_position: null
+      title: Backend Engineer II @instabug
+      top_skills: Microservices, Amazon Web Services (AWS), ClickHouse, Go (Programming
+        Language)
+      current_position: Back End Engineer II, Instabug · Jun 2022 - Present · 2 yr
+        8 mos
     - name: Yousef Atef Abdelhaleem
       image: null
       linkedin_url: https://www.linkedin.com/in/
@@ -733,11 +735,11 @@
       top_skills: null
       current_position: null
     - name: Youssef Mostafa Elmahdy
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFNMZvsGgfq8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684532495991?e=1732147200&v=beta&t=tPcqLCiDLhzux6PvnU3YObkOOC4lNR9i7i2tcGs1u8Y
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFNMZvsGgfq8w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684532495991?e=1736380800&v=beta&t=tdtmJUC3dVG1dJol64lYfyi3LH-M1_-Rz3WRd8F8Pbc
       linkedin_url: https://www.linkedin.com/in/yousefelmahdy/
       markdown: You can know more about Youssef and reach him out by visiting his
         [LinkedIn]() profile.
       title: Experian Developer @AlRajhi Bank
-      top_skills: null
-      current_position: Experian Developer, alrajhi bank · Full-time, Nov 2023 - Present
-        · 11 mos
+      top_skills: Java, Experian PowerCurve, Business Strategy, Core Banking
+      current_position: Experian Developer, alrajhi bank · Nov 2023 - Present · 1
+        yr 1 mos

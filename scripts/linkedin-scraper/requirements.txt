@@ -1,5 +1,3 @@
-beautifulsoup4==4.12.3
-lxml==5.2.1
-PyYAML==6.0.1
-selenium==4.21.0
-tqdm==4.66.2
+linkedin-api==2.3.0
+PyYAML==6.0.2
+requests==2.32.3

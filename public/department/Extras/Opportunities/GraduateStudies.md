@@ -122,7 +122,7 @@ You should enter the waiting list of college accommodation, but usually you wont
 #### Visa Necessary Condition
 Being accepted at a university is not sufficient to get a visa and be able to pursue your studies in Germany. It will be necessary that you can show you will be able to *financially support yourself*. There are three possible ways for this:
 
-I. Make what's known as a blocked account which has at least around €11400 (this guarantees to Germany that you can support yourself for the next 12 months and after 12 months they may need to ensure this again by checking your balance).
+I. Make what's known as a blocked account which has at least around [€11904](https://kairo.diplo.de/resource/blob/1624186/a5b5a7055c8c41ddddddfc0cc6f6001b/231116-merkblatt-studium-data.pdf) (this guarantees to Germany that you can support yourself for the next 12 months and in the next 12 months, some foreign offices may accept a blocked account with half the required amount or a part-time job contract to renew your residence permit. **However, this depends on the specific foreign office**.).
 
 II. Get a scholarship that clearly gives you at least around 1000 euros a month for 2 years. E.g., Search for DAAD scholarships, you can also book a free appointment with them and get a consultation session from their quarters in Zamalek.
 
@@ -133,7 +133,7 @@ The most popular option is perhaps to make a blocked account and try to work dur
 For jobs, there is a special position ‘working student’ you can search through Linkedin, XING, Stepstone.
 
 ####  ✅ After MS
-After your master's you are allowed to stay in Germany for 12 months to search for a job, if you get one you will change your stay from student to blue card. Alternatively, you can seek a PhD in Germany.
+After your master's you are allowed to stay in Germany for 18 months to search for a job, if you get one you will change your stay from student to blue card. Alternatively, you can seek a PhD in Germany "in PhD case, you will be paid, so you won’t need a blocked account.".
 
 Learn more about lives of Egyptian students in Germany by watching [this](https://www.youtube.com/playlist?list=PLDMmn4D17zTRJoZ37--Zf55uEhwAHFedB) and videos [here](https://www.youtube.com/@MostafaKashef
 ).

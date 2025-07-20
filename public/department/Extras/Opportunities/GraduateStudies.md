@@ -1,8 +1,8 @@
 # 🎓 Graduate Studies
 In this, we wish to talk about four common pathways after graduation for graduate studies:
 
-| [Graduate Studies at Cairo University](#CUFE) | [Graduate Studies in Europe](#EUROPE) | [Graduate Studies in the United States](#USA) | [Graduate Studies in Canada](#CANADA) |
-|--------------------------------------|-----------------------------|--------------------------------------|----------------------------|
+| [Graduate Studies at Cairo University](#CUFE) | [Graduate Studies in Europe](#EUROPE) | [Graduate Studies in the United States](#USA) | [Graduate Studies in Canada](#CANADA) | [Online Graduate Programs](#ONLINE) |
+|--------------------------------------|-----------------------------|--------------------------------------|----------------------------|----------------------|
 
 But before we do this, let's motivate you to pursue graduate studies.
 
@@ -213,7 +213,18 @@ We clarified earlier that a monthly stipend is provided by the university. The m
 #### ✅ After PhD
 Usually either get hired at a company to work on research (MAANG like to hire good PhDs) or get a postdoc position followed by a tenure-track (academic professor) position at some university (or go back to Egypt and consider opportunities there).
 
-![image](https://yfile.news.yorku.ca/wp-content/uploads/2020/12/Vari-Hall.jpg)
+![image](https://www.coursecompare.ca/wp-content/uploads/2024/11/best-universities-in-canada-university-of-british-columbia-scaled.jpg)
 
 ## 🇨🇦 Graduate Studies in Canada<a id='CANADA'></a>
-Usually like Germany for MS and like the U.S. for PhD (but depends on university). We may refine this section later.
+Usually like Germany for MS (ie, affordable MS is more possible than the US) and like the U.S. for PhD (ie, fully funded and direct PhD is possible). We may refine this section later.
+
+## 🌐 Online Graduate Studies <a id='ONLINE'></a>
+This is usually only feasible for masters programs. This option could be highly valuable because some universities will offer exactly the same certificate that would be given in the offline program and/or claim that it's as strong as the offline one. Especially, in the former case the degree is theoretically as strong as an offline one on the resume. Among the most popular and prominent universities offering this type of program affordably are UT Austin and Georgia Tech. Many other universities have online programs but it could be often so highly expensive.
+
+Currently, [UT Austin](https://cdso.utexas.edu/) provides three MS programs which are: MS in Computer Science, MS in AI and MS in Data Science. To get the degree one has to either finish ten courses. In case a master thesis is sought and granted in this program, the requirements becomes eight courses and the remaining credit hours become fullfilled by the thesis. Most of the billing is per course and depending on the program, one gets to choose from a different pool of courses. Generally, the courses are more advanced or as advanced as what we covered in undergrad courses and while they are not taught in realtime, assignments, exams and projects and lectures generally operate under deadlines.
+
+[Georgia Tech](https://omscs.gatech.edu/) also has a famous Online MSCS program that is even more affordable. 
+
+In general, the application to the online MSCS isn't that different from what we described above for the offline one.
+
+![image](https://cdn.mos.cms.futurecdn.net/yNvXLGfbcH4oYr39fXET6Y-1200-80.jpg)

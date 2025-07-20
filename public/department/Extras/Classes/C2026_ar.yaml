@@ -7,10 +7,506 @@
   - title: 📃 كشف الدفعة
     description: طلبة الصف كما يلي
     items:
-    - name: مثال لطالب
+    
+    - name: احمد السيد محسن
       image: null
-      markdown: معلومات عن الطالب
-      linkedin_url: https://www.linkedin.com/in/
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmed-elsayed-6a0710264/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: احمد السيد محمود رؤف 
+      image: null
+      markdown: null
+      linkedin_url: null
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد حامد جابر
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmedhamed3699/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد حمدي محمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-mohammed/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد علاء الدين محمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmed-aladdin-8a9a81305/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد كمال عبد الرسول
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmed-kamal-649b4a231/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد مصطفى
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahme-dmostafa/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أحمد مصطفى عطية
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ahmed-mostafa-677ab4219/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أدهم محمد أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/adham-hussin-866632142/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: إسلام وجيه سمير
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/eslam-wageh-samer/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أسماء محمد أبو زيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/asmaa-abozaid-6b3134293/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أشرف باهي طاهر
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ashraf-bahy-93734421a/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أكرم هاني كرم سلام
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/akramhany/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: أمير أنور بخيت
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/marwan-alhameedy-b64480277/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: بيتر صفوت صهيون
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/peter-safwat-8a82bb260/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: بيشوي وديع
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/bishoy-wadea-27b016250/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: جورج مجدي توفيق
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/g-magdy/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: خالد محمود حسنين
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/khalid-elgammal-72ab0326a/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: روان أحمد فؤاد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/rawan-ahmed-b7b12624b/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: زياد سامر محمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ziad-samer-a70578249/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: زياد علاء الدين سعيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/zeyad-alaa-64209a266/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: زياد محمد علي
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/zeyad-daowd-571796223/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: سارة عهدي كمال
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/sarah-soliman-353128235/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: سلمى محمد انتصار
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/salma-muhammed-71a23224a/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: سمية سعد إسماعيل
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/somia-elshemy-a252a834b/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: سيف محمد أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/seif-mohamed-18a1a7265/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: شهاب خالد رشدي
+      image: null
+      markdown: null
+      linkedin_url: null
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عبد الرحمن سامي محمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/abdelruhman-sami-23940b278/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عبد الرحمن مصطفى جمعة
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/abdulrahmannmostafa/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عبد الله صلاح سالم
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/abdallah--salah/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عبدالرحمن محمد عبد العاطى
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/abdelrahman-mohamed-abdelaty/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: علي بحر حسين
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/ali-bahr-50233a262/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: على سامى على ابراهيم
+      image: null
+      markdown: null
+      linkedin_url: null
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: على عفيفى حسين على
+      image: null
+      markdown: null
+      linkedin_url: null
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عمر سيد ابراهيم هاشم
+      image: null
+      markdown: null
+      linkedin_url: null
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عمر محمد ربيع
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/omar-mohamed-635a14221/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عمرو سعد منصور
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/amr-saad-39461a23b/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: عمرو محمود السيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/amr--mahmoud/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: فاطمة زينهم فريد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/fatma-zenhom-b0392b251/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: كريم أشرف سعيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/kareem-ashraf-025a23292/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: كريم محمد راشد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/karim-mohamed14/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: كريم محمود أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/karimmahmoud09/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: كريم وائل محمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/kareem-abosamra/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: كيرلس بغداد مكين
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/kirollos-baghdad-7ba5661b8/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مازن عادل عبد الله
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mazenadel223/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد أشرف إبراهيم
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-ashraf-65ab91243/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد خالد أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-khaled-0a7715280/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد خالد احمد عبد الواحد حسان
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-khaled-b1a405190/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد سيد خليل
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-el-bohy-733890227/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد عبد الرحمن الخياط
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-elkhayat-66b36521a/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد عبد العزيز عبده خاطر
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohamed-khater-924782243/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: محمد عمرو حسن
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/muhammadamrhassan/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مروان محمد عبد المجيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/marwan-alhameedy-b64480277/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مريم أمين أمين
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mariam-amin20/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مصطفى محمد ربيع
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mostafa-rabie-90458a209/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مؤمن محمد سعيد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mohefny04/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: مينا هاني ويليام
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/mina-h-william/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: نسمة أسامة أبو المعاطي
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/nesma-osama-995614264/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: نور خالد أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/nour-abouzeid-974445279/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: هنا مصطفى أحمد
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/hana-mostafa9/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: يوسف باهي يوسف
+      image: null
+      markdown: null
+      linkedin_url: null
+      top_skills: null
+      current_position: null
+    
+    - name: يوسف رشدي عجيبي
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/youssef-roshdy-21074b236/
+      title: null
+      top_skills: null
+      current_position: null
+    
+    - name: يوسف طارق مهني
+      image: null
+      markdown: null
+      linkedin_url: https://www.linkedin.com/in/youssef-mehany/
       title: null
       top_skills: null
       current_position: null

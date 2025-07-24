@@ -1,0 +1,44 @@
+name: Run LinkedIn Scraper
+
+on:
+  # Run at 00:00 UTC on day-of-month 1
+  schedule:
+    - cron: '0 0 1 * *'
+  # Allow manual runs
+  workflow_dispatch:
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/linkedin-scraper/requirements.txt
+
+      - name: Create cookies.json from secret
+        run: |
+          echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > ./scripts/linkedin-scraper/cookies.json
+
+      - name: Run LinkedIn scraper
+        run: |
+          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2021.yaml
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add public/department/Extras/Classes/C2021.yaml public/department/Extras/Classes/C2021_ar.yaml scripts/linkedin-scraper/data/*.json
+          git diff --quiet && echo "No changes to commit" || git commit -m "chore: update LinkedIn profiles and summaries"
+          git push

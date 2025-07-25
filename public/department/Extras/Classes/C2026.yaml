@@ -30,39 +30,42 @@
       top_skills: UX, Open-Source Development, Computer Engineering, Software Development
       current_position: null
     - name: Ahmed Hamdy Mohamed
-      image: null
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGiU2dnYUtUng/profile-displayphoto-scale_200_200/B4DZeZZpSIHMAY-/0/1750625327661?e=1756339200&v=beta&t=7OO3BsbV926pbyqbPegiUz1HFVJzpKzAzYNN0-Xh9TU
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-mohammed/
-      title: null
-      top_skills: null
+      title: Ex Frontend intern @ElArabyCareers | Senior-1 computer engineering student
+        at Cairo University
+      top_skills: Encryption, Security, Machine Learning, Speech Recognition
       current_position: null
     - name: Ahmed Aladdin Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-aladdin-8a9a81305/
-      title: null
-      top_skills: null
+      title: Software Engineer  | Junior Computer Engineer
+      top_skills: Socket.io, Express.js, Microsoft Azure, HTML5
       current_position: null
     - name: Ahmed Kamal Abdel Rasoul
-      image: null
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHjE4YNgdY2Wg/profile-displayphoto-shrink_200_200/B4DZaxQsrMG4Ac-/0/1746730668198?e=1756339200&v=beta&t=s2AI3wt08Uo7ZZ7wykSxvlP9M_-F9qpDLGhAH7jgmjY
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-kamal-649b4a231/
-      title: null
-      top_skills: null
-      current_position: null
+      title: GSoC25 @ RizinOrg | DevOps intern @siemens | Computer Engineering Student
+        at Cairo University
+      top_skills: Software Infrastructure, GitHub, Kernel Programming, Threads
+      current_position: DevOps Engineer, Siemens Digital Industries Software · Jul
+        2025 - Present 1 mos
     - name: Ahmed Mostafa
-      image: null
+      image: https://media.licdn.com/dms/image/v2/D4D03AQE_5cVU2m6bng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715564686772?e=1756339200&v=beta&t=KqAPvysTwOiTha7Oq_JT_2C6ffHLq9WeryD5kpIDXU0
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahme-dmostafa/
-      title: null
-      top_skills: null
+      title: Frontend Developer | Computer Engineering Senior- Cairo University
+      top_skills: Analytical Skills, Hands-on Training, Java, Technology Development
       current_position: null
     - name: Ahmed Mostafa Attia
-      image: null
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEBxtJaSXyQlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695586453542?e=1756339200&v=beta&t=PAAinYGUHnNSYHsUJmHqqlN9AMI8iJvlm-5IsUnorXo
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-mostafa-677ab4219/
-      title: null
-      top_skills: null
+      title: Junior computer engineering student at Cairo University
+      top_skills: Software Deployment, NextJS, Clerk, NoSQL
       current_position: null
     - name: Adham Mohamed Ahmed
       image: null

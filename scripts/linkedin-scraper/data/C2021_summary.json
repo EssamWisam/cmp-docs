@@ -34,5 +34,270 @@
             "Research and Development (R&D)"
         ],
         "current_position": "Applied Scientist II, Microsoft AI, Microsoft \u00b7 Jun 2024 - Present \u00b7 1 yr 2 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmednassarmlops/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEvQsBV0LaqoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720590382099?e=1756339200&v=beta&t=ZQLJ9PmoohedtkZOe-2qNZ4UfU1MsUubPfPZwEREGho",
+        "title": "AI & Data Specialist | LLMs, NLP, Automation | Helping Teams Get More From Their Data",
+        "top_skills": [
+            "Large Language Models (LLM)",
+            "Natural Language Processing (NLP)",
+            "Retrieval-Augmented Generation (RAG)",
+            "Data Extraction"
+        ],
+        "current_position": "Data scientist/Data analyst, EJADA \u00b7 Aug 2021 - Present \u00b7 4 yr"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmedafifi98/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGPjoz6rXtcxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714409318624?e=1756339200&v=beta&t=DfsnrJ5ukDLIpRkbNaXYVfFnQar1-RYGh-IG8QwRnWg",
+        "title": "Software Engineer",
+        "top_skills": [
+            "System Administration",
+            "Help Desk Support",
+            "Storage Virtualization",
+            "Network Administration"
+        ],
+        "current_position": "Tooling Software Engineer, eJad \u00b7 Mar 2023 - Present \u00b7 2 yr 5 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmed-abdelfattah-752932178/",
+        "image": "https://media.licdn.com/dms/image/v2/D5635AQGWIDvjmFYToQ/profile-framedphoto-shrink_200_200/B56ZazNEkcGkAc-/0/1746763270832?e=1754056800&v=beta&t=26-X36sNWQsnaK1wTu2vlGR6D7mxEW_uSrwX_teRwFs",
+        "title": "Full Stack Software Engineer | Bachelor of Engineering",
+        "top_skills": [
+            "Elasticsearch",
+            "Continuous Integration and Continuous Delivery (CI/CD)",
+            "Computer Science",
+            "Software Development"
+        ],
+        "current_position": null
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmed-waleed-ahmed/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFVgUKhpxOlqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693084071747?e=1756339200&v=beta&t=AoKziVdFL8tSvdp34rhJCZHaY2BS8WhLUa8kQcc7S5w",
+        "title": "Software Engineer @ Maqsam | Devops | Ruby on Rails | AWS | Ansible",
+        "top_skills": [
+            "Universal Asynchronous Receiver/Transmitter (UART)",
+            "SPI",
+            "LCD",
+            "I2C"
+        ],
+        "current_position": "Software Engineer, Maqsam \u00b7 Sep 2021 - Present \u00b7 3 yr 11 mos"
+    },
+    null,
+    {
+        "linkedin_url": "https://www.linkedin.com/in/amiramehriz",
+        "image": null,
+        "title": "Junior System Administrator at National Bank of Egypt (NBE)",
+        "top_skills": [
+            "Ccna",
+            "Network Administration",
+            "Microsoft Servers",
+            "Help Desk Support"
+        ],
+        "current_position": "Junior System Administrator, National Bank of Egypt (NBE) \u00b7 Nov 2022 - Present \u00b7 2 yr 9 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ayat-mostafa-a02067185",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEda9n--Jf2Ig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672570003474?e=1756339200&v=beta&t=P_nwF7hxps6xLsvxeTHTgkfDWcJwgVoJcrgUzpkowXk",
+        "title": "Data Scientist at IBM | M.Sc Student",
+        "top_skills": [
+            "Hive",
+            "PySpark",
+            "C++",
+            "python"
+        ],
+        "current_position": "Data Scientist, IBM \u00b7 Aug 2024 - Present \u00b7 1 yr"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ayman-azzam-42b266145",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHcggJwLmv5ng/profile-displayphoto-shrink_200_200/B4DZUC2A7mHYAY-/0/1739509470603?e=1756339200&v=beta&t=dnGlKJ5jpJHerdw_G30ZnF0sTuZKJQcAzYFqGb2XINY",
+        "title": "SRE @ Property Finder",
+        "top_skills": [
+            "Helm",
+            "Helm Charts",
+            "Grafana",
+            "Datadog"
+        ],
+        "current_position": "Site Reliability Engineer, Property Finder \u00b7 Mar 2025 - Present 5 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ayman-elakwah/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGsbjIfJ9GROQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705111368487?e=1756339200&v=beta&t=eVcd3rsm1taetZ5AAAbX-5NlmR_zgguAwbWrf5oSu8Y",
+        "title": "Software Engineer II at Microsoft",
+        "top_skills": [
+            "Android",
+            "Java",
+            "C++",
+            "Programming"
+        ],
+        "current_position": "Software Engineer II, Microsoft \u00b7 Sep 2022 - Present \u00b7 3 yr"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ayman-abdelnaby/",
+        "image": null,
+        "title": "Student at Cairo University",
+        "top_skills": [
+            "Software Development",
+            "Algorithms",
+            "Python (Programming Language)",
+            "Programming"
+        ],
+        "current_position": null
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/hossamahmedem/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D35AQFmmj7RCONOVw/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1722833463317?e=1754056800&v=beta&t=5ZBhM9iv2aIVhUf7hloULT9ndPuSUxMClQ3m844SCtY",
+        "title": "Full-Stack Developer | MERN Stack Developer| React.js | Node.js | MongoDB | Open to Opportunities",
+        "top_skills": [
+            "Blade ",
+            "MySQL",
+            "Filament ",
+            "Livewire "
+        ],
+        "current_position": "Software Engineer (Full-Stack Laravel Developer), Prameg \u00b7 Oct 2024 - Present 10 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/khaled-amgad-21040a200",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQG-s7aMuTz83w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697313084217?e=1756339200&v=beta&t=QZvPYq-aWig_-wweM-0g82RjRB0JleEeN8ZneryprFQ",
+        "title": "Software Development Engineer at Siemens EDA (Siemens Digital Industries Software)",
+        "top_skills": [
+            "Object-Oriented Programming (OOP)",
+            "Databases",
+            "Software Development",
+            "Algorithms"
+        ],
+        "current_position": "Software Development Engineer, Siemens EDA (Siemens Digital Industries Software) \u00b7 Feb 2022 - Present \u00b7 3 yr 6 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/khaled-galal",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFzOQtf3fcSIw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1731416715778?e=1756339200&v=beta&t=65HvE9j0JksYLhnhsscJdN5azdeLpU6UhX6NJtBChO0",
+        "title": "Software Engineer at Skilllab",
+        "top_skills": [
+            "Ruby on Rails",
+            "Next.js",
+            "JavaScript",
+            "React.js"
+        ],
+        "current_position": "Software Engineer, SkillLab \u00b7 Sep 2024 - Present 11 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/khaled-nassar-2a129414b/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHRwJgEMPH_wQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689202952995?e=1756339200&v=beta&t=td1JloIJDTMNs_FpmxrwEEDZy25Ve1Ki9FApiE2bs3Y",
+        "title": "Software Engineer | Ex-AWS, Microsoft",
+        "top_skills": [
+            "Problem Solving",
+            "C++",
+            "Teamwork",
+            "Software Engineering"
+        ],
+        "current_position": "Teaching Assistant, Faculty of Engineering Cairo University \u00b7 Jan 2023 - Present \u00b7 2 yr 7 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/radwask",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEFLuqIDcALBw/profile-displayphoto-scale_200_200/B4DZfkEhZ1HAAc-/0/1751878082042?e=1756339200&v=beta&t=lXxkx0Z5_4DsU6_S1QNloOBkCw0DI2gpjvxXQighOQU",
+        "title": "Applied Scientist I @ Microsoft | Master of Science",
+        "top_skills": [
+            "Data Science",
+            "Research and Development (R&D)",
+            "Angular",
+            "Flask"
+        ],
+        "current_position": "Applied Scientist I, Microsoft \u00b7 May 2024 - Present \u00b7 1 yr 3 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/remonda-talaat-206932168/",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEmXc5yzfjvLw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1533402309967?e=1756339200&v=beta&t=RSwANXkFqZZFGaVbr5NOohnPo6dAK2a7pF0FV-YGCiQ",
+        "title": "Teaching Assistant at Cairo University Faculty of Engineering | Software Engineer",
+        "top_skills": [
+            "Computer Science",
+            "Computer Engineering",
+            "Amazon Dynamodb",
+            "Google Cloud Platform (GCP)"
+        ],
+        "current_position": "Software Engineer, Rembrand \u00b7 Apr 2024 - Present \u00b7 1 yr 4 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/reham-gamal-931244149",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFaBgr1aVWIog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1557246214725?e=1756339200&v=beta&t=X4sWmcZKVRrhbR9hrKKQ3O0d_rW0DMZkXJ6MnuwXoGw",
+        "title": "Senior Embedded Software Engineer at Siemens EDA",
+        "top_skills": [
+            "C++",
+            "Embedded Software",
+            "C (Programming Language)",
+            "Embedded Software Programming"
+        ],
+        "current_position": "Senior Embedded Software Engineer, Siemens EDA (Siemens Digital Industries Software) \u00b7 Oct 2021 - Present \u00b7 4 yr 5 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/reham-ali",
+        "image": "https://media.licdn.com/dms/image/v2/D4D35AQGJrfJC7_Q1aA/profile-framedphoto-shrink_200_200/B4DZbac446G0AY-/0/1747421728653?e=1754056800&v=beta&t=csDHBVcz9VAKiFySvYeVpg28fVXQ09kZq6FgpwbzgDY",
+        "title": "Software Developement Engineer at Microsoft",
+        "top_skills": [
+            "TypeScript",
+            "HTML",
+            "Cascading Style Sheets (CSS)",
+            "Kusto Query Language (KQL)"
+        ],
+        "current_position": "Software Engineer, Microsoft \u00b7 Apr 2022 - Present \u00b7 3 yr 2 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/sara-raafat/",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGFTxCG1W490g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620282865747?e=1756339200&v=beta&t=_YajeqEYc5Fa2CZuEvtu4okQ5qFgMWAK_mPAd1RDCSw",
+        "title": "QA Engineer",
+        "top_skills": [
+            "Agile Testing",
+            "Functional Testing",
+            "Regression Testing",
+            "UI Testing"
+        ],
+        "current_position": "QA Automation Engineer, InstaMotion Retail GmbH \u00b7 Jul 2022 - Present \u00b7 3 yr 1 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/sarah-mohamed-lotfy-5a254116a/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGALhxzGau7Nw/profile-displayphoto-shrink_200_200/B4DZe2l4gxGYAY-/0/1751115074593?e=1756339200&v=beta&t=Lhn-bb_r00vG1wWtskLmMU1JXVEU-Yc8Sb-mAYQ_uig",
+        "title": "Software Engineer at EJADA",
+        "top_skills": [
+            "Tailwind CSS",
+            "HTML",
+            "Web Engineering",
+            "Data Annotation"
+        ],
+        "current_position": "Front-End Software Engineer, EJADA \u00b7 Sep 2021 - Present \u00b7 7 yr 10 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/sara-yasser-02bb69214/",
+        "image": null,
+        "title": "Software Engineer at Microsoft",
+        "top_skills": [
+            "C++",
+            "Python (Programming Language)",
+            "Object-Oriented Programming (OOP)",
+            "Agile Methodologies"
+        ],
+        "current_position": "Software Engineer, Microsoft \u00b7 Apr 2022 - Present \u00b7 3 yr 5 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/sofyanmahmoud0000/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQESdP9H9XSPmw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715412569413?e=1756339200&v=beta&t=aP5eaelh29TSgptond9Ef5u-tmhsaGe0dY1RTBtn_6A",
+        "title": "SWE  @ SETTLE & SL @ Udacity",
+        "top_skills": [
+            "Flask",
+            "Engineering",
+            "Web Engineering",
+            "Software Industry"
+        ],
+        "current_position": "Session Lead, Udacity \u00b7 Nov 2024 - Present 9 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/salma-ibrahim-539395161/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQF8SuRqsaZ61A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718263529350?e=1756339200&v=beta&t=AWrKDAZ_uhyws7HFbBzc5CJtT7L2aZU8pxtGu5PpgRk",
+        "title": "Software Developer @ DXC Technology",
+        "top_skills": [
+            "Spring Boot",
+            "Java",
+            "Oracle Application Development Framework (ADF)",
+            "Continuous Integration and Continuous Delivery (CI/CD)"
+        ],
+        "current_position": "Java Software Developer, DXC Technology \u00b7 May 2023 - Present \u00b7 2 yr 3 mos"
     }
 ]

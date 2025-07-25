@@ -38,15 +38,18 @@ jobs:
           ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf
 
 
-      # - name: Run LinkedIn scraper
-      #   run: |
-      #     set -e
-      #     python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2020.yaml
+      - name: Run LinkedIn scraper for all class YAML files
+        run: |
+          set -e
+          for file in $(ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf); do
+            echo "Running scraper for $file"
+            python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/$file
+          done
 
-      # - name: Commit and push changes
-      #   run: |
-      #     git config --global user.name "GitHub Actions"
-      #     git config --global user.email "actions@github.com"
-      #     git add -A
-      #     git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
-      #     git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
+          git push

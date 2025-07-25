@@ -43,7 +43,8 @@ jobs:
           set -e
           for file in $(ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf); do
             echo "Running scraper for $file"
-            python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/$file
+            # Run each file in a subshell so errors don't stop the loop
+            (python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/$file || echo "Error running scraper for $file, continuing...")
           done
 
       - name: Commit and push changes

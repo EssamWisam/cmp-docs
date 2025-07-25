@@ -1,0 +1,27 @@
+[
+    null,
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmibr68/",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHgUFR85CjhXA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1591088730038?e=1756339200&v=beta&t=HSmVb6YL-xmw8gOsAh9HKEDVXjh77J0FHLSSqxE0UaA",
+        "title": "Software Engineer at Google",
+        "top_skills": [
+            "C++",
+            "Data Structures",
+            "Algorithms",
+            "Object-Oriented Programming (OOP)"
+        ],
+        "current_position": "Software Engineer, Google \u00b7 Jan 2022 - Present \u00b7 3 yr 7 mos"
+    },
+    {
+        "linkedin_url": "https://www.linkedin.com/in/ahmed-khaled-ba3151135/",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFjDVlOSaWGWw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715120290539?e=1756339200&v=beta&t=YtCPRu919mfk2RNmRpHvMuKTscyNd5XT4NO4fLBCaUM",
+        "title": "I work on optimization & machine learning.",
+        "top_skills": [
+            "C++",
+            "Java",
+            "Artificial Intelligence",
+            "Python"
+        ],
+        "current_position": "Applied Scientist Intern, Amazon Web Services (AWS) \u00b7 May 2025 - Present 3 mos"
+    }
+]

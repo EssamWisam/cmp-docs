@@ -31,16 +31,22 @@ jobs:
       - name: Create cookies.json from secret
         run: |
           echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > ./scripts/linkedin-scraper/cookies.json
-
-      - name: Run LinkedIn scraper
+        
+      - name: List matching YAML files
         run: |
-          set -e
-          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2020.yaml
+          echo "Found the following C20xx files in public/department/Extras/Classes/:"
+          ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$'
 
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add -A
-          git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
-          git push
+
+      # - name: Run LinkedIn scraper
+      #   run: |
+      #     set -e
+      #     python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2020.yaml
+
+      # - name: Commit and push changes
+      #   run: |
+      #     git config --global user.name "GitHub Actions"
+      #     git config --global user.email "actions@github.com"
+      #     git add -A
+      #     git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
+      #     git push

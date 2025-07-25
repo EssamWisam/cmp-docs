@@ -60,15 +60,25 @@ class LinkedProfileScraper:
             Optional[str]: The current position as "title, companyName", if available; otherwise, None.
         """
         # Check if 'experience' exists and contains entries
-        if 'experience' in profile and isinstance(profile['experience'], list) and len(profile['experience']) > 0:
+        if (
+            profile is not None and
+            'experience' in profile and
+            isinstance(profile['experience'], list) and
+            len(profile['experience']) > 0
+        ):
             current_position = get_latest_position(profile['experience'])
-            # Return formatted current position =>
-            # {title}, {company} · {start_month} {start_year} - Present · {total_years} yr {total_months} mos
-            experience_string = f"{current_position['title'].strip()}" if current_position['title'] is not None else ""
-            experience_string += f", {current_position['company'].strip()} ·" if current_position['company'] is not None else " ·"
-            experience_string += f" {current_position['start_month']} {current_position['start_year']} - Present" if current_position['start_month'] is not None and current_position['start_year'] is not None else " - Present"
-            experience_string += f" · {current_position["years"]} yr" if current_position["years"] is not None and current_position["years"] != 0 else ""
-            experience_string += f" {current_position["months"]} mos" if current_position["months"] is not None and current_position["months"] != 0 else ""
+            if current_position is None:
+                return None
+            experience_string = f"{current_position.get('title', '').strip()}" if current_position.get('title') is not None else ""
+            experience_string += f", {current_position.get('company', '').strip()} ·" if current_position.get('company') is not None else " ·"
+            if current_position.get('start_month') is not None and current_position.get('start_year') is not None:
+                experience_string += f" {current_position['start_month']} {current_position['start_year']} - Present"
+            else:
+                experience_string += " - Present"
+            if current_position.get('years') is not None and current_position['years'] != 0:
+                experience_string += f" · {current_position['years']} yr"
+            if current_position.get('months') is not None and current_position['months'] != 0:
+                experience_string += f" {current_position['months']} mos"
             experience_string = experience_string.strip("· ,")
             return experience_string
         else:
@@ -106,7 +116,12 @@ class LinkedProfileScraper:
         """
         # Extract the public ID from the LinkedIn URL and fetch the profile
         public_id = get_linkedin_public_id(student_url)
+
+        print(f"Fetching profile for public ID: {public_id}")
         profile = self.api.get_profile(public_id)
+
+        if profile is None:
+            print("Profile could not be fetched (None returned).")
         
         if public_id:
             # Collect relevant profile data

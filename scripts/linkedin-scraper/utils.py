@@ -93,71 +93,56 @@ def calculate_duration(time_period: Dict[str, Dict[str, int]]) -> Dict[str, int]
 
 def get_latest_position(positions: List[Dict]) -> Optional[Dict[str, Union[str, int]]]:
     """
-    Calculates the total duration an employee worked at their current company across different positions.
-    Also returns the start month and year of the employee's tenure at the company.
-
-    Args:
-        positions (List[Dict]): A list of dictionaries representing positions with start and end dates, title, company name, and company URN.
-
-    Returns:
-        Optional[Dict[str, Union[str, int]]]: A dictionary containing the title of the current position, company name, total years, months,
-        and the start year and month.
-        Returns None if the current position has an end date.
+    Returns the latest/current position info for a LinkedIn profile, handling missing data and summing durations at the same company.
     """
-    if not positions:
+    if not positions or not isinstance(positions, list):
         return None
 
-    # The current position should be the first element in the list
     current_position = positions[0]
-
-    # Check if the current position has an end date (which it shouldn't)
-    if 'endDate' in current_position['timePeriod']:
-        return None
-
-    # TODO: Add checking for intersecting positions at the same company to avoid increasing the total duration needlessly.
-
-    # Get the URN and title of the current position
-    current_company_urn = current_position['companyUrn'] if "companyUrn" in current_position else None
-    current_company_name = current_position['companyName'] if "companyName" in current_position else None
-    current_title = current_position['title'] if "title" in current_position else None
-    
-    if 'timePeriod' not in current_position or 'startDate' not in current_position['timePeriod']:
+    # Defensive: Check for required keys
+    time_period = current_position.get('timePeriod')
+    if not time_period or 'startDate' not in time_period:
         return {
-            "title": current_title,
-            "company": current_company_name,
+            "title": current_position.get('title'),
+            "company": current_position.get('companyName'),
             "years": None,
             "months": None,
             "start_year": None,
             "start_month": None,
         }
+    # If current position has an end date, it's not current
+    if 'endDate' in time_period:
+        return None
 
-    earliest_start_year = current_position['timePeriod']['startDate']['year']
-    earliest_start_month = current_position['timePeriod']['startDate']['month']
+    current_company_urn = current_position.get('companyUrn')
+    current_company_name = current_position.get('companyName')
+    current_title = current_position.get('title')
+    earliest_start_year = time_period['startDate'].get('year')
+    earliest_start_month = time_period['startDate'].get('month')
+    total_duration = calculate_duration(time_period)
 
-    # Calculate the duration of the current position using the current date as the end date
-    total_duration = calculate_duration(current_position['timePeriod'])
-
-    if current_company_urn is not None:
-        # Iterate over the rest of the positions to sum up the duration if the company URN matches
-        for position in positions[1:]:
-            if "companyUrn" in position and position['companyUrn'] == current_company_urn:
-                # Check if this position started earlier than the current earliest start date
-                start_year = position['timePeriod']['startDate']['year']
-                start_month = position['timePeriod']['startDate']['month']
-
+    # Sum durations for all positions at the same company
+    for position in positions[1:]:
+        if position.get('companyUrn') == current_company_urn:
+            pos_time_period = position.get('timePeriod')
+            if not pos_time_period or 'startDate' not in pos_time_period:
+                continue
+            start_year = pos_time_period['startDate'].get('year')
+            start_month = pos_time_period['startDate'].get('month')
+            if start_year is not None and start_month is not None:
                 if (start_year < earliest_start_year) or (start_year == earliest_start_year and start_month < earliest_start_month):
                     earliest_start_year = start_year
                     earliest_start_month = start_month
-                
-                # Add the duration of this position to the total duration
-                position_duration = calculate_duration(position['timePeriod'])
-                total_duration['years'] += position_duration['years']
-                total_duration['months'] += position_duration['months']
+            pos_duration = calculate_duration(pos_time_period)
+            total_duration['years'] += pos_duration['years']
+            total_duration['months'] += pos_duration['months']
+    # Normalize months
+    if total_duration['months'] >= 12:
+        total_duration['years'] += total_duration['months'] // 12
+        total_duration['months'] %= 12
 
-                # Normalize the months to convert them into years if needed
-                if total_duration['months'] >= 12:
-                    total_duration['years'] += total_duration['months'] // 12
-                    total_duration['months'] %= 12
+    # Format start month
+    start_month_str = MONTHS[earliest_start_month - 1] if earliest_start_month and 1 <= earliest_start_month <= 12 else None
 
     return {
         "title": current_title,
@@ -165,5 +150,5 @@ def get_latest_position(positions: List[Dict]) -> Optional[Dict[str, Union[str, 
         "years": total_duration['years'],
         "months": total_duration['months'],
         "start_year": earliest_start_year,
-        "start_month": MONTHS[earliest_start_month - 1]  # Convert month number to abbreviated month name
+        "start_month": start_month_str
     }

@@ -101,9 +101,10 @@
       linkedin_url: https://www.linkedin.com/in/habiba-hassan-elhussieny-815988231
       markdown: يمكنك معرفة المزيد عن حبيبة والتواصل معها عبر زيارة [صفحتها على LinkedIn]()
         و[GitHub](https://github.com/HabibaHassan02).
-      title: Fresh Graduate | Computer Engineer
-      top_skills: null
-      current_position: null
+      title: 'Software Engineer '
+      top_skills: NumPy, TensorFlow, PyTorch, Game Development
+      current_position: Software Engineer, Edafa Telecom Solutions · Aug 2023 - Present
+        10 mos
     - name: حسام نبيل
       image: null
       markdown: طالب/ة في قسم الحاسبات بنظام الساعات المعتمدة
@@ -112,12 +113,12 @@
       top_skills: null
       current_position: null
     - name: خالد ممدوح
-      image: https://media.licdn.com/dms/image/v2/D4D35AQHDhv-nvKF1vQ/profile-framedphoto-shrink_200_200/profile-framedphoto-shrink_200_200/0/1725544612384?e=1726992000&v=beta&t=j0HETKgKg6rUncflrThvCsZTfseWk5hZQJuWXZKQSOs
+      image: https://media.licdn.com/dms/image/v2/C4D03AQFs7ESzlXCQTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1635702211865?e=1756339200&v=beta&t=cbXJaLnkN3bgI_zaorAHsxP04lKBfsOQdk2MxVWwRhg
       linkedin_url: https://www.linkedin.com/in/khalidmamdou7/
       markdown: يمكنك معرفة المزيد عن خالد والتواصل معه عبر زيارة [صفحته على LinkedIn]()
         و[GitHub](https://github.com/khalidmamdou7).
-      title: Computer Engineering Graduate of Cairo University
-      top_skills: null
+      title: Software Engineer
+      top_skills: Argo, Amazon Web Services (AWS), Microsoft SQL Server, Teaching
       current_position: null
     - name: دنيا رماح
       image: null

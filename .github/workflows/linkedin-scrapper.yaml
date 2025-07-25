@@ -1,9 +1,6 @@
 name: Run LinkedIn Scraper
 
 on:
-  push:
-    branches:
-      - linkedin-scrapper-fixes
   schedule:
     - cron: '0 0 1 * *'
   workflow_dispatch:

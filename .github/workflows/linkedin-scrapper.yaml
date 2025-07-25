@@ -34,8 +34,8 @@ jobs:
         
       - name: List matching YAML files
         run: |
-          echo "Found the following C20xx files in public/department/Extras/Classes/:"
-          ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$'
+          echo "Found the following C20xx files in public/department/Extras/Classes (random order):"
+          ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf
 
 
       # - name: Run LinkedIn scraper

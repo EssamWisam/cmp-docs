@@ -28,44 +28,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/linkedin-scraper/requirements.txt
 
-      - name: Check if LINKEDIN_COOKIES_JSON secret is present
-        run: |
-          if [ -z "${{ secrets.LINKEDIN_COOKIES_JSON }}" ]; then
-            echo "❌ LINKEDIN_COOKIES_JSON secret is missing!"
-            exit 1
-          else
-            echo "✅ LINKEDIN_COOKIES_JSON secret is set."
-          fi
-
       - name: Create cookies.json from secret
         run: |
           echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > ./scripts/linkedin-scraper/cookies.json
-          echo "✅ cookies.json created"
-
-      # - name: Debug: Show input YAML file before scraping
-      #   run: |
-      #     echo "📄 Contents of input YAML file before scraping:"
-      #     cat public/department/Extras/Classes/C2021.yaml
 
       - name: Run LinkedIn scraper
         run: |
           set -e
-          echo "🚀 Starting scraper..."
-          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2021.yaml || {
-            echo "❌ Scraper failed"
-            exit 1
-          }
-          echo "✅ Scraper ran successfully"
-          echo "📄 Contents of YAML file after scraping:"
-          cat public/department/Extras/Classes/C2021.yaml
-          echo "📦 Changed files:"
-          git status
+          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2021.yaml
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add public/department/Extras/Classes/C2021.yaml public/department/Extras/Classes/C2021_ar.yaml scripts/linkedin-scraper/data/*.json
-          git diff --quiet && echo "📭 No changes to commit" || git commit -m "chore: update LinkedIn profiles and summaries"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
           git push
-

@@ -7,503 +7,442 @@
   - title: 📃 Class Roster
     description: Members of the class are as follows
     items:
-    - name: Ahmed El-Sayed Mohsen 
-      image: null
+    - name: Ahmed El-Sayed Mohsen
+      image: https://media.licdn.com/dms/image/v2/D4E03AQHO_F99YFgsew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730386145705?e=1756339200&v=beta&t=XqOGFus6S7lIGZu2W5KV8aHH0p-ERDWTFxGNwsbWWBg
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-elsayed-6a0710264/
-      title: null
-      top_skills: null
-      current_position: null
-
-    - name: Ahmed El-Sayed Mahmoud 
+      title: Software Engineer @CharCentric | German Speaker (C1)
+      top_skills: MySQL, Node.js, C#, Software Design
+      current_position: Software Engineer, CharCentric · Sep 2024 - Present 11 mos
+    - name: Ahmed El-Sayed Mahmoud
       image: null
       markdown: null
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ahmed Hamed Gaber 
-      image: null
+    - name: Ahmed Hamed Gaber
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGFNivl8CbYxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673003750199?e=1756339200&v=beta&t=6Bd-KdVbeJ-VYod4gFm1TYMfsEQKNQlO58o5lCQZbtE
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmedhamed3699/
-      title: null
-      top_skills: null
+      title: GSoC’24 @LibreOffice | ECPC Finalist | Computer Engineering Student -
+        Cairo University
+      top_skills: UX, Open-Source Development, Computer Engineering, Software Development
       current_position: null
-
-    - name: Ahmed Hamdy Mohamed 
+    - name: Ahmed Hamdy Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-mohammed/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ahmed Aladdin Mohamed 
+    - name: Ahmed Aladdin Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-aladdin-8a9a81305/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ahmed Kamal Abdel Rasoul 
+    - name: Ahmed Kamal Abdel Rasoul
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-kamal-649b4a231/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ahmed Mostafa 
+    - name: Ahmed Mostafa
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahme-dmostafa/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ahmed Mostafa Attia 
+    - name: Ahmed Mostafa Attia
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ahmed-mostafa-677ab4219/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Adham Mohamed Ahmed 
+    - name: Adham Mohamed Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/adham-hussin-866632142/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Eslam Wageh Samir 
+    - name: Eslam Wageh Samir
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/eslam-wageh-samer/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Asmaa Mohamed Abozaid 
+    - name: Asmaa Mohamed Abozaid
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/asmaa-abozaid-6b3134293/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ashraf Bahy Taher 
+    - name: Ashraf Bahy Taher
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ashraf-bahy-93734421a/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Akram Hany Karam Salam 
+    - name: Akram Hany Karam Salam
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/akramhany/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Amir Anwar Bakhit 
+    - name: Amir Anwar Bakhit
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/marwan-alhameedy-b64480277/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Peter Safwat Sion 
+    - name: Peter Safwat Sion
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/peter-safwat-8a82bb260/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Bishoy Wadea 
+    - name: Bishoy Wadea
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/bishoy-wadea-27b016250/
       title: null
       top_skills: null
       current_position: null
-
-    - name: George Magdy Tawfik 
+    - name: George Magdy Tawfik
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/g-magdy/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Khaled Mahmoud Hassanein 
+    - name: Khaled Mahmoud Hassanein
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/khalid-elgammal-72ab0326a/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Rawan Ahmed Fouad 
+    - name: Rawan Ahmed Fouad
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/rawan-ahmed-b7b12624b/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ziad Samer Mohamed 
+    - name: Ziad Samer Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ziad-samer-a70578249/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ziad Aladdin Said 
+    - name: Ziad Aladdin Said
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/zeyad-alaa-64209a266/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ziad Mohamed Ali 
+    - name: Ziad Mohamed Ali
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/zeyad-daowd-571796223/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Sarah Ahdy Kamal 
+    - name: Sarah Ahdy Kamal
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/sarah-soliman-353128235/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Salma Mohamed Entesar 
+    - name: Salma Mohamed Entesar
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/salma-muhammed-71a23224a/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Somaya Saad Ismail 
+    - name: Somaya Saad Ismail
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/somia-elshemy-a252a834b/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Seif Mohamed Ahmed 
+    - name: Seif Mohamed Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/seif-mohamed-18a1a7265/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Shehab Khaled Roshdy 
+    - name: Shehab Khaled Roshdy
       image: null
       markdown: null
       linkedin_url: null
       title: null
       top_skills: null
       current_position: null
-
-    - name: Abdelrahman Sami Mohamed 
+    - name: Abdelrahman Sami Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/abdelruhman-sami-23940b278/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Abdelrahman Mostafa Gomaa 
+    - name: Abdelrahman Mostafa Gomaa
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/abdulrahmannmostafa/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Abdallah Salah Salem 
+    - name: Abdallah Salah Salem
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/abdallah--salah/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Abdelrahman Mohamed Abdelaty 
+    - name: Abdelrahman Mohamed Abdelaty
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/abdelrahman-mohamed-abdelaty/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ali Bahr Hussein 
+    - name: Ali Bahr Hussein
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/ali-bahr-50233a262/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ali Sami Ali Ibrahim 
+    - name: Ali Sami Ali Ibrahim
       image: null
       markdown: null
       linkedin_url: null
       title: null
       top_skills: null
       current_position: null
-
-    - name: Ali Afify Hussein Ali 
+    - name: Ali Afify Hussein Ali
       image: null
       markdown: null
       linkedin_url: null
       title: null
       top_skills: null
       current_position: null
-
-    - name: Omar Sayed Ibrahim Hashem 
+    - name: Omar Sayed Ibrahim Hashem
       image: null
       markdown: null
       linkedin_url: null
       title: null
       top_skills: null
       current_position: null
-
-    - name: Omar Mohamed Rabie 
+    - name: Omar Mohamed Rabie
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/omar-mohamed-635a14221/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Amr Saad Mansour 
+    - name: Amr Saad Mansour
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/amr-saad-39461a23b/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Amr Mahmoud El-Sayed 
+    - name: Amr Mahmoud El-Sayed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/amr--mahmoud/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Fatma Zinhom Farid 
+    - name: Fatma Zinhom Farid
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/fatma-zenhom-b0392b251/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Kareem Ashraf Said 
+    - name: Kareem Ashraf Said
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/kareem-ashraf-025a23292/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Karim Mohamed Rashed 
+    - name: Karim Mohamed Rashed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/karim-mohamed14/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Karim Mahmoud Ahmed 
+    - name: Karim Mahmoud Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/karimmahmoud09/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Kareem Wael Mohamed 
+    - name: Kareem Wael Mohamed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/kareem-abosamra/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Kirollos Baghdad Makin 
+    - name: Kirollos Baghdad Makin
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/kirollos-baghdad-7ba5661b8/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mazen Adel Abdallah 
+    - name: Mazen Adel Abdallah
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mazenadel223/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Ashraf Ibrahim 
+    - name: Mohamed Ashraf Ibrahim
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-ashraf-65ab91243/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Khaled Ahmed 
+    - name: Mohamed Khaled Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-khaled-0a7715280/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Khaled Abdelwahid Hassan 
+    - name: Mohamed Khaled Abdelwahid Hassan
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-khaled-b1a405190/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Sayed Khalil 
+    - name: Mohamed Sayed Khalil
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-el-bohy-733890227/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Abdelrahman El-Khayat 
+    - name: Mohamed Abdelrahman El-Khayat
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-elkhayat-66b36521a/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Abdelaziz Khater 
+    - name: Mohamed Abdelaziz Khater
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohamed-khater-924782243/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mohamed Amr Hassan 
+    - name: Mohamed Amr Hassan
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/muhammadamrhassan/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Marwan Mohamed Abdelmageed 
+    - name: Marwan Mohamed Abdelmageed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/marwan-alhameedy-b64480277/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mariam Amin Amin 
+    - name: Mariam Amin Amin
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mariam-amin20/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mostafa Mohamed Rabie 
+    - name: Mostafa Mohamed Rabie
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mostafa-rabie-90458a209/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Moamen Mohamed Said 
+    - name: Moamen Mohamed Said
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mohefny04/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Mina Hany William 
+    - name: Mina Hany William
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/mina-h-william/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Nesma Osama Abou El-Maati 
+    - name: Nesma Osama Abou El-Maati
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/nesma-osama-995614264/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Nour Khaled Ahmed 
+    - name: Nour Khaled Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/nour-abouzeid-974445279/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Hana Mostafa Ahmed 
+    - name: Hana Mostafa Ahmed
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/hana-mostafa9/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Youssef Bahy Youssef 
+    - name: Youssef Bahy Youssef
       image: null
       markdown: null
       linkedin_url: null
       title: null
       top_skills: null
       current_position: null
-
-    - name: Youssef Roshdy Ajeeby 
+    - name: Youssef Roshdy Ajeeby
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/youssef-roshdy-21074b236/
       title: null
       top_skills: null
       current_position: null
-
-    - name: Youssef Tarek Mehany 
+    - name: Youssef Tarek Mehany
       image: null
       markdown: null
       linkedin_url: https://www.linkedin.com/in/youssef-mehany/

@@ -121,7 +121,7 @@ if __name__ == '__main__':
     arg_parser = ArgumentParser()
     arg_parser.add_argument("class_yaml_file", help="Path to the YAML file (mandatory)")
     arg_parser.add_argument("--start-no", help="Optional starting index", type=int, default=None)
-    arg_parser.add_argument("--end-no", help="Optional stopping index", type=int, default=10)
+    arg_parser.add_argument("--end-no", help="Optional stopping index", type=int, default=2)
 
     args = arg_parser.parse_args()
     yaml_file_path = args.class_yaml_file

@@ -35,7 +35,7 @@ jobs:
       - name: Run LinkedIn scraper
         run: |
           set -e
-          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2022.yaml
+          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2020.yaml
 
       - name: Commit and push changes
         run: |

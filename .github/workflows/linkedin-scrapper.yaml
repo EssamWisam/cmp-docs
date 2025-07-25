@@ -11,6 +11,7 @@ on:
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -29,30 +30,17 @@ jobs:
 
       - name: Create cookies.json from secret
         run: |
-          echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > scripts/linkedin-scraper/cookies.json
+          echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > ./scripts/linkedin-scraper/cookies.json
 
-      - name: Run scraper on all matching YAML files
-        shell: bash
+      - name: Run LinkedIn scraper
         run: |
-          cd "$GITHUB_WORKSPACE/public/department/Extras/Classes"
-          files=( $(ls C20??.yaml C20??_Credit.yaml 2>/dev/null | shuf) )
-          if [[ ${#files[@]} -eq 0 ]]; then
-            echo "No matching YAML files found; exiting"
-            exit 0
-          fi
-          for f in "${files[@]}"; do
-            echo "Processing $f"
-            python "$GITHUB_WORKSPACE/scripts/linkedin-scraper/final_linkedin_script.py" \
-              "$GITHUB_WORKSPACE/public/department/Extras/Classes/$f" || {
-              echo "⚠️ Scraper failed on $f, continuing..."
-            }
-          done
+          set -e
+          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/C2022.yaml
 
       - name: Commit and push changes
-        if: success() || failure()
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add public/department/Extras/Classes/*.yaml scripts/linkedin-scraper/data/*.json
+          git add -A
           git diff --cached --quiet || git commit -m "chore: update LinkedIn profiles and summaries"
           git push

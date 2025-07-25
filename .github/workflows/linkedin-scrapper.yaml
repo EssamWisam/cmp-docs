@@ -42,10 +42,10 @@ jobs:
           echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > ./scripts/linkedin-scraper/cookies.json
           echo "✅ cookies.json created"
 
-      - name: Debug: Show input YAML file before scraping
-        run: |
-          echo "📄 Contents of input YAML file before scraping:"
-          cat public/department/Extras/Classes/C2021.yaml
+      # - name: Debug: Show input YAML file before scraping
+      #   run: |
+      #     echo "📄 Contents of input YAML file before scraping:"
+      #     cat public/department/Extras/Classes/C2021.yaml
 
       - name: Run LinkedIn scraper
         run: |

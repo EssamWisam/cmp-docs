@@ -1,42 +1,39 @@
-name: Run LinkedIn Scraper
-
-on:
-  push:
-    branches: [linkedin-scrapper-fixes]
-  schedule:
-    - cron: '0 0 1 * *'
-  workflow_dispatch:
-
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-python@v3
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v3
         with:
           python-version: "3.12"
 
-      - run: |
+      - name: Install dependencies
+        run: |
           python -m pip install --upgrade pip
           pip install -r scripts/linkedin-scraper/requirements.txt
 
-      - run: |
+      - name: Create cookies.json
+        run: |
           echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > scripts/linkedin-scraper/cookies.json
 
-      - name: Run scraper over all matching files
+      - name: Run scraper on all matching YAML files
+        shell: bash
         run: |
-          cd public/department/Extras/Classes/
+          cd "$GITHUB_WORKSPACE/public/department/Extras/Classes"
           files=( $(ls C20??.yaml C20??_Credit.yaml 2>/dev/null | shuf) )
-          if [ ${#files[@]} -eq 0 ]; then
-            echo "No matching YAML files; exiting"
+          if [[ ${#files[@]} -eq 0 ]]; then
+            echo "No files found, exiting"
             exit 0
           fi
           for f in "${files[@]}"; do
             echo "Processing $f"
-            python ../../../scripts/linkedin-scraper/final_linkedin_script.py "$f" || {
+            python "$GITHUB_WORKSPACE/scripts/linkedin-scraper/final_linkedin_script.py" \
+                   "$GITHUB_WORKSPACE/public/department/Extras/Classes/$f" || {
               echo "⚠️ Scraper failed on $f, continuing..."
             }
           done

@@ -68,3 +68,4 @@ jobs:
           git add public/department/Extras/Classes/C2021.yaml public/department/Extras/Classes/C2021_ar.yaml scripts/linkedin-scraper/data/*.json
           git diff --quiet && echo "📭 No changes to commit" || git commit -m "chore: update LinkedIn profiles and summaries"
           git push
+

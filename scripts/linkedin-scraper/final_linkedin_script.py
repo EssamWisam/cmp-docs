@@ -108,6 +108,13 @@ def get_class_data(class_yaml_file_path: str, scraper: LinkedProfileScraper, sta
     ar_class_yaml = yaml.load(ar_class_yaml_file, Loader=yaml.Loader)
     ar_class_yaml_file.close()
 
+    # Minimal fix: ensure 'markdown' is not None before using 'in' in arabic_mapper
+    # (Assumes map_en_to_ar_yaml is your function, so add this check inside it)
+    # If you want to patch here, you can patch ar_class_yaml before passing:
+    for item in ar_class_yaml[0]['items'][0]['items']:
+        if 'markdown' in item and item['markdown'] is None:
+            item['markdown'] = ''
+
     new_ar_class_yaml = map_en_to_ar_yaml(class_yaml, ar_class_yaml)
 
     with open(ar_yaml_path, "w", encoding="utf-8") as f:
@@ -121,7 +128,7 @@ if __name__ == '__main__':
     arg_parser = ArgumentParser()
     arg_parser.add_argument("class_yaml_file", help="Path to the YAML file (mandatory)")
     arg_parser.add_argument("--start-no", help="Optional starting index", type=int, default=None)
-    arg_parser.add_argument("--end-no", help="Optional stopping index", type=int, default=2)
+    arg_parser.add_argument("--end-no", help="Optional stopping index", type=int, default=25)
 
     args = arg_parser.parse_args()
     yaml_file_path = args.class_yaml_file

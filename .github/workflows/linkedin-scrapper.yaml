@@ -1,3 +1,13 @@
+name: Run LinkedIn Scraper
+
+on:
+  push:
+    branches:
+      - linkedin-scrapper-fixes
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
 jobs:
   scrape_and_commit:
     runs-on: ubuntu-latest
@@ -17,7 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/linkedin-scraper/requirements.txt
 
-      - name: Create cookies.json
+      - name: Create cookies.json from secret
         run: |
           echo '${{ secrets.LINKEDIN_COOKIES_JSON }}' > scripts/linkedin-scraper/cookies.json
 
@@ -27,13 +37,13 @@ jobs:
           cd "$GITHUB_WORKSPACE/public/department/Extras/Classes"
           files=( $(ls C20??.yaml C20??_Credit.yaml 2>/dev/null | shuf) )
           if [[ ${#files[@]} -eq 0 ]]; then
-            echo "No files found, exiting"
+            echo "No matching YAML files found; exiting"
             exit 0
           fi
           for f in "${files[@]}"; do
             echo "Processing $f"
             python "$GITHUB_WORKSPACE/scripts/linkedin-scraper/final_linkedin_script.py" \
-                   "$GITHUB_WORKSPACE/public/department/Extras/Classes/$f" || {
+              "$GITHUB_WORKSPACE/public/department/Extras/Classes/$f" || {
               echo "⚠️ Scraper failed on $f, continuing..."
             }
           done

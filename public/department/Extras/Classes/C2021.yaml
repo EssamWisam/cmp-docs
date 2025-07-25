@@ -9,91 +9,94 @@
     items:
     - name: Ahmed Hamdy
       linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-4b371a149/
-      title: Software Engineer at Microsoft
-      image: https://media.licdn.com/dms/image/v2/C4D03AQG6XlNbpkCisA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1535426812830?e=1732147200&v=beta&t=TSwj0INwSg-rMAx-lu47rfrJwUE3SDQ7YFJ3uIxe8Lc
-      top_skills: null
-      current_position: Software Engineer, Microsoft · Full-time, Apr 2022 - Present
-        · 2 yrs 6 mos
+      title: Software Engineer 2 at Microsoft
+      image: https://media.licdn.com/dms/image/v2/C4D03AQG6XlNbpkCisA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1535426812830?e=1756339200&v=beta&t=kj-M8uosF1_HW9A3vltYKNJ9HPqPsVx_jn4X8KIVE_U
+      top_skills: Teamwork, Computer Vision, Natural Language Processing (NLP), Operating
+        Systems
+      current_position: Software Engineer 2, Microsoft · Apr 2022 - Present · 3 yr
+        4 mos
       markdown: null
     - name: Ahmed Essam
       linkedin_url: https://www.linkedin.com/in/ahmedessam498
       title: Software Engineer at Siemens EDA (Siemens Digital Industries Software)
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHneArDOk2Q0A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668169966725?e=1733961600&v=beta&t=lN4m_8IR3mni3jera-LxS6_BVUVBmmFrnDeyaFNpY0k
-      top_skills: null
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHneArDOk2Q0A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668169966725?e=1756339200&v=beta&t=SuhKXewXottVtz92EJbAlRI5Wwj9-TujR5P1wpwMWCI
+      top_skills: C (Programming Language), Data Structures, Algorithms, Object-Oriented
+        Programming (OOP)
       current_position: Software Engineer, Siemens EDA (Siemens Digital Industries
-        Software) · Full-time, Sep 2022 - Present · 2 yrs 2 mos
+        Software) · Sep 2022 - Present · 2 yr 11 mos
       markdown: null
     - name: Ahmed Elkarashily
       linkedin_url: https://www.linkedin.com/in/karashily
-      title: Applied Scientist II at Microsoft | Ex Valeo & Incorta
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEPpbofsLUqLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720204805189?e=1733961600&v=beta&t=lDdI8PDKl3N__D9tBYI7c1GbvjDZOinnEkIbPoAOAeQ
-      top_skills: null
-      current_position: Applied Scientist II, Microsoft · Full-time, Jun 2024 - Present
-        · 5 mos
+      title: Applied Scientist II at Microsoft AI | Ex Valeo & Incorta
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEPpbofsLUqLg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720204805189?e=1756339200&v=beta&t=tm9NJzZeGhGi8KYmn2fLFLZ3xR6vz1HQEg1Fxsja44E
+      top_skills: Computer Vision, Algorithms, Machine Learning, Research and Development
+        (R&D)
+      current_position: Applied Scientist II, Microsoft AI, Microsoft · Jun 2024 -
+        Present · 1 yr 2 mos
       markdown: null
     - name: Ahmed Mohamed Nassar
       linkedin_url: https://www.linkedin.com/in/ahmednassarmlops/
-      title: Data Scientist | Data Science, CI/CD, Automation
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEvQsBV0LaqoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720590382099?e=1732147200&v=beta&t=-ThN1eH1S5Tm-iU9uzFU_G1vmiyelCT_NhGgvckl8VY
-      top_skills: null
-      current_position: Data Scientist At Ejada, Arab National Bank · Full-time, Nov
-        2022 - Present · 1 yr 11 mos
+      title: AI & Data Specialist | LLMs, NLP, Automation | Helping Teams Get More
+        From Their Data
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEvQsBV0LaqoA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1720590382099?e=1756339200&v=beta&t=ZQLJ9PmoohedtkZOe-2qNZ4UfU1MsUubPfPZwEREGho
+      top_skills: Large Language Models (LLM), Natural Language Processing (NLP),
+        Retrieval-Augmented Generation (RAG), Data Extraction
+      current_position: Data scientist/Data analyst, EJADA · Aug 2021 - Present ·
+        4 yr
       markdown: null
     - name: Ahmed Afifi
       linkedin_url: https://www.linkedin.com/in/ahmedafifi98/
-      title: Software Engineer at ejad
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGPjoz6rXtcxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714409318624?e=1732147200&v=beta&t=4B-BIQomTZz2Y-VK0-A6a5RarLGzV2v5ohrGv7RU5Vk
-      top_skills: null
-      current_position: Tooling Software Engineer, eJad, Sep 2023 to Present · 1 yr
-        1 mo
+      title: Software Engineer
+      image: https://media.licdn.com/dms/image/v2/D4D03AQGPjoz6rXtcxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1714409318624?e=1756339200&v=beta&t=DfsnrJ5ukDLIpRkbNaXYVfFnQar1-RYGh-IG8QwRnWg
+      top_skills: System Administration, Help Desk Support, Storage Virtualization,
+        Network Administration
+      current_position: Tooling Software Engineer, eJad · Mar 2023 - Present · 2 yr
+        5 mos
       markdown: null
     - name: Ahmed Abdelfattah
       linkedin_url: https://www.linkedin.com/in/ahmed-abdelfattah-752932178/
-      title: Software Engineer @ Interview Query | Bachelor of Engineering, Full Stack
-        Developer
-      image: https://media.licdn.com/dms/image/v2/C4D03AQEPPGlTiN4TfA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1640082101149?e=1733961600&v=beta&t=2ojls6oVER_JO1k4q3BojBd2LtgE8e0eo8FuCdIZ7Us
-      top_skills: null
-      current_position: Software Engineer, Interview Query, Apr 2022 to Present ·
-        2 yrs 7 mos
+      title: Full Stack Software Engineer | Bachelor of Engineering
+      image: https://media.licdn.com/dms/image/v2/D5635AQGWIDvjmFYToQ/profile-framedphoto-shrink_200_200/B56ZazNEkcGkAc-/0/1746763270832?e=1754053200&v=beta&t=-epnfQlShglBgX7TsBoApLse3sQxuQ1lP2LrKWccZik
+      top_skills: Elasticsearch, Continuous Integration and Continuous Delivery (CI/CD),
+        Computer Science, Software Development
+      current_position: null
       markdown: null
     - name: Ahmed Waleed Ahmed Amin
       linkedin_url: https://www.linkedin.com/in/ahmed-waleed-ahmed/
       title: Software Engineer @ Maqsam | Devops | Ruby on Rails | AWS | Ansible
-      image: https://media.licdn.com/dms/image/v2/D4D03AQFVgUKhpxOlqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693084071747?e=1732147200&v=beta&t=7wgnfevUeaxTr9aLh_-uNMJfIcg9W2eiwhr-pj8lNMQ
-      top_skills: Software Engineering, DevOps, Amazon Web Services (AWS)
-      current_position: Software Engineer, Maqsam · Full-time, Sep 2021 - Present
-        · 3 yrs 1 mo
+      image: https://media.licdn.com/dms/image/v2/D4D03AQFVgUKhpxOlqg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693084071747?e=1756339200&v=beta&t=AoKziVdFL8tSvdp34rhJCZHaY2BS8WhLUa8kQcc7S5w
+      top_skills: Universal Asynchronous Receiver/Transmitter (UART), SPI, LCD, I2C
+      current_position: Software Engineer, Maqsam · Sep 2021 - Present · 3 yr 11 mos
       markdown: null
     - name: Evram Yousef Helmy Narouz
       linkedin_url: https://www.linkedin.com/in/evram-narouz-838959131?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-      title: Data & Applied Scientist 2 @Microsoft
-      image: https://media.licdn.com/dms/image/v2/D4D03AQE8g8kZ0B70AQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697075138245?e=1733961600&v=beta&t=aWU2BYAy1_90nf3qU3qMxqPuvRWL5gj8YtXJ9EX5jHo
+      title: null
+      image: null
       top_skills: null
-      current_position: Data & Applied Scientist, Microsoft · Full-time, Jan 2022
-        - Present · 2 yrs 10 mos
+      current_position: null
       markdown: null
     - name: Amira Mehrez
       linkedin_url: https://www.linkedin.com/in/amiramehriz
       title: Junior System Administrator at National Bank of Egypt (NBE)
       image: null
-      top_skills: null
+      top_skills: Ccna, Network Administration, Microsoft Servers, Help Desk Support
       current_position: Junior System Administrator, National Bank of Egypt (NBE)
-        · Full-time, Nov 2022 - Present · 2 yrs
+        · Nov 2022 - Present · 2 yr 9 mos
       markdown: null
     - name: Ayat Mostafa
       linkedin_url: https://www.linkedin.com/in/ayat-mostafa-a02067185
       title: Data Scientist at IBM | M.Sc Student
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEda9n--Jf2Ig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672570003474?e=1733961600&v=beta&t=HaIRCwK25XeKyTbdtUT9NygTRPHxczhb1F-PVusR83A
-      top_skills: null
-      current_position: Data Scientist, IBM · Full-time, Aug 2024 - Present · 3 mos
+      image: https://media.licdn.com/dms/image/v2/D4D03AQEda9n--Jf2Ig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1672570003474?e=1756339200&v=beta&t=P_nwF7hxps6xLsvxeTHTgkfDWcJwgVoJcrgUzpkowXk
+      top_skills: Hive, PySpark, C++, python
+      current_position: Data Scientist, IBM · Aug 2024 - Present · 1 yr
       markdown: null
     - name: Ayman Azzam
       linkedin_url: https://www.linkedin.com/in/ayman-azzam-42b266145
-      title: DevOps Engineer | Cloud Operations Engineer @ Core42
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEQBnlNSxvtfw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712632132759?e=1732147200&v=beta&t=nABZzA7fXwixnSLG9_IliKoeJLDXOOiz8yb_gwCMXlA
-      top_skills: AWS, Docker, Terraform, Jenkins, Python
-      current_position: Cloud Operations Engineer, Core42 · Contract, Jul 2023 - Present
-        · 1 yr 3 mos
+      title: SRE @ Property Finder
+      image: https://media.licdn.com/dms/image/v2/D4D03AQHcggJwLmv5ng/profile-displayphoto-shrink_200_200/B4DZUC2A7mHYAY-/0/1739509470603?e=1756339200&v=beta&t=dnGlKJ5jpJHerdw_G30ZnF0sTuZKJQcAzYFqGb2XINY
+      top_skills: Helm, Helm Charts, Grafana, Datadog
+      current_position: Site Reliability Engineer, Property Finder · Mar 2025 - Present
+        5 mos
       markdown: null
     - name: Ayman Elakwah
       linkedin_url: https://www.linkedin.com/in/ayman-elakwah/

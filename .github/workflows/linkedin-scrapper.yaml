@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '0 0 */2 * *'
   workflow_dispatch:
+  push:
 
 jobs:
   scrape_and_commit:

@@ -1,0 +1,50 @@
+[
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "linkedin_url": "https://www.linkedin.com/in/habiba-hassan-elhussieny-815988231",
+        "image": null,
+        "title": "Software Engineer ",
+        "top_skills": [
+            "NumPy",
+            "TensorFlow",
+            "PyTorch",
+            "Game Development"
+        ],
+        "current_position": "Software Engineer, Edafa Telecom Solutions \u00b7 Aug 2023 - Present 10 mos"
+    },
+    null,
+    {
+        "linkedin_url": "https://www.linkedin.com/in/khalidmamdou7/",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFs7ESzlXCQTQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1635702211865?e=1756339200&v=beta&t=cbXJaLnkN3bgI_zaorAHsxP04lKBfsOQdk2MxVWwRhg",
+        "title": "Software Engineer",
+        "top_skills": [
+            "Argo",
+            "Amazon Web Services (AWS)",
+            "Microsoft SQL Server",
+            "Teaching"
+        ],
+        "current_position": null
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+]

@@ -8,12 +8,12 @@
     description: طلبة الصف كما يلي
     items:
     - name: احمد السيد محسن
-      image: https://media.licdn.com/dms/image/v2/D4E03AQHO_F99YFgsew/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730386145705?e=1756339200&v=beta&t=XqOGFus6S7lIGZu2W5KV8aHH0p-ERDWTFxGNwsbWWBg
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmed-elsayed-6a0710264/
-      title: Software Engineer @CharCentric | German Speaker (C1)
-      top_skills: MySQL, Node.js, C#, Software Design
-      current_position: Software Engineer, CharCentric · Sep 2024 - Present 11 mos
+      title: null
+      top_skills: null
+      current_position: null
     - name: احمد السيد محمود رؤف
       image: null
       markdown: ''
@@ -22,50 +22,46 @@
       top_skills: null
       current_position: null
     - name: أحمد حامد جابر
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGFNivl8CbYxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1673003750199?e=1756339200&v=beta&t=6Bd-KdVbeJ-VYod4gFm1TYMfsEQKNQlO58o5lCQZbtE
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmedhamed3699/
-      title: GSoC’24 @LibreOffice | ECPC Finalist | Computer Engineering Student -
-        Cairo University
-      top_skills: UX, Open-Source Development, Computer Engineering, Software Development
+      title: null
+      top_skills: null
       current_position: null
     - name: أحمد حمدي محمد
-      image: https://media.licdn.com/dms/image/v2/D4D03AQGiU2dnYUtUng/profile-displayphoto-scale_200_200/B4DZeZZpSIHMAY-/0/1750625327661?e=1756339200&v=beta&t=7OO3BsbV926pbyqbPegiUz1HFVJzpKzAzYNN0-Xh9TU
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmed-hamdy-mohammed/
-      title: Ex Frontend intern @ElArabyCareers | Senior-1 computer engineering student
-        at Cairo University
-      top_skills: Encryption, Security, Machine Learning, Speech Recognition
+      title: null
+      top_skills: null
       current_position: null
     - name: أحمد علاء الدين محمد
       image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmed-aladdin-8a9a81305/
-      title: Software Engineer  | Junior Computer Engineer
-      top_skills: Socket.io, Express.js, Microsoft Azure, HTML5
+      title: null
+      top_skills: null
       current_position: null
     - name: أحمد كمال عبد الرسول
-      image: https://media.licdn.com/dms/image/v2/D4D03AQHjE4YNgdY2Wg/profile-displayphoto-shrink_200_200/B4DZaxQsrMG4Ac-/0/1746730668198?e=1756339200&v=beta&t=s2AI3wt08Uo7ZZ7wykSxvlP9M_-F9qpDLGhAH7jgmjY
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmed-kamal-649b4a231/
-      title: GSoC25 @ RizinOrg | DevOps intern @siemens | Computer Engineering Student
-        at Cairo University
-      top_skills: Software Infrastructure, GitHub, Kernel Programming, Threads
-      current_position: DevOps Engineer, Siemens Digital Industries Software · Jul
-        2025 - Present 1 mos
+      title: null
+      top_skills: null
+      current_position: null
     - name: أحمد مصطفى
-      image: https://media.licdn.com/dms/image/v2/D4D03AQE_5cVU2m6bng/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715564686772?e=1756339200&v=beta&t=KqAPvysTwOiTha7Oq_JT_2C6ffHLq9WeryD5kpIDXU0
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahme-dmostafa/
-      title: Frontend Developer | Computer Engineering Senior- Cairo University
-      top_skills: Analytical Skills, Hands-on Training, Java, Technology Development
+      title: null
+      top_skills: null
       current_position: null
     - name: أحمد مصطفى عطية
-      image: https://media.licdn.com/dms/image/v2/D4D03AQEBxtJaSXyQlQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695586453542?e=1756339200&v=beta&t=PAAinYGUHnNSYHsUJmHqqlN9AMI8iJvlm-5IsUnorXo
+      image: null
       markdown: ''
       linkedin_url: https://www.linkedin.com/in/ahmed-mostafa-677ab4219/
-      title: Junior computer engineering student at Cairo University
-      top_skills: Software Deployment, NextJS, Clerk, NoSQL
+      title: null
+      top_skills: null
       current_position: null
     - name: أدهم محمد أحمد
       image: null
@@ -196,7 +192,7 @@
     - name: شهاب خالد رشدي
       image: null
       markdown: ''
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       title: null
       top_skills: null
       current_position: null
@@ -238,21 +234,21 @@
     - name: على سامى على ابراهيم
       image: null
       markdown: ''
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       title: null
       top_skills: null
       current_position: null
     - name: على عفيفى حسين على
       image: null
       markdown: ''
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       title: null
       top_skills: null
       current_position: null
     - name: عمر سيد ابراهيم هاشم
       image: null
       markdown: ''
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       title: null
       top_skills: null
       current_position: null
@@ -434,7 +430,7 @@
     - name: يوسف باهي يوسف
       image: null
       markdown: ''
-      linkedin_url: null
+      linkedin_url: https://www.linkedin.com/in/
       top_skills: null
       current_position: null
       title: null

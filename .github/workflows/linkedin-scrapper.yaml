@@ -43,6 +43,7 @@ jobs:
           echo "Running scraper for $file"
           python scripts/linkedin-scraper/final_linkedin_script.py "$file" || echo "Error running scraper for $file, continuing..."
 
+
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"

@@ -2,7 +2,7 @@ name: Run LinkedIn Scraper
 
 on:
   schedule:
-    - cron: '0 0 1 * *'
+    - cron: '0 0 */2 * *'
   workflow_dispatch:
 
 jobs:
@@ -35,14 +35,12 @@ jobs:
           ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf
 
 
-      - name: Run LinkedIn scraper for all class YAML files
+      - name: Run LinkedIn scraper for one random class YAML file
         run: |
           set -e
-          for file in $(ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\.yaml$' | shuf); do
-            echo "Running scraper for $file"
-            # Run each file in a subshell so errors don't stop the loop
-            (python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/$file || echo "Error running scraper for $file, continuing...")
-          done
+          file=$(ls public/department/Extras/Classes/ | grep -E '^C20[0-9]{2}(_Credit)?\\.yaml$' | shuf -n 1)
+          echo "Running scraper for $file"
+          python scripts/linkedin-scraper/final_linkedin_script.py public/department/Extras/Classes/$file || echo "Error running scraper for $file, continuing..."
 
       - name: Commit and push changes
         run: |
